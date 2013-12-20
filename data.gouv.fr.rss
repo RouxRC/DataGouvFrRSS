@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 20 Dec 2013 16:30:02 +0100</pubDate>
+  <pubDate>Fri, 20 Dec 2013 16:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Contours des arrondissements français issus d'OpenStreetMap</title>
+     <link>https://www.data.gouv.fr/fr/dataset/contours-des-arrondissements-francais-issus-d-openstreetmap</link>
+     <description><![CDATA[Exports du découpage administratif français au niveau des arrondissements issu d'OpenStreetMap produit dans sa grande majorité à partir du cadastre. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les contributeurs d'OpenStreetMap...]]></description>
+     <author>OpenStreetMap</author>
+  </item>
   <item>
      <title>Contours des régions françaises sur OpenStreetMap</title>
      <link>https://www.data.gouv.fr/fr/dataset/contours-des-regions-francaises-sur-openstreetmap</link>
@@ -28,12 +34,6 @@
      <title>Redevances de réutilisation</title>
      <link>https://www.data.gouv.fr/fr/dataset/redevances-de-reutilisation</link>
      <description><![CDATA[Tableau de synthèse des redevances de réutilisations perçues entre 2010 et 2012 par les services publics administratifs de l’État. ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Les détecteurs de fumée et d'incendie</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-detecteurs-de-fumee-et-d-incendie</link>
-     <description><![CDATA[Je reviens d'un voyage aux états unis et j'ai été choqué de voir l'omniprésence des campagnes de sécurités de prévention des incendies, notamment en hiver, de plus la présence des détecteurs de fumées partout dans les maisons semble avoir considérablement réduit le nombre d'accident grâves. Pensez vous que de telles mesures préventives seraient réalisables en France, cela peut sauver pas mal de...]]></description>
      <author>citoyen</author>
   </item>
   <item>
