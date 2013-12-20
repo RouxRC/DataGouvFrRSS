@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 20 Dec 2013 17:00:02 +0100</pubDate>
+  <pubDate>Fri, 20 Dec 2013 18:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Contours des arrondissements français issus d'OpenStreetMap</title>
@@ -134,7 +134,7 @@
   </item>
   <item>
      <title>Délai d'attente rendez-vous pédiatre</title>
-     <link>https://www.data.gouv.fr/fr/dataset/delai-d-attente-rendez-vous-pediatre</link>
+     <link>https://www.data.gouv.fr/fr/dataset/delai-d-attente-rendez-vous-pediatre-0</link>
      <description><![CDATA[Pour connaître les délais d’attente moyens pour une prise de rendez-vous auprès d’un médecin spécialiste, l’UFC-Que Choisir a, en septembre et octobre 2012, mené une campagne d’appels auprès de 94 pédiatres. ]]></description>
      <author>UFC Que Choisir</author>
   </item>
@@ -146,7 +146,7 @@
   </item>
   <item>
      <title>Délai d'attente rendez-vous ophtalmologiste</title>
-     <link>https://www.data.gouv.fr/fr/dataset/delai-d-attente-rendez-vous-ophtalmologiste</link>
+     <link>https://www.data.gouv.fr/fr/dataset/delai-d-attente-rendez-vous-ophtalmologiste-0</link>
      <description><![CDATA[Pour connaître les délais d’attente moyens pour une prise de rendez-vous auprès d’un médecin spécialiste, l’UFC-Que Choisir a, en septembre et octobre 2012, mené une campagne d’appels auprès de 212 ophtalmologistes. ]]></description>
      <author>UFC Que Choisir</author>
   </item>
