@@ -2,8 +2,11 @@
 
 cd $(echo $0 | sed 's#/[^/]*$##')
 
-touch data.gouv.fr.rss last.html
-curl -s "https://www.data.gouv.fr/fr/datasets/recent" > recent.html
+dom="data.gouv.fr"
+url="https://www.$dom"
+
+touch "$dom.rss" last.html
+curl -s "$url/fr/datasets/recent" > recent.html
 
 if ! diff last.html recent.html |
   grep "^>" > /dev/null; then
@@ -15,8 +18,6 @@ now=$(date -R)
 date=""
 title=""
 link=""
-dom="data.gouv.fr"
-url="https://www.$dom"
 
 echo "<?xml version=\"1.0\"?>
 <rss version=\"2.0\">
@@ -25,7 +26,7 @@ echo "<?xml version=\"1.0\"?>
   <link>$url/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur $dom</description>
   <pubDate>$now</pubDate>
-  <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>" > data.gouv.fr.rss
+  <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>" > $dom.rss
 
 for page in $(seq 5); do
 
@@ -58,7 +59,7 @@ for page in $(seq 5); do
      <link>$link</link>
      <description><![CDATA[$desc]]></description>
      <author>$author</author>
-  </item>" >> data.gouv.fr.rss
+  </item>" >> $dom.rss
     done
 
   if [ $page -eq 1 ]; then
@@ -70,8 +71,8 @@ for page in $(seq 5); do
 done
 
 echo " </channel>
-</rss>" >> data.gouv.fr.rss
+</rss>" >> $dom.rss
 
-git commit data.gouv.fr.rss -m "update rss"
+git commit $dom.rss -m "update rss"
 git push
 
