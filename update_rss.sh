@@ -72,6 +72,6 @@ done
 echo " </channel>
 </rss>" >> data.gouv.fr.rss
 
-#git commit last.html data.gouv.fr.rss -m "update rss"
-#git push
+git commit last.html data.gouv.fr.rss -m "update rss"
+git push
 
