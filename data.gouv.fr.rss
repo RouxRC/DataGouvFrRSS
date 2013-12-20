@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 20 Dec 2013 14:30:02 +0100</pubDate>
+  <pubDate>Fri, 20 Dec 2013 15:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Contours des départements français issus d'OpenStreetMap</title>
+     <link>https://www.data.gouv.fr/fr/dataset/contours-des-departements-francais-issus-d-openstreetmap</link>
+     <description><![CDATA[Exports du découpage administratif français au niveau départemental (contours des départements) issu d'OpenStreetMap produit dans sa grande majorité à partir du cadastre. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les...]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Accords Mets et Vins</title>
      <link>https://www.data.gouv.fr/fr/dataset/accords-mets-et-vins</link>
@@ -358,12 +364,6 @@
      <title>Les Objectifs Nationaux de Dépense de Santé</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-objectifs-nationaux-de-depense-de-sante</link>
      <description><![CDATA[Objectif national de dépense de santé fixé en milliards d'euros Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Comptes de la sécurité soaicle ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Accueil personnes âgées et adultes handicapés</title>
-     <link>https://www.data.gouv.fr/fr/dataset/accueil-personnes-agees-et-adultes-handicapes</link>
-     <description><![CDATA[Les structures d'accueil pour personnes âgées et adultes handicapés (France) Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees Statiss ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
