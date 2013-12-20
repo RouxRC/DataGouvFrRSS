@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 20 Dec 2013 04:58:28 +0100</pubDate>
+  <pubDate>Fri, 20 Dec 2013 12:20:01 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Redevances de réutilisation</title>
+     <link>https://www.data.gouv.fr/fr/dataset/redevances-de-reutilisation</link>
+     <description><![CDATA[Tableau de synthèse des redevances de réutilisations perçues entre 2010 et 2012 par les services publics administratifs de l’État. ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Les détecteurs de fumée et d'incendie</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-detecteurs-de-fumee-et-d-incendie</link>
@@ -358,12 +364,6 @@
      <title>Evolution de la mortalité prématurée pour tumeurs</title>
      <link>https://www.data.gouv.fr/fr/dataset/evolution-de-la-mortalite-prematuree-pour-tumeurs</link>
      <description><![CDATA[Taux de mortalité pour tumeurs des moins de 65 ans pour 100 000 personnes chez les hommes et chez les femmes. Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Mortalité prématurée par tumeurs</title>
-     <link>https://www.data.gouv.fr/fr/dataset/mortalite-prematuree-par-tumeurs</link>
-     <description><![CDATA[Évolution du taux de mortalité prématurée par tumeurs Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Inserm, CépiDc ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
