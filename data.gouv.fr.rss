@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 20 Dec 2013 18:00:02 +0100</pubDate>
+  <pubDate>Fri, 20 Dec 2013 19:10:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Délai d'attente rendez-vous gynécologue</title>
+     <link>https://www.data.gouv.fr/fr/dataset/delai-d-attente-rendez-vous-gynecologue-0</link>
+     <description><![CDATA[Pour connaître les délais d’attente moyens pour une prise de rendez-vous auprès d’un médecin spécialiste, l’UFC-Que Choisir a, en septembre et octobre 2012, mené une campagne d’appels auprès de 230 gynécologues. ]]></description>
+     <author>UFC Que Choisir</author>
+  </item>
   <item>
      <title>Contours des arrondissements français issus d'OpenStreetMap</title>
      <link>https://www.data.gouv.fr/fr/dataset/contours-des-arrondissements-francais-issus-d-openstreetmap</link>
@@ -358,12 +364,6 @@
      <title>Indicateurs démographiques</title>
      <link>https://www.data.gouv.fr/fr/dataset/indicateurs-demographiques</link>
      <description><![CDATA[Indice de vieillissement de la population (France) Source : Insee ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Produits intérieurs bruts PIB</title>
-     <link>https://www.data.gouv.fr/fr/dataset/produits-interieurs-bruts-pib</link>
-     <description><![CDATA[PIB en millions d'euros courants, euros par habitant, euros par emploi. Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Insee ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
