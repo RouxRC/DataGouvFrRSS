@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 21 Dec 2013 09:40:02 +0100</pubDate>
+  <pubDate>Sat, 21 Dec 2013 10:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Jeux de données de travail sur l'immigration</title>
@@ -20,7 +20,7 @@
   </item>
   <item>
      <title>Contours des arrondissements français issus d'OpenStreetMap</title>
-     <link>https://www.data.gouv.fr/fr/dataset/contours-des-arrondissements-francais-issus-d-openstreetmap</link>
+     <link>https://www.data.gouv.fr/fr/dataset/contours-des-arrondissements-francais-issus-d-openstreetmap-0</link>
      <description><![CDATA[Exports du découpage administratif français au niveau des arrondissements issu d'OpenStreetMap produit dans sa grande majorité à partir du cadastre. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les contributeurs d'OpenStreetMap...]]></description>
      <author>OpenStreetMap</author>
   </item>
