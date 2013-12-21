@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 21 Dec 2013 18:30:02 +0100</pubDate>
+  <pubDate>Sat, 21 Dec 2013 19:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Référentiel Foncier Unifié</title>
+     <link>https://www.data.gouv.fr/fr/dataset/referentiel-foncier-unifie</link>
+     <description><![CDATA[Le Référentiel Foncier Unifié (RFU) est un référentiel géographique géoréférencé à résolution centimétrique entrepris en France par les géomètres-experts français. Sa mise en production date du 1er juillet 2010. Produit sur l'ensemble du territoire (métropole et DOM), le Référentiel Foncier Unifié peut être visualisé sur le portail GéoFoncier. Le RFU se compose de deux couches de données...]]></description>
+     <author>Ordre des Géomètres-Experts</author>
+  </item>
   <item>
      <title>Données OpenStreetMap intégrales de France Métropolitaine</title>
      <link>https://www.data.gouv.fr/fr/dataset/donnees-openstreetmap-integrales-de-france-metropolitaine</link>
@@ -358,12 +364,6 @@
      <title>Le Salaire Minimum Interprofessionnel de Croissance SMIC</title>
      <link>https://www.data.gouv.fr/fr/dataset/le-salaire-minimum-interprofessionnel-de-croissance-smic</link>
      <description><![CDATA[Les revenus salariaux, salaire brut horaire, salaire net annuel moyen Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Insee ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Vieillissement de la population</title>
-     <link>https://www.data.gouv.fr/fr/dataset/vieillissement-de-la-population</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Insee ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
