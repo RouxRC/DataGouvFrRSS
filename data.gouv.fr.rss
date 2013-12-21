@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 21 Dec 2013 10:30:02 +0100</pubDate>
+  <pubDate>Sat, 21 Dec 2013 10:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Nombre de ventes immobilières taxées au taux de droit commun</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-ventes-immobilieres-taxees-au-taux-de-droit-commun</link>
+     <description><![CDATA[Nombre de ventes immobilières (logements, terrains et immobilier commercial) taxées au taux de droit commun ]]></description>
+     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
+  </item>
   <item>
      <title>Prix de l'immobilier d'habitation à Paris depuis 1200</title>
      <link>https://www.data.gouv.fr/fr/dataset/prix-de-l-immobilier-d-habitation-a-paris-depuis-1200-0</link>
@@ -358,12 +364,6 @@
      <title>Le marché officinal par classe thérapeutique</title>
      <link>https://www.data.gouv.fr/fr/dataset/le-marche-officinal-par-classe-therapeutique</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données IMS-Health ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Les comptes nationaux de la santé : la médecine préventive</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-comptes-nationaux-de-la-sante-la-medecine-preventive</link>
-     <description><![CDATA[La prévention individuelle primaire et la prévention individuelle secondaire Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees, le comptes de la santé ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
