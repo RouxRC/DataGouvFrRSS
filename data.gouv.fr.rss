@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 21 Dec 2013 11:50:02 +0100</pubDate>
+  <pubDate>Sat, 21 Dec 2013 14:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Données OpenStreetMap intégrales de France Métropolitaine</title>
+     <link>https://www.data.gouv.fr/fr/dataset/donnees-openstreetmap-integrales-de-france-metropolitaine</link>
+     <description><![CDATA[Extrait quotidien et fichiers de mise à jour de l'intégralité des données OpenStreetMap sur la France métropolitaine. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont donc sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les contributeurs d'OpenStreetMap sous licence ODbL"...]]></description>
+     <author>OpenStreetMap</author>
+  </item>
   <item>
      <title>Assiette des droits de mutation immobiliers</title>
      <link>https://www.data.gouv.fr/fr/dataset/assiette-des-droits-de-mutation-immobiliers-0</link>
@@ -358,12 +364,6 @@
      <title>Vieillissement de la population</title>
      <link>https://www.data.gouv.fr/fr/dataset/vieillissement-de-la-population</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Insee ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Le marché officinal par classe thérapeutique</title>
-     <link>https://www.data.gouv.fr/fr/dataset/le-marche-officinal-par-classe-therapeutique</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données IMS-Health ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
