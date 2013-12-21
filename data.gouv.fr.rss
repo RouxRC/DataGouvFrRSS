@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 21 Dec 2013 21:40:02 +0100</pubDate>
+  <pubDate>Sat, 21 Dec 2013 22:00:01 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>BUDGET 2009</title>
+     <link>https://www.data.gouv.fr/fr/dataset/budget-2009</link>
+     <description><![CDATA[Éléments concernant le budget communal pour l'année 2009 ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>BUD08_BP-Investissement_bro_v1.0</title>
      <link>https://www.data.gouv.fr/fr/dataset/bud08-bp-investissement-bro-v1-0</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/pharmacies</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Conseil national de l'Ordre des pharmaciens ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Taux de réussite des auto-écoles du Morbihan</title>
-     <link>https://www.data.gouv.fr/fr/dataset/taux-de-reussite-des-auto-ecoles-du-morbihan</link>
-     <description><![CDATA[Il s'agit des taux de réussite à tous les permis des auto-écoles du Morbihan, ainsi que les coordonnées géographiques, adresses et nom des auto-écoles. Ce document a été réalisé par les équipes de VroomVroom.fr ]]></description>
-     <author>VroomVroom.fr</author>
   </item>
  </channel>
 </rss>
