@@ -4,8 +4,26 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 21 Dec 2013 21:10:02 +0100</pubDate>
+  <pubDate>Sat, 21 Dec 2013 21:20:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>BUD08_BP-Vue-d'ensemble_bro_v1.0</title>
+     <link>https://www.data.gouv.fr/fr/dataset/bud08-bp-vue-d-ensemble-bro-v1-0-0</link>
+     <description><![CDATA[Vue d'ensemble du B.P. 2008 ]]></description>
+     <author>Commune de Brocas</author>
+  </item>
+  <item>
+     <title>BIODV_Flore_tel_v1.0</title>
+     <link>https://www.data.gouv.fr/fr/dataset/biodv-flore-tel-v1-0</link>
+     <description><![CDATA[Liste des espèces florales ]]></description>
+     <author>Commune de Brocas</author>
+  </item>
+  <item>
+     <title>ASSOC_Liste_bro_v1.0.</title>
+     <link>https://www.data.gouv.fr/fr/dataset/assoc-liste-bro-v1-0</link>
+     <description><![CDATA[Liste des associations au 31/12/2012 ]]></description>
+     <author>Commune de Brocas</author>
+  </item>
   <item>
      <title>ACCID_accidents_bro_v1.0</title>
      <link>https://www.data.gouv.fr/fr/dataset/accid-accidents-bro-v1-0-0</link>
@@ -346,24 +364,6 @@
      <title>La dépense de consommation des ménages</title>
      <link>https://www.data.gouv.fr/fr/dataset/la-depense-de-consommation-des-menages</link>
      <description><![CDATA[La dépense de consommation finale des ménages ventilée par grand poste Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Insee ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Décès domiciliés par tranches d'âge</title>
-     <link>https://www.data.gouv.fr/fr/dataset/deces-domicilies-par-tranches-d-age</link>
-     <description><![CDATA[Par régions &amp; départements. Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Insee ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Soldes des branches du Régime général</title>
-     <link>https://www.data.gouv.fr/fr/dataset/soldes-des-branches-du-regime-general</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Comptes de la Sécurité sociale ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>La comptabilité nationale</title>
-     <link>https://www.data.gouv.fr/fr/dataset/la-comptabilite-nationale</link>
-     <description><![CDATA[Principaux indicateurs économiques, les comptes nationaux Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Insee ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
