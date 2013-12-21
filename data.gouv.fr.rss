@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 21 Dec 2013 10:00:02 +0100</pubDate>
+  <pubDate>Sat, 21 Dec 2013 10:20:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Prix de l'immobilier d'habitation à Paris depuis 1200</title>
+     <link>https://www.data.gouv.fr/fr/dataset/prix-de-l-immobilier-d-habitation-a-paris-depuis-1200</link>
+     <description><![CDATA[Ces indices du prix de l'immobilier d'habitation à Paris depuis 1200 sont présentées ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Contours des EPCI 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/contours-des-epci-2013</link>
+     <description><![CDATA[Contours géographiques des EPCI issu du croisement des limites communales d'OpenStreetMap et des données du Ministère de l'Intérieur sur les EPCI datant de 2013. Ces données sont en partie issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont donc sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les...]]></description>
+     <author>OpenStreetMap</author>
+  </item>
   <item>
      <title>Jeux de données de travail sur l'immigration</title>
      <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-de-travail-sur-l-immigration-0</link>
@@ -352,18 +364,6 @@
      <title>Les équipements matériels lourds</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-equipements-materiels-lourds</link>
      <description><![CDATA[Les équipements matériels lourds de l’imagerie médicale Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Acrim, Sae ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Décès par causes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/deces-par-causes</link>
-     <description><![CDATA[Les causes médicales de décès, tous âges Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données CépiDc Inserm ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Les accidents du trajet</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-accidents-du-trajet</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Cnamts, Statistiques des accidents du travail ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
