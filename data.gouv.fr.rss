@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 21 Dec 2013 20:50:02 +0100</pubDate>
+  <pubDate>Sat, 21 Dec 2013 21:10:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>ACCID_accidents_bro_v1.0</title>
+     <link>https://www.data.gouv.fr/fr/dataset/accid-accidents-bro-v1-0-0</link>
+     <description><![CDATA[Accidentologie routière 2005-2011 ]]></description>
+     <author>Commune de Brocas</author>
+  </item>
   <item>
      <title>Correspondance entre les codes postaux et codes INSEE des communes Françaises.</title>
      <link>https://www.data.gouv.fr/fr/dataset/correspondance-entre-les-codes-postaux-et-codes-insee-des-communes-francaises</link>
@@ -358,12 +364,6 @@
      <title>La comptabilité nationale</title>
      <link>https://www.data.gouv.fr/fr/dataset/la-comptabilite-nationale</link>
      <description><![CDATA[Principaux indicateurs économiques, les comptes nationaux Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Insee ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Accidents de la route</title>
-     <link>https://www.data.gouv.fr/fr/dataset/accidents-de-la-route</link>
-     <description><![CDATA[Régions et départements Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données de l'Observatoire national interministériel de la sécurité routière (Onisr) ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
