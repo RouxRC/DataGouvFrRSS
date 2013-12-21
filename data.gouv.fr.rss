@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 21 Dec 2013 20:20:01 +0100</pubDate>
+  <pubDate>Sat, 21 Dec 2013 20:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Correspondance entre les codes postaux et codes INSEE des communes Françaises.</title>
+     <link>https://www.data.gouv.fr/fr/dataset/correspondance-entre-les-codes-postaux-et-codes-insee-des-communes-francaises</link>
+     <description><![CDATA[Ce jeu de données intègre par ailleurs des données de référence sur les communes: Population Superficie Altitude moyenne Forme géographique Ce jeu de données a été constitué à partir des données de la base GEOFLA® mise à disposition par l'IGN (codes INSEE) ainsi qu'à partir de données Wikipédia (codes postaux). ]]></description>
+     <author>OpenDataSoft</author>
+  </item>
   <item>
      <title>Référentiel Foncier Unifié</title>
      <link>https://www.data.gouv.fr/fr/dataset/referentiel-foncier-unifie</link>
@@ -358,12 +364,6 @@
      <title>Accidents de la route</title>
      <link>https://www.data.gouv.fr/fr/dataset/accidents-de-la-route</link>
      <description><![CDATA[Régions et départements Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données de l'Observatoire national interministériel de la sécurité routière (Onisr) ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Le Salaire Minimum Interprofessionnel de Croissance SMIC</title>
-     <link>https://www.data.gouv.fr/fr/dataset/le-salaire-minimum-interprofessionnel-de-croissance-smic</link>
-     <description><![CDATA[Les revenus salariaux, salaire brut horaire, salaire net annuel moyen Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Insee ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
