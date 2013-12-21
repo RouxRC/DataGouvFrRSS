@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 21 Dec 2013 10:40:02 +0100</pubDate>
+  <pubDate>Sat, 21 Dec 2013 10:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Assiette des droits de mutation immobiliers</title>
+     <link>https://www.data.gouv.fr/fr/dataset/assiette-des-droits-de-mutation-immobiliers-0</link>
+     <description><![CDATA[Assiette des droits de mutation immobiliers, par type de droit, calculée par le CGEDD à partir du produit des droits d'enregistrement publiés par la Direction Générale des Finances Publiques. Méthode de calcul Précision importante ]]></description>
+     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
+  </item>
   <item>
      <title>Nombre de ventes immobilières taxées au taux de droit commun</title>
      <link>https://www.data.gouv.fr/fr/dataset/nombre-de-ventes-immobilieres-taxees-au-taux-de-droit-commun</link>
@@ -358,12 +364,6 @@
      <title>Vieillissement de la population</title>
      <link>https://www.data.gouv.fr/fr/dataset/vieillissement-de-la-population</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Insee ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Le marché officinal par classe thérapeutique</title>
-     <link>https://www.data.gouv.fr/fr/dataset/le-marche-officinal-par-classe-therapeutique</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données IMS-Health ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
