@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 21 Dec 2013 10:20:02 +0100</pubDate>
+  <pubDate>Sat, 21 Dec 2013 10:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Prix de l'immobilier d'habitation à Paris depuis 1200</title>
+     <link>https://www.data.gouv.fr/fr/dataset/prix-de-l-immobilier-d-habitation-a-paris-depuis-1200-0</link>
+     <description><![CDATA[Ces indices prix de l'immobilier d'habitation à Paris depuis 1200 sont présentés en détail au § 1.2. de la note "Comparing Four Secular Home Price Indices" (juin 2008) téléchargeable au § 2.3. du dossier sur le prix de l'immobilier d'habitation sur le long terme tenu à jour par le CGEDD. ]]></description>
+     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
+  </item>
   <item>
      <title>Prix de l'immobilier d'habitation à Paris depuis 1200</title>
      <link>https://www.data.gouv.fr/fr/dataset/prix-de-l-immobilier-d-habitation-a-paris-depuis-1200</link>
@@ -358,12 +364,6 @@
      <title>Les comptes nationaux de la santé : la médecine préventive</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-comptes-nationaux-de-la-sante-la-medecine-preventive</link>
      <description><![CDATA[La prévention individuelle primaire et la prévention individuelle secondaire Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees, le comptes de la santé ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Les équipements matériels lourds</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-equipements-materiels-lourds</link>
-     <description><![CDATA[Les équipements matériels lourds de l’imagerie médicale Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Acrim, Sae ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
