@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 22 Dec 2013 18:40:02 +0100</pubDate>
+  <pubDate>Sun, 22 Dec 2013 19:10:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Commune de Brocas : Biodiversité</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-biodiversite-0</link>
+     <description><![CDATA[Eléments concernant la biodiversité de la commune de Brocas ]]></description>
+     <author>Commune de Brocas</author>
+  </item>
   <item>
      <title>Commune de Brocas : Associations</title>
      <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-associations</link>
@@ -358,12 +364,6 @@
      <title>Capacités d'accueil et personnels des établissements de santé</title>
      <link>https://www.data.gouv.fr/fr/dataset/capacites-d-accueil-et-personnels-des-etablissements-de-sante</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données SAE, Drees ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Pharmaciens</title>
-     <link>https://www.data.gouv.fr/fr/dataset/pharmaciens</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Cnop ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
