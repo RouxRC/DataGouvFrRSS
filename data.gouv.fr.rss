@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 22 Dec 2013 06:20:02 +0100</pubDate>
+  <pubDate>Sun, 22 Dec 2013 07:10:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Google Search History</title>
+     <link>https://www.data.gouv.fr/fr/dataset/google-search-history</link>
+     <description><![CDATA[Et si les données de recherches sur Google des internautes étaient des données culturelles ouvertes! En 2006, Google lance le service Search History et stocke les recherches des internautes. Depuis ce premier jour, albertine meunier compile scrupuleusement ses recherches et les donne à voir au public. Plus de trois années se sont écoulées : les recherches d’albertine mises bout à bout...]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>BUDGET 2009</title>
      <link>https://www.data.gouv.fr/fr/dataset/budget-2009</link>
@@ -358,12 +364,6 @@
      <title>Pharmaciens</title>
      <link>https://www.data.gouv.fr/fr/dataset/pharmaciens</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Cnop ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Pharmacies</title>
-     <link>https://www.data.gouv.fr/fr/dataset/pharmacies</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Conseil national de l'Ordre des pharmaciens ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
