@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 22 Dec 2013 07:40:02 +0100</pubDate>
+  <pubDate>Sun, 22 Dec 2013 08:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Base Permanente des Équipements</title>
+     <link>https://www.data.gouv.fr/fr/dataset/base-permanente-des-equipements</link>
+     <description><![CDATA[La base permanente des équipements (BPE) contient pour chaque territoire la liste des équipements et des services rendus à la population. Cette base permet de mesurer la présence ou l'absence d'un équipement, la densité d'un équipement ou un indicateur de disponibilité d'un équipement du point de vue des habitants. Ces données sont disponibles par région, département, commune ou quartier IRIS. ]]></description>
+     <author>OpenDataSoft</author>
+  </item>
   <item>
      <title>Valeurs immobilières, économiques et financières de 1800 à 2010</title>
      <link>https://www.data.gouv.fr/fr/dataset/valeurs-immobilieres-economiques-et-financieres-de-1800-a-2010</link>
@@ -358,12 +364,6 @@
      <title>Greffes : Les donneurs</title>
      <link>https://www.data.gouv.fr/fr/dataset/greffes-les-donneurs</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Agence de la biomédecine ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Capacités d'accueil et personnels des établissements de santé</title>
-     <link>https://www.data.gouv.fr/fr/dataset/capacites-d-accueil-et-personnels-des-etablissements-de-sante</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données SAE, Drees ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
