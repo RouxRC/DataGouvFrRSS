@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 22 Dec 2013 14:30:02 +0100</pubDate>
+  <pubDate>Sun, 22 Dec 2013 15:10:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Prix immobilier et revenu dans les villes d'Ile-de-France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/prix-immobilier-et-revenu-dans-les-villes-d-ile-de-france</link>
+     <description><![CDATA[Valeurs numériques du graphique de l’article « Le lien entre prix des logements et revenu par ménage dans les principales villes d’Ile-de-France », J. Friggit, janvier 2010, paru dans la note de conjoncture des Notaires de France. ]]></description>
+     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
+  </item>
   <item>
      <title>Prix immobilier et revenu dans les agglomérations françaises</title>
      <link>https://www.data.gouv.fr/fr/dataset/prix-immobilier-et-revenu-dans-les-agglomerations-francaises</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/taux-de-reussite-des-auto-ecoles-du-morbihan</link>
      <description><![CDATA[Il s'agit des taux de réussite à tous les permis des auto-écoles du Morbihan, ainsi que les coordonnées géographiques, adresses et nom des auto-écoles. Ce document a été réalisé par les équipes de VroomVroom.fr ]]></description>
      <author>VroomVroom.fr</author>
-  </item>
-  <item>
-     <title>Le revenu disponible brut des ménages</title>
-     <link>https://www.data.gouv.fr/fr/dataset/le-revenu-disponible-brut-des-menages</link>
-     <description><![CDATA[Le revenu disponible brut des ménages Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Insee ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
 </rss>
