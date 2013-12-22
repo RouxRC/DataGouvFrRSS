@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 22 Dec 2013 07:10:02 +0100</pubDate>
+  <pubDate>Sun, 22 Dec 2013 07:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Valeurs immobilières, économiques et financières de 1800 à 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/valeurs-immobilieres-economiques-et-financieres-de-1800-a-2010</link>
+     <description><![CDATA[Séries longues de valeurs annuelles de 1800 à 2010, qui supportent et actualisent les résultats présentés dans le dossier sur le prix de l'immobilier d'habitation sur le long terme maintenu par le CGEDD: prix immobiliers (indices de prix de vente et de loyer des logements), nombre et montant des ventes immobilières, taux d’intérêt, durée des crédits immobiliers, dette immobilière des ménages,...]]></description>
+     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
+  </item>
   <item>
      <title>Google Search History</title>
      <link>https://www.data.gouv.fr/fr/dataset/google-search-history</link>
@@ -358,12 +364,6 @@
      <title>Capacités d'accueil et personnels des établissements de santé</title>
      <link>https://www.data.gouv.fr/fr/dataset/capacites-d-accueil-et-personnels-des-etablissements-de-sante</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données SAE, Drees ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Pharmaciens</title>
-     <link>https://www.data.gouv.fr/fr/dataset/pharmaciens</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Cnop ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
