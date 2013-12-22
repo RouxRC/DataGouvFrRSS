@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 22 Dec 2013 04:50:02 +0100</pubDate>
+  <pubDate>Sun, 22 Dec 2013 05:00:01 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>BUDGET 2009</title>
@@ -221,6 +221,78 @@
      <link>https://www.data.gouv.fr/fr/dataset/sejours-d-hospitalisation-partielle-de-mco-par-age-pour-l-ensemble-des-diagnostics</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données PMSI-MCO, Drees L'hospitalisation partielle est une hospitalisation inférieure à 24 heures ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
+  </item>
+  <item>
+     <title>Directeurs de thèse, auteurs de thèse et rapporteurs</title>
+     <link>https://www.data.gouv.fr/fr/dataset/directeurs-de-these-auteurs-de-these-et-rapporteurs</link>
+     <description><![CDATA[Liste des personnes impliquées dans la recherche doctorale française (directeurs de thèse, auteurs de thèse en cours ou soutenue, et rapporteurs) extraite du site theses.fr et classée dans l'ordre alphabétique du nom. Tous les noms ont été dédoublonnés, pour que les homonymes n'apparaissent qu'une seule fois. theses.fr recense toutes les thèses soutenues depuis 2006 dans les établissements...]]></description>
+     <author>Deuxième labo</author>
+  </item>
+  <item>
+     <title>Délai d'attente rendez-vous pédiatre</title>
+     <link>https://www.data.gouv.fr/fr/dataset/delai-d-attente-rendez-vous-pediatre-0</link>
+     <description><![CDATA[Pour connaître les délais d’attente moyens pour une prise de rendez-vous auprès d’un médecin spécialiste, l’UFC-Que Choisir a, en septembre et octobre 2012, mené une campagne d’appels auprès de 94 pédiatres. ]]></description>
+     <author>UFC Que Choisir</author>
+  </item>
+  <item>
+     <title>Séjours d’hospitalisation complète de MCO par âge pour l’ensemble des diagnostics</title>
+     <link>https://www.data.gouv.fr/fr/dataset/sejours-d-hospitalisation-complete-de-mco-par-age-pour-l-ensemble-des-diagnostics</link>
+     <description><![CDATA[Export : CSV, HTML et XLS strong text Source : www.ecosante.fr Irdes d'après données PMSI-MCO, Drees ]]></description>
+     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
+  </item>
+  <item>
+     <title>Délai d'attente rendez-vous ophtalmologiste</title>
+     <link>https://www.data.gouv.fr/fr/dataset/delai-d-attente-rendez-vous-ophtalmologiste-0</link>
+     <description><![CDATA[Pour connaître les délais d’attente moyens pour une prise de rendez-vous auprès d’un médecin spécialiste, l’UFC-Que Choisir a, en septembre et octobre 2012, mené une campagne d’appels auprès de 212 ophtalmologistes. ]]></description>
+     <author>UFC Que Choisir</author>
+  </item>
+  <item>
+     <title>Répartition des agents de la fonction publique par sexe et par age</title>
+     <link>https://www.data.gouv.fr/fr/dataset/repartition-des-agents-de-la-fonction-publique-par-sexe-et-par-age</link>
+     <description><![CDATA[Répartition des agents de la fonction publique par sexe et par age ]]></description>
+     <author>Ministère de la Réforme de l'Etat, de la Décentralisation et de la Fonction Publique (certifié)</author>
+  </item>
+  <item>
+     <title>Consultations et visites de spécialistes libéraux</title>
+     <link>https://www.data.gouv.fr/fr/dataset/consultations-et-visites-de-specialistes-liberaux</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Snir, Cnamts ]]></description>
+     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
+  </item>
+  <item>
+     <title>Compostage domestique des déchets</title>
+     <link>https://www.data.gouv.fr/fr/dataset/compostage-domestique-des-dechets</link>
+     <description><![CDATA[Nombre de composteurs domestiques distribués dans les foyers de Saône-et-Loire depuis 2004 ]]></description>
+     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
+  </item>
+  <item>
+     <title>Détails de la collecte sélective des déchets</title>
+     <link>https://www.data.gouv.fr/fr/dataset/details-de-la-collecte-selective-des-dechets</link>
+     <description><![CDATA[Détails de la collecte sélective des déchets par type de matériaux de 2007 à 2012 ]]></description>
+     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
+  </item>
+  <item>
+     <title>Baromètre de la qualité de service</title>
+     <link>https://www.data.gouv.fr/fr/dataset/barometre-de-la-qualite-de-service</link>
+     <description><![CDATA[La base de données présente des indicateurs mesurant la qualité de la relation entre les usagers et les administrations et la qualité du service rendu à la fois pour les usagers particuliers et pour les entreprises. Ces données sont mises à jour annuellement. Le baromètre présente des indicateurs dont la mesure se fait : - auprès des administrations pour les indicateurs de...]]></description>
+     <author>Premier ministre (certifié)</author>
+  </item>
+  <item>
+     <title>Capacité d'accueil des établissements de santé</title>
+     <link>https://www.data.gouv.fr/fr/dataset/capacite-d-accueil-des-etablissements-de-sante</link>
+     <description><![CDATA[Nombre de lits et nombre de places en hospitalisation complète, partielle et en HAD (ensemble des hôpitaux, hôpitaux publics et cliniques privées) Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees, fichier Sae ]]></description>
+     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
+  </item>
+  <item>
+     <title>Activité des médecins libéraux actifs à part entière APE</title>
+     <link>https://www.data.gouv.fr/fr/dataset/activite-des-medecins-liberaux-actifs-a-part-entiere-ape</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Snir, Cnamts ]]></description>
+     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
+  </item>
+  <item>
+     <title>MNT littoral Litto3D® sur l'Hérault et le Gard</title>
+     <link>https://www.data.gouv.fr/fr/dataset/l3d_herault_gard</link>
+     <description><![CDATA[Le produit Litto3D est une base de données altimétrique unique et continue terre-mer donnant une représentation tridimensionnelle de la forme et de la position du sol sur la frange littorale du territoire français. Une ligne de partage des zones d'acquisition entre terre et mer, sépare les levés réalisés par les technologies lidar bathymétriques ou sondeur multifaisceau côté mer et lidar...]]></description>
+     <author>SHOM (certifié)</author>
   </item>
   <item>
      <title>Formation aux professions de santé</title>
