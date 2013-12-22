@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 22 Dec 2013 21:30:02 +0100</pubDate>
+  <pubDate>Sun, 22 Dec 2013 22:10:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Commune de Brocas : Eau</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-eau</link>
+     <description><![CDATA[Eléments concernant la gestion de l'eau (Compétence : Communauté de Communes du Pays d'Albret) ]]></description>
+     <author>Commune de Brocas</author>
+  </item>
+  <item>
+     <title>Commune de Brocas : Memento</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-memento</link>
+     <description><![CDATA[Mémento téléphonique ]]></description>
+     <author>Commune de Brocas</author>
+  </item>
   <item>
      <title>Commune de Brocas : Etablissements</title>
      <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-etablissements-0</link>
@@ -353,18 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/les-accidents-de-la-circulation</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Onisr ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Accueil enfance et jeunesse handicapées</title>
-     <link>https://www.data.gouv.fr/fr/dataset/accueil-enfance-et-jeunesse-handicapees</link>
-     <description><![CDATA[Structures d'accueil pour enfants et adolescents handicapés Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees (données Statiss) ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Données carroyées à 200 m sur la population</title>
-     <link>https://www.data.gouv.fr/fr/dataset/donnees-carroyees-a-200-m-sur-la-population</link>
-     <description><![CDATA[Les estimations carroyées de population (carreaux de 200 mètres) sont issues de la source Revenus Fiscaux Localisés 2010. Portant notamment sur la structure par âge des individus, les caractéristiques des ménages (locataire/propriétaire, etc.) et les revenus au 31 décembre 2010, elles sont utiles pour disposer d'information à des niveaux infra-communaux selon des découpages propres aux...]]></description>
-     <author>Institut National de la Statistique et des Etudes Economiques (INSEE) (certifié)</author>
   </item>
  </channel>
 </rss>
