@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 22 Dec 2013 20:40:02 +0100</pubDate>
+  <pubDate>Sun, 22 Dec 2013 21:20:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Commune de Brocas : Cartographie</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-cartographie</link>
+     <description><![CDATA[Eléments concernant la cartographie de la commune de Brocas ]]></description>
+     <author>Commune de Brocas</author>
+  </item>
   <item>
      <title>Equipements de sports d'hiver: pistes de ski, remontées, etc</title>
      <link>https://www.data.gouv.fr/fr/dataset/equipements-de-sports-d-hiver-pistes-de-ski-remontees-etc</link>
@@ -357,12 +363,6 @@
   <item>
      <title>Greffes par type d'organe</title>
      <link>https://www.data.gouv.fr/fr/dataset/greffes-par-type-d-organe</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Agence de biomédecine ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Greffes : Causes de non-prélèvements</title>
-     <link>https://www.data.gouv.fr/fr/dataset/greffes-causes-de-non-prelevements</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Agence de biomédecine ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
