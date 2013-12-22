@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 22 Dec 2013 08:00:02 +0100</pubDate>
+  <pubDate>Sun, 22 Dec 2013 08:20:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Prix immobilier et revenu dans les agglomérations françaises</title>
+     <link>https://www.data.gouv.fr/fr/dataset/prix-immobilier-et-revenu-dans-les-agglomerations-francaises</link>
+     <description><![CDATA[Valeurs numériques du graphique de l’article « Le lien entre prix des logements et revenu par ménage dans les principales agglomérations », J. Friggit, avril 2010, paru dans la note de conjoncture des Notaires de France. ]]></description>
+     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
+  </item>
+  <item>
+     <title>Points d'intérêt OpenStreetMap en France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/points-d-interet-openstreetmap-en-france</link>
+     <description><![CDATA[Liste des commodités (amenity) extraite des données OpenStreetMap situées en France métropolitainestrong text. Données © contributeurs OpenStreetMap ]]></description>
+     <author>OpenDataSoft</author>
+  </item>
   <item>
      <title>Base Permanente des Équipements</title>
      <link>https://www.data.gouv.fr/fr/dataset/base-permanente-des-equipements</link>
@@ -352,18 +364,6 @@
      <title>Greffes par type d'organe</title>
      <link>https://www.data.gouv.fr/fr/dataset/greffes-par-type-d-organe</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Agence de biomédecine ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Greffes : Causes de non-prélèvements</title>
-     <link>https://www.data.gouv.fr/fr/dataset/greffes-causes-de-non-prelevements</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Agence de biomédecine ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Greffes : Les donneurs</title>
-     <link>https://www.data.gouv.fr/fr/dataset/greffes-les-donneurs</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Agence de la biomédecine ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
