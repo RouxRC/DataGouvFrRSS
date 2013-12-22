@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 22 Dec 2013 18:20:03 +0100</pubDate>
+  <pubDate>Sun, 22 Dec 2013 18:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Commune de Brocas : Associations</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-associations</link>
+     <description><![CDATA[Eléments concernant les associations de la commune de Brocas ]]></description>
+     <author>Commune de Brocas</author>
+  </item>
   <item>
      <title>Commune de Brocas : Budget</title>
      <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-budget</link>
@@ -358,12 +364,6 @@
      <title>Pharmaciens</title>
      <link>https://www.data.gouv.fr/fr/dataset/pharmaciens</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Cnop ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Pharmacies</title>
-     <link>https://www.data.gouv.fr/fr/dataset/pharmacies</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Conseil national de l'Ordre des pharmaciens ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
