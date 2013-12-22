@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 22 Dec 2013 18:10:02 +0100</pubDate>
+  <pubDate>Sun, 22 Dec 2013 18:20:03 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Commune de Brocas : Budget</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-budget</link>
+     <description><![CDATA[Eléments concernant le budget de la commune de Brocas ]]></description>
+     <author>Commune de Brocas</author>
+  </item>
   <item>
      <title>Prix immobilier et revenu dans les villes d'Ile-de-France</title>
      <link>https://www.data.gouv.fr/fr/dataset/prix-immobilier-et-revenu-dans-les-villes-d-ile-de-france</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/pharmacies</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Conseil national de l'Ordre des pharmaciens ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Taux de réussite des auto-écoles du Morbihan</title>
-     <link>https://www.data.gouv.fr/fr/dataset/taux-de-reussite-des-auto-ecoles-du-morbihan</link>
-     <description><![CDATA[Il s'agit des taux de réussite à tous les permis des auto-écoles du Morbihan, ainsi que les coordonnées géographiques, adresses et nom des auto-écoles. Ce document a été réalisé par les équipes de VroomVroom.fr ]]></description>
-     <author>VroomVroom.fr</author>
   </item>
  </channel>
 </rss>
