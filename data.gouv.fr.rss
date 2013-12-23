@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 23 Dec 2013 12:40:02 +0100</pubDate>
+  <pubDate>Mon, 23 Dec 2013 12:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Commune de Brocas : Vie municipale</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-vie-municipale</link>
+     <description><![CDATA[Éléments concernant la vie municipale (2008-2012) pour la commune de Brocas ]]></description>
+     <author>Commune de Brocas</author>
+  </item>
   <item>
      <title>Commune de Brocas : Histoire</title>
      <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-histoire</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/activite-des-medecins-liberaux-actifs-a-part-entiere-ape</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Snir, Cnamts ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>MNT littoral Litto3D® sur l'Hérault et le Gard</title>
-     <link>https://www.data.gouv.fr/fr/dataset/l3d_herault_gard</link>
-     <description><![CDATA[Le produit Litto3D est une base de données altimétrique unique et continue terre-mer donnant une représentation tridimensionnelle de la forme et de la position du sol sur la frange littorale du territoire français. Une ligne de partage des zones d'acquisition entre terre et mer, sépare les levés réalisés par les technologies lidar bathymétriques ou sondeur multifaisceau côté mer et lidar...]]></description>
-     <author>SHOM (certifié)</author>
   </item>
  </channel>
 </rss>
