@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 23 Dec 2013 07:20:02 +0100</pubDate>
+  <pubDate>Mon, 23 Dec 2013 07:40:01 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Commune de Brocas : Etat civil</title>
@@ -134,8 +134,8 @@
   </item>
   <item>
      <title>Assiette des droits de mutation immobiliers</title>
-     <link>https://www.data.gouv.fr/fr/dataset/assiette-des-droits-de-mutation-immobiliers-0</link>
-     <description><![CDATA[Assiette des droits de mutation immobiliers, par type de droit, calculée par le CGEDD à partir du produit des droits d'enregistrement publiés par la Direction Générale des Finances Publiques. Méthode de calcul Précision importante ]]></description>
+     <link>https://www.data.gouv.fr/fr/dataset/assiette-des-droits-de-mutation-immobiliers</link>
+     <description><![CDATA[Assiette des droits de mutation immobiliers (parfois improprement appelés "frais de notaire"), par type de droit, calculée par le CGEDD à partir du produit des droits d'enregistrement publiés par la Direction Générale des Finances Publiques. Méthode de calcul Précision importante ]]></description>
      <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
   </item>
   <item>
