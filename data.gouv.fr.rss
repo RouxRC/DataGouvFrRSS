@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 23 Dec 2013 20:20:02 +0100</pubDate>
+  <pubDate>Mon, 23 Dec 2013 20:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Commune de Brocas : Opendata</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-opendata</link>
+     <description><![CDATA[Eléments régissant la libération des données pour la commune de Brocas ]]></description>
+     <author>Commune de Brocas (certifié)</author>
+  </item>
   <item>
      <title>Commune de Brocas : Gites communaux</title>
      <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-gites-communaux</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/repartition-des-agents-de-la-fonction-publique-par-sexe-et-par-age</link>
      <description><![CDATA[Répartition des agents de la fonction publique par sexe et par age ]]></description>
      <author>Ministère de la Réforme de l'Etat, de la Décentralisation et de la Fonction Publique (certifié)</author>
-  </item>
-  <item>
-     <title>Consultations et visites de spécialistes libéraux</title>
-     <link>https://www.data.gouv.fr/fr/dataset/consultations-et-visites-de-specialistes-liberaux</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Snir, Cnamts ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
 </rss>
