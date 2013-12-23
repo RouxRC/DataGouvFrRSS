@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 23 Dec 2013 17:40:02 +0100</pubDate>
+  <pubDate>Mon, 23 Dec 2013 19:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Nombre de ventes de maisons et appartements anciens</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-ventes-de-maisons-et-appartements-anciens</link>
+     <description><![CDATA[Nombre de ventes de maisons et appartements anciens, depuis 1992. Méthode d'estimation ]]></description>
+     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
+  </item>
   <item>
      <title>Limites administratives françaises issues d'OpenStreetMap</title>
      <link>https://www.data.gouv.fr/fr/dataset/limites-administratives-francaises-issues-d-openstreetmap</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/barometre-de-la-qualite-de-service</link>
      <description><![CDATA[La base de données présente des indicateurs mesurant la qualité de la relation entre les usagers et les administrations et la qualité du service rendu à la fois pour les usagers particuliers et pour les entreprises. Ces données sont mises à jour annuellement. Le baromètre présente des indicateurs dont la mesure se fait : - auprès des administrations pour les indicateurs de...]]></description>
      <author>Premier ministre (certifié)</author>
-  </item>
-  <item>
-     <title>Capacité d'accueil des établissements de santé</title>
-     <link>https://www.data.gouv.fr/fr/dataset/capacite-d-accueil-des-etablissements-de-sante</link>
-     <description><![CDATA[Nombre de lits et nombre de places en hospitalisation complète, partielle et en HAD (ensemble des hôpitaux, hôpitaux publics et cliniques privées) Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees, fichier Sae ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
 </rss>
