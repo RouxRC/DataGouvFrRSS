@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 23 Dec 2013 14:20:02 +0100</pubDate>
+  <pubDate>Mon, 23 Dec 2013 14:40:01 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Limites administratives françaises issues d'OpenStreetMap</title>
+     <link>https://www.data.gouv.fr/fr/dataset/limites-administratives-francaises-issues-d-openstreetmap</link>
+     <description><![CDATA[Exports des limites des communes (sous forme linéaire) issues d'OpenStreetMap produit dans sa grande majorité à partir du cadastre. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les contributeurs d'OpenStreetMap sous licence ODbL"...]]></description>
+     <author>OpenStreetMap</author>
+  </item>
   <item>
      <title>Commune de Brocas : Vie municipale</title>
      <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-vie-municipale</link>
@@ -358,12 +364,6 @@
      <title>Capacité d'accueil des établissements de santé</title>
      <link>https://www.data.gouv.fr/fr/dataset/capacite-d-accueil-des-etablissements-de-sante</link>
      <description><![CDATA[Nombre de lits et nombre de places en hospitalisation complète, partielle et en HAD (ensemble des hôpitaux, hôpitaux publics et cliniques privées) Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees, fichier Sae ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Activité des médecins libéraux actifs à part entière APE</title>
-     <link>https://www.data.gouv.fr/fr/dataset/activite-des-medecins-liberaux-actifs-a-part-entiere-ape</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Snir, Cnamts ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
