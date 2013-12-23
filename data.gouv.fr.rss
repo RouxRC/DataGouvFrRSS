@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 23 Dec 2013 19:40:02 +0100</pubDate>
+  <pubDate>Mon, 23 Dec 2013 20:10:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Statistique Banque en Ligne </title>
+     <link>https://www.data.gouv.fr/fr/dataset/statistique-banque-en-ligne</link>
+     <description><![CDATA[Liste des banques en Lignes en France et en Europe. Les banques en lignes on fait leur apparition dans les années 2000 mais ce n'est que récemment qu'ils ont connu un grands succès auprès de Français. Le leader de ce marché en France et en Europe est Boursorama avec plus de 500 000 clients. Les tarifs attractives de cette banque en ligne et le système de parrainage boursorama fait de cette...]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Nombre de ventes de maisons et appartements anciens</title>
      <link>https://www.data.gouv.fr/fr/dataset/nombre-de-ventes-de-maisons-et-appartements-anciens</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/details-de-la-collecte-selective-des-dechets</link>
      <description><![CDATA[Détails de la collecte sélective des déchets par type de matériaux de 2007 à 2012 ]]></description>
      <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
-  </item>
-  <item>
-     <title>Baromètre de la qualité de service</title>
-     <link>https://www.data.gouv.fr/fr/dataset/barometre-de-la-qualite-de-service</link>
-     <description><![CDATA[La base de données présente des indicateurs mesurant la qualité de la relation entre les usagers et les administrations et la qualité du service rendu à la fois pour les usagers particuliers et pour les entreprises. Ces données sont mises à jour annuellement. Le baromètre présente des indicateurs dont la mesure se fait : - auprès des administrations pour les indicateurs de...]]></description>
-     <author>Premier ministre (certifié)</author>
   </item>
  </channel>
 </rss>
