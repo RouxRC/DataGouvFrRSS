@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 23 Dec 2013 01:50:02 +0100</pubDate>
+  <pubDate>Mon, 23 Dec 2013 03:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Commune de Brocas : Ecole</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-ecole-0</link>
+     <description><![CDATA[Eléments concernant l’école pour la commune de Brocas (Compétence : Communauté de Communes du Pays d'Albret) ]]></description>
+     <author>Commune de Brocas</author>
+  </item>
   <item>
      <title>Commune de Brocas : Eau</title>
      <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-eau</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/l3d-paca-ouest</link>
      <description><![CDATA[Le produit Litto3D est une base de données altimétrique unique et continue terre-mer donnant une représentation tridimensionnelle de la forme et de la position du sol sur la frange littorale du territoire français. Une ligne de partage des zones d'acquisition entre terre et mer, sépare les levés réalisés par les technologies lidar bathymétriques ou sondeur multifaisceau côté mer et lidar...]]></description>
      <author>SHOM (certifié)</author>
-  </item>
-  <item>
-     <title>Les accidents de la circulation</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-accidents-de-la-circulation</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Onisr ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
 </rss>
