@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 23 Dec 2013 20:10:02 +0100</pubDate>
+  <pubDate>Mon, 23 Dec 2013 20:20:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Commune de Brocas : Gites communaux</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-gites-communaux</link>
+     <description><![CDATA[Éléments concernant les gîtes de la communes de Brocas ]]></description>
+     <author>Commune de Brocas (certifié)</author>
+  </item>
+  <item>
+     <title>Commune de Brocas : Gestion forestière</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-gestion-forestiere</link>
+     <description><![CDATA[Éléments concernant la gestion forestière de la commune de Brocas ]]></description>
+     <author>Commune de Brocas (certifié)</author>
+  </item>
   <item>
      <title>Statistique Banque en Ligne </title>
      <link>https://www.data.gouv.fr/fr/dataset/statistique-banque-en-ligne</link>
@@ -353,18 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/consultations-et-visites-de-specialistes-liberaux</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Snir, Cnamts ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Compostage domestique des déchets</title>
-     <link>https://www.data.gouv.fr/fr/dataset/compostage-domestique-des-dechets</link>
-     <description><![CDATA[Nombre de composteurs domestiques distribués dans les foyers de Saône-et-Loire depuis 2004 ]]></description>
-     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
-  </item>
-  <item>
-     <title>Détails de la collecte sélective des déchets</title>
-     <link>https://www.data.gouv.fr/fr/dataset/details-de-la-collecte-selective-des-dechets</link>
-     <description><![CDATA[Détails de la collecte sélective des déchets par type de matériaux de 2007 à 2012 ]]></description>
-     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
   </item>
  </channel>
 </rss>
