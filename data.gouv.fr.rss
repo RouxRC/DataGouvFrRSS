@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 23 Dec 2013 20:30:02 +0100</pubDate>
+  <pubDate>Mon, 23 Dec 2013 20:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Commune de Brocas : Sport</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-sport</link>
+     <description><![CDATA[Eléments concernant le sport pour la commune de Brocas ]]></description>
+     <author>Commune de Brocas (certifié)</author>
+  </item>
   <item>
      <title>Commune de Brocas : Opendata</title>
      <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-opendata</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/delai-d-attente-rendez-vous-ophtalmologiste-0</link>
      <description><![CDATA[Pour connaître les délais d’attente moyens pour une prise de rendez-vous auprès d’un médecin spécialiste, l’UFC-Que Choisir a, en septembre et octobre 2012, mené une campagne d’appels auprès de 212 ophtalmologistes. ]]></description>
      <author>UFC Que Choisir</author>
-  </item>
-  <item>
-     <title>Répartition des agents de la fonction publique par sexe et par age</title>
-     <link>https://www.data.gouv.fr/fr/dataset/repartition-des-agents-de-la-fonction-publique-par-sexe-et-par-age</link>
-     <description><![CDATA[Répartition des agents de la fonction publique par sexe et par age ]]></description>
-     <author>Ministère de la Réforme de l'Etat, de la Décentralisation et de la Fonction Publique (certifié)</author>
   </item>
  </channel>
 </rss>
