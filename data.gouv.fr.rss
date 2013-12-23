@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 23 Dec 2013 03:00:02 +0100</pubDate>
+  <pubDate>Mon, 23 Dec 2013 03:30:01 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title> Commune de Brocas : Elections</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-elections</link>
+     <description><![CDATA[Éléments concernant les élections Européennes, Présidentielles, Législatives et Cantonales pour la commune de Brocas ]]></description>
+     <author>Commune de Brocas</author>
+  </item>
   <item>
      <title>Commune de Brocas : Ecole</title>
      <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-ecole-0</link>
@@ -357,12 +363,6 @@
   <item>
      <title>MNT littoral Litto3D® sur les Pyrénées Orientales et l'Aude</title>
      <link>https://www.data.gouv.fr/fr/dataset/l3d_pyrenees-orientales_aude</link>
-     <description><![CDATA[Le produit Litto3D est une base de données altimétrique unique et continue terre-mer donnant une représentation tridimensionnelle de la forme et de la position du sol sur la frange littorale du territoire français. Une ligne de partage des zones d'acquisition entre terre et mer, sépare les levés réalisés par les technologies lidar bathymétriques ou sondeur multifaisceau côté mer et lidar...]]></description>
-     <author>SHOM (certifié)</author>
-  </item>
-  <item>
-     <title>MNT littoral Litto3D® sur la région PACA Ouest</title>
-     <link>https://www.data.gouv.fr/fr/dataset/l3d-paca-ouest</link>
      <description><![CDATA[Le produit Litto3D est une base de données altimétrique unique et continue terre-mer donnant une représentation tridimensionnelle de la forme et de la position du sol sur la frange littorale du territoire français. Une ligne de partage des zones d'acquisition entre terre et mer, sépare les levés réalisés par les technologies lidar bathymétriques ou sondeur multifaisceau côté mer et lidar...]]></description>
      <author>SHOM (certifié)</author>
   </item>
