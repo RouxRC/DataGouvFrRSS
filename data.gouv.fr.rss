@@ -4,80 +4,8 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 24 Dec 2013 22:00:02 +0100</pubDate>
+  <pubDate>Tue, 24 Dec 2013 22:10:01 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
-  <item>
-     <title>Données sur les hébergements de vacances type &#34;Gîte&#34; dans le Perche</title>
-     <link>https://www.data.gouv.fr/fr/dataset/donnees-sur-les-hebergements-de-vacances-type-gite-dans-le-perche</link>
-     <description><![CDATA[Bonjour, je suis à la recherche de données tableau sur la zone du Perche et ses principales communes : Mortagne au Perche, le Gault du Perche, Nogent le Rotrou... en en particulier sur les gîtes dans le Perche (fréquentations, prix moyens de la nuitée, saisons les plus favorables pour le tourisme...). De manière générale, toute les données touristique de cette zone géographique aux frontières...]]></description>
-     <author>Gite Perche</author>
-  </item>
-  <item>
-     <title>Les ménages et leur logement depuis 1955 et 1970: quelques résultats extraits des enquêtes logement</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-menages-et-leur-logement-depuis-1955-et-1970-quelques-resultats-extraits-des-enquetes-logement</link>
-     <description><![CDATA[Ces valeurs numériques supportent et complètent la note du CGEDD "Les ménages et leurs logements depuis 1955 et 1970, quelques résultats sur longue période extraits des enquêtes logement" (août 2010). L'utilisateur des données est invité, avant tout usage, à lire cette note, et notamment les précautions d'emploi. Cette note fait partie du dossier sur le prix de l'immobilier sur le long terme...]]></description>
-     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
-  </item>
-  <item>
-     <title>UNLIMITED CITIES n2D MONTPELLIER Pompignane</title>
-     <link>https://www.data.gouv.fr/fr/dataset/unlimited-cities-n2d-montpellier-pompignane</link>
-     <description><![CDATA[[![MIXS = 1/15625 combinatoire comportant : Choix du point de vue Réglage du Mix Commentaire Date Coordonnées géographique Lien vers l'application Ipad https://itunes.apple.com/fr/app/villes-sans-limite-montpellier/id690594310?mt=8 ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Impôts</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-impots</link>
-     <description><![CDATA[Eléments concernant les impôts pour la commune de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Sport</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-sport</link>
-     <description><![CDATA[Eléments concernant le sport pour la commune de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Opendata</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-opendata</link>
-     <description><![CDATA[Eléments régissant la libération des données pour la commune de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Gites communaux</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-gites-communaux</link>
-     <description><![CDATA[Éléments concernant les gîtes de la communes de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Gestion forestière</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-gestion-forestiere</link>
-     <description><![CDATA[Éléments concernant la gestion forestière de la commune de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Nombre de ventes de maisons et appartements anciens</title>
-     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-ventes-de-maisons-et-appartements-anciens</link>
-     <description><![CDATA[Nombre de ventes de maisons et appartements anciens, depuis 1992. Méthode d'estimation ]]></description>
-     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
-  </item>
-  <item>
-     <title>Limites administratives françaises issues d'OpenStreetMap</title>
-     <link>https://www.data.gouv.fr/fr/dataset/limites-administratives-francaises-issues-d-openstreetmap</link>
-     <description><![CDATA[Exports des limites des communes (sous forme linéaire) issues d'OpenStreetMap produit dans sa grande majorité à partir du cadastre. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les contributeurs d'OpenStreetMap sous licence ODbL"...]]></description>
-     <author>OpenStreetMap</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Vie municipale</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-vie-municipale</link>
-     <description><![CDATA[Éléments concernant la vie municipale (2008-2012) pour la commune de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Histoire</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-histoire</link>
-     <description><![CDATA[Eléments concernant l'histoire de la commune de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
   <item>
      <title>Commune de Brocas : Etat civil</title>
      <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-etat-civil-0</link>
