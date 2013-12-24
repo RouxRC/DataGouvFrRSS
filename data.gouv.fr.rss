@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 24 Dec 2013 15:00:04 +0100</pubDate>
+  <pubDate>Tue, 24 Dec 2013 15:20:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Données sur les hébergements de vacances type &#34;Gîte&#34; dans le Perche</title>
+     <link>https://www.data.gouv.fr/fr/dataset/donnees-sur-les-hebergements-de-vacances-type-gite-dans-le-perche</link>
+     <description><![CDATA[Bonjour, je suis à la recherche de données tableau sur la zone du Perche et ses principales communes : Mortagne au Perche, le Gault du Perche, Nogent le Rotrou... en en particulier sur les gîtes dans le Perche (fréquentations, prix moyens de la nuitée, saisons les plus favorables pour le tourisme...). De manière générale, toute les données touristique de cette zone géographique aux frontières...]]></description>
+     <author>Gite Perche</author>
+  </item>
   <item>
      <title>Les ménages et leur logement depuis 1955 et 1970: quelques résultats extraits des enquêtes logement</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-menages-et-leur-logement-depuis-1955-et-1970-quelques-resultats-extraits-des-enquetes-logement</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/directeurs-de-these-auteurs-de-these-et-rapporteurs</link>
      <description><![CDATA[Liste des personnes impliquées dans la recherche doctorale française (directeurs de thèse, auteurs de thèse en cours ou soutenue, et rapporteurs) extraite du site theses.fr et classée dans l'ordre alphabétique du nom. Tous les noms ont été dédoublonnés, pour que les homonymes n'apparaissent qu'une seule fois. theses.fr recense toutes les thèses soutenues depuis 2006 dans les établissements...]]></description>
      <author>Deuxième labo</author>
-  </item>
-  <item>
-     <title>Délai d'attente rendez-vous pédiatre</title>
-     <link>https://www.data.gouv.fr/fr/dataset/delai-d-attente-rendez-vous-pediatre-0</link>
-     <description><![CDATA[Pour connaître les délais d’attente moyens pour une prise de rendez-vous auprès d’un médecin spécialiste, l’UFC-Que Choisir a, en septembre et octobre 2012, mené une campagne d’appels auprès de 94 pédiatres. ]]></description>
-     <author>UFC Que Choisir</author>
   </item>
  </channel>
 </rss>
