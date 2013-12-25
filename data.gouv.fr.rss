@@ -4,80 +4,8 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 25 Dec 2013 12:10:02 +0100</pubDate>
+  <pubDate>Wed, 25 Dec 2013 12:30:01 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
-  <item>
-     <title>Données sur les hébergements de vacances type &#34;Gîte&#34; dans le Perche</title>
-     <link>https://www.data.gouv.fr/fr/dataset/donnees-sur-les-hebergements-de-vacances-type-gite-dans-le-perche</link>
-     <description><![CDATA[Bonjour, je suis à la recherche de données tableau sur la zone du Perche et ses principales communes : Mortagne au Perche, le Gault du Perche, Nogent le Rotrou... en en particulier sur les gîtes dans le Perche (fréquentations, prix moyens de la nuitée, saisons les plus favorables pour le tourisme...). De manière générale, toute les données touristique de cette zone géographique aux frontières...]]></description>
-     <author>Gite Perche</author>
-  </item>
-  <item>
-     <title>Les ménages et leur logement depuis 1955 et 1970: quelques résultats extraits des enquêtes logement</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-menages-et-leur-logement-depuis-1955-et-1970-quelques-resultats-extraits-des-enquetes-logement</link>
-     <description><![CDATA[Ces valeurs numériques supportent et complètent la note du CGEDD "Les ménages et leurs logements depuis 1955 et 1970, quelques résultats sur longue période extraits des enquêtes logement" (août 2010). L'utilisateur des données est invité, avant tout usage, à lire cette note, et notamment les précautions d'emploi. Cette note fait partie du dossier sur le prix de l'immobilier sur le long terme...]]></description>
-     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Impôts</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-impots</link>
-     <description><![CDATA[Eléments concernant les impôts pour la commune de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Sport</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-sport</link>
-     <description><![CDATA[Eléments concernant le sport pour la commune de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Opendata</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-opendata</link>
-     <description><![CDATA[Eléments régissant la libération des données pour la commune de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Gites communaux</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-gites-communaux</link>
-     <description><![CDATA[Éléments concernant les gîtes de la communes de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Gestion forestière</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-gestion-forestiere</link>
-     <description><![CDATA[Éléments concernant la gestion forestière de la commune de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Nombre de ventes de maisons et appartements anciens</title>
-     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-ventes-de-maisons-et-appartements-anciens</link>
-     <description><![CDATA[Nombre de ventes de maisons et appartements anciens, depuis 1992. Méthode d'estimation ]]></description>
-     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
-  </item>
-  <item>
-     <title>Limites administratives françaises issues d'OpenStreetMap</title>
-     <link>https://www.data.gouv.fr/fr/dataset/limites-administratives-francaises-issues-d-openstreetmap</link>
-     <description><![CDATA[Exports des limites des communes (sous forme linéaire) issues d'OpenStreetMap produit dans sa grande majorité à partir du cadastre. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les contributeurs d'OpenStreetMap sous licence ODbL"...]]></description>
-     <author>OpenStreetMap</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Vie municipale</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-vie-municipale</link>
-     <description><![CDATA[Éléments concernant la vie municipale (2008-2012) pour la commune de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Histoire</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-histoire</link>
-     <description><![CDATA[Eléments concernant l'histoire de la commune de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Etat civil</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-etat-civil-0</link>
-     <description><![CDATA[Eléments concernant l'Etat Civil pour la commune de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
   <item>
      <title> Commune de Brocas : Elections</title>
      <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-elections</link>
@@ -149,6 +77,78 @@
      <link>https://www.data.gouv.fr/fr/dataset/prix-immobilier-et-revenu-dans-les-villes-d-ile-de-france</link>
      <description><![CDATA[Valeurs numériques du graphique de l’article « Le lien entre prix des logements et revenu par ménage dans les principales villes d’Ile-de-France », J. Friggit, janvier 2010, paru dans la note de conjoncture des Notaires de France. ]]></description>
      <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
+  </item>
+  <item>
+     <title>Prix immobilier et revenu dans les agglomérations françaises</title>
+     <link>https://www.data.gouv.fr/fr/dataset/prix-immobilier-et-revenu-dans-les-agglomerations-francaises</link>
+     <description><![CDATA[Valeurs numériques du graphique de l’article « Le lien entre prix des logements et revenu par ménage dans les principales agglomérations », J. Friggit, avril 2010, paru dans la note de conjoncture des Notaires de France. ]]></description>
+     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
+  </item>
+  <item>
+     <title>Points d'intérêt OpenStreetMap en France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/points-d-interet-openstreetmap-en-france</link>
+     <description><![CDATA[Liste des commodités (amenity) extraite des données OpenStreetMap situées en France métropolitainestrong text. Données © contributeurs OpenStreetMap ]]></description>
+     <author>OpenDataSoft</author>
+  </item>
+  <item>
+     <title>Base Permanente des Équipements</title>
+     <link>https://www.data.gouv.fr/fr/dataset/base-permanente-des-equipements</link>
+     <description><![CDATA[La base permanente des équipements (BPE) contient pour chaque territoire la liste des équipements et des services rendus à la population. Cette base permet de mesurer la présence ou l'absence d'un équipement, la densité d'un équipement ou un indicateur de disponibilité d'un équipement du point de vue des habitants. Ces données sont disponibles par région, département, commune ou quartier IRIS. ]]></description>
+     <author>OpenDataSoft</author>
+  </item>
+  <item>
+     <title>Valeurs immobilières, économiques et financières de 1800 à 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/valeurs-immobilieres-economiques-et-financieres-de-1800-a-2010-0</link>
+     <description><![CDATA[Séries longues de valeurs annuelles de 1800 à 2010, qui supportent et actualisent les résultats présentés dans le dossier sur le prix de l'immobilier d'habitation sur le long terme maintenu par le CGEDD, et notamment ces graphiques sur le prix de l'immobilier d'habitation: prix immobiliers (indices de prix de vente et de loyer des logements), nombre et montant des ventes immobilières, taux...]]></description>
+     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
+  </item>
+  <item>
+     <title>Google Search History</title>
+     <link>https://www.data.gouv.fr/fr/dataset/google-search-history</link>
+     <description><![CDATA[Et si les données de recherches sur Google des internautes étaient des données culturelles ouvertes! En 2006, Google lance le service Search History et stocke les recherches des internautes. Depuis ce premier jour, albertine meunier compile scrupuleusement ses recherches et les donne à voir au public. Plus de trois années se sont écoulées : les recherches d’albertine mises bout à bout...]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Correspondance entre les codes postaux et codes INSEE des communes Françaises.</title>
+     <link>https://www.data.gouv.fr/fr/dataset/correspondance-entre-les-codes-postaux-et-codes-insee-des-communes-francaises</link>
+     <description><![CDATA[Ce jeu de données intègre par ailleurs des données de référence sur les communes: Population Superficie Altitude moyenne Forme géographique Ce jeu de données a été constitué à partir des données de la base GEOFLA® mise à disposition par l'IGN (codes INSEE) ainsi qu'à partir de données Wikipédia (codes postaux). ]]></description>
+     <author>OpenDataSoft</author>
+  </item>
+  <item>
+     <title>Référentiel Foncier Unifié</title>
+     <link>https://www.data.gouv.fr/fr/dataset/referentiel-foncier-unifie</link>
+     <description><![CDATA[Le Référentiel Foncier Unifié (RFU) est un référentiel géographique géoréférencé à résolution centimétrique entrepris en France par les géomètres-experts français. Sa mise en production date du 1er juillet 2010. Produit sur l'ensemble du territoire (métropole et DOM), le Référentiel Foncier Unifié peut être visualisé sur le portail GéoFoncier. Le RFU se compose de deux couches de données...]]></description>
+     <author>Ordre des Géomètres-Experts</author>
+  </item>
+  <item>
+     <title>Données OpenStreetMap intégrales de France Métropolitaine</title>
+     <link>https://www.data.gouv.fr/fr/dataset/donnees-openstreetmap-integrales-de-france-metropolitaine</link>
+     <description><![CDATA[Extrait quotidien et fichiers de mise à jour de l'intégralité des données OpenStreetMap sur la France métropolitaine. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont donc sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les contributeurs d'OpenStreetMap sous licence ODbL"...]]></description>
+     <author>OpenStreetMap</author>
+  </item>
+  <item>
+     <title>Assiette des droits de mutation immobiliers</title>
+     <link>https://www.data.gouv.fr/fr/dataset/assiette-des-droits-de-mutation-immobiliers</link>
+     <description><![CDATA[Assiette des droits de mutation immobiliers (parfois improprement appelés "frais de notaire"), par type de droit, calculée par le CGEDD à partir du produit des droits d'enregistrement publiés par la Direction Générale des Finances Publiques. Méthode de calcul Précision importante ]]></description>
+     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
+  </item>
+  <item>
+     <title>Nombre de ventes immobilières taxées au taux de droit commun</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-ventes-immobilieres-taxees-au-taux-de-droit-commun</link>
+     <description><![CDATA[Nombre de ventes immobilières (logements, terrains et immobilier commercial) taxées au taux de droit commun ]]></description>
+     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
+  </item>
+  <item>
+     <title>Prix de l'immobilier d'habitation à Paris depuis 1200</title>
+     <link>https://www.data.gouv.fr/fr/dataset/prix-de-l-immobilier-d-habitation-a-paris-depuis-1200-0</link>
+     <description><![CDATA[Ces indices prix de l'immobilier d'habitation à Paris depuis 1200 sont présentés en détail au § 1.2. de la note "Comparing Four Secular Home Price Indices" (juin 2008) téléchargeable au § 2.3. du dossier sur le prix de l'immobilier d'habitation sur le long terme tenu à jour par le CGEDD. ]]></description>
+     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
+  </item>
+  <item>
+     <title>Contours des EPCI 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/contours-des-epci-2013</link>
+     <description><![CDATA[Contours géographiques des EPCI issu du croisement des limites communales d'OpenStreetMap et des données du Ministère de l'Intérieur sur les EPCI datant de 2013. Ces données sont en partie issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont donc sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les...]]></description>
+     <author>OpenStreetMap</author>
   </item>
   <item>
      <title>Jeux de données de travail sur l'immigration</title>
