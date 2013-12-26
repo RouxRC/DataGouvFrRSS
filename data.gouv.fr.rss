@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 26 Dec 2013 14:20:03 +0100</pubDate>
+  <pubDate>Thu, 26 Dec 2013 15:00:03 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Unlimited Cities n2D MONTPELLIER Pompignane</title>
@@ -207,7 +207,7 @@
   <item>
      <title>Assiette des droits de mutation immobiliers</title>
      <link>https://www.data.gouv.fr/fr/dataset/assiette-des-droits-de-mutation-immobiliers</link>
-     <description><![CDATA[Assiette des droits de mutation immobiliers (parfois improprement appelés "frais de notaire"), par type de droit, calculée par le CGEDD à partir du produit des droits d'enregistrement publiés par la Direction Générale des Finances Publiques. Méthode de calcul Précision importante ]]></description>
+     <description><![CDATA[Assiette des droits de mutation immobiliers (parfois improprement appelés "frais de notaire"), par type de droit, calculée à partir du produit des droits d'enregistrement perçus par la Direction Générale des Finances Publiques et publiée par le CGEDD (J. Friggit) au titre de son dossier sur le prix de l'immobilier sur le long terme. Méthode de calcul Précision importante ]]></description>
      <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
   </item>
   <item>
@@ -219,7 +219,7 @@
   <item>
      <title>Prix de l'immobilier d'habitation à Paris depuis 1200</title>
      <link>https://www.data.gouv.fr/fr/dataset/prix-de-l-immobilier-d-habitation-a-paris-depuis-1200-0</link>
-     <description><![CDATA[Ces indices prix de l'immobilier d'habitation à Paris depuis 1200 sont présentés en détail au § 1.2. de la note "Comparing Four Secular Home Price Indices" (juin 2008) téléchargeable au § 2.3. du dossier sur le prix de l'immobilier d'habitation sur le long terme tenu à jour par le CGEDD. ]]></description>
+     <description><![CDATA[Ces indices de prix de l'immobilier d'habitation à Paris depuis 1200 sont présentés en détail au § 1.2. de la note "Comparing Four Secular Home Price Indices" (J. Friggit, juin 2008) téléchargeable au § 2.3. du dossier sur le prix de l'immobilier d'habitation sur le long terme tenu à jour par le CGEDD. ]]></description>
      <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
   </item>
   <item>
@@ -273,7 +273,7 @@
   <item>
      <title>Prix de l'immobilier d'habitation à Paris depuis 1840</title>
      <link>https://www.data.gouv.fr/fr/dataset/prix-de-l-immobilier-d-habitation-a-paris-depuis-1840</link>
-     <description><![CDATA[Cet indice du prix des logements à Paris depuis 1840 a été reconstitué en chaînant l'indice de Gaston Duon sur 1840-1944, un indice reconstitué par une méthode de ventes répétées à partir des bases de données notariales de 1944 à 1999 et l'indice Notaires-INSEE à partir de 1999. La méthodologie est décrite au § 1.2. de la note "Comparing Four Secular Home Price Indices" (juin 2008)...]]></description>
+     <description><![CDATA[Cet indice du prix des logements à Paris depuis 1840 a été reconstitué par J. Friggit (CGEDD) en chaînant l'indice de Gaston Duon sur 1840-1944, un indice reconstitué par une méthode de ventes répétées à partir des bases de données notariales de 1944 à 1999 et l'indice Notaires-INSEE à partir de 1999. La méthodologie est décrite au § 1.2. de la note "Comparing Four Secular Home Price Indices"...]]></description>
      <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
   </item>
   <item>
