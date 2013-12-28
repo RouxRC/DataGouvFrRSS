@@ -4,14 +4,8 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 28 Dec 2013 21:00:02 +0100</pubDate>
+  <pubDate>Sat, 28 Dec 2013 21:10:01 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
-  <item>
-     <title>Attributions de cartes de presse en 2012</title>
-     <link>https://www.data.gouv.fr/fr/dataset/attributions-de-cartes-de-presse-en-2012</link>
-     <description><![CDATA[Données publiées par la Commission de la carte d'identité des journalistes professionnels. ]]></description>
-     <author>citoyen</author>
-  </item>
   <item>
      <title>Unlimited Cities n2D MONTPELLIER Pompignane</title>
      <link>https://www.data.gouv.fr/fr/dataset/unlimited-cities-n2d-montpellier-pompignane-1</link>
@@ -365,6 +359,12 @@
      <link>https://www.data.gouv.fr/fr/dataset/sejours-d-hospitalisation-partielle-de-mco-par-age-pour-l-ensemble-des-diagnostics</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données PMSI-MCO, Drees L'hospitalisation partielle est une hospitalisation inférieure à 24 heures ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
+  </item>
+  <item>
+     <title>Directeurs de thèse, auteurs de thèse et rapporteurs</title>
+     <link>https://www.data.gouv.fr/fr/dataset/directeurs-de-these-auteurs-de-these-et-rapporteurs</link>
+     <description><![CDATA[Liste des personnes impliquées dans la recherche doctorale française (directeurs de thèse, auteurs de thèse en cours ou soutenue, et rapporteurs) extraite du site theses.fr et classée dans l'ordre alphabétique du nom. Tous les noms ont été dédoublonnés, pour que les homonymes n'apparaissent qu'une seule fois. theses.fr recense toutes les thèses soutenues depuis 2006 dans les établissements...]]></description>
+     <author>Deuxième labo</author>
   </item>
  </channel>
 </rss>
