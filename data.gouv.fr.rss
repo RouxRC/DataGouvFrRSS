@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 28 Dec 2013 20:40:02 +0100</pubDate>
+  <pubDate>Sat, 28 Dec 2013 21:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Attributions de cartes de presse en 2012</title>
@@ -182,8 +182,8 @@
   </item>
   <item>
      <title>Valeurs immobilières, économiques et financières de 1800 à 2010</title>
-     <link>https://www.data.gouv.fr/fr/dataset/valeurs-immobilieres-economiques-et-financieres-de-1800-a-2010-0</link>
-     <description><![CDATA[Séries longues de valeurs annuelles de 1800 à 2010, qui supportent et actualisent les résultats présentés dans le dossier sur le prix de l'immobilier d'habitation sur le long terme maintenu par le CGEDD, et notamment ces graphiques sur le prix de l'immobilier d'habitation: prix immobiliers (indices de prix de vente et de loyer des logements), nombre et montant des ventes immobilières, taux...]]></description>
+     <link>https://www.data.gouv.fr/fr/dataset/valeurs-immobilieres-economiques-et-financieres-de-1800-a-2010</link>
+     <description><![CDATA[Séries longues de valeurs annuelles de 1800 à 2010, qui supportent et actualisent les résultats présentés dans le dossier sur le prix de l'immobilier d'habitation sur le long terme tenu à jour par le CGEDD, et notamment ces graphiques sur le prix de l'immobilier d'habitation: prix immobiliers (indices de prix de vente et de loyer des logements), nombre et montant des ventes immobilières, taux...]]></description>
      <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
   </item>
   <item>
@@ -213,7 +213,7 @@
   <item>
      <title>Assiette des droits de mutation immobiliers</title>
      <link>https://www.data.gouv.fr/fr/dataset/assiette-des-droits-de-mutation-immobiliers</link>
-     <description><![CDATA[Assiette des droits de mutation immobiliers (parfois improprement appelés "frais de notaire"), par type de droit, calculée à partir du produit des droits d'enregistrement perçus par la Direction Générale des Finances Publiques et publiée par le CGEDD (J. Friggit) au titre de son dossier sur le prix de l'immobilier sur le long terme. Méthode de calcul Précision importante ]]></description>
+     <description><![CDATA[Assiette des droits de mutation immobiliers (parfois improprement appelés "frais de notaire"), par type de droit, calculée à partir du produit des droits d'enregistrement perçus par la Direction Générale des Finances Publiques et publiée par le CGEDD (J. Friggit) dans son dossier sur le prix de l'immobilier sur le long terme. Cette série supporte notamment ces graphiques sur l'évolution du...]]></description>
      <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
   </item>
   <item>
@@ -225,7 +225,7 @@
   <item>
      <title>Prix de l'immobilier d'habitation à Paris depuis 1200</title>
      <link>https://www.data.gouv.fr/fr/dataset/prix-de-l-immobilier-d-habitation-a-paris-depuis-1200-0</link>
-     <description><![CDATA[Ces indices de prix de l'immobilier d'habitation à Paris depuis 1200 sont présentés en détail au § 1.2. de la note "Comparing Four Secular Home Price Indices" (J. Friggit, juin 2008) téléchargeable au § 2.3. du dossier sur le prix de l'immobilier d'habitation sur le long terme tenu à jour par le CGEDD. ]]></description>
+     <description><![CDATA[Ces indices de prix de l'immobilier d'habitation à Paris depuis 1200 sont présentés en détail au § 1.2. de la note "Comparing Four Secular Home Price Indices" (J. Friggit, juin 2008) téléchargeable au § 2.3. du dossier sur le prix de l'immobilier d'habitation sur le long terme tenu à jour par le CGEDD. Ces indices supportent notamment ces graphiques sur le prix de l'immobilier d'habitation. ]]></description>
      <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
   </item>
   <item>
