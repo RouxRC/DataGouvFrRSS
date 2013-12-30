@@ -4,20 +4,8 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 30 Dec 2013 15:30:02 +0100</pubDate>
+  <pubDate>Mon, 30 Dec 2013 15:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
-  <item>
-     <title>URL des sites publics</title>
-     <link>https://www.data.gouv.fr/fr/dataset/url-des-sites-publics-0</link>
-     <description><![CDATA[Il s’agit de l’ensemble des URL des sites publics recensés et présentés dans l’annuaire de l’administration française du site Service-public.fr ]]></description>
-     <author>Premier ministre (certifié)</author>
-  </item>
-  <item>
-     <title>URL des sites publics</title>
-     <link>https://www.data.gouv.fr/fr/dataset/url-des-sites-publics</link>
-     <description><![CDATA[Il s’agit de l’ensemble des URL des sites publics recensés et présentés dans l’annuaire de l’administration française du site Service-public.fr ]]></description>
-     <author>Premier ministre (certifié)</author>
-  </item>
   <item>
      <title>Indicateur Avancé Sanitaire IAS® - GASTRO-ENTERITE</title>
      <link>https://www.data.gouv.fr/fr/dataset/indicateur-avance-sanitaire-ias-gastro-enterite</link>
@@ -364,6 +352,18 @@
      <title>Journées d'hospitalisation complète en MCO par âge pour l'ensemble des diagnostics</title>
      <link>https://www.data.gouv.fr/fr/dataset/journees-d-hospitalisation-complete-en-mco-par-age-pour-l-ensemble-des-diagnostics</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données PMSI-MCO, Drees ]]></description>
+     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
+  </item>
+  <item>
+     <title>Consommation de tabac</title>
+     <link>https://www.data.gouv.fr/fr/dataset/consommation-de-tabac</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Cdit, Insee, Irdes, OFDT, Seita ]]></description>
+     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
+  </item>
+  <item>
+     <title>Morbidité et facteurs de risque dans l'enquête ESPS</title>
+     <link>https://www.data.gouv.fr/fr/dataset/morbidite-et-facteurs-de-risque-dans-l-enquete-esps</link>
+     <description><![CDATA[Morbidité et facteurs de risque déclarés dans l’Enquête ESPS ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
