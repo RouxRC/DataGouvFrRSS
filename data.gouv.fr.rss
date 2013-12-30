@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 30 Dec 2013 16:20:02 +0100</pubDate>
+  <pubDate>Mon, 30 Dec 2013 16:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>SAE</title>
+     <link>https://www.data.gouv.fr/fr/dataset/sae</link>
+     <description><![CDATA[Indicateurs sur l'activité et les ressources en équipements et en personnels des établissements de santé entrant dans le champs de l'enquête annuelle des établissements de santé (SAE) ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Indicateur Avancé Sanitaire IAS® - GASTRO-ENTERITE</title>
      <link>https://www.data.gouv.fr/fr/dataset/indicateur-avance-sanitaire-ias-gastro-enterite</link>
@@ -358,12 +364,6 @@
      <title>Consommation de tabac</title>
      <link>https://www.data.gouv.fr/fr/dataset/consommation-de-tabac</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Cdit, Insee, Irdes, OFDT, Seita ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Morbidité et facteurs de risque dans l'enquête ESPS</title>
-     <link>https://www.data.gouv.fr/fr/dataset/morbidite-et-facteurs-de-risque-dans-l-enquete-esps</link>
-     <description><![CDATA[Morbidité et facteurs de risque déclarés dans l’Enquête ESPS ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
