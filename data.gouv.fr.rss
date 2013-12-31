@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 31 Dec 2013 11:00:02 +0100</pubDate>
+  <pubDate>Tue, 31 Dec 2013 13:20:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Agenda culturel</title>
+     <link>https://www.data.gouv.fr/fr/dataset/agenda-culturel</link>
+     <description><![CDATA[Le jeu de données, proposé par Infolocale, contient l’agenda des événements culturels en France. Ce jeu de données fait l’objet d’un enrichissement et d’un élargissement géographique régulier. ]]></description>
+     <author>Infolocale</author>
+  </item>
   <item>
      <title>Indicateur Avancé Sanitaire IAS® - GASTRO-ENTERITE</title>
      <link>https://www.data.gouv.fr/fr/dataset/indicateur-avance-sanitaire-ias-gastro-enterite</link>
@@ -358,12 +364,6 @@
      <title>Morbidité et facteurs de risque dans l'enquête ESPS</title>
      <link>https://www.data.gouv.fr/fr/dataset/morbidite-et-facteurs-de-risque-dans-l-enquete-esps</link>
      <description><![CDATA[Morbidité et facteurs de risque déclarés dans l’Enquête ESPS ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Séjours d’hospitalisation partielle de MCO par âge pour l’ensemble des diagnostics</title>
-     <link>https://www.data.gouv.fr/fr/dataset/sejours-d-hospitalisation-partielle-de-mco-par-age-pour-l-ensemble-des-diagnostics</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données PMSI-MCO, Drees L'hospitalisation partielle est une hospitalisation inférieure à 24 heures ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
