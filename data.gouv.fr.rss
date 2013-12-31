@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 31 Dec 2013 13:20:02 +0100</pubDate>
+  <pubDate>Tue, 31 Dec 2013 15:00:03 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Offrelégale.fr : liste et description des plateformes publiées, décembre 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/offrelegale-fr-liste-et-description-des-plateformes-publiees-decembre-2013</link>
+     <description><![CDATA[Données descriptives des plateformes publiées sur offrelegale.fr, site qui recense les offres culturelles labellisées Hadopi ou pouvant être regardées comme étant légales. ]]></description>
+     <author>Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (HADOPI) (certifié)</author>
+  </item>
   <item>
      <title>Agenda culturel</title>
      <link>https://www.data.gouv.fr/fr/dataset/agenda-culturel</link>
@@ -358,12 +364,6 @@
      <title>Consommation de tabac</title>
      <link>https://www.data.gouv.fr/fr/dataset/consommation-de-tabac</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Cdit, Insee, Irdes, OFDT, Seita ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Morbidité et facteurs de risque dans l'enquête ESPS</title>
-     <link>https://www.data.gouv.fr/fr/dataset/morbidite-et-facteurs-de-risque-dans-l-enquete-esps</link>
-     <description><![CDATA[Morbidité et facteurs de risque déclarés dans l’Enquête ESPS ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
