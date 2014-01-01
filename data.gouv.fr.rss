@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 01 Jan 2014 15:20:03 +0100</pubDate>
+  <pubDate>Wed, 01 Jan 2014 16:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title> PLF 2014 - Budget général (BG) par destination (mission/programme/T2/HT2)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/plf-2014-budget-general-bg-par-destination-mission-programme-t2-ht2</link>
+     <description><![CDATA[Base croisant deux bases existant sur data.gouv.fr : - PLF 2014 - Budget général (BG) par destination - PLF 2014 - Nomenclature par destination ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Etude sur le jeu vidéo protégé - juillet 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/etude-sur-le-jeu-video-protege-juillet-2013</link>
@@ -358,12 +364,6 @@
      <title>Capacités d'accueil des centres hospitaliers régionaux</title>
      <link>https://www.data.gouv.fr/fr/dataset/capacites-d-accueil-des-centres-hospitaliers-regionaux</link>
      <description><![CDATA[Nombre de lits et nombre de places en hospitalisation complète, hospitalisation partielle et en HAD (ensemble des disciplines) Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees, fichier Sae ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Journées d'hospitalisation complète en MCO par âge pour l'ensemble des diagnostics</title>
-     <link>https://www.data.gouv.fr/fr/dataset/journees-d-hospitalisation-complete-en-mco-par-age-pour-l-ensemble-des-diagnostics</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données PMSI-MCO, Drees ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
