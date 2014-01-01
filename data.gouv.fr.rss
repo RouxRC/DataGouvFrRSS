@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 31 Dec 2013 23:50:03 +0100</pubDate>
+  <pubDate>Wed, 01 Jan 2014 15:20:03 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Etude sur le jeu vidéo protégé - juillet 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/etude-sur-le-jeu-video-protege-juillet-2013</link>
+     <description><![CDATA[Etude quantitative en ligne sur un échantillon principal représentatif des consommateurs de jeux vidéos en France, et un suréchantillon de joueurs fréquents. ]]></description>
+     <author>Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (HADOPI) (certifié)</author>
+  </item>
   <item>
      <title>Offrelégale.fr : liste et description des plateformes publiées, décembre 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/offrelegale-fr-liste-et-description-des-plateformes-publiees-decembre-2013</link>
@@ -358,12 +364,6 @@
      <title>Journées d'hospitalisation complète en MCO par âge pour l'ensemble des diagnostics</title>
      <link>https://www.data.gouv.fr/fr/dataset/journees-d-hospitalisation-complete-en-mco-par-age-pour-l-ensemble-des-diagnostics</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données PMSI-MCO, Drees ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Consommation de tabac</title>
-     <link>https://www.data.gouv.fr/fr/dataset/consommation-de-tabac</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Cdit, Insee, Irdes, OFDT, Seita ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
