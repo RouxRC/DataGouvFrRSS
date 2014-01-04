@@ -8,7 +8,8 @@ url="https://www.$dom"
 touch "$dom.rss" last.html
 curl -s "$url/fr/datasets/recent" > recent.html
 
-if ! diff last.html recent.html |
+if ! diff last.html recent.html   |
+  grep -v 'title=".* \(pag\|Seit\)e">' |
   grep "^>" > /dev/null; then
     rm -f recent.html
     exit 0
@@ -40,7 +41,7 @@ for page in $(seq 5); do
     sed 's/\s\+/ /g'                                |
     sed 's/<ul class="pagination">.*$//'            |
     sed 's#\(href="\)\([^"]\+\)"#\1'"$url"'\2"#g'   |
-    grep 'dataset-result'                            |
+    grep 'dataset-result'                           |
     while read line; do
       author=""
       if echo $line | grep '/img/placeholder_producer.png' > /dev/null; then
@@ -63,6 +64,7 @@ for page in $(seq 5); do
     done
 
   if [ $page -eq 1 ]; then
+    mv -f last.html lastold.html
     mv -f recent.html last.html
   else
     rm -f recent.html
