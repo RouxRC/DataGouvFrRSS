@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 03 Jan 2014 16:10:40 +0100</pubDate>
+  <pubDate>Mon, 06 Jan 2014 17:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title> PLF 2014 - Budget général (BG) par destination (mission/programme/action/titre) </title>
@@ -293,6 +293,78 @@
      <link>https://www.data.gouv.fr/fr/dataset/contours-des-departements-francais-issus-d-openstreetmap</link>
      <description><![CDATA[Exports du découpage administratif français au niveau départemental (contours des départements) issu d'OpenStreetMap produit dans sa grande majorité à partir du cadastre. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les...]]></description>
      <author>OpenStreetMap</author>
+  </item>
+  <item>
+     <title>Accords Mets et Vins</title>
+     <link>https://www.data.gouv.fr/fr/dataset/accords-mets-et-vins</link>
+     <description><![CDATA[Liste d'accords mets et vins proposés par les utilisateurs de la plateforme Mets &amp; Vins. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Redevances de réutilisation</title>
+     <link>https://www.data.gouv.fr/fr/dataset/redevances-de-reutilisation</link>
+     <description><![CDATA[Tableau de synthèse des redevances de réutilisations perçues entre 2010 et 2012 par les services publics administratifs de l’État. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Prix de l'immobilier d'habitation à Paris depuis 1840</title>
+     <link>https://www.data.gouv.fr/fr/dataset/prix-de-l-immobilier-d-habitation-a-paris-depuis-1840</link>
+     <description><![CDATA[Cet indice du prix des logements à Paris depuis 1840 a été reconstitué par J. Friggit (CGEDD) en chaînant l'indice de Gaston Duon sur 1840-1944, un indice reconstitué par une méthode de ventes répétées à partir des bases de données notariales de 1944 à 1999 et l'indice Notaires-INSEE à partir de 1999. La méthodologie est décrite au § 1.2. de la note "Comparing Four Secular Home Price Indices"...]]></description>
+     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
+  </item>
+  <item>
+     <title>Equipement en services d'éducation spéciale et de soins à domicile ou Sessad</title>
+     <link>https://www.data.gouv.fr/fr/dataset/equipement-en-services-d-education-speciale-et-de-soins-a-domicile-ou-sessad</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Statiss, Drees ]]></description>
+     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
+  </item>
+  <item>
+     <title>Le marché du médicament à l'heure des pharmacies et parapharmacies en ligne</title>
+     <link>https://www.data.gouv.fr/fr/dataset/le-marche-du-medicament-a-l-heure-des-pharmacies-et-parapharmacies-en-ligne</link>
+     <description><![CDATA[Depuis le 2 janvier 2013, les pharmacies Françaises peuvent vendre des médicaments sur Internet, se mettant ainsi en conformité avec une directive européenne accordant la vente en ligne de médicaments en libre accès. Cette pratique est encadrée par le code de la santé publique (articles L. 5125-33 et suivants, et R. 5125-70 et suivants). Les bonnes pratiques de dispensation des médicaments par...]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Equipement en services de soins infirmiers à domicile ou SSIAD</title>
+     <link>https://www.data.gouv.fr/fr/dataset/equipement-en-services-de-soins-infirmiers-a-domicile-ou-ssiad</link>
+     <description><![CDATA[Équipement et taux d'équipement en SSIAD pour personnes âgées dépendantes ]]></description>
+     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
+  </item>
+  <item>
+     <title>Bénéficiaires de la CMU par régions et départements</title>
+     <link>https://www.data.gouv.fr/fr/dataset/beneficiaires-de-la-cmu-par-regions-et-departements</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees et Fonds CMUstrong text ]]></description>
+     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
+  </item>
+  <item>
+     <title>Liste des déchèteries et des ressourceries en Saône-et-Loire</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-decheteries-et-des-ressourceries-en-saone-et-loire</link>
+     <description><![CDATA[En Saône-et-Loire, les ménages assurent en partie le tri des différents déchets ne pouvant pas être pris en charge par les autres collectes, notamment par le ramassage des Ordures Ménagères, du fait de leur encombrement ou de leur toxicité (encombrants, ferraille, déchets dangereux…). Pour cela 71 déchèteries ont été construites par les collectivités territoriales et ce dès 1987, pour assurer...]]></description>
+     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
+  </item>
+  <item>
+     <title>Bénéficiaires du RSA ou revenu de solidarité active par départements et régions</title>
+     <link>https://www.data.gouv.fr/fr/dataset/beneficiaires-du-rsa-ou-revenu-de-solidarite-active-par-departements-et-regions</link>
+     <description><![CDATA[Nombre de foyers et de personnes couverts par le RSA par départements et régions ]]></description>
+     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
+  </item>
+  <item>
+     <title>Bénéficiaires du RSA ou revenu de solidarité active</title>
+     <link>https://www.data.gouv.fr/fr/dataset/beneficiaires-du-rsa-ou-revenu-de-solidarite-active</link>
+     <description><![CDATA[Nombre de personnes ou de foyers couverts par le RSA Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Cnaf ]]></description>
+     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
+  </item>
+  <item>
+     <title>Bénéficiaires de la CMU</title>
+     <link>https://www.data.gouv.fr/fr/dataset/beneficiaires-de-la-cmu</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees, Fonds CMU ]]></description>
+     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
+  </item>
+  <item>
+     <title>Prévisions de vent à 10m issues du modèle AROME Météo-France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/previsions-de-vent-a-10m-issues-du-modele-arome-meteo-france</link>
+     <description><![CDATA[Vent 10m au dessus du sol. Prévisions à 30 heures du modèle AROME à aire limitée et maille fine sur la France. Mise à jour quotidienne, et archives depuis le 2 décembre 2013. Nous avons mis en place un robot qui extrait l'information contenue dans les Animation Cartes modèles atmosphériques de Météo-France. Ces valeurs sont issues d'une lecture automatique. Nous ne pouvons pas garantir...]]></description>
+     <author>Open Météo Foundation</author>
   </item>
  </channel>
 </rss>
