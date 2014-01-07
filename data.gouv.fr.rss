@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 06 Jan 2014 17:40:02 +0100</pubDate>
+  <pubDate>Tue, 07 Jan 2014 09:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Projets d'aide de la France au Mali</title>
+     <link>https://www.data.gouv.fr/fr/dataset/projets-d-aide-de-la-france-au-mali</link>
+     <description><![CDATA[Données détaillées sur les projets d'aide de la France au Mali. ]]></description>
+     <author>Ministère des Affaires Etrangères (certifié)</author>
+  </item>
   <item>
      <title> PLF 2014 - Budget général (BG) par destination (mission/programme/action/titre) </title>
      <link>https://www.data.gouv.fr/fr/dataset/plf-2014-budget-general-bg-par-destination-mission-programme-action-titre</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/beneficiaires-de-la-cmu</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees, Fonds CMU ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Prévisions de vent à 10m issues du modèle AROME Météo-France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/previsions-de-vent-a-10m-issues-du-modele-arome-meteo-france</link>
-     <description><![CDATA[Vent 10m au dessus du sol. Prévisions à 30 heures du modèle AROME à aire limitée et maille fine sur la France. Mise à jour quotidienne, et archives depuis le 2 décembre 2013. Nous avons mis en place un robot qui extrait l'information contenue dans les Animation Cartes modèles atmosphériques de Météo-France. Ces valeurs sont issues d'une lecture automatique. Nous ne pouvons pas garantir...]]></description>
-     <author>Open Météo Foundation</author>
   </item>
  </channel>
 </rss>
