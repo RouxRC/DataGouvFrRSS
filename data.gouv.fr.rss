@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 07 Jan 2014 09:50:02 +0100</pubDate>
+  <pubDate>Tue, 07 Jan 2014 10:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Ambassades étrangères en France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/ambassades-etrangeres-en-france</link>
+     <description><![CDATA[Liste des ambassades étrangères recensées par le Ministère des Affaires Etrangères. Source du .pdf : http://www.citoyennumerique.fr/wp-content/uploads/2013/10/Ambassades-et-consulats-etrangers-en-France.pdf Trouvé sur : http://www.mfe.org/index.php/Annuaires/Ambassades-et-consulats-etrangers-en-France ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Projets d'aide de la France au Mali</title>
      <link>https://www.data.gouv.fr/fr/dataset/projets-d-aide-de-la-france-au-mali</link>
@@ -358,12 +364,6 @@
      <title>Bénéficiaires du RSA ou revenu de solidarité active</title>
      <link>https://www.data.gouv.fr/fr/dataset/beneficiaires-du-rsa-ou-revenu-de-solidarite-active</link>
      <description><![CDATA[Nombre de personnes ou de foyers couverts par le RSA Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Cnaf ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Bénéficiaires de la CMU</title>
-     <link>https://www.data.gouv.fr/fr/dataset/beneficiaires-de-la-cmu</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees, Fonds CMU ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
