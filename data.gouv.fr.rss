@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 08 Jan 2014 15:30:02 +0100</pubDate>
+  <pubDate>Wed, 08 Jan 2014 17:10:03 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Indicateur Avancé Sanitaire IAS® - SYNDROME GRIPPAL</title>
+     <link>https://www.data.gouv.fr/fr/dataset/indicateur-avance-sanitaire-ias-syndrome-grippal</link>
+     <description><![CDATA[L’objectif de l’Indicateur Avancé Sanitaire (IAS®) "Syndrome Grippal" est de contribuer à la surveillance des syndromes grippaux en France en apportant des informations complémentaires à celles du réseau Sentinelles. Cet indicateur a été validé par comparaison avec les données du réseau Sentinelles. Au niveau national, La corrélation croisée avec le réseau Sentinelle est forte (0,88)....]]></description>
+     <author>CELTIPHARM</author>
+  </item>
   <item>
      <title>URL des sites publics</title>
      <link>https://www.data.gouv.fr/fr/dataset/url-des-sites-publi-0</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/beneficiaires-de-la-cmu-par-regions-et-departements</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees et Fonds CMUstrong text ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Liste des déchèteries et des ressourceries en Saône-et-Loire</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-decheteries-et-des-ressourceries-en-saone-et-loire</link>
-     <description><![CDATA[En Saône-et-Loire, les ménages assurent en partie le tri des différents déchets ne pouvant pas être pris en charge par les autres collectes, notamment par le ramassage des Ordures Ménagères, du fait de leur encombrement ou de leur toxicité (encombrants, ferraille, déchets dangereux…). Pour cela 71 déchèteries ont été construites par les collectivités territoriales et ce dès 1987, pour assurer...]]></description>
-     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
   </item>
  </channel>
 </rss>
