@@ -4,7 +4,367 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 09 Jan 2014 17:31:05 +0100</pubDate>
+  <pubDate>Thu, 09 Jan 2014 17:40:03 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Population par tranches d'âge et sexe (estimations localisées de population)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/population-par-tranches-d-age-et-sexe-estimations-localisees-de-population</link>
+     <description><![CDATA[Régions &amp; départements. Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Insee ]]></description>
+     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
+  </item>
+  <item>
+     <title>Indicateur Avancé Sanitaire IAS® - SYNDROME GRIPPAL</title>
+     <link>https://www.data.gouv.fr/fr/dataset/indicateur-avance-sanitaire-ias-syndrome-grippal</link>
+     <description><![CDATA[L’objectif de l’Indicateur Avancé Sanitaire (IAS®) "Syndrome Grippal" est de contribuer à la surveillance des syndromes grippaux en France en apportant des informations complémentaires à celles du réseau Sentinelles. Cet indicateur a été validé par comparaison avec les données du réseau Sentinelles. Au niveau national, La corrélation croisée avec le réseau Sentinelle est forte (0,88)....]]></description>
+     <author>CELTIPHARM</author>
+  </item>
+  <item>
+     <title>URL des sites publics</title>
+     <link>https://www.data.gouv.fr/fr/dataset/url-des-sites-publi-0</link>
+     <description><![CDATA[Il s’agit de l’ensemble des URL des sites publics recensés et présentés dans l’annuaire de l’administration française du site Service-public.fr ]]></description>
+     <author>Premier ministre (certifié)</author>
+  </item>
+  <item>
+     <title>Evénements publiés via Cibul</title>
+     <link>https://www.data.gouv.fr/fr/dataset/evenements-publies-via-cibul</link>
+     <description><![CDATA[Cibul est un logiciel d'agenda pour organisateur d'événements: théâtres, concerts, expositions, salons, conférences, etc. Voici la base de données complètes des événements mis en ligne par nos utilisateurs, avec les coordonnées géographiques précises et les plages horaires détaillées. Contact: romain.lange@Cibul.net ]]></description>
+     <author>Cibul</author>
+  </item>
+  <item>
+     <title>Ambassades étrangères en France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/ambassades-etrangeres-en-france</link>
+     <description><![CDATA[Liste des ambassades étrangères recensées par le Ministère des Affaires Etrangères. Source du .pdf : http://www.citoyennumerique.fr/wp-content/uploads/2013/10/Ambassades-et-consulats-etrangers-en-France.pdf Trouvé sur : http://www.mfe.org/index.php/Annuaires/Ambassades-et-consulats-etrangers-en-France ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Projets d'aide de la France au Mali</title>
+     <link>https://www.data.gouv.fr/fr/dataset/projets-d-aide-de-la-france-au-mali</link>
+     <description><![CDATA[Données détaillées sur les projets d'aide de la France au Mali. ]]></description>
+     <author>Ministère des Affaires Etrangères (certifié)</author>
+  </item>
+  <item>
+     <title> PLF 2014 - Budget général (BG) par destination (mission/programme/action/titre) </title>
+     <link>https://www.data.gouv.fr/fr/dataset/plf-2014-budget-general-bg-par-destination-mission-programme-action-titre</link>
+     <description><![CDATA[Croisement de plusieurs fichiers déjà présents sur data.gouv.fr ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title> PLF 2014 - Budget général (BG) par destination (mission/programme/T2/HT2)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/plf-2014-budget-general-bg-par-destination-mission-programme-t2-ht2</link>
+     <description><![CDATA[Base croisant deux bases existant sur data.gouv.fr : - PLF 2014 - Budget général (BG) par destination - PLF 2014 - Nomenclature par destination ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Etude sur le jeu vidéo protégé - juillet 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/etude-sur-le-jeu-video-protege-juillet-2013</link>
+     <description><![CDATA[Etude quantitative en ligne sur un échantillon principal représentatif des consommateurs de jeux vidéos en France, et un suréchantillon de joueurs fréquents. ]]></description>
+     <author>Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (HADOPI) (certifié)</author>
+  </item>
+  <item>
+     <title>Offrelégale.fr : liste et description des plateformes publiées, décembre 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/offrelegale-fr-liste-et-description-des-plateformes-publiees-decembre-2013</link>
+     <description><![CDATA[Données descriptives des plateformes publiées sur offrelegale.fr, site qui recense les offres culturelles labellisées Hadopi ou pouvant être regardées comme étant légales. ]]></description>
+     <author>Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (HADOPI) (certifié)</author>
+  </item>
+  <item>
+     <title>Agenda culturel</title>
+     <link>https://www.data.gouv.fr/fr/dataset/agenda-culturel</link>
+     <description><![CDATA[Le jeu de données, proposé par Infolocale, contient l’agenda des événements culturels en France. Ce jeu de données fait l’objet d’un enrichissement et d’un élargissement géographique régulier. ]]></description>
+     <author>Infolocale</author>
+  </item>
+  <item>
+     <title>Statistique annuelle des établissements de santé (SAE)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/statistique-annuelle-des-etablissements-de-sante-s-0</link>
+     <description><![CDATA[Indicateurs sur l'activité et les ressources en équipements et en personnels des établissements de santé entrant dans le champs de l'enquête annuelle des établissements de santé (SAE) ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Indicateur Avancé Sanitaire IAS® - GASTRO-ENTERITE</title>
+     <link>https://www.data.gouv.fr/fr/dataset/indicateur-avance-sanitaire-ias-gastro-enterite</link>
+     <description><![CDATA[L’objectif de l’IAS® Incidence de la gastro-entérite est de réaliser une surveillance syndromique de la gastro-entérite en France. La gastro-entérite est un syndrome pouvant avoir de nombreuses origines : bactérienne (consommation d'eau ou de nourriture contaminée par des bactéries), parasitaire (protozoaires, amibes) ou virales (Rotavirus, Norovirus…). La gastro-entérite sévit toute l’année,...]]></description>
+     <author>CELTIPHARM</author>
+  </item>
+  <item>
+     <title>Attributions de cartes de presse en 2012</title>
+     <link>https://www.data.gouv.fr/fr/dataset/attributions-de-cartes-de-presse-en-2012</link>
+     <description><![CDATA[Données publiées par la Commission de la carte d'identité des journalistes professionnels. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Données sur les hébergements de vacances type &#34;Gîte&#34; dans le Perche</title>
+     <link>https://www.data.gouv.fr/fr/dataset/donnees-sur-les-hebergements-de-vacances-type-gite-dans-le-perche</link>
+     <description><![CDATA[Bonjour, je suis à la recherche de données tableau sur la zone du Perche et ses principales communes : Mortagne au Perche, le Gault du Perche, Nogent le Rotrou... en en particulier sur les gîtes dans le Perche (fréquentations, prix moyens de la nuitée, saisons les plus favorables pour le tourisme...). De manière générale, toute les données touristique de cette zone géographique aux frontières...]]></description>
+     <author>Gite Perche</author>
+  </item>
+  <item>
+     <title>Les ménages et leur logement depuis 1955 et 1970: quelques résultats extraits des enquêtes logement</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-menages-et-leur-logement-depuis-1955-et-1970-quelques-resultats-extraits-des-enquetes-logement</link>
+     <description><![CDATA[Ces valeurs numériques supportent et complètent la note du CGEDD "Les ménages et leurs logements depuis 1955 et 1970, quelques résultats sur longue période extraits des enquêtes logement" (J. Friggit, août 2010). L'utilisateur des données est invité, avant tout usage, à lire cette note, et notamment les précautions d'emploi. Cette note fait partie du dossier sur le prix de l'immobilier sur le...]]></description>
+     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
+  </item>
+  <item>
+     <title>Commune de Brocas : Impôts</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-impots</link>
+     <description><![CDATA[Eléments concernant les impôts pour la commune de Brocas ]]></description>
+     <author>Commune de Brocas (certifié)</author>
+  </item>
+  <item>
+     <title>Commune de Brocas : Sport</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-sport</link>
+     <description><![CDATA[Eléments concernant le sport pour la commune de Brocas ]]></description>
+     <author>Commune de Brocas (certifié)</author>
+  </item>
+  <item>
+     <title>Commune de Brocas : Opendata</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-opendata</link>
+     <description><![CDATA[Eléments régissant la libération des données pour la commune de Brocas ]]></description>
+     <author>Commune de Brocas (certifié)</author>
+  </item>
+  <item>
+     <title>Commune de Brocas : Gites communaux</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-gites-communaux</link>
+     <description><![CDATA[Éléments concernant les gîtes de la communes de Brocas ]]></description>
+     <author>Commune de Brocas (certifié)</author>
+  </item>
+  <item>
+     <title>Commune de Brocas : Gestion forestière</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-gestion-forestiere</link>
+     <description><![CDATA[Éléments concernant la gestion forestière de la commune de Brocas ]]></description>
+     <author>Commune de Brocas (certifié)</author>
+  </item>
+  <item>
+     <title>Nombre de ventes de maisons et appartements anciens</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-ventes-de-maisons-et-appartements-anciens</link>
+     <description><![CDATA[Nombre de ventes de maisons et appartements anciens, depuis 1992. Méthode d'estimation ]]></description>
+     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
+  </item>
+  <item>
+     <title>Limites administratives françaises issues d'OpenStreetMap</title>
+     <link>https://www.data.gouv.fr/fr/dataset/limites-administratives-francaises-issues-d-openstreetmap</link>
+     <description><![CDATA[Exports des limites des communes (sous forme linéaire) issues d'OpenStreetMap produit dans sa grande majorité à partir du cadastre. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les contributeurs d'OpenStreetMap sous licence ODbL"...]]></description>
+     <author>OpenStreetMap</author>
+  </item>
+  <item>
+     <title>Commune de Brocas : Vie municipale</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-vie-municipale</link>
+     <description><![CDATA[Éléments concernant la vie municipale (2008-2012) pour la commune de Brocas ]]></description>
+     <author>Commune de Brocas (certifié)</author>
+  </item>
+  <item>
+     <title>Commune de Brocas : Histoire</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-histoire</link>
+     <description><![CDATA[Eléments concernant l'histoire de la commune de Brocas ]]></description>
+     <author>Commune de Brocas (certifié)</author>
+  </item>
+  <item>
+     <title>Commune de Brocas : Etat civil</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-etat-civil-0</link>
+     <description><![CDATA[Eléments concernant l'Etat Civil pour la commune de Brocas ]]></description>
+     <author>Commune de Brocas (certifié)</author>
+  </item>
+  <item>
+     <title> Commune de Brocas : Elections</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-elections</link>
+     <description><![CDATA[Éléments concernant les élections Européennes, Présidentielles, Législatives et Cantonales pour la commune de Brocas ]]></description>
+     <author>Commune de Brocas (certifié)</author>
+  </item>
+  <item>
+     <title>Commune de Brocas : Ecole</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-ecole-0</link>
+     <description><![CDATA[Eléments concernant l’école pour la commune de Brocas (Compétence : Communauté de Communes du Pays d'Albret) ]]></description>
+     <author>Commune de Brocas (certifié)</author>
+  </item>
+  <item>
+     <title>Commune de Brocas : Eau</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-eau</link>
+     <description><![CDATA[Eléments concernant la gestion de l'eau (Compétence : Communauté de Communes du Pays d'Albret) ]]></description>
+     <author>Commune de Brocas (certifié)</author>
+  </item>
+  <item>
+     <title>Commune de Brocas : Memento</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-memento</link>
+     <description><![CDATA[Mémento téléphonique ]]></description>
+     <author>Commune de Brocas (certifié)</author>
+  </item>
+  <item>
+     <title>Commune de Brocas : Etablissements</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-etablissements-0</link>
+     <description><![CDATA[Eléments concernant les ERP et IOP appartenant à la commune de Brocas ]]></description>
+     <author>Commune de Brocas (certifié)</author>
+  </item>
+  <item>
+     <title>Commune de Brocas : Cartographie</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-cartographie</link>
+     <description><![CDATA[Eléments concernant la cartographie de la commune de Brocas ]]></description>
+     <author>Commune de Brocas (certifié)</author>
+  </item>
+  <item>
+     <title>Equipements de sports d'hiver: pistes de ski, remontées, etc</title>
+     <link>https://www.data.gouv.fr/fr/dataset/equipements-de-sports-d-hiver-pistes-de-ski-remontees-etc</link>
+     <description><![CDATA[Requête API d'extraction des données sur les pistes de ski alpin et les remontées mécaniques présentes dans les donnes OpenStreetMap sur le territoire métropolitain. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les contributeurs...]]></description>
+     <author>OpenStreetMap</author>
+  </item>
+  <item>
+     <title>Commune de Brocas : Accidentologie</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-accidentologie</link>
+     <description><![CDATA[Eléments concernant l'accidentologie routière sur la commune de Brocas ]]></description>
+     <author>Commune de Brocas (certifié)</author>
+  </item>
+  <item>
+     <title>Commune de Brocas : Biodiversité</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-biodiversite-0</link>
+     <description><![CDATA[Eléments concernant la biodiversité de la commune de Brocas ]]></description>
+     <author>Commune de Brocas (certifié)</author>
+  </item>
+  <item>
+     <title>Commune de Brocas : Associations</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-associations</link>
+     <description><![CDATA[Eléments concernant les associations de la commune de Brocas ]]></description>
+     <author>Commune de Brocas (certifié)</author>
+  </item>
+  <item>
+     <title>Commune de Brocas : Budget</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-budget</link>
+     <description><![CDATA[Eléments concernant le budget de la commune de Brocas ]]></description>
+     <author>Commune de Brocas (certifié)</author>
+  </item>
+  <item>
+     <title>Prix immobilier et revenu dans les villes d'Ile-de-France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/prix-immobilier-et-revenu-dans-les-villes-d-ile-de-france</link>
+     <description><![CDATA[Valeurs numériques du graphique de l’article « Le lien entre prix des logements et revenu par ménage dans les principales villes d’Ile-de-France », J. Friggit, janvier 2010, paru dans la note de conjoncture des Notaires de France. ]]></description>
+     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
+  </item>
+  <item>
+     <title>Prix immobilier et revenu dans les agglomérations françaises</title>
+     <link>https://www.data.gouv.fr/fr/dataset/prix-immobilier-et-revenu-dans-les-agglomerations-francaises</link>
+     <description><![CDATA[Valeurs numériques du graphique de l’article « Le lien entre prix des logements et revenu par ménage dans les principales agglomérations », J. Friggit, avril 2010, paru dans la note de conjoncture des Notaires de France. ]]></description>
+     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
+  </item>
+  <item>
+     <title>Points d'intérêt OpenStreetMap en France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/points-d-interet-openstreetmap-en-france</link>
+     <description><![CDATA[Liste des commodités (amenity) extraite des données OpenStreetMap situées en France métropolitainestrong text. Données © contributeurs OpenStreetMap ]]></description>
+     <author>OpenDataSoft</author>
+  </item>
+  <item>
+     <title>Base Permanente des Équipements</title>
+     <link>https://www.data.gouv.fr/fr/dataset/base-permanente-des-equipements</link>
+     <description><![CDATA[La base permanente des équipements (BPE) contient pour chaque territoire la liste des équipements et des services rendus à la population. Cette base permet de mesurer la présence ou l'absence d'un équipement, la densité d'un équipement ou un indicateur de disponibilité d'un équipement du point de vue des habitants. Ces données sont disponibles par région, département, commune ou quartier IRIS. ]]></description>
+     <author>OpenDataSoft</author>
+  </item>
+  <item>
+     <title>Valeurs immobilières, économiques et financières de 1800 à 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/valeurs-immobilieres-economiques-et-financieres-de-1800-a-2010</link>
+     <description><![CDATA[Séries longues de valeurs annuelles de 1800 à 2010, qui supportent et actualisent les résultats présentés dans le dossier sur le prix de l'immobilier d'habitation sur le long terme tenu à jour par le CGEDD, et notamment ces graphiques sur le prix de l'immobilier d'habitation: prix immobiliers (indices de prix de vente et de loyer des logements), nombre et montant des ventes immobilières, taux...]]></description>
+     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
+  </item>
+  <item>
+     <title>Google Search History</title>
+     <link>https://www.data.gouv.fr/fr/dataset/google-search-history</link>
+     <description><![CDATA[Et si les données de recherches sur Google des internautes étaient des données culturelles ouvertes! En 2006, Google lance le service Search History et stocke les recherches des internautes. Depuis ce premier jour, albertine meunier compile scrupuleusement ses recherches et les donne à voir au public. Plus de trois années se sont écoulées : les recherches d’albertine mises bout à bout...]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Correspondance entre les codes postaux et codes INSEE des communes Françaises.</title>
+     <link>https://www.data.gouv.fr/fr/dataset/correspondance-entre-les-codes-postaux-et-codes-insee-des-communes-francaises</link>
+     <description><![CDATA[Ce jeu de données intègre par ailleurs des données de référence sur les communes: Population Superficie Altitude moyenne Forme géographique Ce jeu de données a été constitué à partir des données de la base GEOFLA® mise à disposition par l'IGN (codes INSEE) ainsi qu'à partir de données Wikipédia (codes postaux). ]]></description>
+     <author>OpenDataSoft</author>
+  </item>
+  <item>
+     <title>Référentiel Foncier Unifié</title>
+     <link>https://www.data.gouv.fr/fr/dataset/referentiel-foncier-unifie</link>
+     <description><![CDATA[Le Référentiel Foncier Unifié (RFU) est un référentiel géographique géoréférencé à résolution centimétrique entrepris en France par les géomètres-experts français. Sa mise en production date du 1er juillet 2010. Produit sur l'ensemble du territoire (métropole et DOM), le Référentiel Foncier Unifié peut être visualisé sur le portail GéoFoncier. Le RFU se compose de deux couches de données...]]></description>
+     <author>Ordre des Géomètres-Experts</author>
+  </item>
+  <item>
+     <title>Données OpenStreetMap intégrales de France Métropolitaine</title>
+     <link>https://www.data.gouv.fr/fr/dataset/donnees-openstreetmap-integrales-de-france-metropolitaine</link>
+     <description><![CDATA[Extrait quotidien et fichiers de mise à jour de l'intégralité des données OpenStreetMap sur la France métropolitaine. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont donc sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les contributeurs d'OpenStreetMap sous licence ODbL"...]]></description>
+     <author>OpenStreetMap</author>
+  </item>
+  <item>
+     <title>Assiette des droits de mutation immobiliers</title>
+     <link>https://www.data.gouv.fr/fr/dataset/assiette-des-droits-de-mutation-immobiliers</link>
+     <description><![CDATA[Assiette des droits de mutation immobiliers (parfois improprement appelés "frais de notaire"), par mois, département et type de droit, calculée à partir du produit des droits d'enregistrement perçus par la Direction Générale des Finances Publiques et publiée par le CGEDD (J. Friggit) dans son dossier sur le prix de l'immobilier sur le long terme. Cette série supporte notamment ces graphiques...]]></description>
+     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
+  </item>
+  <item>
+     <title>Nombre de ventes immobilières taxées au taux de droit commun</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-ventes-immobilieres-taxees-au-taux-de-droit-commun</link>
+     <description><![CDATA[Nombre de ventes immobilières (logements, terrains et immobilier commercial) taxées au taux de droit commun ]]></description>
+     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
+  </item>
+  <item>
+     <title>Prix de l'immobilier d'habitation à Paris depuis 1200</title>
+     <link>https://www.data.gouv.fr/fr/dataset/prix-de-l-immobilier-d-habitation-a-paris-depuis-1200-0</link>
+     <description><![CDATA[Ces indices de prix de l'immobilier d'habitation à Paris depuis 1200 sont présentés en détail au § 1.2. de la note "Comparing Four Secular Home Price Indices" (J. Friggit, juin 2008) téléchargeable au § 2.3. du dossier sur le prix de l'immobilier d'habitation sur le long terme tenu à jour par le CGEDD. Ces indices supportent notamment ces graphiques sur le prix de l'immobilier d'habitation. ]]></description>
+     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
+  </item>
+  <item>
+     <title>Contours des EPCI 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/contours-des-epci-2013</link>
+     <description><![CDATA[Contours géographiques des EPCI issu du croisement des limites communales d'OpenStreetMap et des données du Ministère de l'Intérieur sur les EPCI datant de 2013. Ces données sont en partie issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont donc sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les...]]></description>
+     <author>OpenStreetMap</author>
+  </item>
+  <item>
+     <title>Jeux de données de travail sur l'immigration</title>
+     <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-de-travail-sur-l-immigration-0</link>
+     <description><![CDATA[Ce jeu de données participatif tente de consolider : - une évaluation de la population ayant au moins un ancêtre issu de l'immigration - une évalutation de l'impact économique de l'immigration, y compris en temps de "crise" ]]></description>
+     <author>Un sur Quatre</author>
+  </item>
+  <item>
+     <title>Délai d'attente rendez-vous gynécologue</title>
+     <link>https://www.data.gouv.fr/fr/dataset/delai-d-attente-rendez-vous-gynecologue-0</link>
+     <description><![CDATA[Pour connaître les délais d’attente moyens pour une prise de rendez-vous auprès d’un médecin spécialiste, l’UFC-Que Choisir a, en septembre et octobre 2012, mené une campagne d’appels auprès de 230 gynécologues. ]]></description>
+     <author>UFC Que Choisir</author>
+  </item>
+  <item>
+     <title>Contours des arrondissements français issus d'OpenStreetMap</title>
+     <link>https://www.data.gouv.fr/fr/dataset/contours-des-arrondissements-francais-issus-d-openstreetmap-0</link>
+     <description><![CDATA[Exports du découpage administratif français au niveau des arrondissements issu d'OpenStreetMap produit dans sa grande majorité à partir du cadastre. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les contributeurs d'OpenStreetMap...]]></description>
+     <author>OpenStreetMap</author>
+  </item>
+  <item>
+     <title>Contours des régions françaises sur OpenStreetMap</title>
+     <link>https://www.data.gouv.fr/fr/dataset/contours-des-regions-francaises-sur-openstreetmap</link>
+     <description><![CDATA[Exports du découpage administratif français au niveau régional (contours des régions) issu d'OpenStreetMap produit dans sa grande majorité à partir du cadastre. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les contributeurs...]]></description>
+     <author>OpenStreetMap</author>
+  </item>
+  <item>
+     <title>Contours des départements français issus d'OpenStreetMap</title>
+     <link>https://www.data.gouv.fr/fr/dataset/contours-des-departements-francais-issus-d-openstreetmap</link>
+     <description><![CDATA[Exports du découpage administratif français au niveau départemental (contours des départements) issu d'OpenStreetMap produit dans sa grande majorité à partir du cadastre. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les...]]></description>
+     <author>OpenStreetMap</author>
+  </item>
+  <item>
+     <title>Accords Mets et Vins</title>
+     <link>https://www.data.gouv.fr/fr/dataset/accords-mets-et-vins</link>
+     <description><![CDATA[Liste d'accords mets et vins proposés par les utilisateurs de la plateforme Mets &amp; Vins. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Redevances de réutilisation</title>
+     <link>https://www.data.gouv.fr/fr/dataset/redevances-de-reutilisation</link>
+     <description><![CDATA[Tableau de synthèse des redevances de réutilisations perçues entre 2010 et 2012 par les services publics administratifs de l’État. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Prix de l'immobilier d'habitation à Paris depuis 1840</title>
+     <link>https://www.data.gouv.fr/fr/dataset/prix-de-l-immobilier-d-habitation-a-paris-depuis-1840</link>
+     <description><![CDATA[Cet indice du prix des logements à Paris depuis 1840 a été reconstitué par J. Friggit (CGEDD) en chaînant l'indice de Gaston Duon sur 1840-1944, un indice reconstitué par une méthode de ventes répétées à partir des bases de données notariales de 1944 à 1999 et l'indice Notaires-INSEE à partir de 1999. La méthodologie est décrite au § 1.2. de la note "Comparing Four Secular Home Price Indices"...]]></description>
+     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
+  </item>
+  <item>
+     <title>Equipement en services d'éducation spéciale et de soins à domicile ou Sessad</title>
+     <link>https://www.data.gouv.fr/fr/dataset/equipement-en-services-d-education-speciale-et-de-soins-a-domicile-ou-sessad</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Statiss, Drees ]]></description>
+     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
+  </item>
+  <item>
+     <title>Le marché du médicament à l'heure des pharmacies et parapharmacies en ligne</title>
+     <link>https://www.data.gouv.fr/fr/dataset/le-marche-du-medicament-a-l-heure-des-pharmacies-et-parapharmacies-en-ligne</link>
+     <description><![CDATA[Depuis le 2 janvier 2013, les pharmacies Françaises peuvent vendre des médicaments sur Internet, se mettant ainsi en conformité avec une directive européenne accordant la vente en ligne de médicaments en libre accès. Cette pratique est encadrée par le code de la santé publique (articles L. 5125-33 et suivants, et R. 5125-70 et suivants). Les bonnes pratiques de dispensation des médicaments par...]]></description>
+     <author>citoyen</author>
+  </item>
  </channel>
 </rss>
