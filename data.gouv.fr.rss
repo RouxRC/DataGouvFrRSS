@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 09 Jan 2014 13:40:02 +0100</pubDate>
+  <pubDate>Thu, 09 Jan 2014 14:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Commission pour l'indemnisation des victimes de spoliations (CIVS) - Statistiques pour le mois de novembre 2013</title>
@@ -77,6 +77,12 @@
      <link>https://www.data.gouv.fr/fr/dataset/agenda-culturel</link>
      <description><![CDATA[Le jeu de données, proposé par Infolocale, contient l’agenda des événements culturels en France. Ce jeu de données fait l’objet d’un enrichissement et d’un élargissement géographique régulier. ]]></description>
      <author>Infolocale</author>
+  </item>
+  <item>
+     <title>Statistique annuelle des établissements de santé (SAE)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/statistique-annuelle-des-etablissements-de-sante-s-0</link>
+     <description><![CDATA[Indicateurs sur l'activité et les ressources en équipements et en personnels des établissements de santé entrant dans le champs de l'enquête annuelle des établissements de santé (SAE) ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
      <title>Indicateur Avancé Sanitaire IAS® - GASTRO-ENTERITE</title>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/equipement-en-services-d-education-speciale-et-de-soins-a-domicile-ou-sessad</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Statiss, Drees ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Le marché du médicament à l'heure des pharmacies et parapharmacies en ligne</title>
-     <link>https://www.data.gouv.fr/fr/dataset/le-marche-du-medicament-a-l-heure-des-pharmacies-et-parapharmacies-en-ligne</link>
-     <description><![CDATA[Depuis le 2 janvier 2013, les pharmacies Françaises peuvent vendre des médicaments sur Internet, se mettant ainsi en conformité avec une directive européenne accordant la vente en ligne de médicaments en libre accès. Cette pratique est encadrée par le code de la santé publique (articles L. 5125-33 et suivants, et R. 5125-70 et suivants). Les bonnes pratiques de dispensation des médicaments par...]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
