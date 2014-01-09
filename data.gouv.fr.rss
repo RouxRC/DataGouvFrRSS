@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 09 Jan 2014 10:50:02 +0100</pubDate>
+  <pubDate>Thu, 09 Jan 2014 11:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Population par tranches d'âge et sexe (estimations localisées de population)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/population-par-tranches-d-age-et-sexe-estimations-localisees-de-population</link>
+     <description><![CDATA[Régions &amp; départements. Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Insee ]]></description>
+     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
+  </item>
   <item>
      <title>Indicateur Avancé Sanitaire IAS® - SYNDROME GRIPPAL</title>
      <link>https://www.data.gouv.fr/fr/dataset/indicateur-avance-sanitaire-ias-syndrome-grippal</link>
@@ -358,12 +364,6 @@
      <title>Equipement en services de soins infirmiers à domicile ou SSIAD</title>
      <link>https://www.data.gouv.fr/fr/dataset/equipement-en-services-de-soins-infirmiers-a-domicile-ou-ssiad</link>
      <description><![CDATA[Équipement et taux d'équipement en SSIAD pour personnes âgées dépendantes ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Bénéficiaires de la CMU par régions et départements</title>
-     <link>https://www.data.gouv.fr/fr/dataset/beneficiaires-de-la-cmu-par-regions-et-departements</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees et Fonds CMUstrong text ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
