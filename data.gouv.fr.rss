@@ -4,14 +4,8 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 10 Jan 2014 16:30:02 +0100</pubDate>
+  <pubDate>Fri, 10 Jan 2014 16:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
-  <item>
-     <title>Commission pour l'indemnisation des victimes de spoliations (CIVS) - Statistiques pour le mois de novembre 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commission-pour-l-indemnisation-des-victimes-de-spoliations-civs-statistiques-pour-le-mois-de-novemb</link>
-     <description><![CDATA[Les statistiques mensuelles de la CIVS proposent, en plus d'éléments relatifs à l'activité de chaque service, les données suivantes : - nombre de dossiers enregistrés ; - nombre de dossiers traités ; - montant des indemnisations. ]]></description>
-     <author>Premier ministre (certifié)</author>
-  </item>
   <item>
      <title>Population par tranches d'âge et sexe (estimations localisées de population)</title>
      <link>https://www.data.gouv.fr/fr/dataset/population-par-tranches-d-age-et-sexe-estimations-localisees-de-population</link>
@@ -365,6 +359,12 @@
      <link>https://www.data.gouv.fr/fr/dataset/equipement-en-services-d-education-speciale-et-de-soins-a-domicile-ou-sessad</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Statiss, Drees ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
+  </item>
+  <item>
+     <title>Le marché du médicament à l'heure des pharmacies et parapharmacies en ligne</title>
+     <link>https://www.data.gouv.fr/fr/dataset/le-marche-du-medicament-a-l-heure-des-pharmacies-et-parapharmacies-en-ligne</link>
+     <description><![CDATA[Depuis le 2 janvier 2013, les pharmacies Françaises peuvent vendre des médicaments sur Internet, se mettant ainsi en conformité avec une directive européenne accordant la vente en ligne de médicaments en libre accès. Cette pratique est encadrée par le code de la santé publique (articles L. 5125-33 et suivants, et R. 5125-70 et suivants). Les bonnes pratiques de dispensation des médicaments par...]]></description>
+     <author>citoyen</author>
   </item>
  </channel>
 </rss>
