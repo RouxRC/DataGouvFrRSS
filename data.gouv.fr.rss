@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 13 Jan 2014 12:20:02 +0100</pubDate>
+  <pubDate>Mon, 13 Jan 2014 12:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Population par tranches d'âge et sexe (estimations localisées de population)</title>
@@ -29,6 +29,12 @@
      <link>https://www.data.gouv.fr/fr/dataset/evenements-publies-via-cibul</link>
      <description><![CDATA[Cibul est un logiciel d'agenda pour organisateur d'événements: théâtres, concerts, expositions, salons, conférences, etc. Voici la base de données complètes des événements mis en ligne par nos utilisateurs, avec les coordonnées géographiques précises et les plages horaires détaillées. Contact: romain.lange@Cibul.net ]]></description>
      <author>Cibul</author>
+  </item>
+  <item>
+     <title>Statistiques sur les antennes mobiles en France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/statistiques-sur-les-antennes-mobiles-en-france</link>
+     <description><![CDATA[Le marché de la téléphonie mobile explose depuis plusieurs années, entre autre grâce à des abonnements sans engagement -je pense à free mobile qui a initié ce phénomène- de plus en plus accessibles, financièrement parlant. L'effet de bord direct de cette tendance est la multiplication des antennes relais qui émettent sur des fréquences plus ou moins portantes, donc lus ou moins puissantes....]]></description>
+     <author>citoyen</author>
   </item>
   <item>
      <title>Ambassades étrangères en France</title>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/le-marche-du-medicament-a-l-heure-des-pharmacies-et-parapharmacies-en-ligne</link>
      <description><![CDATA[Depuis le 2 janvier 2013, les pharmacies Françaises peuvent vendre des médicaments sur Internet, se mettant ainsi en conformité avec une directive européenne accordant la vente en ligne de médicaments en libre accès. Cette pratique est encadrée par le code de la santé publique (articles L. 5125-33 et suivants, et R. 5125-70 et suivants). Les bonnes pratiques de dispensation des médicaments par...]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Equipement en services de soins infirmiers à domicile ou SSIAD</title>
-     <link>https://www.data.gouv.fr/fr/dataset/equipement-en-services-de-soins-infirmiers-a-domicile-ou-ssiad</link>
-     <description><![CDATA[Équipement et taux d'équipement en SSIAD pour personnes âgées dépendantes ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
 </rss>
