@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 13 Jan 2014 13:40:02 +0100</pubDate>
+  <pubDate>Mon, 13 Jan 2014 16:10:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Population par tranches d'âge et sexe (estimations localisées de population)</title>
@@ -33,7 +33,7 @@
   <item>
      <title>Statistiques sur les antennes mobiles en France</title>
      <link>https://www.data.gouv.fr/fr/dataset/statistiques-sur-les-antennes-mobiles-en-france</link>
-     <description><![CDATA[Le marché de la téléphonie mobile explose depuis plusieurs années, entre autre grâce à des abonnements sans engagement -je pense à free mobile qui a initié ce phénomène- de plus en plus accessibles, financièrement parlant. L'effet de bord direct de cette tendance est la multiplication des antennes relais qui émettent sur des fréquences plus ou moins portantes, donc lus ou moins puissantes....]]></description>
+     <description><![CDATA[Le marché de la téléphonie mobile explose ces dernières années principalement depuis les politiques d'offres sans engagement, initialement lancées par free mobile en janvier 2012, et l’évolution constante des téléphones qui sont désormais de vrais terminaux portables. Les abonnés ont dorénavant besoin d'avoir accès à internet, via leur téléphone, de partout et avec un débit de qualité. Le...]]></description>
      <author>citoyen</author>
   </item>
   <item>
