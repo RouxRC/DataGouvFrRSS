@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 13 Jan 2014 19:40:02 +0100</pubDate>
+  <pubDate>Mon, 13 Jan 2014 19:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Consommation électrique de Télécom Bretagne</title>
@@ -39,7 +39,7 @@
   <item>
      <title>Statistiques sur les antennes mobiles en France</title>
      <link>https://www.data.gouv.fr/fr/dataset/statistiques-sur-les-antennes-mobiles-en-france</link>
-     <description><![CDATA[Le marché de la téléphonie mobile explose ces dernières années principalement depuis les politiques d'offres sans engagement, initialement lancées par free mobile en janvier 2012, et l’évolution constante des téléphones qui sont désormais de vrais terminaux portables. Les abonnés ont dorénavant besoin d'avoir accès à internet, via leur téléphone, de partout et avec un débit de qualité. Le...]]></description>
+     <description><![CDATA[Le marché de la téléphonie mobile explose ces dernières années principalement depuis les politiques d'offres sans engagement, initialement lancées par free mobile en janvier 2012, et l’évolution constante des téléphones qui sont désormais de vrais terminaux portables évolués. Les abonnés ont dorénavant besoin d'avoir accès à internet, via leur téléphone, de partout et avec un débit de...]]></description>
      <author>citoyen</author>
   </item>
   <item>
