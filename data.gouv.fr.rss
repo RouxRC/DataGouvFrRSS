@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 13 Jan 2014 20:00:02 +0100</pubDate>
+  <pubDate>Tue, 14 Jan 2014 10:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Artisans : nombre d'entreprises, chiffre d'affaires et valeur ajoutée</title>
+     <link>https://www.data.gouv.fr/fr/dataset/artisans-nombre-d-entreprises-chiffre-d-affaires-et-valeur-ajoutee</link>
+     <description><![CDATA[Artisans : nombre d'entreprises, chiffre d'affaires et valeur ajoutée ]]></description>
+     <author>Ministère du Redressement productif (certifié)</author>
+  </item>
   <item>
      <title>Consommation électrique de Télécom Bretagne</title>
      <link>https://www.data.gouv.fr/fr/dataset/consommation-electrique-de-telecom-bretagne</link>
@@ -141,7 +147,7 @@
   <item>
      <title>Nombre de ventes de maisons et appartements anciens</title>
      <link>https://www.data.gouv.fr/fr/dataset/nombre-de-ventes-de-maisons-et-appartements-anciens</link>
-     <description><![CDATA[Nombre de ventes de maisons et appartements anciens, depuis 1992. Méthode d'estimation ]]></description>
+     <description><![CDATA[Nombre de ventes de maisons et appartements anciens, depuis 1992. Cette série supporte notamment ces graphiques sur l'évolution du marché immobilier résidentiel. Méthode d'estimation ]]></description>
      <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
   </item>
   <item>
@@ -297,7 +303,7 @@
   <item>
      <title>Nombre de ventes immobilières taxées au taux de droit commun</title>
      <link>https://www.data.gouv.fr/fr/dataset/nombre-de-ventes-immobilieres-taxees-au-taux-de-droit-commun</link>
-     <description><![CDATA[Nombre de ventes immobilières (logements, terrains et immobilier commercial) taxées au taux de droit commun ]]></description>
+     <description><![CDATA[Nombre de ventes immobilières (logements, terrains et immobilier commercial) taxées au taux de droit commun. Ces séries supportent notamment ces graphiques sur l'évolution du marché immobilier résidentiel. ]]></description>
      <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
   </item>
   <item>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/prix-de-l-immobilier-d-habitation-a-paris-depuis-1840</link>
      <description><![CDATA[Cet indice du prix des logements à Paris depuis 1840 a été reconstitué par J. Friggit (CGEDD) en chaînant l'indice de Gaston Duon sur 1840-1944, un indice reconstitué par une méthode de ventes répétées à partir des bases de données notariales de 1944 à 1999 et l'indice Notaires-INSEE à partir de 1999. La méthodologie est décrite au § 1.2. de la note "Comparing Four Secular Home Price Indices"...]]></description>
      <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
-  </item>
-  <item>
-     <title>Equipement en services d'éducation spéciale et de soins à domicile ou Sessad</title>
-     <link>https://www.data.gouv.fr/fr/dataset/equipement-en-services-d-education-speciale-et-de-soins-a-domicile-ou-sessad</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Statiss, Drees ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
 </rss>
