@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 14 Jan 2014 10:00:02 +0100</pubDate>
+  <pubDate>Tue, 14 Jan 2014 10:20:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Fond de carte des codes postaux</title>
+     <link>https://www.data.gouv.fr/fr/dataset/fond-de-carte-des-codes-postaux</link>
+     <description><![CDATA[Ce fichier contient le tracé des codes postaux en France métropolitaine (y compris les codes postaux supra-communaux) ainsi qu'une estimation de la population et du nombre de ménages. Le zip fourni comporte les fonds de carte aux formats shape et mapinfo, ainsi qu'une notice lisezmoi.txt. ]]></description>
+     <author>Emc3 / Géoclip</author>
+  </item>
+  <item>
+     <title>Observatoire statistique France découverte</title>
+     <link>https://www.data.gouv.fr/fr/dataset/observatoire-statistique-france-decouverte</link>
+     <description><![CDATA[L'Observatoire statistique France découverte permet d'explorer une base de données de plusieurs centaines d'indicateurs sur des thèmes variés : population, logement, environnement, emploi, économie, etc. disponibles à différents niveaux géographiques : commune, intercommunalité, canton, zone d'emploi, département, région, etc. ]]></description>
+     <author>Emc3 / Géoclip</author>
+  </item>
   <item>
      <title>Artisans : nombre d'entreprises, chiffre d'affaires et valeur ajoutée</title>
      <link>https://www.data.gouv.fr/fr/dataset/artisans-nombre-d-entreprises-chiffre-d-affaires-et-valeur-ajoutee</link>
@@ -353,18 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/accords-mets-et-vins</link>
      <description><![CDATA[Liste d'accords mets et vins proposés par les utilisateurs de la plateforme Mets &amp; Vins. ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Redevances de réutilisation</title>
-     <link>https://www.data.gouv.fr/fr/dataset/redevances-de-reutilisation</link>
-     <description><![CDATA[Tableau de synthèse des redevances de réutilisations perçues entre 2010 et 2012 par les services publics administratifs de l’État. ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Prix de l'immobilier d'habitation à Paris depuis 1840</title>
-     <link>https://www.data.gouv.fr/fr/dataset/prix-de-l-immobilier-d-habitation-a-paris-depuis-1840</link>
-     <description><![CDATA[Cet indice du prix des logements à Paris depuis 1840 a été reconstitué par J. Friggit (CGEDD) en chaînant l'indice de Gaston Duon sur 1840-1944, un indice reconstitué par une méthode de ventes répétées à partir des bases de données notariales de 1944 à 1999 et l'indice Notaires-INSEE à partir de 1999. La méthodologie est décrite au § 1.2. de la note "Comparing Four Secular Home Price Indices"...]]></description>
-     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
   </item>
  </channel>
 </rss>
