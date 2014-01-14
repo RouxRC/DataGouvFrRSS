@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 14 Jan 2014 13:00:02 +0100</pubDate>
+  <pubDate>Tue, 14 Jan 2014 14:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Observatoire statistique France découverte</title>
+     <link>https://www.data.gouv.fr/fr/dataset/observatoire-statistique-france-decouver-0</link>
+     <description><![CDATA[L'Observatoire statistique France découverte permet d'explorer une base de données de plusieurs centaines d'indicateurs sur des thèmes variés : population, logement, environnement, emploi, économie, etc. disponibles à différents niveaux géographiques : commune, intercommunalité, canton, zone d'emploi, département, région, etc. ]]></description>
+     <author>Emc3 / Géoclip</author>
+  </item>
   <item>
      <title>Fond de carte des codes postaux</title>
      <link>https://www.data.gouv.fr/fr/dataset/fond-de-carte-des-codes-postaux</link>
@@ -358,12 +364,6 @@
      <title>Accords Mets et Vins</title>
      <link>https://www.data.gouv.fr/fr/dataset/accords-mets-et-vins</link>
      <description><![CDATA[Liste d'accords mets et vins proposés par les utilisateurs de la plateforme Mets &amp; Vins. ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Redevances de réutilisation</title>
-     <link>https://www.data.gouv.fr/fr/dataset/redevances-de-reutilisation</link>
-     <description><![CDATA[Tableau de synthèse des redevances de réutilisations perçues entre 2010 et 2012 par les services publics administratifs de l’État. ]]></description>
      <author>citoyen</author>
   </item>
  </channel>
