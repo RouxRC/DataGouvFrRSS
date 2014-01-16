@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 16 Jan 2014 17:40:02 +0100</pubDate>
+  <pubDate>Thu, 16 Jan 2014 18:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Professions libérales</title>
+     <link>https://www.data.gouv.fr/fr/dataset/professions-liberales</link>
+     <description><![CDATA[Effectif par profession non salariée et par département, par tranche d'âge, par sexe ]]></description>
+     <author>Ministère du Redressement productif (certifié)</author>
+  </item>
   <item>
      <title>Observatoire statistique France découverte</title>
      <link>https://www.data.gouv.fr/fr/dataset/observatoire-statistique-france-decouverte</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/contours-des-departements-francais-issus-d-openstreetmap</link>
      <description><![CDATA[Exports du découpage administratif français au niveau départemental (contours des départements) issu d'OpenStreetMap produit dans sa grande majorité à partir du cadastre. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les...]]></description>
      <author>OpenStreetMap</author>
-  </item>
-  <item>
-     <title>Accords Mets et Vins</title>
-     <link>https://www.data.gouv.fr/fr/dataset/accords-mets-et-vins</link>
-     <description><![CDATA[Liste d'accords mets et vins proposés par les utilisateurs de la plateforme Mets &amp; Vins. ]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
