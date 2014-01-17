@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 17 Jan 2014 14:50:02 +0100</pubDate>
+  <pubDate>Fri, 17 Jan 2014 15:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Startups françaises dans le domaine du numérique éducatif</title>
+     <link>https://www.data.gouv.fr/fr/dataset/startups-francaises-dans-le-domaine-du-numerique-educatif</link>
+     <description><![CDATA[Liste non-exhaustive d'entreprises françaises de croissance formant la filière du numérique éducatif, compilée en annexe du rapport "La structuration de la filière du numérique éducatif : un enjeu pédagogique et industriel" de 2013 publié par le Conseil général de l'économie, de l'industrie, de l'énergie et des télécommunications (CGEIET), l'Inspection générale des finances (IGF) et...]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Données régionales EAT2 (Etude de l'Alimentation Totale)</title>
      <link>https://www.data.gouv.fr/fr/dataset/donnees-regionales-eat2-etude-de-l-alimentation-totale</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/delai-d-attente-rendez-vous-gynecologue-0</link>
      <description><![CDATA[Pour connaître les délais d’attente moyens pour une prise de rendez-vous auprès d’un médecin spécialiste, l’UFC-Que Choisir a, en septembre et octobre 2012, mené une campagne d’appels auprès de 230 gynécologues. ]]></description>
      <author>UFC Que Choisir</author>
-  </item>
-  <item>
-     <title>Contours des arrondissements français issus d'OpenStreetMap</title>
-     <link>https://www.data.gouv.fr/fr/dataset/contours-des-arrondissements-francais-issus-d-openstreetmap-0</link>
-     <description><![CDATA[Exports du découpage administratif français au niveau des arrondissements issu d'OpenStreetMap produit dans sa grande majorité à partir du cadastre. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les contributeurs d'OpenStreetMap...]]></description>
-     <author>OpenStreetMap</author>
   </item>
  </channel>
 </rss>
