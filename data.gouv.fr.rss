@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 17 Jan 2014 11:00:02 +0100</pubDate>
+  <pubDate>Fri, 17 Jan 2014 14:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Données régionales EAT2 (Etude de l'Alimentation Totale)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/donnees-regionales-eat2-etude-de-l-alimentation-totale</link>
+     <description><![CDATA[Les données publiées constituent une analyse des éventuelles différences interrégionales en termes d’exposition à une douzaine de substances (notamment dioxines, PCB, acrylamide, plomb ou arsenic), pour lesquelles un risque sanitaire dû à une contamination par l’alimentation n’avait pu être exclu. Ces données mettent en évidence une faible variabilité des expositions entre inter-régions, en...]]></description>
+     <author>Agence nationale de sécurité sanitaire, de l'alimentation, de l'environnement et du travail (ANSES) (certifié)</author>
+  </item>
   <item>
      <title>Polices municipales</title>
      <link>https://www.data.gouv.fr/fr/dataset/polices-municipales</link>
@@ -358,12 +364,6 @@
      <title>Contours des arrondissements français issus d'OpenStreetMap</title>
      <link>https://www.data.gouv.fr/fr/dataset/contours-des-arrondissements-francais-issus-d-openstreetmap-0</link>
      <description><![CDATA[Exports du découpage administratif français au niveau des arrondissements issu d'OpenStreetMap produit dans sa grande majorité à partir du cadastre. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les contributeurs d'OpenStreetMap...]]></description>
-     <author>OpenStreetMap</author>
-  </item>
-  <item>
-     <title>Contours des régions françaises sur OpenStreetMap</title>
-     <link>https://www.data.gouv.fr/fr/dataset/contours-des-regions-francaises-sur-openstreetmap</link>
-     <description><![CDATA[Exports du découpage administratif français au niveau régional (contours des régions) issu d'OpenStreetMap produit dans sa grande majorité à partir du cadastre. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les contributeurs...]]></description>
      <author>OpenStreetMap</author>
   </item>
  </channel>
