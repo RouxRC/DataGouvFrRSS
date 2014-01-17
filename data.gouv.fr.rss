@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 17 Jan 2014 10:20:02 +0100</pubDate>
+  <pubDate>Fri, 17 Jan 2014 11:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Polices municipales</title>
+     <link>https://www.data.gouv.fr/fr/dataset/polices-municipales</link>
+     <description><![CDATA[Données statistiques relatives aux polices municipales par commune pour l'année 2012. ]]></description>
+     <author>Ministère de l'Intérieur (certifié)</author>
+  </item>
   <item>
      <title>Professions libérales</title>
      <link>https://www.data.gouv.fr/fr/dataset/professions-liberales</link>
@@ -358,12 +364,6 @@
      <title>Contours des régions françaises sur OpenStreetMap</title>
      <link>https://www.data.gouv.fr/fr/dataset/contours-des-regions-francaises-sur-openstreetmap</link>
      <description><![CDATA[Exports du découpage administratif français au niveau régional (contours des régions) issu d'OpenStreetMap produit dans sa grande majorité à partir du cadastre. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les contributeurs...]]></description>
-     <author>OpenStreetMap</author>
-  </item>
-  <item>
-     <title>Contours des départements français issus d'OpenStreetMap</title>
-     <link>https://www.data.gouv.fr/fr/dataset/contours-des-departements-francais-issus-d-openstreetmap</link>
-     <description><![CDATA[Exports du découpage administratif français au niveau départemental (contours des départements) issu d'OpenStreetMap produit dans sa grande majorité à partir du cadastre. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les...]]></description>
      <author>OpenStreetMap</author>
   </item>
  </channel>
