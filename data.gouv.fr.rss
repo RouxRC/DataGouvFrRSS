@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 18 Jan 2014 13:30:02 +0100</pubDate>
+  <pubDate>Sun, 19 Jan 2014 01:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Etude sur la consommation de traitements contre la dysfonction érectile</title>
+     <link>https://www.data.gouv.fr/fr/dataset/etude-sur-la-consommation-de-traitements-contre-la-dysfonction-erectile</link>
+     <description><![CDATA[Etude sur la consommation de traitements contre la dysfonction érectile. Données issues des sorties consommateurs des officines du réseau CELTIPHARM. Plus d'infos sur nos méthodes: http://www.openhealth.fr/methode http://www.openhealth.fr/ ]]></description>
+     <author>CELTIPHARM</author>
+  </item>
   <item>
      <title>Startups françaises dans le domaine du numérique éducatif</title>
      <link>https://www.data.gouv.fr/fr/dataset/startups-francaises-dans-le-domaine-du-numerique-educatif</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-de-travail-sur-l-immigration-0</link>
      <description><![CDATA[Ce jeu de données participatif tente de consolider : - une évaluation de la population ayant au moins un ancêtre issu de l'immigration - une évalutation de l'impact économique de l'immigration, y compris en temps de "crise" ]]></description>
      <author>Un sur Quatre</author>
-  </item>
-  <item>
-     <title>Délai d'attente rendez-vous gynécologue</title>
-     <link>https://www.data.gouv.fr/fr/dataset/delai-d-attente-rendez-vous-gynecologue-0</link>
-     <description><![CDATA[Pour connaître les délais d’attente moyens pour une prise de rendez-vous auprès d’un médecin spécialiste, l’UFC-Que Choisir a, en septembre et octobre 2012, mené une campagne d’appels auprès de 230 gynécologues. ]]></description>
-     <author>UFC Que Choisir</author>
   </item>
  </channel>
 </rss>
