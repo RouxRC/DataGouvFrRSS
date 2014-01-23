@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 23 Jan 2014 16:50:02 +0100</pubDate>
+  <pubDate>Thu, 23 Jan 2014 17:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>RasterMarine sur la zone Iroise</title>
+     <link>https://www.data.gouv.fr/fr/dataset/rastermarine-sur-la-zone-iroise</link>
+     <description><![CDATA[Les produits RasterMarine se composent d'images numériques issues des cartes marines, sans habillage, ni légende, ni indications de géoréférencement. Les produits RasterMarine se déclinent en quatre gammes d'échelles : - RasterMarine50 1: 50 000 ; - RasterMarine150 1: 150 000 ; - RasterMarine400 1: 400 000 ; - RasterMarine1M 1: 1 000 000. Jeu de données test en Open Data sur la mer d'Iroise ]]></description>
+     <author>SHOM (certifié)</author>
+  </item>
   <item>
      <title>Unlimited Cities - Montpellier la Pompignane --</title>
      <link>https://www.data.gouv.fr/fr/dataset/unlimited-cities-montpellier-la-pompignane</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/prix-de-l-immobilier-d-habitation-a-paris-depuis-1200-0</link>
      <description><![CDATA[Ces indices de prix de l'immobilier d'habitation à Paris depuis 1200 sont présentés en détail au § 1.2. de la note "Comparing Four Secular Home Price Indices" (J. Friggit, juin 2008) téléchargeable au § 2.3. du dossier sur le prix de l'immobilier d'habitation sur le long terme tenu à jour par le CGEDD. Ces indices supportent notamment ces graphiques sur le prix de l'immobilier d'habitation. ]]></description>
      <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
-  </item>
-  <item>
-     <title>Contours des EPCI 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/contours-des-epci-2013</link>
-     <description><![CDATA[Contours géographiques des EPCI issu du croisement des limites communales d'OpenStreetMap et des données du Ministère de l'Intérieur sur les EPCI datant de 2013. Ces données sont en partie issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont donc sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les...]]></description>
-     <author>OpenStreetMap</author>
   </item>
  </channel>
 </rss>
