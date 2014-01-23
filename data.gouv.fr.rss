@@ -4,10 +4,10 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 23 Jan 2014 17:20:02 +0100</pubDate>
+  <pubDate>Thu, 23 Jan 2014 17:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
-     <title>données numériques vectorielles des cartes marines sur la zone Iroise</title>
+     <title>Données numériques vectorielles des cartes marines sur la zone Iroise</title>
      <link>https://www.data.gouv.fr/fr/dataset/donnees-numeriques-vectorielles-des-cartes-marines-sur-la-zone-iroise</link>
      <description><![CDATA[Ces cartes sont établies sur la base de données cartographiques vectorielles (format S-57 de l'OHI) contenant la description détaillée de chaque objet (marque de balisage, épaves, câbles sous-marins, zones réglementées, sondes, etc.). Elles sont l'équivalent numérique des cartes marines papier. ]]></description>
      <author>SHOM (certifié)</author>
