@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 23 Jan 2014 15:10:02 +0100</pubDate>
+  <pubDate>Thu, 23 Jan 2014 16:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Unlimited Cities - Montpellier la Pompignane --</title>
+     <link>https://www.data.gouv.fr/fr/dataset/unlimited-cities-montpellier-la-pompignane</link>
+     <description><![CDATA[Les données en Open Data de - Unlimited Cities / Montpellier la Pompignane - contiennent les résultats issus des choix émis par les participants à l'expérimentation lors de la manipulation de l'application. Elles contiennent: - le nombre de mix validés - le point de vue choisi par l'utilisateur - La date de validation du mix - Le commentaire formulé par l'utilisateur - le...]]></description>
+     <author>UFO Urbanisme Collaboratif</author>
+  </item>
   <item>
      <title>Etude sur la consommation de traitements contre la dysfonction érectile</title>
      <link>https://www.data.gouv.fr/fr/dataset/etude-sur-la-consommation-de-traitements-contre-la-dysfonction-erectile</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/contours-des-epci-2013</link>
      <description><![CDATA[Contours géographiques des EPCI issu du croisement des limites communales d'OpenStreetMap et des données du Ministère de l'Intérieur sur les EPCI datant de 2013. Ces données sont en partie issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont donc sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les...]]></description>
      <author>OpenStreetMap</author>
-  </item>
-  <item>
-     <title>Jeux de données de travail sur l'immigration</title>
-     <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-de-travail-sur-l-immigration-0</link>
-     <description><![CDATA[Ce jeu de données participatif tente de consolider : - une évaluation de la population ayant au moins un ancêtre issu de l'immigration - une évalutation de l'impact économique de l'immigration, y compris en temps de "crise" ]]></description>
-     <author>Un sur Quatre</author>
   </item>
  </channel>
 </rss>
