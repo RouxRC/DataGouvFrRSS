@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 23 Jan 2014 17:00:02 +0100</pubDate>
+  <pubDate>Thu, 23 Jan 2014 17:10:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>RasterMarine sur la zone Iroise</title>
@@ -69,7 +69,7 @@
   <item>
      <title>Consommation électrique de Télécom Bretagne</title>
      <link>https://www.data.gouv.fr/fr/dataset/consommation-electrique-de-telecom-bretagne</link>
-     <description><![CDATA[Reprend la consommation électrique de Télécom Bretagne Rnnes ]]></description>
+     <description><![CDATA[Reprend la consommation électrique de Télécom Bretagne Rennes ]]></description>
      <author>citoyen</author>
   </item>
   <item>
