@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 24 Jan 2014 16:50:02 +0100</pubDate>
+  <pubDate>Sat, 25 Jan 2014 12:20:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Services géographiques</title>
+     <link>https://www.data.gouv.fr/fr/dataset/services-geographiques</link>
+     <description><![CDATA[Test de publication de services géographiques, via leur getCapabilities ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Toponymes marins et côtiers sur la zone Iroise</title>
      <link>https://www.data.gouv.fr/fr/dataset/toponymes-marins-et-cotiers-sur-la-zone-iroise</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/donnees-openstreetmap-integrales-de-france-metropolitaine</link>
      <description><![CDATA[Extrait quotidien et fichiers de mise à jour de l'intégralité des données OpenStreetMap sur la France métropolitaine. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont donc sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les contributeurs d'OpenStreetMap sous licence ODbL"...]]></description>
      <author>OpenStreetMap</author>
-  </item>
-  <item>
-     <title>Assiette des droits de mutation immobiliers</title>
-     <link>https://www.data.gouv.fr/fr/dataset/assiette-des-droits-de-mutation-immobiliers</link>
-     <description><![CDATA[Assiette des droits de mutation immobiliers (parfois improprement appelés "frais de notaire"), par mois, département et type de droit, calculée à partir du produit des droits d'enregistrement perçus par la Direction Générale des Finances Publiques et publiée par le CGEDD (J. Friggit) dans son dossier sur le prix de l'immobilier sur le long terme. Cette série supporte notamment ces graphiques...]]></description>
-     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
   </item>
  </channel>
 </rss>
