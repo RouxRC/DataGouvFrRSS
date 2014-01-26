@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 26 Jan 2014 14:40:02 +0100</pubDate>
+  <pubDate>Sun, 26 Jan 2014 16:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Commune de Brocas : Logement</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-logement</link>
+     <description><![CDATA[Eléments concernant le logement pour la commune de Brocas ]]></description>
+     <author>Commune de Brocas (certifié)</author>
+  </item>
   <item>
      <title> Commune de Brocas : Economie</title>
      <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-economie</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/google-search-history</link>
      <description><![CDATA[Et si les données de recherches sur Google des internautes étaient des données culturelles ouvertes! En 2006, Google lance le service Search History et stocke les recherches des internautes. Depuis ce premier jour, albertine meunier compile scrupuleusement ses recherches et les donne à voir au public. Plus de trois années se sont écoulées : les recherches d’albertine mises bout à bout...]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Correspondance entre les codes postaux et codes INSEE des communes Françaises.</title>
-     <link>https://www.data.gouv.fr/fr/dataset/correspondance-entre-les-codes-postaux-et-codes-insee-des-communes-francaises</link>
-     <description><![CDATA[Ce jeu de données intègre par ailleurs des données de référence sur les communes: Population Superficie Altitude moyenne Forme géographique Ce jeu de données a été constitué à partir des données de la base GEOFLA® mise à disposition par l'IGN (codes INSEE) ainsi qu'à partir de données Wikipédia (codes postaux). ]]></description>
-     <author>OpenDataSoft</author>
   </item>
  </channel>
 </rss>
