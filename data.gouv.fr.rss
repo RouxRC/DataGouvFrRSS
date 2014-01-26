@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 26 Jan 2014 14:20:02 +0100</pubDate>
+  <pubDate>Sun, 26 Jan 2014 14:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title> Commune de Brocas : Economie</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-economie</link>
+     <description><![CDATA[Eléments concernant l'économie pour la commune de Brocas ]]></description>
+     <author>Commune de Brocas (certifié)</author>
+  </item>
   <item>
      <title>police municipale</title>
      <link>https://www.data.gouv.fr/fr/dataset/police-municipale</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/correspondance-entre-les-codes-postaux-et-codes-insee-des-communes-francaises</link>
      <description><![CDATA[Ce jeu de données intègre par ailleurs des données de référence sur les communes: Population Superficie Altitude moyenne Forme géographique Ce jeu de données a été constitué à partir des données de la base GEOFLA® mise à disposition par l'IGN (codes INSEE) ainsi qu'à partir de données Wikipédia (codes postaux). ]]></description>
      <author>OpenDataSoft</author>
-  </item>
-  <item>
-     <title>Référentiel Foncier Unifié</title>
-     <link>https://www.data.gouv.fr/fr/dataset/referentiel-foncier-unifie</link>
-     <description><![CDATA[Le Référentiel Foncier Unifié (RFU) est un référentiel géographique géoréférencé à résolution centimétrique entrepris en France par les géomètres-experts français. Sa mise en production date du 1er juillet 2010. Produit sur l'ensemble du territoire (métropole et DOM), le Référentiel Foncier Unifié peut être visualisé sur le portail GéoFoncier. Le RFU se compose de deux couches de données...]]></description>
-     <author>Ordre des Géomètres-Experts</author>
   </item>
  </channel>
 </rss>
