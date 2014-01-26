@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 26 Jan 2014 16:30:02 +0100</pubDate>
+  <pubDate>Sun, 26 Jan 2014 16:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Commune de Brocas : Climat</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-climat</link>
+     <description><![CDATA[Eléments concernant le climat pour la commune de Brocas ]]></description>
+     <author>Commune de Brocas (certifié)</author>
+  </item>
   <item>
      <title>Commune de Brocas : Logement</title>
      <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-logement</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/valeurs-immobilieres-economiques-et-financieres-de-1800-a-2010</link>
      <description><![CDATA[Séries longues de valeurs annuelles de 1800 à 2010, qui supportent et actualisent les résultats présentés dans le dossier sur le prix de l'immobilier d'habitation sur le long terme tenu à jour par le CGEDD, et notamment ces graphiques sur le prix de l'immobilier d'habitation: prix immobiliers (indices de prix de vente et de loyer des logements), nombre et montant des ventes immobilières, taux...]]></description>
      <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
-  </item>
-  <item>
-     <title>Google Search History</title>
-     <link>https://www.data.gouv.fr/fr/dataset/google-search-history</link>
-     <description><![CDATA[Et si les données de recherches sur Google des internautes étaient des données culturelles ouvertes! En 2006, Google lance le service Search History et stocke les recherches des internautes. Depuis ce premier jour, albertine meunier compile scrupuleusement ses recherches et les donne à voir au public. Plus de trois années se sont écoulées : les recherches d’albertine mises bout à bout...]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
