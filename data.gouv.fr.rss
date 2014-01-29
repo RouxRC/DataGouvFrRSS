@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 27 Jan 2014 12:20:02 +0100</pubDate>
+  <pubDate>Wed, 29 Jan 2014 15:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Commune de Brocas : Hydrographie</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-hydrographie</link>
+     <description><![CDATA[Eléments concernant l'hydrographie pour la commune de Brocas ]]></description>
+     <author>Commune de Brocas (certifié)</author>
+  </item>
   <item>
      <title>Commune de Brocas : Climat</title>
      <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-climat</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/base-permanente-des-equipements</link>
      <description><![CDATA[La base permanente des équipements (BPE) contient pour chaque territoire la liste des équipements et des services rendus à la population. Cette base permet de mesurer la présence ou l'absence d'un équipement, la densité d'un équipement ou un indicateur de disponibilité d'un équipement du point de vue des habitants. Ces données sont disponibles par région, département, commune ou quartier IRIS. ]]></description>
      <author>OpenDataSoft</author>
-  </item>
-  <item>
-     <title>Valeurs immobilières, économiques et financières de 1800 à 2010</title>
-     <link>https://www.data.gouv.fr/fr/dataset/valeurs-immobilieres-economiques-et-financieres-de-1800-a-2010</link>
-     <description><![CDATA[Séries longues de valeurs annuelles de 1800 à 2010, qui supportent et actualisent les résultats présentés dans le dossier sur le prix de l'immobilier d'habitation sur le long terme tenu à jour par le CGEDD, et notamment ces graphiques sur le prix de l'immobilier d'habitation: prix immobiliers (indices de prix de vente et de loyer des logements), nombre et montant des ventes immobilières, taux...]]></description>
-     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
   </item>
  </channel>
 </rss>
