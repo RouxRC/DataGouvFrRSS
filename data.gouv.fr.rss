@@ -4,14 +4,8 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 29 Jan 2014 18:40:02 +0100</pubDate>
+  <pubDate>Thu, 30 Jan 2014 09:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
-  <item>
-     <title>Procès-verbaux des séances publiques du Conseil Régional de Poitou-Charentes </title>
-     <link>https://www.data.gouv.fr/fr/dataset/proces-verbaux-des-seances-publiques-du-conseil-regional-de-poitou-charentes</link>
-     <description><![CDATA[PV et feuilles des votes validés par l'Assemblée régionale, au format PDF (pas d'autre format plus ouvert disponible). ]]></description>
-     <author>citoyen</author>
-  </item>
   <item>
      <title>Commune de Brocas : Hydrographie</title>
      <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-hydrographie</link>
@@ -364,6 +358,12 @@
      <title>Points d'intérêt OpenStreetMap en France</title>
      <link>https://www.data.gouv.fr/fr/dataset/points-d-interet-openstreetmap-en-france</link>
      <description><![CDATA[Liste des commodités (amenity) extraite des données OpenStreetMap situées en France métropolitainestrong text. Données © contributeurs OpenStreetMap ]]></description>
+     <author>OpenDataSoft</author>
+  </item>
+  <item>
+     <title>Base Permanente des Équipements</title>
+     <link>https://www.data.gouv.fr/fr/dataset/base-permanente-des-equipements</link>
+     <description><![CDATA[La base permanente des équipements (BPE) contient pour chaque territoire la liste des équipements et des services rendus à la population. Cette base permet de mesurer la présence ou l'absence d'un équipement, la densité d'un équipement ou un indicateur de disponibilité d'un équipement du point de vue des habitants. Ces données sont disponibles par région, département, commune ou quartier IRIS. ]]></description>
      <author>OpenDataSoft</author>
   </item>
  </channel>
