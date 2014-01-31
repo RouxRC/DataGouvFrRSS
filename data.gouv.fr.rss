@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 30 Jan 2014 14:20:02 +0100</pubDate>
+  <pubDate>Fri, 31 Jan 2014 10:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Données sur les demandeurs d'emploi rattachés et sur les demandeurs d'emploi en portefeuille par modalité au 2013-09-01 à Pôle Emploi</title>
+     <link>https://www.data.gouv.fr/fr/dataset/donnees-sur-les-demandeurs-d-emploi-rattaches-et-sur-les-demandeurs-d-emploi-en-portefeuille-par-mod</link>
+     <description><![CDATA[Données sur les demandeurs d'emploi rattachés et sur les demandeurs d'emploi en portefeuille par modalité au 1er Septembre 2013 à Pôle Emploi. Données obtenues par les journalistes du Monde après demande auprès de la CADA (Avis n° 20132461 du 25 juillet 2013) Source : http://www.lemonde.fr/mmpub/edt/zip/20130925/140048/donneesPE.xls ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Procès-verbaux des séances publiques du Conseil Régional de Poitou-Charentes </title>
      <link>https://www.data.gouv.fr/fr/dataset/proces-verbaux-des-seances-publiques-du-conseil-regional-de-poitou-charentes</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/prix-immobilier-et-revenu-dans-les-agglomerations-francaises</link>
      <description><![CDATA[Valeurs numériques du graphique de l’article « Le lien entre prix des logements et revenu par ménage dans les principales agglomérations », J. Friggit, avril 2010, paru dans la note de conjoncture des Notaires de France. ]]></description>
      <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
-  </item>
-  <item>
-     <title>Points d'intérêt OpenStreetMap en France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/points-d-interet-openstreetmap-en-france</link>
-     <description><![CDATA[Liste des commodités (amenity) extraite des données OpenStreetMap situées en France métropolitainestrong text. Données © contributeurs OpenStreetMap ]]></description>
-     <author>OpenDataSoft</author>
   </item>
  </channel>
 </rss>
