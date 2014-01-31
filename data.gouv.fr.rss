@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 31 Jan 2014 10:00:02 +0100</pubDate>
+  <pubDate>Fri, 31 Jan 2014 23:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Polices municipales de France 2012</title>
+     <link>https://www.data.gouv.fr/fr/dataset/polices-municipales-de-france-2012</link>
+     <description><![CDATA[Jeux établis à partir des données 2012 fournies par Etalab pour La Gazette des communes. Géolocalisation par kml correspondant au contour des communes (pour les quelques grosses villes concernées, agrégation des arrondissements). ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Données sur les demandeurs d'emploi rattachés et sur les demandeurs d'emploi en portefeuille par modalité au 2013-09-01 à Pôle Emploi</title>
      <link>https://www.data.gouv.fr/fr/dataset/donnees-sur-les-demandeurs-d-emploi-rattaches-et-sur-les-demandeurs-d-emploi-en-portefeuille-par-mod</link>
@@ -146,7 +152,7 @@
   </item>
   <item>
      <title>URL des sites publics</title>
-     <link>https://www.data.gouv.fr/fr/dataset/url-des-sites-publi-0</link>
+     <link>https://www.data.gouv.fr/fr/dataset/url-des-sites-publics</link>
      <description><![CDATA[Il s’agit de l’ensemble des URL des sites publics recensés et présentés dans l’annuaire de l’administration française du site Service-public.fr ]]></description>
      <author>Premier ministre (certifié)</author>
   </item>
@@ -358,12 +364,6 @@
      <title>Prix immobilier et revenu dans les villes d'Ile-de-France</title>
      <link>https://www.data.gouv.fr/fr/dataset/prix-immobilier-et-revenu-dans-les-villes-d-ile-de-france</link>
      <description><![CDATA[Valeurs numériques du graphique de l’article « Le lien entre prix des logements et revenu par ménage dans les principales villes d’Ile-de-France », J. Friggit, janvier 2010, paru dans la note de conjoncture des Notaires de France. ]]></description>
-     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
-  </item>
-  <item>
-     <title>Prix immobilier et revenu dans les agglomérations françaises</title>
-     <link>https://www.data.gouv.fr/fr/dataset/prix-immobilier-et-revenu-dans-les-agglomerations-francaises</link>
-     <description><![CDATA[Valeurs numériques du graphique de l’article « Le lien entre prix des logements et revenu par ménage dans les principales agglomérations », J. Friggit, avril 2010, paru dans la note de conjoncture des Notaires de France. ]]></description>
      <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
   </item>
  </channel>
