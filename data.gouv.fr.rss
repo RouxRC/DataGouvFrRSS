@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 04 Feb 2014 14:30:02 +0100</pubDate>
+  <pubDate>Tue, 04 Feb 2014 14:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Réserve parlementaire 2013 attribuée aux collectivités territoriales</title>
+     <link>https://www.data.gouv.fr/fr/dataset/reserve-parlementaire-2013-attribuee-aux-collectivites-territoriales</link>
+     <description><![CDATA[Pour la première fois en 2014, l'Assemblée nationale publie en ligne l'intégralité des subventions accordées aux collectivités et associations dans le cadre de la réserve parlementaire de 2013. Les tableaux html scrapés et complétés des informations tirées de NosDéputés sont rendus accessibles en CSV et mis à jour régulièrement. Source :...]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Polices municipales de France 2012</title>
      <link>https://www.data.gouv.fr/fr/dataset/polices-municipales-de-france-2012</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-budget</link>
      <description><![CDATA[Eléments concernant le budget de la commune de Brocas ]]></description>
      <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Prix immobilier et revenu dans les villes d'Ile-de-France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/prix-immobilier-et-revenu-dans-les-villes-d-ile-de-france</link>
-     <description><![CDATA[Valeurs numériques du graphique de l’article « Le lien entre prix des logements et revenu par ménage dans les principales villes d’Ile-de-France », J. Friggit, janvier 2010, paru dans la note de conjoncture des Notaires de France. ]]></description>
-     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
   </item>
  </channel>
 </rss>
