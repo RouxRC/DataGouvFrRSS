@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 04 Feb 2014 14:50:02 +0100</pubDate>
+  <pubDate>Tue, 04 Feb 2014 17:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Conjoncture agricole : le bulletin mensuel</title>
+     <link>https://www.data.gouv.fr/fr/dataset/conjoncture-agricole-le-bulletin-mensu-0</link>
+     <description><![CDATA[Agreste. Les derniers chiffres et les séries longues historiques mensuelles de surfaces, productions, abattages d’animaux, échanges extérieurs, stocks, prix des produits de l’agriculture et des Industries agroalimentaires. Les données de climatologie, les immatriculations de tracteurs et machines agricoles, les cours des monnaies et les prix des produits énergétiques, les livraisons et les prix...]]></description>
+     <author>Ministère de l’Agriculture, de l’Agroalimentaire et de la Forêt (certifié)</author>
+  </item>
   <item>
      <title>Réserve parlementaire 2013 attribuée aux collectivités territoriales</title>
      <link>https://www.data.gouv.fr/fr/dataset/reserve-parlementaire-2013-attribuee-aux-collectivites-territoriales</link>
@@ -358,12 +364,6 @@
      <title>Commune de Brocas : Associations</title>
      <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-associations</link>
      <description><![CDATA[Eléments concernant les associations de la commune de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Budget</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-budget</link>
-     <description><![CDATA[Eléments concernant le budget de la commune de Brocas ]]></description>
      <author>Commune de Brocas (certifié)</author>
   </item>
  </channel>
