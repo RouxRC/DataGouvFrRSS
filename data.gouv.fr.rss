@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 04 Feb 2014 10:50:02 +0100</pubDate>
+  <pubDate>Tue, 04 Feb 2014 11:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Polices municipales de France 2012</title>
+     <link>https://www.data.gouv.fr/fr/dataset/polices-municipales-de-france-2012</link>
+     <description><![CDATA[Jeux établis à partir des données 2012 fournies par Etalab pour La Gazette des communes. Géolocalisation par kml correspondant au contour des communes (pour les quelques grosses villes concernées, agrégation des arrondissements). ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Données sur les demandeurs d'emploi rattachés et sur les demandeurs d'emploi en portefeuille par modalité au 2013-09-01 à Pôle Emploi</title>
      <link>https://www.data.gouv.fr/fr/dataset/donnees-sur-les-demandeurs-d-emploi-rattaches-et-sur-les-demandeurs-d-emploi-en-portefeuille-par-mod</link>
@@ -215,12 +221,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/attributions-de-cartes-de-presse-en-2012</link>
      <description><![CDATA[Données publiées par la Commission de la carte d'identité des journalistes professionnels. ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Données sur les hébergements de vacances type &#34;Gîte&#34; dans le Perche</title>
-     <link>https://www.data.gouv.fr/fr/dataset/donnees-sur-les-hebergements-de-vacances-type-gite-dans-le-perche</link>
-     <description><![CDATA[Bonjour, je suis à la recherche de données tableau sur la zone du Perche et ses principales communes : Mortagne au Perche, le Gault du Perche, Nogent le Rotrou... en en particulier sur les gîtes dans le Perche (fréquentations, prix moyens de la nuitée, saisons les plus favorables pour le tourisme...). De manière générale, toute les données touristique de cette zone géographique aux frontières...]]></description>
-     <author>Gite Perche</author>
   </item>
   <item>
      <title>Données sur les hébergements de vacances type &#34;Gîte&#34; dans le Perche</title>
