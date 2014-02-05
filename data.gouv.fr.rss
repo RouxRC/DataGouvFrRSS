@@ -4,14 +4,8 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 05 Feb 2014 08:50:02 +0100</pubDate>
+  <pubDate>Wed, 05 Feb 2014 09:00:08 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
-  <item>
-     <title>Cartographie des données du recensement agricole 2010</title>
-     <link>https://www.data.gouv.fr/fr/dataset/cartographie-des-donnees-du-recensement-agricole-2010</link>
-     <description><![CDATA[Résultats du recensement agricole 2010 : Des cartes par communes, canton, département ou régions permettent d'accéder à des données de cadrage sur les exploitations agricoles et des données sur l'emploi agricole. Ces données peuvent être visualisées sous forme de tableaux. ]]></description>
-     <author>Ministère de l’Agriculture, de l’Agroalimentaire et de la Forêt (certifié)</author>
-  </item>
   <item>
      <title>Conjoncture agricole : le bulletin mensuel</title>
      <link>https://www.data.gouv.fr/fr/dataset/conjoncture-agricole-le-bulletin-mensu-0</link>
@@ -364,6 +358,12 @@
      <title>Commune de Brocas : Biodiversité</title>
      <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-biodiversite-0</link>
      <description><![CDATA[Eléments concernant la biodiversité de la commune de Brocas ]]></description>
+     <author>Commune de Brocas (certifié)</author>
+  </item>
+  <item>
+     <title>Commune de Brocas : Associations</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-associations</link>
+     <description><![CDATA[Eléments concernant les associations de la commune de Brocas ]]></description>
      <author>Commune de Brocas (certifié)</author>
   </item>
  </channel>
