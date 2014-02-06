@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 06 Feb 2014 17:10:08 +0100</pubDate>
+  <pubDate>Thu, 06 Feb 2014 20:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Situation cumulée des prêts d'épargne logement au 31 mars 2013 en M€</title>
@@ -82,12 +82,6 @@
      <title>police municipale</title>
      <link>https://www.data.gouv.fr/fr/dataset/police-municipale</link>
      <description><![CDATA[police municipale 2012 géocodé au code commune ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Services géographiques</title>
-     <link>https://www.data.gouv.fr/fr/dataset/services-geographiques</link>
-     <description><![CDATA[Test de publication de services géographiques, via leur getCapabilities ]]></description>
      <author>citoyen</author>
   </item>
   <item>
@@ -365,6 +359,12 @@
      <link>https://www.data.gouv.fr/fr/dataset/equipements-de-sports-d-hiver-pistes-de-ski-remontees-etc</link>
      <description><![CDATA[Requête API d'extraction des données sur les pistes de ski alpin et les remontées mécaniques présentes dans les donnes OpenStreetMap sur le territoire métropolitain. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les contributeurs...]]></description>
      <author>OpenStreetMap</author>
+  </item>
+  <item>
+     <title>Commune de Brocas : Accidentologie</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-accidentologie</link>
+     <description><![CDATA[Eléments concernant l'accidentologie routière sur la commune de Brocas ]]></description>
+     <author>Commune de Brocas (certifié)</author>
   </item>
  </channel>
 </rss>
