@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 06 Feb 2014 16:00:02 +0100</pubDate>
+  <pubDate>Thu, 06 Feb 2014 17:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Situation cumulée des prêts d'épargne logement au 31 mars 2013 en M€</title>
@@ -17,6 +17,12 @@
      <link>https://www.data.gouv.fr/fr/dataset/cartographie-des-donnees-du-recensement-agricole-2010</link>
      <description><![CDATA[Résultats du recensement agricole 2010 : Des cartes par communes, canton, département ou régions permettent d'accéder à des données de cadrage sur les exploitations agricoles et des données sur l'emploi agricole. Ces données peuvent être visualisées sous forme de tableaux. ]]></description>
      <author>Ministère de l’Agriculture, de l’Agroalimentaire et de la Forêt (certifié)</author>
+  </item>
+  <item>
+     <title>Publication de l'article 133 du code des marchés publics par le ministère des Affaires étrangères</title>
+     <link>https://www.data.gouv.fr/fr/dataset/publication-de-l-article-133-du-code-des-marches-publics-par-le-ministere-des-affaires-etrangeres</link>
+     <description><![CDATA[Liste des marchés conclus en 2013 par le ministère des Affaires étrangères. ]]></description>
+     <author>Ministère des Affaires Etrangères (certifié)</author>
   </item>
   <item>
      <title>Conjoncture agricole : le bulletin mensuel</title>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/equipements-de-sports-d-hiver-pistes-de-ski-remontees-etc</link>
      <description><![CDATA[Requête API d'extraction des données sur les pistes de ski alpin et les remontées mécaniques présentes dans les donnes OpenStreetMap sur le territoire métropolitain. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les contributeurs...]]></description>
      <author>OpenStreetMap</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Accidentologie</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-accidentologie</link>
-     <description><![CDATA[Eléments concernant l'accidentologie routière sur la commune de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
   </item>
  </channel>
 </rss>
