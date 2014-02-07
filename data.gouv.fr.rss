@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 07 Feb 2014 09:30:02 +0100</pubDate>
+  <pubDate>Fri, 07 Feb 2014 14:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Baromètre POE 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/barometre-poe-2014</link>
+     <description><![CDATA[Chaque année depuis 2010, Havas Media publie son baromètre POE, une mesure de la perception des marques par les consommateurs incluant les 3 dimensions des media : les media payants (PAID), les media privés (OWNED) et les media publics (EARNED). Une étude online réalisée en collaboration avec l'institut CSA, menée en mai 2013 auprès de 4596 individus de 15 à 59 ans et portant sur 179 marques...]]></description>
+     <author>Havas Media</author>
+  </item>
   <item>
      <title>Situation cumulée des prêts d'épargne logement au 31 mars 2013 en M€</title>
      <link>https://www.data.gouv.fr/fr/dataset/situation-cumulee-des-prets-d-epargne-logement-au-31-mars-2013-en-m</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/equipements-de-sports-d-hiver-pistes-de-ski-remontees-etc</link>
      <description><![CDATA[Requête API d'extraction des données sur les pistes de ski alpin et les remontées mécaniques présentes dans les donnes OpenStreetMap sur le territoire métropolitain. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les contributeurs...]]></description>
      <author>OpenStreetMap</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Accidentologie</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-accidentologie</link>
-     <description><![CDATA[Eléments concernant l'accidentologie routière sur la commune de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
   </item>
  </channel>
 </rss>
