@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 07 Feb 2014 14:40:02 +0100</pubDate>
+  <pubDate>Fri, 07 Feb 2014 14:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les lieux de diffusion du spectacle vivant à Paris</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-lieux-de-diffusion-du-spectacle-vivant-a-par-0</link>
+     <description><![CDATA[Ce jeu de données référence les lieux de diffusion régulière ou occasionnelle du spectacle vivant à Paris. Structure des données : nom de l'établissement ; adresse ; e-mail ; téléphone ; fax ; site internet ; géolocalisation (WGS84). ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Baromètre POE 2014</title>
      <link>https://www.data.gouv.fr/fr/dataset/barometre-poe-2014</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-cartographie</link>
      <description><![CDATA[Eléments concernant la cartographie de la commune de Brocas ]]></description>
      <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Equipements de sports d'hiver: pistes de ski, remontées, etc</title>
-     <link>https://www.data.gouv.fr/fr/dataset/equipements-de-sports-d-hiver-pistes-de-ski-remontees-etc</link>
-     <description><![CDATA[Requête API d'extraction des données sur les pistes de ski alpin et les remontées mécaniques présentes dans les donnes OpenStreetMap sur le territoire métropolitain. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les contributeurs...]]></description>
-     <author>OpenStreetMap</author>
   </item>
  </channel>
 </rss>
