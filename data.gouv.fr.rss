@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 07 Feb 2014 14:50:02 +0100</pubDate>
+  <pubDate>Mon, 10 Feb 2014 10:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Elections</title>
+     <link>https://www.data.gouv.fr/fr/dataset/elections</link>
+     <description><![CDATA[Jeux sur les élections françaises. ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Les lieux de diffusion du spectacle vivant à Paris</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-lieux-de-diffusion-du-spectacle-vivant-a-par-0</link>
@@ -177,7 +183,7 @@
   <item>
      <title>Population par tranches d'âge et sexe (estimations localisées de population)</title>
      <link>https://www.data.gouv.fr/fr/dataset/population-par-tranches-d-age-et-sexe-estimations-localisees-de-population</link>
-     <description><![CDATA[Régions &amp; départements. Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Insee ]]></description>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Insee ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
   <item>
@@ -358,12 +364,6 @@
      <title>Commune de Brocas : Etablissements</title>
      <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-etablissements-0</link>
      <description><![CDATA[Eléments concernant les ERP et IOP appartenant à la commune de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Cartographie</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-cartographie</link>
-     <description><![CDATA[Eléments concernant la cartographie de la commune de Brocas ]]></description>
      <author>Commune de Brocas (certifié)</author>
   </item>
  </channel>
