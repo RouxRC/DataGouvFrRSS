@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 10 Feb 2014 13:40:02 +0100</pubDate>
+  <pubDate>Mon, 10 Feb 2014 15:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Arbres remarquables</title>
@@ -56,7 +56,7 @@
   </item>
   <item>
      <title>Conjoncture agricole : le bulletin mensuel</title>
-     <link>https://www.data.gouv.fr/fr/dataset/conjoncture-agricole-le-bulletin-mensu-0</link>
+     <link>https://www.data.gouv.fr/fr/dataset/conjoncture-agricole-le-bulletin-mensuel</link>
      <description><![CDATA[Agreste. Les derniers chiffres et les séries longues historiques mensuelles de surfaces, productions, abattages d’animaux, échanges extérieurs, stocks, prix des produits de l’agriculture et des Industries agroalimentaires. Les données de climatologie, les immatriculations de tracteurs et machines agricoles, les cours des monnaies et les prix des produits énergétiques, les livraisons et les prix...]]></description>
      <author>Ministère de l’Agriculture, de l’Agroalimentaire et de la Forêt (certifié)</author>
   </item>
