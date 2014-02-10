@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 10 Feb 2014 10:50:02 +0100</pubDate>
+  <pubDate>Mon, 10 Feb 2014 12:20:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Zone Urbaine Sensible</title>
+     <link>https://www.data.gouv.fr/fr/dataset/zone-urbaine-sensible</link>
+     <description><![CDATA[Limites géographiques des zones urbaines sensibles de la ville de Saint-Quentin. ]]></description>
+     <author>Saint Quentin (Aisne)</author>
+  </item>
   <item>
      <title>Elections</title>
      <link>https://www.data.gouv.fr/fr/dataset/elections</link>
@@ -259,10 +265,10 @@
      <author>CELTIPHARM</author>
   </item>
   <item>
-     <title>Attributions de cartes de presse en 2012</title>
-     <link>https://www.data.gouv.fr/fr/dataset/attributions-de-cartes-de-presse-en-2012</link>
+     <title>Attributions de cartes de presse en 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/attributions-de-cartes-de-presse-en-2013</link>
      <description><![CDATA[Données publiées par la Commission de la carte d'identité des journalistes professionnels. ]]></description>
-     <author>citoyen</author>
+     <author>Etalab</author>
   </item>
   <item>
      <title>Données sur les hébergements de vacances type &#34;Gîte&#34; dans le Perche</title>
@@ -358,12 +364,6 @@
      <title>Commune de Brocas : Memento</title>
      <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-memento</link>
      <description><![CDATA[Mémento téléphonique ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Etablissements</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-etablissements-0</link>
-     <description><![CDATA[Eléments concernant les ERP et IOP appartenant à la commune de Brocas ]]></description>
      <author>Commune de Brocas (certifié)</author>
   </item>
  </channel>
