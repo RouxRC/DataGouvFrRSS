@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 10 Feb 2014 15:50:02 +0100</pubDate>
+  <pubDate>Mon, 10 Feb 2014 17:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Arbres remarquables</title>
@@ -16,7 +16,7 @@
      <title>Zone Urbaine Sensible</title>
      <link>https://www.data.gouv.fr/fr/dataset/zone-urbaine-sensible</link>
      <description><![CDATA[Limites géographiques des zones urbaines sensibles de la ville de Saint-Quentin. ]]></description>
-     <author>Saint Quentin (Aisne)</author>
+     <author>Saint Quentin (Aisne) (certifié)</author>
   </item>
   <item>
      <title>Elections</title>
