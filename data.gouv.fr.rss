@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 10 Feb 2014 12:20:02 +0100</pubDate>
+  <pubDate>Mon, 10 Feb 2014 12:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Zone Urbaine Sensible</title>
@@ -37,8 +37,8 @@
      <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
   <item>
-     <title>Cartographie des données du recensement agricole 2010</title>
-     <link>https://www.data.gouv.fr/fr/dataset/cartographie-des-donnees-du-recensement-agricole-2010</link>
+     <title>Cartographie des données du recensement agricole </title>
+     <link>https://www.data.gouv.fr/fr/dataset/cartographie-des-donnees-du-recensement-agricole</link>
      <description><![CDATA[Résultats du recensement agricole 2010 : Des cartes par communes, canton, département ou régions permettent d'accéder à des données de cadrage sur les exploitations agricoles et des données sur l'emploi agricole. Ces données peuvent être visualisées sous forme de tableaux. ]]></description>
      <author>Ministère de l’Agriculture, de l’Agroalimentaire et de la Forêt (certifié)</author>
   </item>
