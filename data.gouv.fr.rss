@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 10 Feb 2014 12:50:02 +0100</pubDate>
+  <pubDate>Mon, 10 Feb 2014 13:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Arbres remarquables</title>
+     <link>https://www.data.gouv.fr/fr/dataset/arbres-remarquables</link>
+     <description><![CDATA[Ce fichier répertorie les arbres remarquables d'Issy-les-Moulineaux: nom, situation, localisation géographique, lien vers du contenu additionnel. ]]></description>
+     <author>Ville d'Issy-les-Moulineaux</author>
+  </item>
   <item>
      <title>Zone Urbaine Sensible</title>
      <link>https://www.data.gouv.fr/fr/dataset/zone-urbaine-sensible</link>
@@ -358,12 +364,6 @@
      <title>Commune de Brocas : Eau</title>
      <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-eau</link>
      <description><![CDATA[Eléments concernant la gestion de l'eau (Compétence : Communauté de Communes du Pays d'Albret) ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Memento</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-memento</link>
-     <description><![CDATA[Mémento téléphonique ]]></description>
      <author>Commune de Brocas (certifié)</author>
   </item>
  </channel>
