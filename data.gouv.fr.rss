@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 11 Feb 2014 17:30:02 +0100</pubDate>
+  <pubDate>Tue, 11 Feb 2014 19:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>LFI 2014 Dotation T2 / HT2 par programme des CCF</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-programme-des-ccf</link>
+     <description><![CDATA[Dotation du Titre 2 et autres titres par programme des comptes de concours financiers (CCF) de la loi de finances initiale pour 2014 ]]></description>
+     <author>Ministère de l’Economie et des Finances (certifié)</author>
+  </item>
   <item>
      <title>LFI 2014 Dotation T2 / HT2 par mission des CCF</title>
      <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-mission-des-ccf</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/evenements-publies-via-cibul</link>
      <description><![CDATA[Cibul est un logiciel d'agenda pour organisateur d'événements: théâtres, concerts, expositions, salons, conférences, etc. Voici la base de données complètes des événements mis en ligne par nos utilisateurs, avec les coordonnées géographiques précises et les plages horaires détaillées. Contact: romain.lange@Cibul.net ]]></description>
      <author>Cibul</author>
-  </item>
-  <item>
-     <title>Statistiques sur les antennes mobiles en France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/statistiques-sur-les-antennes-mobiles-en-france</link>
-     <description><![CDATA[Le marché de la téléphonie mobile explose ces dernières années principalement depuis les politiques d'offres sans engagement, initialement lancées par free mobile en janvier 2012, et l’évolution constante des téléphones qui sont désormais de vrais terminaux portables évolués. Les abonnés ont dorénavant besoin d'avoir accès à internet, via leur téléphone, de partout et avec un débit de...]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
