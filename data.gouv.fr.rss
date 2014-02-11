@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 11 Feb 2014 12:10:02 +0100</pubDate>
+  <pubDate>Tue, 11 Feb 2014 12:20:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>LFI 2014 Dotation CAS en AE / CP par Action / Titre</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-cas-en-ae-cp-par-action-titre</link>
+     <description><![CDATA[Dotation en AE et CP par mission / programme / Action et Titre des comptes d'affectation spéciale (CAS) de la loi de finances initiale pour 2014. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>LFI 2014 Dotation CAS en AE / CP par Action / Catégorie</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-cas-en-ae-cp-par-action-categorie</link>
+     <description><![CDATA[Dotation en AE et CP par mission / programme / Action et Catégorie des comptes d'affectation spéciale (CAS) de la loi de finances initiale pour 2014. ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>LFI 2014 Dotation BG en AE / CP par Action / Titre</title>
      <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-bg-en-ae-cp-par-action-titre</link>
@@ -352,18 +364,6 @@
      <title>Commune de Brocas : Vie municipale</title>
      <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-vie-municipale</link>
      <description><![CDATA[Éléments concernant la vie municipale (2008-2012) pour la commune de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Histoire</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-histoire</link>
-     <description><![CDATA[Eléments concernant l'histoire de la commune de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Etat civil</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-etat-civil-0</link>
-     <description><![CDATA[Eléments concernant l'Etat Civil pour la commune de Brocas ]]></description>
      <author>Commune de Brocas (certifié)</author>
   </item>
  </channel>
