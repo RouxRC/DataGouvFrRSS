@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 11 Feb 2014 13:30:02 +0100</pubDate>
+  <pubDate>Tue, 11 Feb 2014 15:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Dotation en ETP par ministère du budget général de la loi de finances initiale pour 2014</title>
@@ -61,9 +61,15 @@
      <author>citoyen</author>
   </item>
   <item>
+     <title>Liste des prénoms</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-prenoms</link>
+     <description><![CDATA[Liste des prénoms déclarés à l'état civil de 2000 à 2013. Prénoms des enfants nés à Issy ou dont les parents sont domiciliés à Issy. Afin de respecter la vie privée, les prénoms présentant une occurrence inférieure à 5 ne sont pas présentés. ]]></description>
+     <author>Ville d'Issy-les-Moulineaux</author>
+  </item>
+  <item>
      <title>Points d'intérêt - POI</title>
      <link>https://www.data.gouv.fr/fr/dataset/points-d-interet-poi</link>
-     <description><![CDATA[Des milliers de points d'intérêt géolocalisés à Issy-les-Moulineaux: - Administrations, bureaux de poste, cimetières, secours - Education (écoles maternelles et élémentaires, collèges, lycées...) - Cadre de vie (aires de jeux, arbres remarquables, conteneurs à verre, jardins, parcs, squares...) - Hôtels et chambres d'hôtes - Petite enfance (crèches, haltes-garderies...) -...]]></description>
+     <description><![CDATA[Des milliers de points d'intérêt géolocalisés à Issy-les-Moulineaux: Administrations, bureaux de poste, cimetières, secours Education (écoles maternelles et élémentaires, collèges, lycées...) Cadre de vie (aires de jeux, arbres remarquables, conteneurs à verre, jardins, parcs, squares...) Hôtels et chambres d'hôtes Petite enfance (crèches,...]]></description>
      <author>Ville d'Issy-les-Moulineaux</author>
   </item>
   <item>
@@ -358,12 +364,6 @@
      <title>Commune de Brocas : Sport</title>
      <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-sport</link>
      <description><![CDATA[Eléments concernant le sport pour la commune de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Opendata</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-opendata</link>
-     <description><![CDATA[Eléments régissant la libération des données pour la commune de Brocas ]]></description>
      <author>Commune de Brocas (certifié)</author>
   </item>
  </channel>
