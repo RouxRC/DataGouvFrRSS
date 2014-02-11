@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 11 Feb 2014 17:10:02 +0100</pubDate>
+  <pubDate>Tue, 11 Feb 2014 17:20:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>LFI 2014 Dotation T2 / HT2 par programme des CAS</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-programme-des-cas</link>
+     <description><![CDATA[Dotation du Titre 2 et autres titres par programme des comptes d'affectation spéciale (CAS) de la loi de finances initiale pour 2014 ]]></description>
+     <author>Ministère de l’Economie et des Finances (certifié)</author>
+  </item>
+  <item>
+     <title>LFI 2014 Dotaton T2 / HT2 par mission des CAS</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotaton-t2-ht2-par-mission-des-cas</link>
+     <description><![CDATA[Dotation du Titre 2 et autres titres par mission des comptes d'affectation spéciale (CAS) de la loi de finances initiale pour 2014 ]]></description>
+     <author>Ministère de l’Economie et des Finances (certifié)</author>
+  </item>
   <item>
      <title>LFI 2014 Dotaton T2 / HT2 par ministère des CAS</title>
      <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotaton-t2-ht2-par-ministere-des-cas</link>
@@ -353,18 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/projets-d-aide-de-la-france-au-mali</link>
      <description><![CDATA[Données détaillées sur les projets d'aide de la France au Mali. ]]></description>
      <author>Ministère des Affaires Etrangères (certifié)</author>
-  </item>
-  <item>
-     <title> PLF 2014 - Budget général (BG) par destination (mission/programme/action/titre) </title>
-     <link>https://www.data.gouv.fr/fr/dataset/plf-2014-budget-general-bg-par-destination-mission-programme-action-titre</link>
-     <description><![CDATA[Croisement de plusieurs fichiers déjà présents sur data.gouv.fr ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title> PLF 2014 - Budget général (BG) par destination (mission/programme/T2/HT2)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/plf-2014-budget-general-bg-par-destination-mission-programme-t2-ht2</link>
-     <description><![CDATA[Base croisant deux bases existant sur data.gouv.fr : - PLF 2014 - Budget général (BG) par destination - PLF 2014 - Nomenclature par destination ]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
