@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 11 Feb 2014 17:20:02 +0100</pubDate>
+  <pubDate>Tue, 11 Feb 2014 17:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>LFI 2014 Dotation T2 / HT2 par mission des CCF</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-mission-des-ccf</link>
+     <description><![CDATA[Dotation du Titre 2 et autres titres par mission des comptes de concours financiers (CCF) de la loi de finances initiale pour 2014 ]]></description>
+     <author>Ministère de l’Economie et des Finances (certifié)</author>
+  </item>
+  <item>
+     <title>LFI 2014 Dotation T2 / HT2 par ministère des CCF</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-ministere-des-ccf</link>
+     <description><![CDATA[Dotation du Titre 2 et autres titres par ministère des comptes de concours financiers (CCF) de la loi de finances initiale pour 2014 ]]></description>
+     <author>Ministère de l’Economie et des Finances (certifié)</author>
+  </item>
   <item>
      <title>LFI 2014 Dotation T2 / HT2 par programme des CAS</title>
      <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-programme-des-cas</link>
@@ -13,50 +25,50 @@
      <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
   <item>
-     <title>LFI 2014 Dotaton T2 / HT2 par mission des CAS</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotaton-t2-ht2-par-mission-des-cas</link>
+     <title>LFI 2014 Dotation T2 / HT2 par mission des CAS</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-mission-des-cas</link>
      <description><![CDATA[Dotation du Titre 2 et autres titres par mission des comptes d'affectation spéciale (CAS) de la loi de finances initiale pour 2014 ]]></description>
      <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
   <item>
-     <title>LFI 2014 Dotaton T2 / HT2 par ministère des CAS</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotaton-t2-ht2-par-ministere-des-cas</link>
+     <title>LFI 2014 Dotation T2 / HT2 par ministère des CAS</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-ministere-des-cas</link>
      <description><![CDATA[Dotation du Titre 2 et autres titres par ministère des comptes d'affectation spéciale (CAS) de la loi de finances initiale pour 2014 ]]></description>
      <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
   <item>
-     <title>LFI 2014 Dotaton T2 / HT2 par programme du BG</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotaton-t2-ht2-par-programme-du-bg</link>
+     <title>LFI 2014 Dotation T2 / HT2 par programme du BG</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-programme-du-bg</link>
      <description><![CDATA[Dotation du Titre 2 et autres titres par programme du budget général de la loi de finances initiale pour 2014 ]]></description>
      <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
   <item>
-     <title>LFI 2014 Dotaton T2 / HT2 par mission du BG</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotaton-t2-ht2-par-mission-du-bg</link>
+     <title>LFI 2014 Dotation T2 / HT2 par mission du BG</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-mission-du-bg</link>
      <description><![CDATA[Dotation du Titre 2 et autres titres par mission du budget général de la loi de finances initiale pour 2014 ]]></description>
      <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
   <item>
-     <title>LFI 2014 Dotaton T2 / HT2 par ministère du BG</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotaton-t2-ht2-par-ministere-du-bg</link>
+     <title>LFI 2014 Dotation T2 / HT2 par ministère du BG</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-ministere-du-bg</link>
      <description><![CDATA[Dotation du Titre 2 et autres titres par ministère du budget général de la loi de finances initiale pour 2014 ]]></description>
      <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
   <item>
-     <title>LFI 2014 Dotaton T2 / HT2 par programme des BA</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotaton-t2-ht2-par-programme-des-ba</link>
+     <title>LFI 2014 Dotation T2 / HT2 par programme des BA</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-programme-des-ba</link>
      <description><![CDATA[Dotation du Titre 2 et autres titres par programme des budgets annexes de la loi de finances initiale pour 2014 ]]></description>
-     <author>citoyen</author>
+     <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
   <item>
-     <title>LFI 2014 Dotaton T2 / HT2 par mission des BA</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotaton-t2-ht2-par-mission-des-ba</link>
+     <title>LFI 2014 Dotation T2 / HT2 par mission des BA</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-mission-des-ba</link>
      <description><![CDATA[Dotation du Titre 2 et autres titres par mission des budgets annexes de la loi de finances initiale pour 2014 ]]></description>
      <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
   <item>
-     <title>LFI 2014 Dotaton T2 / HT2 par ministère des BA</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotaton-t2-ht2-par-ministere-des-ba</link>
+     <title>LFI 2014 Dotation T2 / HT2 par ministère des BA</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-ministere-des-ba</link>
      <description><![CDATA[Dotation du Titre 2 et autres titres par ministère des budgets annexes de la loi de finances initiale pour 2014 ]]></description>
      <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
@@ -353,18 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/statistiques-sur-les-antennes-mobiles-en-france</link>
      <description><![CDATA[Le marché de la téléphonie mobile explose ces dernières années principalement depuis les politiques d'offres sans engagement, initialement lancées par free mobile en janvier 2012, et l’évolution constante des téléphones qui sont désormais de vrais terminaux portables évolués. Les abonnés ont dorénavant besoin d'avoir accès à internet, via leur téléphone, de partout et avec un débit de...]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Ambassades étrangères en France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/ambassades-etrangeres-en-france</link>
-     <description><![CDATA[Liste des ambassades étrangères recensées par le Ministère des Affaires Etrangères. Source du .pdf : http://www.citoyennumerique.fr/wp-content/uploads/2013/10/Ambassades-et-consulats-etrangers-en-France.pdf Trouvé sur : http://www.mfe.org/index.php/Annuaires/Ambassades-et-consulats-etrangers-en-France ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Projets d'aide de la France au Mali</title>
-     <link>https://www.data.gouv.fr/fr/dataset/projets-d-aide-de-la-france-au-mali</link>
-     <description><![CDATA[Données détaillées sur les projets d'aide de la France au Mali. ]]></description>
-     <author>Ministère des Affaires Etrangères (certifié)</author>
   </item>
  </channel>
 </rss>
