@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 11 Feb 2014 15:40:02 +0100</pubDate>
+  <pubDate>Tue, 11 Feb 2014 16:10:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>LFI 2014 Dotation en ETP par ministère du budget général de la loi de finances initiale pour 2014</title>
@@ -53,6 +53,12 @@
      <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-bg-en-ae-cp-par-action-titre</link>
      <description><![CDATA[Dotation en AE et CP par mission / programme / Action et Titre du budget général de la loi de finances initiale pour 2014. ]]></description>
      <author>Ministère de l’Economie et des Finances (certifié)</author>
+  </item>
+  <item>
+     <title>Bureaux de vote</title>
+     <link>https://www.data.gouv.fr/fr/dataset/bureaux-de-vote</link>
+     <description><![CDATA[Liste des bureaux de vote 2014 d'Issy-les-Moulineaux avec leur numéro, leur adresse et leur géolocalisation et leur localisation par canton. ]]></description>
+     <author>Ville d'Issy-les-Moulineaux</author>
   </item>
   <item>
      <title>LFI 2014 Dotation BG en AE / CP par Action / Catégorie</title>
@@ -358,12 +364,6 @@
      <title>Commune de Brocas : Impôts</title>
      <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-impots</link>
      <description><![CDATA[Eléments concernant les impôts pour la commune de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Sport</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-sport</link>
-     <description><![CDATA[Eléments concernant le sport pour la commune de Brocas ]]></description>
      <author>Commune de Brocas (certifié)</author>
   </item>
  </channel>
