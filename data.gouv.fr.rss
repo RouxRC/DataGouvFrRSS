@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 11 Feb 2014 12:50:02 +0100</pubDate>
+  <pubDate>Tue, 11 Feb 2014 13:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Dotation en ETP par ministère du budget général de la loi de finances initiale pour 2014</title>
@@ -27,7 +27,7 @@
   <item>
      <title>Résultats élections</title>
      <link>https://www.data.gouv.fr/fr/dataset/resultats-elections</link>
-     <description><![CDATA[Résultats électoraux à Issy-les-Moulineaux. ]]></description>
+     <description><![CDATA[Résultats électoraux à Issy-les-Moulineaux depuis 2012 par bureau de vote. ]]></description>
      <author>Ville d'Issy-les-Moulineaux</author>
   </item>
   <item>
