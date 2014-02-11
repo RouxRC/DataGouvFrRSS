@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 11 Feb 2014 11:50:03 +0100</pubDate>
+  <pubDate>Tue, 11 Feb 2014 12:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>LFI 2014 Dotation BG en AE / CP par Action / Catégorie</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-bg-en-ae-cp-par-action-categorie</link>
+     <description><![CDATA[Dotation en AE et CP par mission / programme / Action et Catégorie du budget général de la loi de finances initiale pour 2014. ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Points d'intérêt - POI</title>
      <link>https://www.data.gouv.fr/fr/dataset/points-d-interet-poi</link>
@@ -358,12 +364,6 @@
      <title> Commune de Brocas : Elections</title>
      <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-elections</link>
      <description><![CDATA[Éléments concernant les élections Européennes, Présidentielles, Législatives et Cantonales pour la commune de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Ecole</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-ecole-0</link>
-     <description><![CDATA[Eléments concernant l’école pour la commune de Brocas (Compétence : Communauté de Communes du Pays d'Albret) ]]></description>
      <author>Commune de Brocas (certifié)</author>
   </item>
  </channel>
