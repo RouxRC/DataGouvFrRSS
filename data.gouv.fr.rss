@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 10 Feb 2014 18:10:02 +0100</pubDate>
+  <pubDate>Tue, 11 Feb 2014 11:50:03 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Points d'intérêt - POI</title>
+     <link>https://www.data.gouv.fr/fr/dataset/points-d-interet-poi</link>
+     <description><![CDATA[Des milliers de points d'intérêt géolocalisés à Issy-les-Moulineaux: - Administrations, bureaux de poste, cimetières, secours - Education (écoles maternelles et élémentaires, collèges, lycées...) - Cadre de vie (aires de jeux, arbres remarquables, conteneurs à verre, jardins, parcs, squares...) - Hôtels et chambres d'hôtes - Petite enfance (crèches, haltes-garderies...) -...]]></description>
+     <author>Ville d'Issy-les-Moulineaux</author>
+  </item>
   <item>
      <title>Agenda des événements</title>
      <link>https://www.data.gouv.fr/fr/dataset/agenda-des-evenements</link>
@@ -358,12 +364,6 @@
      <title>Commune de Brocas : Ecole</title>
      <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-ecole-0</link>
      <description><![CDATA[Eléments concernant l’école pour la commune de Brocas (Compétence : Communauté de Communes du Pays d'Albret) ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Eau</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-eau</link>
-     <description><![CDATA[Eléments concernant la gestion de l'eau (Compétence : Communauté de Communes du Pays d'Albret) ]]></description>
      <author>Commune de Brocas (certifié)</author>
   </item>
  </channel>
