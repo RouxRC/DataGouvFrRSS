@@ -4,8 +4,26 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 11 Feb 2014 16:50:02 +0100</pubDate>
+  <pubDate>Tue, 11 Feb 2014 17:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>LFI 2014 Dotaton T2 / HT2 par programme des BA</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotaton-t2-ht2-par-programme-des-ba</link>
+     <description><![CDATA[Dotation du Titre 2 et autres titres par programme des budgets annexes de la loi de finances initiale pour 2014 ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>LFI 2014 Dotaton T2 / HT2 par mission des BA</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotaton-t2-ht2-par-mission-des-ba</link>
+     <description><![CDATA[Dotation du Titre 2 et autres titres par mission des budgets annexes de la loi de finances initiale pour 2014 ]]></description>
+     <author>Ministère de l’Economie et des Finances (certifié)</author>
+  </item>
+  <item>
+     <title>LFI 2014 Dotaton T2 / HT2 par ministère des BA</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotaton-t2-ht2-par-ministere-des-ba</link>
+     <description><![CDATA[Dotation du Titre 2 et autres titres par ministère des budgets annexes de la loi de finances initiale pour 2014 ]]></description>
+     <author>Ministère de l’Economie et des Finances (certifié)</author>
+  </item>
   <item>
      <title>LFI 2014 Dotation en ETP par programme du budget général de la loi de finances initiale pour 2014</title>
      <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-en-etp-par-programme-du-budget-general-de-la-loi-de-finances-initiale-pour-2014</link>
@@ -347,24 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/indicateur-avance-sanitaire-ias-gastro-enterite</link>
      <description><![CDATA[L’objectif de l’IAS® Incidence de la gastro-entérite est de réaliser une surveillance syndromique de la gastro-entérite en France. La gastro-entérite est un syndrome pouvant avoir de nombreuses origines : bactérienne (consommation d'eau ou de nourriture contaminée par des bactéries), parasitaire (protozoaires, amibes) ou virales (Rotavirus, Norovirus…). La gastro-entérite sévit toute l’année,...]]></description>
      <author>CELTIPHARM</author>
-  </item>
-  <item>
-     <title>Attributions de cartes de presse en 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/attributions-de-cartes-de-presse-en-2013</link>
-     <description><![CDATA[Données publiées par la Commission de la carte d'identité des journalistes professionnels. ]]></description>
-     <author>Etalab</author>
-  </item>
-  <item>
-     <title>Données sur les hébergements de vacances type &#34;Gîte&#34; dans le Perche</title>
-     <link>https://www.data.gouv.fr/fr/dataset/donnees-sur-les-hebergements-de-vacances-type-gite-dans-le-perche</link>
-     <description><![CDATA[Bonjour, je suis à la recherche de données tableau sur la zone du Perche et ses principales communes : Mortagne au Perche, le Gault du Perche, Nogent le Rotrou... en en particulier sur les gîtes dans le Perche (fréquentations, prix moyens de la nuitée, saisons les plus favorables pour le tourisme...). De manière générale, toute les données touristique de cette zone géographique aux frontières...]]></description>
-     <author>Gite Perche</author>
-  </item>
-  <item>
-     <title>Les ménages et leur logement depuis 1955 et 1970: quelques résultats extraits des enquêtes logement</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-menages-et-leur-logement-depuis-1955-et-1970-quelques-resultats-extraits-des-enquetes-logement</link>
-     <description><![CDATA[Ces valeurs numériques supportent et complètent la note du CGEDD "Les ménages et leurs logements depuis 1955 et 1970, quelques résultats sur longue période extraits des enquêtes logement" (J. Friggit, août 2010). L'utilisateur des données est invité, avant tout usage, à lire cette note, et notamment les précautions d'emploi. Cette note fait partie du dossier sur le prix de l'immobilier sur le...]]></description>
-     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
   </item>
  </channel>
 </rss>
