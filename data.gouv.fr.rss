@@ -4,8 +4,38 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 11 Feb 2014 12:20:02 +0100</pubDate>
+  <pubDate>Tue, 11 Feb 2014 12:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Dotation en ETP par ministère du budget général de la loi de finances initiale pour 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/dotation-en-etp-par-ministere-du-budget-general-de-la-loi-de-finances-initiale-pour-2014</link>
+     <description><![CDATA[Dotation en emplois temps plein (ETP) par ministère du budget général de la loi de finances initiale pour 2014 ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Dotation en ETP par programme des budgets annexes de la loi de finances initiale pour 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/dotation-en-etp-par-programme-des-budgets-annexes-de-la-loi-de-finances-initiale-pour-2014</link>
+     <description><![CDATA[Dotation en emplois temps plein (ETP) par programme des budgets annexes de la loi de finances initiale pour 2014 ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Dotation en ETP par ministère des budgets annexes de la loi de finances initiale pour 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/dotation-en-etp-par-ministere-des-budgets-annexes-de-la-loi-de-finances-initiale-pour-2014</link>
+     <description><![CDATA[Dotation en emplois temps plein (ETP) par ministère des budgets annexes de la loi de finances initiale pour 2014 ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Résultats élections</title>
+     <link>https://www.data.gouv.fr/fr/dataset/resultats-elections</link>
+     <description><![CDATA[Résultats électoraux à Issy-les-Moulineaux. ]]></description>
+     <author>Ville d'Issy-les-Moulineaux</author>
+  </item>
+  <item>
+     <title> LFI 2014 Dotation CCF en AE / CP par Action / Titre</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-ccf-en-ae-cp-par-action-titre</link>
+     <description><![CDATA[Dotation en AE et CP par mission / programme / Action et Titre des comptes de concours financiers (CCF) de la loi de finances initiale pour 2014. ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>LFI 2014 Dotation CAS en AE / CP par Action / Titre</title>
      <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-cas-en-ae-cp-par-action-titre</link>
@@ -334,36 +364,6 @@
      <title>Commune de Brocas : Opendata</title>
      <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-opendata</link>
      <description><![CDATA[Eléments régissant la libération des données pour la commune de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Gites communaux</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-gites-communaux</link>
-     <description><![CDATA[Éléments concernant les gîtes de la communes de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Gestion forestière</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-gestion-forestiere</link>
-     <description><![CDATA[Éléments concernant la gestion forestière de la commune de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Nombre de ventes de maisons et appartements anciens</title>
-     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-ventes-de-maisons-et-appartements-anciens</link>
-     <description><![CDATA[Nombre de ventes de maisons et appartements anciens, depuis 1992. Cette série supporte notamment ces graphiques sur l'évolution du marché immobilier résidentiel. Méthode d'estimation ]]></description>
-     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
-  </item>
-  <item>
-     <title>Limites administratives françaises issues d'OpenStreetMap</title>
-     <link>https://www.data.gouv.fr/fr/dataset/limites-administratives-francaises-issues-d-openstreetmap</link>
-     <description><![CDATA[Exports des limites des communes (sous forme linéaire) issues d'OpenStreetMap produit dans sa grande majorité à partir du cadastre. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être "© les contributeurs d'OpenStreetMap sous licence ODbL"...]]></description>
-     <author>OpenStreetMap</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Vie municipale</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-vie-municipale</link>
-     <description><![CDATA[Éléments concernant la vie municipale (2008-2012) pour la commune de Brocas ]]></description>
      <author>Commune de Brocas (certifié)</author>
   </item>
  </channel>
