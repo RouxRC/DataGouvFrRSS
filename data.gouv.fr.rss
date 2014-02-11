@@ -4,8 +4,32 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 11 Feb 2014 17:00:02 +0100</pubDate>
+  <pubDate>Tue, 11 Feb 2014 17:10:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>LFI 2014 Dotaton T2 / HT2 par ministère des CAS</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotaton-t2-ht2-par-ministere-des-cas</link>
+     <description><![CDATA[Dotation du Titre 2 et autres titres par ministère des comptes d'affectation spéciale (CAS) de la loi de finances initiale pour 2014 ]]></description>
+     <author>Ministère de l’Economie et des Finances (certifié)</author>
+  </item>
+  <item>
+     <title>LFI 2014 Dotaton T2 / HT2 par programme du BG</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotaton-t2-ht2-par-programme-du-bg</link>
+     <description><![CDATA[Dotation du Titre 2 et autres titres par programme du budget général de la loi de finances initiale pour 2014 ]]></description>
+     <author>Ministère de l’Economie et des Finances (certifié)</author>
+  </item>
+  <item>
+     <title>LFI 2014 Dotaton T2 / HT2 par mission du BG</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotaton-t2-ht2-par-mission-du-bg</link>
+     <description><![CDATA[Dotation du Titre 2 et autres titres par mission du budget général de la loi de finances initiale pour 2014 ]]></description>
+     <author>Ministère de l’Economie et des Finances (certifié)</author>
+  </item>
+  <item>
+     <title>LFI 2014 Dotaton T2 / HT2 par ministère du BG</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotaton-t2-ht2-par-ministere-du-bg</link>
+     <description><![CDATA[Dotation du Titre 2 et autres titres par ministère du budget général de la loi de finances initiale pour 2014 ]]></description>
+     <author>Ministère de l’Economie et des Finances (certifié)</author>
+  </item>
   <item>
      <title>LFI 2014 Dotaton T2 / HT2 par programme des BA</title>
      <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotaton-t2-ht2-par-programme-des-ba</link>
@@ -341,30 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/plf-2014-budget-general-bg-par-destination-mission-programme-t2-ht2</link>
      <description><![CDATA[Base croisant deux bases existant sur data.gouv.fr : - PLF 2014 - Budget général (BG) par destination - PLF 2014 - Nomenclature par destination ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Etude sur le jeu vidéo protégé - juillet 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/etude-sur-le-jeu-video-protege-juillet-2013</link>
-     <description><![CDATA[Etude quantitative en ligne sur un échantillon principal représentatif des consommateurs de jeux vidéos en France, et un suréchantillon de joueurs fréquents. ]]></description>
-     <author>Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (HADOPI) (certifié)</author>
-  </item>
-  <item>
-     <title>Offrelégale.fr : liste et description des plateformes publiées, décembre 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/offrelegale-fr-liste-et-description-des-plateformes-publiees-decembre-2013</link>
-     <description><![CDATA[Données descriptives des plateformes publiées sur offrelegale.fr, site qui recense les offres culturelles labellisées Hadopi ou pouvant être regardées comme étant légales. ]]></description>
-     <author>Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (HADOPI) (certifié)</author>
-  </item>
-  <item>
-     <title>Agenda culturel</title>
-     <link>https://www.data.gouv.fr/fr/dataset/agenda-culturel</link>
-     <description><![CDATA[Le jeu de données, proposé par Infolocale, contient l’agenda des événements culturels en France. Ce jeu de données fait l’objet d’un enrichissement et d’un élargissement géographique régulier. ]]></description>
-     <author>Infolocale</author>
-  </item>
-  <item>
-     <title>Indicateur Avancé Sanitaire IAS® - GASTRO-ENTERITE</title>
-     <link>https://www.data.gouv.fr/fr/dataset/indicateur-avance-sanitaire-ias-gastro-enterite</link>
-     <description><![CDATA[L’objectif de l’IAS® Incidence de la gastro-entérite est de réaliser une surveillance syndromique de la gastro-entérite en France. La gastro-entérite est un syndrome pouvant avoir de nombreuses origines : bactérienne (consommation d'eau ou de nourriture contaminée par des bactéries), parasitaire (protozoaires, amibes) ou virales (Rotavirus, Norovirus…). La gastro-entérite sévit toute l’année,...]]></description>
-     <author>CELTIPHARM</author>
   </item>
  </channel>
 </rss>
