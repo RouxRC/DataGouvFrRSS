@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 11 Feb 2014 16:30:02 +0100</pubDate>
+  <pubDate>Tue, 11 Feb 2014 16:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>LFI 2014 Dotation en ETP par programme du budget général de la loi de finances initiale pour 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-en-etp-par-programme-du-budget-general-de-la-loi-de-finances-initiale-pour-2014</link>
+     <description><![CDATA[Dotation en emplois temps plein (ETP) par programme du budget général de la loi de finances initiale pour 2014 ]]></description>
+     <author>Ministère de l’Economie et des Finances (certifié)</author>
+  </item>
   <item>
      <title>LFI 2014 Dotation en ETP par ministère du budget général de la loi de finances initiale pour 2014</title>
      <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-en-etp-par-ministere-du-budget-general-de-la-loi-de-finances-initiale-pour-2014</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/les-menages-et-leur-logement-depuis-1955-et-1970-quelques-resultats-extraits-des-enquetes-logement</link>
      <description><![CDATA[Ces valeurs numériques supportent et complètent la note du CGEDD "Les ménages et leurs logements depuis 1955 et 1970, quelques résultats sur longue période extraits des enquêtes logement" (J. Friggit, août 2010). L'utilisateur des données est invité, avant tout usage, à lire cette note, et notamment les précautions d'emploi. Cette note fait partie du dossier sur le prix de l'immobilier sur le...]]></description>
      <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Impôts</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-impots</link>
-     <description><![CDATA[Eléments concernant les impôts pour la commune de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
   </item>
  </channel>
 </rss>
