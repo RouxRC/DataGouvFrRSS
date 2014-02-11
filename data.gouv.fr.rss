@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 11 Feb 2014 15:30:02 +0100</pubDate>
+  <pubDate>Tue, 11 Feb 2014 15:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>LFI 2014 Dotation en ETP par ministère du budget général de la loi de finances initiale pour 2014</title>
@@ -19,10 +19,10 @@
      <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
   <item>
-     <title>Dotation en ETP par ministère des budgets annexes de la loi de finances initiale pour 2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/dotation-en-etp-par-ministere-des-budgets-annexes-de-la-loi-de-finances-initiale-pour-2014</link>
+     <title>LFI 2014 Dotation en ETP par ministère des budgets annexes de la loi de finances initiale pour 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-en-etp-par-ministere-des-budgets-annexes-de-la-loi-de-finances-initiale-pour-2014</link>
      <description><![CDATA[Dotation en emplois temps plein (ETP) par ministère des budgets annexes de la loi de finances initiale pour 2014 ]]></description>
-     <author>citoyen</author>
+     <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
   <item>
      <title>Résultats élections</title>
