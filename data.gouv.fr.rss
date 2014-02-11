@@ -4,19 +4,19 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 11 Feb 2014 15:20:02 +0100</pubDate>
+  <pubDate>Tue, 11 Feb 2014 15:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
-     <title>Dotation en ETP par ministère du budget général de la loi de finances initiale pour 2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/dotation-en-etp-par-ministere-du-budget-general-de-la-loi-de-finances-initiale-pour-2014</link>
+     <title>LFI 2014 Dotation en ETP par ministère du budget général de la loi de finances initiale pour 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-en-etp-par-ministere-du-budget-general-de-la-loi-de-finances-initiale-pour-2014</link>
      <description><![CDATA[Dotation en emplois temps plein (ETP) par ministère du budget général de la loi de finances initiale pour 2014 ]]></description>
-     <author>citoyen</author>
+     <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
   <item>
-     <title>Dotation en ETP par programme des budgets annexes de la loi de finances initiale pour 2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/dotation-en-etp-par-programme-des-budgets-annexes-de-la-loi-de-finances-initiale-pour-2014</link>
+     <title>LFI 2014 Dotation en ETP par programme des budgets annexes de la loi de finances initiale pour 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-en-etp-par-programme-des-budgets-annexes-de-la-loi-de-finances-initiale-pour-2014</link>
      <description><![CDATA[Dotation en emplois temps plein (ETP) par programme des budgets annexes de la loi de finances initiale pour 2014 ]]></description>
-     <author>citoyen</author>
+     <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
   <item>
      <title>Dotation en ETP par ministère des budgets annexes de la loi de finances initiale pour 2014</title>
@@ -40,25 +40,25 @@
      <title>LFI 2014 Dotation CAS en AE / CP par Action / Titre</title>
      <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-cas-en-ae-cp-par-action-titre</link>
      <description><![CDATA[Dotation en AE et CP par mission / programme / Action et Titre des comptes d'affectation spéciale (CAS) de la loi de finances initiale pour 2014. ]]></description>
-     <author>citoyen</author>
+     <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
   <item>
      <title>LFI 2014 Dotation CAS en AE / CP par Action / Catégorie</title>
      <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-cas-en-ae-cp-par-action-categorie</link>
      <description><![CDATA[Dotation en AE et CP par mission / programme / Action et Catégorie des comptes d'affectation spéciale (CAS) de la loi de finances initiale pour 2014. ]]></description>
-     <author>citoyen</author>
+     <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
   <item>
      <title>LFI 2014 Dotation BG en AE / CP par Action / Titre</title>
      <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-bg-en-ae-cp-par-action-titre</link>
      <description><![CDATA[Dotation en AE et CP par mission / programme / Action et Titre du budget général de la loi de finances initiale pour 2014. ]]></description>
-     <author>citoyen</author>
+     <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
   <item>
      <title>LFI 2014 Dotation BG en AE / CP par Action / Catégorie</title>
      <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-bg-en-ae-cp-par-action-categorie</link>
      <description><![CDATA[Dotation en AE et CP par mission / programme / Action et Catégorie du budget général de la loi de finances initiale pour 2014. ]]></description>
-     <author>citoyen</author>
+     <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
   <item>
      <title>Liste des prénoms</title>
