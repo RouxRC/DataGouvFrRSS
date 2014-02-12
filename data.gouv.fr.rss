@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 12 Feb 2014 12:20:02 +0100</pubDate>
+  <pubDate>Wed, 12 Feb 2014 14:20:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Population</title>
+     <link>https://www.data.gouv.fr/fr/dataset/populati-0</link>
+     <description><![CDATA[Le recensement de la population permet d'accéder à de nombreuses données (téléchargeables au format Excel) sur Issy-les-Moulineaux: caractéristiques de l'emploi couples - familles - ménages diplômes - formations emploi - population active étrangers - immigrés évolution et structure de la population logements Source: Site de...]]></description>
+     <author>Ville d'Issy-les-Moulineaux</author>
+  </item>
   <item>
      <title>LI 2014 Nomenclature par destination</title>
      <link>https://www.data.gouv.fr/fr/dataset/li-2014-nomenclature-par-destination</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/indicateur-avance-sanitaire-ias-syndrome-grippal</link>
      <description><![CDATA[L’objectif de l’Indicateur Avancé Sanitaire (IAS®) "Syndrome Grippal" est de contribuer à la surveillance des syndromes grippaux en France en apportant des informations complémentaires à celles du réseau Sentinelles. Cet indicateur a été validé par comparaison avec les données du réseau Sentinelles. Au niveau national, La corrélation croisée avec le réseau Sentinelle est forte (0,88)....]]></description>
      <author>CELTIPHARM</author>
-  </item>
-  <item>
-     <title>URL des sites publics</title>
-     <link>https://www.data.gouv.fr/fr/dataset/url-des-sites-publics</link>
-     <description><![CDATA[Il s’agit de l’ensemble des URL des sites publics recensés et présentés dans l’annuaire de l’administration française du site Service-public.fr. ]]></description>
-     <author>Premier ministre (certifié)</author>
   </item>
  </channel>
 </rss>
