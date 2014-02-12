@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 12 Feb 2014 12:10:02 +0100</pubDate>
+  <pubDate>Wed, 12 Feb 2014 12:20:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>LI 2014 Nomenclature par destination</title>
@@ -77,12 +77,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-mission-des-ba</link>
      <description><![CDATA[Dotation du Titre 2 et autres titres par mission des budgets annexes de la loi de finances initiale pour 2014 ]]></description>
      <author>Ministère de l’Economie et des Finances (certifié)</author>
-  </item>
-  <item>
-     <title>Registre Parcellaire Graphique 2012: contours des îlots culturaux et leur groupe de cultures majoritaire des exploitations</title>
-     <link>https://www.data.gouv.fr/fr/dataset/registre-parcellaire-graphique-2012-contours-des-ilots-culturaux-et-leur-groupe-de-cultures-majorita</link>
-     <description><![CDATA[Le Règlement communautaire (CE) n°1593/2000 a institué l'obligation, dans tous les Etats Membres, de localiser et d'identifier les parcelles agricoles.Pour répondre à cette exigence, la France a mis en place le Registre Parcellaire Graphique (RPG) qui est un système d'information géographique permettant l'identification des parcelles agricoles. Ainsi, chaque année, les agriculteurs adressent à...]]></description>
-     <author>Agence de services et de paiement (ASP) (certifié)</author>
   </item>
   <item>
      <title>LFI 2014 Dotation T2 / HT2 par ministère des BA</title>
@@ -365,6 +359,12 @@
      <link>https://www.data.gouv.fr/fr/dataset/indicateur-avance-sanitaire-ias-syndrome-grippal</link>
      <description><![CDATA[L’objectif de l’Indicateur Avancé Sanitaire (IAS®) "Syndrome Grippal" est de contribuer à la surveillance des syndromes grippaux en France en apportant des informations complémentaires à celles du réseau Sentinelles. Cet indicateur a été validé par comparaison avec les données du réseau Sentinelles. Au niveau national, La corrélation croisée avec le réseau Sentinelle est forte (0,88)....]]></description>
      <author>CELTIPHARM</author>
+  </item>
+  <item>
+     <title>URL des sites publics</title>
+     <link>https://www.data.gouv.fr/fr/dataset/url-des-sites-publics</link>
+     <description><![CDATA[Il s’agit de l’ensemble des URL des sites publics recensés et présentés dans l’annuaire de l’administration française du site Service-public.fr. ]]></description>
+     <author>Premier ministre (certifié)</author>
   </item>
  </channel>
 </rss>
