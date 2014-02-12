@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 12 Feb 2014 15:10:02 +0100</pubDate>
+  <pubDate>Wed, 12 Feb 2014 17:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Monuments</title>
+     <link>https://www.data.gouv.fr/fr/dataset/monuments</link>
+     <description><![CDATA[La statuaire métallique publique constitue un pan important du décor à Issy-les-Moulineaux. Le fichier contient les noms, descriptions, adresses, données de géolocalisation, lien vers des photos... ]]></description>
+     <author>Ville d'Issy-les-Moulineaux</author>
+  </item>
   <item>
      <title>Population</title>
      <link>https://www.data.gouv.fr/fr/dataset/populati-0</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/population-par-tranches-d-age-et-sexe-estimations-localisees-de-population</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Insee ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Indicateur Avancé Sanitaire IAS® - SYNDROME GRIPPAL</title>
-     <link>https://www.data.gouv.fr/fr/dataset/indicateur-avance-sanitaire-ias-syndrome-grippal</link>
-     <description><![CDATA[L’objectif de l’Indicateur Avancé Sanitaire (IAS®) "Syndrome Grippal" est de contribuer à la surveillance des syndromes grippaux en France en apportant des informations complémentaires à celles du réseau Sentinelles. Cet indicateur a été validé par comparaison avec les données du réseau Sentinelles. Au niveau national, La corrélation croisée avec le réseau Sentinelle est forte (0,88)....]]></description>
-     <author>CELTIPHARM</author>
   </item>
  </channel>
 </rss>
