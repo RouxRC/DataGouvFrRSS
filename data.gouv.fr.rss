@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 12 Feb 2014 17:50:02 +0100</pubDate>
+  <pubDate>Thu, 13 Feb 2014 10:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Taux d'équipement robotique</title>
+     <link>https://www.data.gouv.fr/fr/dataset/taux-d-equipement-robotique</link>
+     <description><![CDATA[Maxirobots a réalisé une étude sur le taux d'équipements en robots domestiques. ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Monuments</title>
      <link>https://www.data.gouv.fr/fr/dataset/monuments</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/consommation-electrique-de-telecom-bretagne</link>
      <description><![CDATA[Reprend la consommation électrique de Télécom Bretagne Rennes ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Population par tranches d'âge et sexe (estimations localisées de population)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/population-par-tranches-d-age-et-sexe-estimations-localisees-de-population</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Insee ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
 </rss>
