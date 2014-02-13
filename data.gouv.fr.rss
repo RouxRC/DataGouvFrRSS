@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 13 Feb 2014 13:10:02 +0100</pubDate>
+  <pubDate>Thu, 13 Feb 2014 14:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Taux d'équipement robotique</title>
@@ -95,6 +95,12 @@
      <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-mission-des-ba</link>
      <description><![CDATA[Dotation du Titre 2 et autres titres par mission des budgets annexes de la loi de finances initiale pour 2014 ]]></description>
      <author>Ministère de l’Economie et des Finances (certifié)</author>
+  </item>
+  <item>
+     <title>Registre Parcellaire Graphique 2012: contours des îlots culturaux et leur groupe de cultures majoritaire des exploitations</title>
+     <link>https://www.data.gouv.fr/fr/dataset/registre-parcellaire-graphique-2012-contours-des-ilots-culturaux-et-leur-groupe-de-cultures-majorita</link>
+     <description><![CDATA[Le Règlement communautaire (CE) n°1593/2000 a institué l'obligation, dans tous les Etats Membres, de localiser et d'identifier les parcelles agricoles.Pour répondre à cette exigence, la France a mis en place le Registre Parcellaire Graphique (RPG) qui est un système d'information géographique permettant l'identification des parcelles agricoles. Ainsi, chaque année, les agriculteurs adressent à...]]></description>
+     <author>Agence de services et de paiement (ASP) (certifié)</author>
   </item>
   <item>
      <title>LFI 2014 Dotation T2 / HT2 par ministère des BA</title>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/artisans-nombre-d-entreprises-chiffre-d-affaires-et-valeur-ajoutee</link>
      <description><![CDATA[Artisans : nombre d'entreprises, chiffre d'affaires et valeur ajoutée ]]></description>
      <author>Ministère du Redressement productif (certifié)</author>
-  </item>
-  <item>
-     <title>Consommation électrique de Télécom Bretagne</title>
-     <link>https://www.data.gouv.fr/fr/dataset/consommation-electrique-de-telecom-bretagne</link>
-     <description><![CDATA[Reprend la consommation électrique de Télécom Bretagne Rennes ]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
