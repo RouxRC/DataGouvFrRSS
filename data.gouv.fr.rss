@@ -4,12 +4,12 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 14 Feb 2014 19:20:02 +0100</pubDate>
+  <pubDate>Sat, 15 Feb 2014 00:10:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Arbres remarquables</title>
      <link>https://www.data.gouv.fr/fr/dataset/arbres-remarquables</link>
-     <description><![CDATA[Ce jeu de données au format csv contient des informations sur les arbres remarquables de la Ville d'Issy-les-Moulineaux: essences, localisation, lien vers du contenu enrichi... ") ]]></description>
+     <description><![CDATA[Ce jeu de données au format csv contient des informations sur les arbres remarquables de la Ville d'Issy-les-Moulineaux: essences, localisation, lien vers du contenu enrichi... ]]></description>
      <author>Ville d'Issy-les-Moulineaux</author>
   </item>
   <item>
