@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 13 Feb 2014 17:10:02 +0100</pubDate>
+  <pubDate>Fri, 14 Feb 2014 15:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Taux d'équipement robotique</title>
+     <link>https://www.data.gouv.fr/fr/dataset/taux-d-equipement-robotique</link>
+     <description><![CDATA[Maxirobots a réalisé une étude sur le taux d'équipements en robots domestiques. ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Monuments</title>
      <link>https://www.data.gouv.fr/fr/dataset/monuments</link>
@@ -103,27 +109,27 @@
      <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
   <item>
-     <title>LFI 2014 Dotation en ETP par programme du budget général de la loi de finances initiale pour 2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-en-etp-par-programme-du-budget-general-de-la-loi-de-finances-initiale-pour-2014</link>
-     <description><![CDATA[Dotation en emplois temps plein (ETP) par programme du budget général de la loi de finances initiale pour 2014 ]]></description>
+     <title>LFI 2014 Dotation en ETPT par programme du budget général de la loi de finances initiale pour 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-en-etpt-par-programme-du-budget-general-de-la-loi-de-finances-initiale-pour-2014</link>
+     <description><![CDATA[Dotation en équivalant temps plein travaillé (ETPT) par programme du budget général de la loi de finances initiale pour 2014 ]]></description>
      <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
   <item>
-     <title>LFI 2014 Dotation en ETP par ministère du budget général de la loi de finances initiale pour 2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-en-etp-par-ministere-du-budget-general-de-la-loi-de-finances-initiale-pour-2014</link>
-     <description><![CDATA[Dotation en emplois temps plein (ETP) par ministère du budget général de la loi de finances initiale pour 2014 ]]></description>
+     <title>LFI 2014 Dotation en ETPT par ministère du budget général de la loi de finances initiale pour 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-en-etpt-par-ministere-du-budget-general-de-la-loi-de-finances-initiale-pour-2014</link>
+     <description><![CDATA[Dotation en équivalant temps plein travaillé (ETPT) par ministère du budget général de la loi de finances initiale pour 2014 ]]></description>
      <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
   <item>
-     <title>LFI 2014 Dotation en ETP par programme des budgets annexes de la loi de finances initiale pour 2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-en-etp-par-programme-des-budgets-annexes-de-la-loi-de-finances-initiale-pour-2014</link>
-     <description><![CDATA[Dotation en emplois temps plein (ETP) par programme des budgets annexes de la loi de finances initiale pour 2014 ]]></description>
+     <title>LFI 2014 Dotation en ETPT par programme des budgets annexes de la loi de finances initiale pour 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-en-etpt-par-programme-des-budgets-annexes-de-la-loi-de-finances-initiale-pour-2014</link>
+     <description><![CDATA[Dotation en équivalant temps plein travaillé (ETPT) par programme des budgets annexes de la loi de finances initiale pour 2014 ]]></description>
      <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
   <item>
-     <title>LFI 2014 Dotation en ETP par ministère des budgets annexes de la loi de finances initiale pour 2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-en-etp-par-ministere-des-budgets-annexes-de-la-loi-de-finances-initiale-pour-2014</link>
-     <description><![CDATA[Dotation en emplois temps plein (ETP) par ministère des budgets annexes de la loi de finances initiale pour 2014 ]]></description>
+     <title>LFI 2014 Dotation en ETPT par ministère des budgets annexes de la loi de finances initiale pour 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-en-etpt-par-ministere-des-budgets-annexes-de-la-loi-de-finances-initiale-pour-2014</link>
+     <description><![CDATA[Dotation en équivalant temps plein travaillé (ETPT) par ministère des budgets annexes de la loi de finances initiale pour 2014 ]]></description>
      <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
   <item>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/artisans-nombre-d-entreprises-chiffre-d-affaires-et-valeur-ajoutee</link>
      <description><![CDATA[Artisans : nombre d'entreprises, chiffre d'affaires et valeur ajoutée ]]></description>
      <author>Ministère du Redressement productif (certifié)</author>
-  </item>
-  <item>
-     <title>Consommation électrique de Télécom Bretagne</title>
-     <link>https://www.data.gouv.fr/fr/dataset/consommation-electrique-de-telecom-bretagne</link>
-     <description><![CDATA[Reprend la consommation électrique de Télécom Bretagne Rennes ]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
