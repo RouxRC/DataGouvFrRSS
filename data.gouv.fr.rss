@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 14 Feb 2014 15:30:02 +0100</pubDate>
+  <pubDate>Fri, 14 Feb 2014 16:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Budget primitif</title>
+     <link>https://www.data.gouv.fr/fr/dataset/budget-primitif</link>
+     <description><![CDATA[Ces jeux de données contiennent les budgets primitifs de la Ville d'Issy-les-Moulineaux: dépenses et recettes de fonctionnement en euros (par chapitres et articles) dépenses et recettes d'investissement en euros (par chapitres et articles) ]]></description>
+     <author>Ville d'Issy-les-Moulineaux</author>
+  </item>
   <item>
      <title>Revenu libéral moyen des professions de santé</title>
      <link>https://www.data.gouv.fr/fr/dataset/revenu-liberal-moyen-des-professions-de-sante</link>
@@ -358,12 +364,6 @@
      <title>Observatoire statistique France découverte</title>
      <link>https://www.data.gouv.fr/fr/dataset/observatoire-statistique-france-decouverte</link>
      <description><![CDATA[L'Observatoire statistique France découverte permet d'explorer une base de données de plusieurs centaines d'indicateurs sur des thèmes variés : population, logement, environnement, emploi, économie, etc. disponibles à différents niveaux géographiques : commune, intercommunalité, canton, zone d'emploi, département, région, etc. ]]></description>
-     <author>Emc3 / Géoclip</author>
-  </item>
-  <item>
-     <title>Fond de carte des codes postaux</title>
-     <link>https://www.data.gouv.fr/fr/dataset/fond-de-carte-des-codes-postaux</link>
-     <description><![CDATA[Ce fichier contient le tracé des codes postaux en France métropolitaine (y compris les codes postaux supra-communaux) ainsi qu'une estimation de la population et du nombre de ménages. Le zip fourni comporte les fonds de carte aux formats shape et mapinfo, ainsi qu'une notice lisezmoi.txt. ]]></description>
      <author>Emc3 / Géoclip</author>
   </item>
  </channel>
