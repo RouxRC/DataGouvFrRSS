@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 14 Feb 2014 19:00:02 +0100</pubDate>
+  <pubDate>Fri, 14 Feb 2014 19:20:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Arbres remarquables</title>
+     <link>https://www.data.gouv.fr/fr/dataset/arbres-remarquables</link>
+     <description><![CDATA[Ce jeu de données au format csv contient des informations sur les arbres remarquables de la Ville d'Issy-les-Moulineaux: essences, localisation, lien vers du contenu enrichi... ") ]]></description>
+     <author>Ville d'Issy-les-Moulineaux</author>
+  </item>
   <item>
      <title>Compte administratif</title>
      <link>https://www.data.gouv.fr/fr/dataset/compte-administratif</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/polices-municipales</link>
      <description><![CDATA[Données statistiques relatives aux polices municipales par commune pour l'année 2012. ]]></description>
      <author>Ministère de l'Intérieur (certifié)</author>
-  </item>
-  <item>
-     <title>Professions libérales</title>
-     <link>https://www.data.gouv.fr/fr/dataset/professions-liberales</link>
-     <description><![CDATA[Effectif par profession non salariée et par département, par tranche d'âge, par sexe ]]></description>
-     <author>Ministère du Redressement productif (certifié)</author>
   </item>
  </channel>
 </rss>
