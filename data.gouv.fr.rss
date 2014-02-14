@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 14 Feb 2014 15:00:02 +0100</pubDate>
+  <pubDate>Fri, 14 Feb 2014 15:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Revenu libéral moyen des professions de santé</title>
+     <link>https://www.data.gouv.fr/fr/dataset/revenu-liberal-moyen-des-professions-de-sante</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees ]]></description>
+     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
+  </item>
   <item>
      <title>Taux d'équipement robotique</title>
      <link>https://www.data.gouv.fr/fr/dataset/taux-d-equipement-robotique</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/fond-de-carte-des-codes-postaux</link>
      <description><![CDATA[Ce fichier contient le tracé des codes postaux en France métropolitaine (y compris les codes postaux supra-communaux) ainsi qu'une estimation de la population et du nombre de ménages. Le zip fourni comporte les fonds de carte aux formats shape et mapinfo, ainsi qu'une notice lisezmoi.txt. ]]></description>
      <author>Emc3 / Géoclip</author>
-  </item>
-  <item>
-     <title>Artisans : nombre d'entreprises, chiffre d'affaires et valeur ajoutée</title>
-     <link>https://www.data.gouv.fr/fr/dataset/artisans-nombre-d-entreprises-chiffre-d-affaires-et-valeur-ajoutee</link>
-     <description><![CDATA[Artisans : nombre d'entreprises, chiffre d'affaires et valeur ajoutée ]]></description>
-     <author>Ministère du Redressement productif (certifié)</author>
   </item>
  </channel>
 </rss>
