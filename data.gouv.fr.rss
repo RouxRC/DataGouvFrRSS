@@ -4,25 +4,25 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 17 Feb 2014 20:10:02 +0100</pubDate>
+  <pubDate>Mon, 17 Feb 2014 22:10:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Arbres remarquables</title>
      <link>https://www.data.gouv.fr/fr/dataset/arbres-remarquables</link>
      <description><![CDATA[Ce jeu de données au format csv contient des informations sur les arbres remarquables de la Ville d'Issy-les-Moulineaux: essences, localisation, lien vers du contenu enrichi... ]]></description>
-     <author>Ville d'Issy-les-Moulineaux</author>
+     <author>Ville d'Issy-les-Moulineaux (certifié)</author>
   </item>
   <item>
      <title>Compte administratif</title>
      <link>https://www.data.gouv.fr/fr/dataset/compte-administratif</link>
      <description><![CDATA[Ces jeux de données contiennent les comptes administratifs de la Ville d'Issy-les-Moulineaux. Ils rendent compte de la gestion du maire (ordonnateur) pour les exercices écoulés. ]]></description>
-     <author>Ville d'Issy-les-Moulineaux</author>
+     <author>Ville d'Issy-les-Moulineaux (certifié)</author>
   </item>
   <item>
      <title>Budget primitif</title>
      <link>https://www.data.gouv.fr/fr/dataset/budget-primitif</link>
      <description><![CDATA[Ces jeux de données contiennent les budgets primitifs de la Ville d'Issy-les-Moulineaux: dépenses et recettes de fonctionnement en euros (par chapitres et articles) dépenses et recettes d'investissement en euros (par chapitres et articles) ]]></description>
-     <author>Ville d'Issy-les-Moulineaux</author>
+     <author>Ville d'Issy-les-Moulineaux (certifié)</author>
   </item>
   <item>
      <title>Revenu libéral moyen des professions de santé</title>
@@ -40,13 +40,13 @@
      <title>Monuments</title>
      <link>https://www.data.gouv.fr/fr/dataset/monuments</link>
      <description><![CDATA[La statuaire métallique publique constitue un pan important du décor à Issy-les-Moulineaux. Le fichier contient les noms, descriptions, adresses, données de géolocalisation, lien vers des photos... ]]></description>
-     <author>Ville d'Issy-les-Moulineaux</author>
+     <author>Ville d'Issy-les-Moulineaux (certifié)</author>
   </item>
   <item>
      <title>Population</title>
      <link>https://www.data.gouv.fr/fr/dataset/populati-0</link>
      <description><![CDATA[Le recensement de la population permet d'accéder à de nombreuses données (téléchargeables au format Excel) sur Issy-les-Moulineaux: caractéristiques de l'emploi couples - familles - ménages diplômes - formations emploi - population active étrangers - immigrés évolution et structure de la population logements Source: Site de...]]></description>
-     <author>Ville d'Issy-les-Moulineaux</author>
+     <author>Ville d'Issy-les-Moulineaux (certifié)</author>
   </item>
   <item>
      <title>LI 2014 Nomenclature par destination</title>
@@ -160,7 +160,7 @@
      <title>Résultats élections</title>
      <link>https://www.data.gouv.fr/fr/dataset/resultats-elections</link>
      <description><![CDATA[Résultats électoraux à Issy-les-Moulineaux depuis 2012 par bureau de vote. ]]></description>
-     <author>Ville d'Issy-les-Moulineaux</author>
+     <author>Ville d'Issy-les-Moulineaux (certifié)</author>
   </item>
   <item>
      <title> LFI 2014 Dotation CCF en AE / CP par Action / Titre</title>
@@ -190,7 +190,7 @@
      <title>Bureaux de vote</title>
      <link>https://www.data.gouv.fr/fr/dataset/bureaux-de-vote</link>
      <description><![CDATA[Liste des bureaux de vote 2014 d'Issy-les-Moulineaux avec leur numéro, leur adresse et leur géolocalisation et leur localisation par canton. ]]></description>
-     <author>Ville d'Issy-les-Moulineaux</author>
+     <author>Ville d'Issy-les-Moulineaux (certifié)</author>
   </item>
   <item>
      <title>LFI 2014 Dotation BG en AE / CP par Action / Catégorie</title>
@@ -202,19 +202,19 @@
      <title>Liste des prénoms</title>
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-prenoms</link>
      <description><![CDATA[Liste des prénoms déclarés à l'état civil de 2000 à 2013. Prénoms des enfants nés à Issy ou dont les parents sont domiciliés à Issy. Afin de respecter la vie privée, les prénoms présentant une occurrence inférieure à 5 ne sont pas présentés. ]]></description>
-     <author>Ville d'Issy-les-Moulineaux</author>
+     <author>Ville d'Issy-les-Moulineaux (certifié)</author>
   </item>
   <item>
      <title>Points d'intérêt - POI</title>
      <link>https://www.data.gouv.fr/fr/dataset/points-d-interet-poi</link>
      <description><![CDATA[Des milliers de points d'intérêt géolocalisés à Issy-les-Moulineaux: Administrations, bureaux de poste, cimetières, secours Education (écoles maternelles et élémentaires, collèges, lycées...) Cadre de vie (aires de jeux, arbres remarquables, conteneurs à verre, jardins, parcs, squares...) Hôtels et chambres d'hôtes Petite enfance (crèches,...]]></description>
-     <author>Ville d'Issy-les-Moulineaux</author>
+     <author>Ville d'Issy-les-Moulineaux (certifié)</author>
   </item>
   <item>
      <title>Agenda des événements</title>
      <link>https://www.data.gouv.fr/fr/dataset/agenda-des-evenements</link>
      <description><![CDATA[La liste des prochains événements à Issy. Nom, lieu, géolocalisation, ajout à l'agenda électronique. issy.com/agenda Vous pouvez choisir le nombre de prochains événements auxquels vous souhaitez accéder en modifiant le lien. Ex: 100 prochains évènements suivant le mois en cours http://issy.com/ws/agenda/next/100 200 prochains évènements suivant le mois en cours...]]></description>
-     <author>Ville d'Issy-les-Moulineaux</author>
+     <author>Ville d'Issy-les-Moulineaux (certifié)</author>
   </item>
   <item>
      <title>Zone Urbaine Sensible</title>
