@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 17 Feb 2014 17:20:02 +0100</pubDate>
+  <pubDate>Mon, 17 Feb 2014 19:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Arbres remarquables</title>
@@ -361,9 +361,9 @@
      <author>Agence nationale de sécurité sanitaire, de l'alimentation, de l'environnement et du travail (ANSES) (certifié)</author>
   </item>
   <item>
-     <title>Polices municipales</title>
-     <link>https://www.data.gouv.fr/fr/dataset/polices-municipales</link>
-     <description><![CDATA[Données statistiques relatives aux polices municipales par commune pour l'année 2012. ]]></description>
+     <title>Les polices municipales par commune</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-polices-municipales-par-commune</link>
+     <description><![CDATA[Le fichier recense pour l'année 2012 les communes de votre département ayant un service de police municipale et contient : le nombre de policiers municipaux, le nombre d'agents de surveillance de la voie publique, le nombre de gardes-champêtres, le nombre de centres de supervision urbaine (CSU). Les polices municipales sont régies par le code général...]]></description>
      <author>Ministère de l'Intérieur (certifié)</author>
   </item>
  </channel>
