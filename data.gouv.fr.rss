@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 18 Feb 2014 16:00:02 +0100</pubDate>
+  <pubDate>Tue, 18 Feb 2014 17:20:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Commission pour l'indemnisation des victimes de spoliations (CIVS) - Statistiques pour le mois de janvier 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commission-pour-l-indemnisation-des-victimes-de-spoliations-civs-statistiques-pour-le-mois-de-janvie</link>
+     <description><![CDATA[Les statistiques mensuelles de la CIVS proposent, en plus d'éléments relatifs à l'activité de chaque service, les données suivantes : - nombre de dossiers enregistrés ; - nombre de dossiers traités ; - montant des indemnisations. ]]></description>
+     <author>Premier ministre (certifié)</author>
+  </item>
   <item>
      <title>Défibrillateurs</title>
      <link>https://www.data.gouv.fr/fr/dataset/defibrillateurs</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/startups-francaises-dans-le-domaine-du-numerique-educatif</link>
      <description><![CDATA[Liste non-exhaustive d'entreprises françaises de croissance formant la filière du numérique éducatif, compilée en annexe du rapport "La structuration de la filière du numérique éducatif : un enjeu pédagogique et industriel" de 2013 publié par le Conseil général de l'économie, de l'industrie, de l'énergie et des télécommunications (CGEIET), l'Inspection générale des finances (IGF) et...]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Données régionales EAT2 (Etude de l'Alimentation Totale)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/donnees-regionales-eat2-etude-de-l-alimentation-totale</link>
-     <description><![CDATA[Les données publiées constituent une analyse des éventuelles différences interrégionales en termes d’exposition à une douzaine de substances (notamment dioxines, PCB, acrylamide, plomb ou arsenic), pour lesquelles un risque sanitaire dû à une contamination par l’alimentation n’avait pu être exclu. Ces données mettent en évidence une faible variabilité des expositions entre inter-régions, en...]]></description>
-     <author>Agence nationale de sécurité sanitaire, de l'alimentation, de l'environnement et du travail (ANSES) (certifié)</author>
   </item>
  </channel>
 </rss>
