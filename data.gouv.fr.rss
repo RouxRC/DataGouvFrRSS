@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 19 Feb 2014 18:10:02 +0100</pubDate>
+  <pubDate>Wed, 19 Feb 2014 21:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Limitation du tonnage sur les routes départementales</title>
+     <link>https://www.data.gouv.fr/fr/dataset/limitation-du-tonnage-sur-les-routes-departemental-0</link>
+     <description><![CDATA[Limitation du tonnage sur les routes départementales ]]></description>
+     <author>Conseil Général du Cantal (certifié)</author>
+  </item>
   <item>
      <title>Réseau d'information comptable agricole France (RICA France) : fichiers de micro-données</title>
      <link>https://www.data.gouv.fr/fr/dataset/reseau-d-information-comptable-agricole-france-rica-france-fichiers-de-micro-donnees</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/unlimited-cities-montpellier-la-pompignane</link>
      <description><![CDATA[Les données en Open Data de - Unlimited Cities / Montpellier la Pompignane - contiennent les résultats issus des choix émis par les participants à l'expérimentation lors de la manipulation de l'application. Elles contiennent: - le nombre de mix validés - le point de vue choisi par l'utilisateur - La date de validation du mix - Le commentaire formulé par l'utilisateur - le...]]></description>
      <author>UFO Urbanisme Collaboratif</author>
-  </item>
-  <item>
-     <title>Etude sur la consommation de traitements contre la dysfonction érectile</title>
-     <link>https://www.data.gouv.fr/fr/dataset/etude-sur-la-consommation-de-traitements-contre-la-dysfonction-erectile</link>
-     <description><![CDATA[Etude sur la consommation de traitements contre la dysfonction érectile. Données issues des sorties consommateurs des officines du réseau CELTIPHARM. Plus d'infos sur nos méthodes: http://www.openhealth.fr/methode http://www.openhealth.fr/ ]]></description>
-     <author>CELTIPHARM</author>
   </item>
  </channel>
 </rss>
