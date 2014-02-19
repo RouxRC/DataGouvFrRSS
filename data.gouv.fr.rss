@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 19 Feb 2014 10:20:02 +0100</pubDate>
+  <pubDate>Wed, 19 Feb 2014 17:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Réseau d'information comptable agricole France (RICA France) : fichiers de micro-données</title>
+     <link>https://www.data.gouv.fr/fr/dataset/reseau-d-information-comptable-agricole-france-rica-france-fichiers-de-micro-donnees</link>
+     <description><![CDATA[Mis en oeuvre en France depuis 1968, le réseau d’information comptable agricole est une enquête réalisée dans les États membres de l’Union européenne selon des règles et des principes communs. Il est régi en France par le décret n°2010-78 du 23 février 2010 relatif à la création d'un réseau de données dénommé réseau d'information comptable agricole – RICA France. Les données...]]></description>
+     <author>Ministère de l’Agriculture, de l’Agroalimentaire et de la Forêt (certifié)</author>
+  </item>
   <item>
      <title>Commission pour l'indemnisation des victimes de spoliations (CIVS) - Statistiques pour le mois de janvier 2014</title>
      <link>https://www.data.gouv.fr/fr/dataset/commission-pour-l-indemnisation-des-victimes-de-spoliations-civs-statistiques-pour-le-mois-de-janvie</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/etude-sur-la-consommation-de-traitements-contre-la-dysfonction-erectile</link>
      <description><![CDATA[Etude sur la consommation de traitements contre la dysfonction érectile. Données issues des sorties consommateurs des officines du réseau CELTIPHARM. Plus d'infos sur nos méthodes: http://www.openhealth.fr/methode http://www.openhealth.fr/ ]]></description>
      <author>CELTIPHARM</author>
-  </item>
-  <item>
-     <title>Startups françaises dans le domaine du numérique éducatif</title>
-     <link>https://www.data.gouv.fr/fr/dataset/startups-francaises-dans-le-domaine-du-numerique-educatif</link>
-     <description><![CDATA[Liste non-exhaustive d'entreprises françaises de croissance formant la filière du numérique éducatif, compilée en annexe du rapport "La structuration de la filière du numérique éducatif : un enjeu pédagogique et industriel" de 2013 publié par le Conseil général de l'économie, de l'industrie, de l'énergie et des télécommunications (CGEIET), l'Inspection générale des finances (IGF) et...]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
