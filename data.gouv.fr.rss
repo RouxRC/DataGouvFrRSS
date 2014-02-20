@@ -4,20 +4,8 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 20 Feb 2014 10:20:02 +0100</pubDate>
+  <pubDate>Thu, 20 Feb 2014 11:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
-  <item>
-     <title>Recensement de la circulation sur le réseau routier national non concédé</title>
-     <link>https://www.data.gouv.fr/fr/dataset/recensement-de-la-circulation-sur-le-reseau-routier-national-non-conce-0</link>
-     <description><![CDATA[Trafic moyen journalier annuel (TMJA) et trafics moyens journaliers mensuels (TMJM) sur le réseau routier national non concédé en rase campagne en 2011. Moyenne annuelle et moyennes mensuelles de la circulation journalière (24h) des véhicules. Les données de trafic sur le réseau routier national non concédé sont fournies par les DIR. Elles sont agrégées au SETRA (Cerema DTecITM), dans le...]]></description>
-     <author>Ministère de l'Ecologie du Développement Durable et de l'Energie (certifié)</author>
-  </item>
-  <item>
-     <title>Raildar</title>
-     <link>https://www.data.gouv.fr/fr/dataset/raildar</link>
-     <description><![CDATA[Le projet Raildar est basé sur une API ouverte agrégeant plusieurs sources théoriques et temps réel concernant les transports publics dans plusieus pays. ]]></description>
-     <author>citoyen</author>
-  </item>
   <item>
      <title>Limitation du tonnage sur les routes départementales</title>
      <link>https://www.data.gouv.fr/fr/dataset/limitation-du-tonnage-sur-les-routes-departemental-0</link>
@@ -365,6 +353,18 @@
      <link>https://www.data.gouv.fr/fr/dataset/donnees-numeriques-vectorielles-des-cartes-marines-sur-la-zone-iroise</link>
      <description><![CDATA[Ces cartes sont établies sur la base de données cartographiques vectorielles (format S-57 de l'OHI) contenant la description détaillée de chaque objet (marque de balisage, épaves, câbles sous-marins, zones réglementées, sondes, etc.). Elles sont l'équivalent numérique des cartes marines papier. ]]></description>
      <author>SHOM (certifié)</author>
+  </item>
+  <item>
+     <title>RasterMarine sur la zone Iroise</title>
+     <link>https://www.data.gouv.fr/fr/dataset/rastermarine-sur-la-zone-iroise</link>
+     <description><![CDATA[Les produits RasterMarine se composent d'images numériques issues des cartes marines, sans habillage, ni légende, ni indications de géoréférencement. Les produits RasterMarine se déclinent en quatre gammes d'échelles : - RasterMarine50 1: 50 000 ; - RasterMarine150 1: 150 000 ; - RasterMarine400 1: 400 000 ; - RasterMarine1M 1: 1 000 000. Jeu de données test en Open Data sur la mer d'Iroise ]]></description>
+     <author>SHOM (certifié)</author>
+  </item>
+  <item>
+     <title>Unlimited Cities - Montpellier la Pompignane --</title>
+     <link>https://www.data.gouv.fr/fr/dataset/unlimited-cities-montpellier-la-pompignane</link>
+     <description><![CDATA[Les données en Open Data de - Unlimited Cities / Montpellier la Pompignane - contiennent les résultats issus des choix émis par les participants à l'expérimentation lors de la manipulation de l'application. Elles contiennent: - le nombre de mix validés - le point de vue choisi par l'utilisateur - La date de validation du mix - Le commentaire formulé par l'utilisateur - le...]]></description>
+     <author>UFO Urbanisme Collaboratif</author>
   </item>
  </channel>
 </rss>
