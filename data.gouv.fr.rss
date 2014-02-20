@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 20 Feb 2014 18:30:02 +0100</pubDate>
+  <pubDate>Thu, 20 Feb 2014 18:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Le tourisme international en France</title>
@@ -277,12 +277,6 @@
      <author>Havas Media</author>
   </item>
   <item>
-     <title>Situation cumulée des prêts d'épargne logement au 31 mars 2013 en M€</title>
-     <link>https://www.data.gouv.fr/fr/dataset/situation-cumulee-des-prets-d-epargne-logement-au-31-mars-2013-en-m</link>
-     <description><![CDATA[Situation cumulée des prêts d'épargne logement au 31 mars 2013 en M€ ]]></description>
-     <author>Ministère de l’Economie et des Finances (certifié)</author>
-  </item>
-  <item>
      <title>Cartographie des données du recensement agricole </title>
      <link>https://www.data.gouv.fr/fr/dataset/cartographie-des-donnees-du-recensement-agricole</link>
      <description><![CDATA[Résultats du recensement agricole 2010 : Des cartes par communes, canton, département ou régions permettent d'accéder à des données de cadrage sur les exploitations agricoles et des données sur l'emploi agricole. Ces données peuvent être visualisées sous forme de tableaux. ]]></description>
@@ -364,6 +358,12 @@
      <title>Données numériques vectorielles des cartes marines sur la zone Iroise</title>
      <link>https://www.data.gouv.fr/fr/dataset/donnees-numeriques-vectorielles-des-cartes-marines-sur-la-zone-iroise</link>
      <description><![CDATA[Ces cartes sont établies sur la base de données cartographiques vectorielles (format S-57 de l'OHI) contenant la description détaillée de chaque objet (marque de balisage, épaves, câbles sous-marins, zones réglementées, sondes, etc.). Elles sont l'équivalent numérique des cartes marines papier. ]]></description>
+     <author>SHOM (certifié)</author>
+  </item>
+  <item>
+     <title>RasterMarine sur la zone Iroise</title>
+     <link>https://www.data.gouv.fr/fr/dataset/rastermarine-sur-la-zone-iroise</link>
+     <description><![CDATA[Les produits RasterMarine se composent d'images numériques issues des cartes marines, sans habillage, ni légende, ni indications de géoréférencement. Les produits RasterMarine se déclinent en quatre gammes d'échelles : - RasterMarine50 1: 50 000 ; - RasterMarine150 1: 150 000 ; - RasterMarine400 1: 400 000 ; - RasterMarine1M 1: 1 000 000. Jeu de données test en Open Data sur la mer d'Iroise ]]></description>
      <author>SHOM (certifié)</author>
   </item>
  </channel>
