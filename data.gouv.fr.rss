@@ -4,8 +4,68 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 21 Feb 2014 19:00:02 +0100</pubDate>
+  <pubDate>Fri, 21 Feb 2014 19:10:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Élections municipales de 2008 : résultats et candidats</title>
+     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-de-2008-resultats-et-candidats-nd</link>
+     <description><![CDATA[Données des élections municipales sur les candidats et les résultats bureaux de vote par bureaux de vote pour les deux tours pour le communes de plus de 1000 habitants. ]]></description>
+     <author>NosDonnées.fr</author>
+  </item>
+  <item>
+     <title>Dotation aux instituts français</title>
+     <link>https://www.data.gouv.fr/fr/dataset/dotation-aux-instituts-francais-nd</link>
+     <description><![CDATA[Données relatives aux finances attribuées aux instituts français présents à travers le monde ]]></description>
+     <author>NosDonnées.fr</author>
+  </item>
+  <item>
+     <title>Open Gov Tech Org Funding</title>
+     <link>https://www.data.gouv.fr/fr/dataset/open-gov-tech-org-funding-nd</link>
+     <description><![CDATA[Fonds reçus par les organisations Open Gov. Fichier préparé pour OpenSpending. Source : Trends in Civic Tech - Knight Foundation http://www.knightfoundation.org/features/civictech/ Licence : CC BY-NC-SA 3.0 ]]></description>
+     <author>NosDonnées.fr</author>
+  </item>
+  <item>
+     <title>World Development Indicators: The information society</title>
+     <link>https://www.data.gouv.fr/fr/dataset/world-development-indicators-the-information-society-nd</link>
+     <description><![CDATA[World Development Indicators on information society published in 2013. Source: The World Bank Dataset Name: World Development Indicators: information society Data source: International Telecommunication Union, World Telecommunication/ICT Development Report and database, and World Bank estimates). Dataset url: http://wdi.worldbank.org/table/5.12# ]]></description>
+     <author>NosDonnées.fr</author>
+  </item>
+  <item>
+     <title>Réserve parlementaire 2013 de l'Assemblée nationale</title>
+     <link>https://www.data.gouv.fr/fr/dataset/reserve-parlementaire-2013-de-l-assemblee-nationale-nd</link>
+     <description><![CDATA[Pour la première fois en 2014, l'Assemblée nationale publie e ligne l'intégralité des subeventions accordées aux collectivités et associations dans le cadre de la réserve parlementaire de 2013. Les tableaux html scrapés et complétés des informations tirées de NosDéputés sont rendus accessibles en CSV et mis à jour régulièrement. ]]></description>
+     <author>NosDonnées.fr</author>
+  </item>
+  <item>
+     <title>Lieux et dates des expositions itinérantes organisées par l'Institut Français</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lieux-et-dates-des-expositions-itinerantes-organisees-par-l-institut-francais-nd</link>
+     <description><![CDATA[]]></description>
+     <author>NosDonnées.fr</author>
+  </item>
+  <item>
+     <title>Programme d'aide à la publication de l'Institut Français</title>
+     <link>https://www.data.gouv.fr/fr/dataset/programme-d-aide-a-la-publication-de-l-institut-francais-nd</link>
+     <description><![CDATA[Le programme d’aide à la publication de l'Institut Français vise à faciliter l’accès des publics non francophones aux ouvrages d’expression originale venus de France (auteurs du XXe siècle à nos jours). Ce programme apporte aux éditeurs sélectionnés une aide pour la prise en charge des frais de traduction du français vers l’anglais pour des titres non diffusés au Canada, jusqu’à 30 % des coûts...]]></description>
+     <author>NosDonnées.fr</author>
+  </item>
+  <item>
+     <title>Localisation des instituts français dans le monde</title>
+     <link>https://www.data.gouv.fr/fr/dataset/localisation-des-instituts-francais-dans-le-monde-nd</link>
+     <description><![CDATA[]]></description>
+     <author>NosDonnées.fr</author>
+  </item>
+  <item>
+     <title>Données comptables et fiscales des collectivités locales</title>
+     <link>https://www.data.gouv.fr/fr/dataset/donnees-comptables-et-fiscales-des-collectivites-locales-nd</link>
+     <description><![CDATA[Données comptables détaillées et données de fiscalité directe locale des collectivités et établissements publics locaux publiées sur http://www.collectivites-locales.gouv.fr À titre d'exemple une douzaine d'indicateurs tirés de ces données pour les 36000 communes sont cartographies sur http://www.NosFinancesLocales.fr Méthodologies:...]]></description>
+     <author>NosDonnées.fr</author>
+  </item>
+  <item>
+     <title>Mortalité due aux accidents de la route</title>
+     <link>https://www.data.gouv.fr/fr/dataset/mortalite-due-aux-accidents-de-la-route</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Inserm CépiDC ]]></description>
+     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
+  </item>
   <item>
      <title>Jeux de données - Office National des Forêts</title>
      <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-office-national-des-forets-op</link>
@@ -305,66 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/arbres-remarquables</link>
      <description><![CDATA[Ce jeu de données au format csv contient des informations sur les arbres remarquables de la Ville d'Issy-les-Moulineaux: essences, localisation, lien vers du contenu enrichi... ]]></description>
      <author>Ville d'Issy-les-Moulineaux (certifié)</author>
-  </item>
-  <item>
-     <title>Compte administratif</title>
-     <link>https://www.data.gouv.fr/fr/dataset/compte-administratif</link>
-     <description><![CDATA[Ces jeux de données contiennent les comptes administratifs de la Ville d'Issy-les-Moulineaux. Ils rendent compte de la gestion du maire (ordonnateur) pour les exercices écoulés. ]]></description>
-     <author>Ville d'Issy-les-Moulineaux (certifié)</author>
-  </item>
-  <item>
-     <title>Budget primitif</title>
-     <link>https://www.data.gouv.fr/fr/dataset/budget-primitif</link>
-     <description><![CDATA[Ces jeux de données contiennent les budgets primitifs de la Ville d'Issy-les-Moulineaux: dépenses et recettes de fonctionnement en euros (par chapitres et articles) dépenses et recettes d'investissement en euros (par chapitres et articles) ]]></description>
-     <author>Ville d'Issy-les-Moulineaux (certifié)</author>
-  </item>
-  <item>
-     <title>Revenu libéral moyen des professions de santé</title>
-     <link>https://www.data.gouv.fr/fr/dataset/revenu-liberal-moyen-des-professions-de-sante</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Taux d'équipement robotique</title>
-     <link>https://www.data.gouv.fr/fr/dataset/taux-d-equipement-robotique</link>
-     <description><![CDATA[Maxirobots a réalisé une étude sur le taux d'équipements en robots domestiques. ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Monuments</title>
-     <link>https://www.data.gouv.fr/fr/dataset/monuments</link>
-     <description><![CDATA[La statuaire métallique publique constitue un pan important du décor à Issy-les-Moulineaux. Le fichier contient les noms, descriptions, adresses, données de géolocalisation, lien vers des photos... ]]></description>
-     <author>Ville d'Issy-les-Moulineaux (certifié)</author>
-  </item>
-  <item>
-     <title>Population</title>
-     <link>https://www.data.gouv.fr/fr/dataset/populati-0</link>
-     <description><![CDATA[Le recensement de la population permet d'accéder à de nombreuses données (téléchargeables au format Excel) sur Issy-les-Moulineaux: caractéristiques de l'emploi couples - familles - ménages diplômes - formations emploi - population active étrangers - immigrés évolution et structure de la population logements Source: Site de...]]></description>
-     <author>Ville d'Issy-les-Moulineaux (certifié)</author>
-  </item>
-  <item>
-     <title>LI 2014 Nomenclature par destination</title>
-     <link>https://www.data.gouv.fr/fr/dataset/li-2014-nomenclature-par-destination</link>
-     <description><![CDATA[Nomenclature par destination (Mission / Programme / Action) de la loi de finances initiale pour 2014 ]]></description>
-     <author>Ministère de l’Economie et des Finances (certifié)</author>
-  </item>
-  <item>
-     <title>LFI 2014 Dotation T2 / HT2 par programme des CCF</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-programme-des-ccf</link>
-     <description><![CDATA[Dotation du Titre 2 et autres titres par programme des comptes de concours financiers (CCF) de la loi de finances initiale pour 2014 ]]></description>
-     <author>Ministère de l’Economie et des Finances (certifié)</author>
-  </item>
-  <item>
-     <title>LFI 2014 Dotation T2 / HT2 par mission des CCF</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-mission-des-ccf</link>
-     <description><![CDATA[Dotation du Titre 2 et autres titres par mission des comptes de concours financiers (CCF) de la loi de finances initiale pour 2014 ]]></description>
-     <author>Ministère de l’Economie et des Finances (certifié)</author>
-  </item>
-  <item>
-     <title>LFI 2014 Dotation T2 / HT2 par ministère des CCF</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-ministere-des-ccf</link>
-     <description><![CDATA[Dotation du Titre 2 et autres titres par ministère des comptes de concours financiers (CCF) de la loi de finances initiale pour 2014 ]]></description>
-     <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
  </channel>
 </rss>
