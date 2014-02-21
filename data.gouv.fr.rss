@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 21 Feb 2014 18:30:02 +0100</pubDate>
+  <pubDate>Fri, 21 Feb 2014 18:50:01 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Jeux de données - Club de la Croisière Marseille Provence</title>
@@ -205,6 +205,12 @@
      <author>Ville de Marseille</author>
   </item>
   <item>
+     <title>Mortalité due aux maladies cardiovasculaires</title>
+     <link>https://www.data.gouv.fr/fr/dataset/mortalite-due-aux-maladies-cardiovasculaires</link>
+     <description><![CDATA[Les maladies cardiovasculaires constituent une des principales causes de mortalité. Elles couvrent diverses maladies touchant le système circulatoire, notamment les cardiopathies ischémiques (crises cardiaques) et les accidents vasculaires cérébraux. Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données CépiDc Inserm ]]></description>
+     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
+  </item>
+  <item>
      <title>Ville Sans Limite</title>
      <link>https://www.data.gouv.fr/fr/dataset/ville-sans-limite-mtn</link>
      <description><![CDATA[Cette donnée contient les résultats issus de l'expérimentation Ville Sans Limite qui s'est déroulée sur le quartier de la Ponpignane à Montpellier en juin 2013. Villes sans limite est une expérimentation portée par un cabinet d’urbanisme (UFO dirigé par Alain Renk) et la direction de l’urbanisme de la ville de Montpellier. Il s'agit d'un projet de concertation urbaine utilisant une plateforme...]]></description>
@@ -358,12 +364,6 @@
      <title>LFI 2014 Dotation T2 / HT2 par programme des CAS</title>
      <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-programme-des-cas</link>
      <description><![CDATA[Dotation du Titre 2 et autres titres par programme des comptes d'affectation spéciale (CAS) de la loi de finances initiale pour 2014 ]]></description>
-     <author>Ministère de l’Economie et des Finances (certifié)</author>
-  </item>
-  <item>
-     <title>LFI 2014 Dotation T2 / HT2 par mission des CAS</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-mission-des-cas</link>
-     <description><![CDATA[Dotation du Titre 2 et autres titres par mission des comptes d'affectation spéciale (CAS) de la loi de finances initiale pour 2014 ]]></description>
      <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
  </channel>
