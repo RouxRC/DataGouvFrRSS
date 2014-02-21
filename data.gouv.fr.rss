@@ -4,8 +4,44 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 21 Feb 2014 13:20:02 +0100</pubDate>
+  <pubDate>Fri, 21 Feb 2014 15:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Compte rendu de conseil municipal</title>
+     <link>https://www.data.gouv.fr/fr/dataset/compte-rendu-de-conseil-municipal-mtn</link>
+     <description><![CDATA[Cette donnée renseigne les comptes rendus des conseils municipaux de la Ville de Montpellier à partir de l’année 2010. Les comptes rendus sont disponibles par conseil en fichier pdf ou word. Un compte rendu de conseil municipal est publié généralement une semaine après le conseil municipal. ]]></description>
+     <author>Ville de Montpellier (certifié)</author>
+  </item>
+  <item>
+     <title>Registre des délibérations - décisions</title>
+     <link>https://www.data.gouv.fr/fr/dataset/registre-des-deliberations-decisions-mtn</link>
+     <description><![CDATA[Cette donnée renseigne les délibérations exécutoires et les décisions prises lors des conseils municipaux de la Ville de Montpellier à partir de l’année 2010. Les registres sont disponibles sous forme de tome annuel, attention pour chaque année le fichier compressé pèse plus de 500mo. ]]></description>
+     <author>Ville de Montpellier (certifié)</author>
+  </item>
+  <item>
+     <title>Pistes cyclables (Ville de Montpellier)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/pistes-cyclables-ville-de-montpellier-mtn</link>
+     <description><![CDATA[Ce fichier renseigne l’emplacement des pistes cyclables de la commune de Montpellier ainsi que certaines voies vertes communes à d’autres villes de l’agglomération de Montpellier. ATTENTION : ce jeu de données existe en deux sources distinctes. Un jeu de données issu de la Ville de Montpellier (VilleMTP_AggloMTP_PistesCyclables) et un jeu de données issu d'OpenStreetMap...]]></description>
+     <author>Ville de Montpellier (certifié)</author>
+  </item>
+  <item>
+     <title>Données de l’Open data - Montpellier Territoire Numérique</title>
+     <link>https://www.data.gouv.fr/fr/dataset/donnees-de-l-open-data-montpellier-territoire-numerique-mtn</link>
+     <description><![CDATA[Vous retrouverez ici le recensement de toutes les données disponibles en open data sur le portail de la Ville de Montpellier. Il s'agit du jeu de données des données open data. ]]></description>
+     <author>Ville de Montpellier (certifié)</author>
+  </item>
+  <item>
+     <title>Procès verbal du Conseil Municipal</title>
+     <link>https://www.data.gouv.fr/fr/dataset/proces-verbal-du-conseil-municipal-mtn</link>
+     <description><![CDATA[Cette donnée renseigne les procès verbaux des conseils municipaux de la Ville de Montpellier à partir de l’année 2009. Les procès verbaux sont disponibles par conseil en fichier pdf ou word. Un procès verbal de conseil municipal doit être approuvé lors de la séance suivante du conseil municipal, il est ensuite publié. ]]></description>
+     <author>Ville de Montpellier (certifié)</author>
+  </item>
+  <item>
+     <title>Chronologies de la vie publique</title>
+     <link>https://www.data.gouv.fr/fr/dataset/chronologies-de-la-vie-publique</link>
+     <description><![CDATA[Les dates, événements clés les faits marquants qui jalonnent la vie publique en France. Les chronologies, regroupées par année depuis l'an 2000, sont présentées mois par mois. ]]></description>
+     <author>Premier ministre (certifié)</author>
+  </item>
   <item>
      <title>Listes des SCPI</title>
      <link>https://www.data.gouv.fr/fr/dataset/listes-des-scpi</link>
@@ -329,42 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-hydrographie</link>
      <description><![CDATA[Eléments concernant l'hydrographie pour la commune de Brocas ]]></description>
      <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Climat</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-climat</link>
-     <description><![CDATA[Eléments concernant le climat pour la commune de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Logement</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-logement</link>
-     <description><![CDATA[Eléments concernant le logement pour la commune de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title> Commune de Brocas : Economie</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-economie</link>
-     <description><![CDATA[Eléments concernant l'économie pour la commune de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
-  </item>
-  <item>
-     <title>police municipale</title>
-     <link>https://www.data.gouv.fr/fr/dataset/police-municipale</link>
-     <description><![CDATA[police municipale 2012 géocodé au code commune ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Toponymes marins et côtiers sur la zone Iroise</title>
-     <link>https://www.data.gouv.fr/fr/dataset/toponymes-marins-et-cotiers-sur-la-zone-iroise</link>
-     <description><![CDATA[Couche de données de toponymie marine issue des ENC françaises.Jeu de données test en Open Data sur la mer d'Iroise. ]]></description>
-     <author>SHOM (certifié)</author>
-  </item>
-  <item>
-     <title>Données numériques vectorielles des cartes marines sur la zone Iroise</title>
-     <link>https://www.data.gouv.fr/fr/dataset/donnees-numeriques-vectorielles-des-cartes-marines-sur-la-zone-iroise</link>
-     <description><![CDATA[Ces cartes sont établies sur la base de données cartographiques vectorielles (format S-57 de l'OHI) contenant la description détaillée de chaque objet (marque de balisage, épaves, câbles sous-marins, zones réglementées, sondes, etc.). Elles sont l'équivalent numérique des cartes marines papier. ]]></description>
-     <author>SHOM (certifié)</author>
   </item>
  </channel>
 </rss>
