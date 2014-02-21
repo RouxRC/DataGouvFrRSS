@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 21 Feb 2014 18:50:01 +0100</pubDate>
+  <pubDate>Fri, 21 Feb 2014 19:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Jeux de données - Office National des Forêts</title>
+     <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-office-national-des-forets-op</link>
+     <description><![CDATA[Les jeux de données publiés par Office National des Forêts, collectés par data.gouv.fr sur la plateforme Open PACA ]]></description>
+     <author>Open PACA (certifié)</author>
+  </item>
   <item>
      <title>Jeux de données - Club de la Croisière Marseille Provence</title>
      <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-club-de-la-croisiere-marseille-provence-op</link>
@@ -358,12 +364,6 @@
      <title>LFI 2014 Dotation T2 / HT2 par ministère des CCF</title>
      <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-ministere-des-ccf</link>
      <description><![CDATA[Dotation du Titre 2 et autres titres par ministère des comptes de concours financiers (CCF) de la loi de finances initiale pour 2014 ]]></description>
-     <author>Ministère de l’Economie et des Finances (certifié)</author>
-  </item>
-  <item>
-     <title>LFI 2014 Dotation T2 / HT2 par programme des CAS</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-programme-des-cas</link>
-     <description><![CDATA[Dotation du Titre 2 et autres titres par programme des comptes d'affectation spéciale (CAS) de la loi de finances initiale pour 2014 ]]></description>
      <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
  </channel>
