@@ -4,8 +4,98 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 21 Feb 2014 16:50:02 +0100</pubDate>
+  <pubDate>Fri, 21 Feb 2014 17:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Jeux de données - Club de la Croisière Marseille Provence</title>
+     <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-club-de-la-croisiere-marseille-provence-op</link>
+     <description><![CDATA[Les jeux de données publiés par Club de la Croisière Marseille Provence, collectés par data.gouv.fr sur la plateforme Open PACA ]]></description>
+     <author>Open PACA (certifié)</author>
+  </item>
+  <item>
+     <title>Jeux de données - Observatoire socio-économique du Ventoux</title>
+     <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-observatoire-socio-economique-du-ventoux-op</link>
+     <description><![CDATA[Les jeux de données publiés par Observatoire socio-économique du Ventoux, collectés par data.gouv.fr sur la plateforme Open PACA ]]></description>
+     <author>Open PACA (certifié)</author>
+  </item>
+  <item>
+     <title>Statistiques d'état civil 2013 à Digne-les-Bains</title>
+     <link>https://www.data.gouv.fr/fr/dataset/statistiques-d-etat-civil-2013-a-digne-les-bains-op</link>
+     <description><![CDATA[Nombre d'actes d'état civil effectués en 2013 par la mairie de Digne-les-Bains et répartis par type d'acte : naissance, reconnaissance, mariages, décès. ]]></description>
+     <author>Ville de Digne-les-Bains (certifié)</author>
+  </item>
+  <item>
+     <title>Plants de roses du jardin botanique du parc Borély de Marseille</title>
+     <link>https://www.data.gouv.fr/fr/dataset/plants-de-roses-du-jardin-botanique-du-parc-borely-de-marseille-op</link>
+     <description><![CDATA[Plants de roses du jardin botanique du parc Borély de la ville de Marseille par ordre alphabétique du nom du plant, par type de plants. ]]></description>
+     <author>Ville de Marseille</author>
+  </item>
+  <item>
+     <title>Plantes d'Afrique du sud, du jardin botanique du parc Borély de Marseille</title>
+     <link>https://www.data.gouv.fr/fr/dataset/plantes-d-afrique-du-sud-du-jardin-botanique-du-parc-borely-de-marseille-op</link>
+     <description><![CDATA[Plantes d'Afrique du sud, du jardin botanique du parc Borély de la ville de Marseille par genre, espèce, auteur, famille, et origine. ]]></description>
+     <author>Ville de Marseille</author>
+  </item>
+  <item>
+     <title>Fôrets publiques de Provence-Alpes-Côte d'Azur</title>
+     <link>https://www.data.gouv.fr/fr/dataset/forets-publiques-de-provence-alpes-cote-d-azur-op</link>
+     <description><![CDATA[Contours des forêts publiques de Provence-Alpes-Côte d'Azur relevant du régime forestier : terrains domaniaux et communaux, y compris les terrains qui ne sont pas en nature de forêt. Ces contours ne doivent pas être considérés comme un référentiel mais uniquement à titre informatif. ]]></description>
+     <author>Office National des Forêts (certifié)</author>
+  </item>
+  <item>
+     <title>Monuments historiques de Marseille</title>
+     <link>https://www.data.gouv.fr/fr/dataset/monuments-historiques-de-marseille-op</link>
+     <description><![CDATA[Monuments historiques situés sur le territoire de Marseille, avec adresse, numéro de base Mérimée (base de données du Ministère de la Culture recensant les monuments historiques de toute la France), et numéro de correspondance avec le plan associé (monuments aquarellés). ]]></description>
+     <author>Ville de Marseille</author>
+  </item>
+  <item>
+     <title>Evénements sportifs 2014 à Digne-les-Bains</title>
+     <link>https://www.data.gouv.fr/fr/dataset/evenements-sportifs-2014-a-digne-les-bains-op</link>
+     <description><![CDATA[Calendrier de tous les évènements sportifs de l'année 2014 à Digne-les-Bains classés par date, lieux, type d'évènement et nom de l'organisateur. ]]></description>
+     <author>Ville de Digne-les-Bains (certifié)</author>
+  </item>
+  <item>
+     <title>Sondage 2010 sur l'impact du tourisme dans l'activité économique autour de Carpentras</title>
+     <link>https://www.data.gouv.fr/fr/dataset/sondage-2010-sur-l-impact-du-tourisme-dans-l-activite-economique-autour-de-carpentras-op</link>
+     <description><![CDATA[Sondage sur l'impact du tourisme dans l'activité économique du bassin d'emploi de Carpentras, réalisé en 2010. Sondage par entretiens téléphoniques. Représentativité assurée par la méthode des quotas. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Etude 2010 sur l'achat de fruits et légumes à Carpentras</title>
+     <link>https://www.data.gouv.fr/fr/dataset/etude-2010-sur-l-achat-de-fruits-et-legumes-a-carpentras-op</link>
+     <description><![CDATA[Etude de marché sur l'achat de paniers de fruits &amp; légumes en circuit court sur Carpentras, réalisée en 2010. Sondage par questionnaires auto-administrés et entretiens en face à face. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Statistiques 2013 des rencontres sportives dans les gymnases de Marseille</title>
+     <link>https://www.data.gouv.fr/fr/dataset/statistiques-2013-des-rencontres-sportives-dans-les-gymnases-de-marseille-op</link>
+     <description><![CDATA[Statistiques des rencontres sportives par fédérations déclinées par gymnases de la ville de Marseille pour l'année 2013. ]]></description>
+     <author>Ville de Marseille</author>
+  </item>
+  <item>
+     <title>Sondage 2009 sur les pratiques touristiques autour du Ventoux</title>
+     <link>https://www.data.gouv.fr/fr/dataset/sondage-2009-sur-les-pratiques-touristiques-autour-du-ventoux-op</link>
+     <description><![CDATA[Etude sur les demandes et pratiques touristiques autour du Ventoux. Sondage par entretiens en face à face auprès de 1300 vacanciers ayant passé au moins 1 nuit sur le territoire entre avril et novembre 2009. Représentativité assurée par la méthode des quotas. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Sondage 2011 sur l'impact de la crise économique sur les TPE/PME du bassin d'emploi de Carpentras</title>
+     <link>https://www.data.gouv.fr/fr/dataset/sondage-2011-sur-l-impact-de-la-crise-economique-sur-les-tpe-pme-du-bassin-d-emploi-de-carpentras-op</link>
+     <description><![CDATA[Sondage sur l'impact de la crise économique sur les TPE/PME du bassin d'emploi de Carpentras, réalisé en 2011. Sondage par e-mailing et publipostage. Représentativité assurée par la méthode des quotas. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Consommation d'eau 2013 par compteur à Digne-les-Bains</title>
+     <link>https://www.data.gouv.fr/fr/dataset/consommation-d-eau-2013-par-compteur-a-digne-les-bains-op</link>
+     <description><![CDATA[Relevé détaillé de la consommation d'eau par compteur et avec l'historique de chacun d'eux à Digne-les-Bains, au 5 février 2014. ]]></description>
+     <author>Ville de Digne-les-Bains (certifié)</author>
+  </item>
+  <item>
+     <title>Stationnements réservés aux handicapés à Marseille</title>
+     <link>https://www.data.gouv.fr/fr/dataset/stationnements-reserves-aux-handicapes-a-marseille-op</link>
+     <description><![CDATA[Aires de stationnement réservées aux handicapés avec coordonnées et géolocalisation à Marseille. ]]></description>
+     <author>Ville de Marseille</author>
+  </item>
   <item>
      <title>Sondage 2010 sur l'impact de la crise économique sur les TPE/PME du bassin d'emploi de Carpentras</title>
      <link>https://www.data.gouv.fr/fr/dataset/sondage-2010-sur-l-impact-de-la-crise-economique-sur-les-tpe-pme-du-bassin-d-emploi-de-carpentras-op</link>
@@ -17,6 +107,12 @@
      <link>https://www.data.gouv.fr/fr/dataset/arceaux-de-velos-a-marseille-op</link>
      <description><![CDATA[Sites d'implantation des arceaux vélos à Marseille avec nombre de places disponibles, et des données de géolocalisation. ]]></description>
      <author>Ville de Marseille</author>
+  </item>
+  <item>
+     <title>Bibliographie des éditions parisiennes du XVIe siècle</title>
+     <link>https://www.data.gouv.fr/fr/dataset/bibliographie-des-editions-parisiennes-du-xvie-siecle</link>
+     <description><![CDATA[La Bibliographie des éditions parisiennes du 16e siècle, rédigée d’après les manuscrits de Philippe Renouard (1862-1934) conservés à la Réserve des livres rares de la Bibliothèque nationale de France, fait l'objet d'une base en ligne. Ce site contient dans un premier temps les 10 000 notices des cinq volumes de l’Inventaire chronologique des éditions parisiennes du 16e siècle, imprimés entre...]]></description>
+     <author>Bibliothèque nationale de France (certifié)</author>
   </item>
   <item>
      <title>Lignes urbaines, interurbaines et scolaires du Pays d'Aix</title>
@@ -151,12 +247,6 @@
      <author>Premier ministre (certifié)</author>
   </item>
   <item>
-     <title>Chronologies de la vie publique</title>
-     <link>https://www.data.gouv.fr/fr/dataset/chronologies-de-la-vie-publique</link>
-     <description><![CDATA[Les dates, événements clés les faits marquants qui jalonnent la vie publique en France. Les chronologies, regroupées par année depuis l'an 2000, sont présentées mois par mois. ]]></description>
-     <author>Premier ministre (certifié)</author>
-  </item>
-  <item>
      <title>Listes des SCPI</title>
      <link>https://www.data.gouv.fr/fr/dataset/listes-des-scpi</link>
      <description><![CDATA[Liste des SCPI immobiliers ]]></description>
@@ -274,96 +364,6 @@
      <title>LFI 2014 Dotation T2 / HT2 par mission des CAS</title>
      <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-mission-des-cas</link>
      <description><![CDATA[Dotation du Titre 2 et autres titres par mission des comptes d'affectation spéciale (CAS) de la loi de finances initiale pour 2014 ]]></description>
-     <author>Ministère de l’Economie et des Finances (certifié)</author>
-  </item>
-  <item>
-     <title>LFI 2014 Dotation T2 / HT2 par ministère des CAS</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-ministere-des-cas</link>
-     <description><![CDATA[Dotation du Titre 2 et autres titres par ministère des comptes d'affectation spéciale (CAS) de la loi de finances initiale pour 2014 ]]></description>
-     <author>Ministère de l’Economie et des Finances (certifié)</author>
-  </item>
-  <item>
-     <title>LFI 2014 Dotation T2 / HT2 par programme du BG</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-programme-du-bg</link>
-     <description><![CDATA[Dotation du Titre 2 et autres titres par programme du budget général de la loi de finances initiale pour 2014 ]]></description>
-     <author>Ministère de l’Economie et des Finances (certifié)</author>
-  </item>
-  <item>
-     <title>LFI 2014 Dotation T2 / HT2 par mission du BG</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-mission-du-bg</link>
-     <description><![CDATA[Dotation du Titre 2 et autres titres par mission du budget général de la loi de finances initiale pour 2014 ]]></description>
-     <author>Ministère de l’Economie et des Finances (certifié)</author>
-  </item>
-  <item>
-     <title>LFI 2014 Dotation T2 / HT2 par ministère du BG</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-ministere-du-bg</link>
-     <description><![CDATA[Dotation du Titre 2 et autres titres par ministère du budget général de la loi de finances initiale pour 2014 ]]></description>
-     <author>Ministère de l’Economie et des Finances (certifié)</author>
-  </item>
-  <item>
-     <title>LFI 2014 Dotation T2 / HT2 par programme des BA</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-programme-des-ba</link>
-     <description><![CDATA[Dotation du Titre 2 et autres titres par programme des budgets annexes de la loi de finances initiale pour 2014 ]]></description>
-     <author>Ministère de l’Economie et des Finances (certifié)</author>
-  </item>
-  <item>
-     <title>LFI 2014 Dotation T2 / HT2 par mission des BA</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-mission-des-ba</link>
-     <description><![CDATA[Dotation du Titre 2 et autres titres par mission des budgets annexes de la loi de finances initiale pour 2014 ]]></description>
-     <author>Ministère de l’Economie et des Finances (certifié)</author>
-  </item>
-  <item>
-     <title>Registre Parcellaire Graphique 2012: contours des îlots culturaux et leur groupe de cultures majoritaire des exploitations</title>
-     <link>https://www.data.gouv.fr/fr/dataset/registre-parcellaire-graphique-2012-contours-des-ilots-culturaux-et-leur-groupe-de-cultures-majorita</link>
-     <description><![CDATA[Le Règlement communautaire (CE) n°1593/2000 a institué l'obligation, dans tous les Etats Membres, de localiser et d'identifier les parcelles agricoles.Pour répondre à cette exigence, la France a mis en place le Registre Parcellaire Graphique (RPG) qui est un système d'information géographique permettant l'identification des parcelles agricoles. Ainsi, chaque année, les agriculteurs adressent à...]]></description>
-     <author>Agence de services et de paiement (ASP) (certifié)</author>
-  </item>
-  <item>
-     <title>LFI 2014 Dotation T2 / HT2 par ministère des BA</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-t2-ht2-par-ministere-des-ba</link>
-     <description><![CDATA[Dotation du Titre 2 et autres titres par ministère des budgets annexes de la loi de finances initiale pour 2014 ]]></description>
-     <author>Ministère de l’Economie et des Finances (certifié)</author>
-  </item>
-  <item>
-     <title>LFI 2014 Dotation en ETPT par programme du budget général de la loi de finances initiale pour 2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-en-etpt-par-programme-du-budget-general-de-la-loi-de-finances-initiale-pour-2014</link>
-     <description><![CDATA[Dotation en équivalant temps plein travaillé (ETPT) par programme du budget général de la loi de finances initiale pour 2014 ]]></description>
-     <author>Ministère de l’Economie et des Finances (certifié)</author>
-  </item>
-  <item>
-     <title>LFI 2014 Dotation en ETPT par ministère du budget général de la loi de finances initiale pour 2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-en-etpt-par-ministere-du-budget-general-de-la-loi-de-finances-initiale-pour-2014</link>
-     <description><![CDATA[Dotation en équivalant temps plein travaillé (ETPT) par ministère du budget général de la loi de finances initiale pour 2014 ]]></description>
-     <author>Ministère de l’Economie et des Finances (certifié)</author>
-  </item>
-  <item>
-     <title>LFI 2014 Dotation en ETPT par programme des budgets annexes de la loi de finances initiale pour 2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-en-etpt-par-programme-des-budgets-annexes-de-la-loi-de-finances-initiale-pour-2014</link>
-     <description><![CDATA[Dotation en équivalant temps plein travaillé (ETPT) par programme des budgets annexes de la loi de finances initiale pour 2014 ]]></description>
-     <author>Ministère de l’Economie et des Finances (certifié)</author>
-  </item>
-  <item>
-     <title>LFI 2014 Dotation en ETPT par ministère des budgets annexes de la loi de finances initiale pour 2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-en-etpt-par-ministere-des-budgets-annexes-de-la-loi-de-finances-initiale-pour-2014</link>
-     <description><![CDATA[Dotation en équivalant temps plein travaillé (ETPT) par ministère des budgets annexes de la loi de finances initiale pour 2014 ]]></description>
-     <author>Ministère de l’Economie et des Finances (certifié)</author>
-  </item>
-  <item>
-     <title>Résultats élections</title>
-     <link>https://www.data.gouv.fr/fr/dataset/resultats-elections</link>
-     <description><![CDATA[Résultats électoraux à Issy-les-Moulineaux depuis 2012 par bureau de vote. ]]></description>
-     <author>Ville d'Issy-les-Moulineaux (certifié)</author>
-  </item>
-  <item>
-     <title> LFI 2014 Dotation CCF en AE / CP par Action / Titre</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-ccf-en-ae-cp-par-action-titre</link>
-     <description><![CDATA[Dotation en AE et CP par mission / programme / Action et Titre des comptes de concours financiers (CCF) de la loi de finances initiale pour 2014. ]]></description>
-     <author>Ministère de l’Economie et des Finances (certifié)</author>
-  </item>
-  <item>
-     <title>LFI 2014 Dotation CAS en AE / CP par Action / Titre</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-cas-en-ae-cp-par-action-titre</link>
-     <description><![CDATA[Dotation en AE et CP par mission / programme / Action et Titre des comptes d'affectation spéciale (CAS) de la loi de finances initiale pour 2014. ]]></description>
      <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
  </channel>
