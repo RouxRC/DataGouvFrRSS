@@ -4,8 +4,116 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 21 Feb 2014 15:50:02 +0100</pubDate>
+  <pubDate>Fri, 21 Feb 2014 16:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Sondage 2010 sur l'impact de la crise économique sur les TPE/PME du bassin d'emploi de Carpentras</title>
+     <link>https://www.data.gouv.fr/fr/dataset/sondage-2010-sur-l-impact-de-la-crise-economique-sur-les-tpe-pme-du-bassin-d-emploi-de-carpentras-op</link>
+     <description><![CDATA[Sondage sur l'impact de la crise économique sur les TPE/PME du bassin d'emploi de Carpentras, réalisé en 2010. Sondage par e-mailing et publipostage. Représentativité assurée par la méthode des quotas. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Arceaux de vélos à Marseille</title>
+     <link>https://www.data.gouv.fr/fr/dataset/arceaux-de-velos-a-marseille-op</link>
+     <description><![CDATA[Sites d'implantation des arceaux vélos à Marseille avec nombre de places disponibles, et des données de géolocalisation. ]]></description>
+     <author>Ville de Marseille</author>
+  </item>
+  <item>
+     <title>Lignes urbaines, interurbaines et scolaires du Pays d'Aix</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lignes-urbaines-interurbaines-et-scolaires-du-pays-d-aix-op</link>
+     <description><![CDATA[Itinéraires urbains, interurbains et scolaires (y compris le réseau Aix en Bus) de transport de la Communauté du Pays d'Aix : itinéraire (aller/retour...), services (horaires), points d'arrêt avec les coordonnées géographiques en RGF93 et WGS84. Format Shape et export TRIDENT (XML norme NEPTUNE). Les données TRIDENT sont incluses dans le dossier zippé. ]]></description>
+     <author>Communauté du Pays d'Aix (certifié)</author>
+  </item>
+  <item>
+     <title>Plan Local d'Urbanisme de Digne-les-Bains</title>
+     <link>https://www.data.gouv.fr/fr/dataset/plan-local-d-urbanisme-de-digne-les-bains-op</link>
+     <description><![CDATA[Cartographie des différentes zones du Plan Local d'Urbanisme de la ville de Digne-les-Bains. Numérisation effectuée à partir du cadastre numérisé. Echelle de référence : 1/1000ème. ]]></description>
+     <author>Ville de Digne-les-Bains (certifié)</author>
+  </item>
+  <item>
+     <title>Consommation d'eau 2012 par compteur à Digne-les-Bains</title>
+     <link>https://www.data.gouv.fr/fr/dataset/consommation-d-eau-2012-par-compteur-a-digne-les-bains-op</link>
+     <description><![CDATA[Relevé détaillé de la consommation d'eau 2012 par compteur et avec l'historique de chacun d'eux à Digne-les-Bains. ]]></description>
+     <author>Ville de Digne-les-Bains (certifié)</author>
+  </item>
+  <item>
+     <title>Liste des prénoms 2013 de Digne-les-Bains</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-prenoms-2013-de-digne-les-bains-op</link>
+     <description><![CDATA[Liste alphabétique des prénoms des enfants nés en 2013 sur la commune de Digne-les-Bains avec le nombre d'enfants par prénom et son pourcentage par rapport à l'ensemble des naissances de l'année. ]]></description>
+     <author>Ville de Digne-les-Bains (certifié)</author>
+  </item>
+  <item>
+     <title>Etude 2007 de consommation de paniers Bio autour de Carpentras</title>
+     <link>https://www.data.gouv.fr/fr/dataset/etude-2007-de-consommation-de-paniers-bio-autour-de-carpentras-op</link>
+     <description><![CDATA[Etude de marché, réalisée en 2007, sur l'achat de paniers de fruits &amp; légumes en circuit court sur le bassin d'emploi de Carpentras. Sondage par questionnaires auto-administrés et entretiens en face à face. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Plan de Prévention des Risques de Digne-les-Bains</title>
+     <link>https://www.data.gouv.fr/fr/dataset/plan-de-prevention-des-risques-de-digne-les-bains-op</link>
+     <description><![CDATA[Cartographie des différentes zones du Plan de Prévention des Risques de la ville de Digne-les-Bains. Numérisation effectuée à partir du cadastre numérisé. Echelle de référence : 1/1000ème. ]]></description>
+     <author>Ville de Digne-les-Bains (certifié)</author>
+  </item>
+  <item>
+     <title>Stations de taxis à Marseille</title>
+     <link>https://www.data.gouv.fr/fr/dataset/stations-de-taxis-a-marseille-op</link>
+     <description><![CDATA[Localisation des stations de taxis à Marseille. ]]></description>
+     <author>Ville de Marseille</author>
+  </item>
+  <item>
+     <title>Evolution du nombre de croisiéristes à Marseille de 1995 à 2012</title>
+     <link>https://www.data.gouv.fr/fr/dataset/evolution-du-nombre-de-croisieristes-a-marseille-de-1995-a-2012-op</link>
+     <description><![CDATA[Liste des chiffres statistiques communiqués par le Club de la Croisière Marseille Provence, de l'année 1995 à l'année 2012, par passagers tête de ligne (port de Marseille comme port de départ ou port d'arrivée) et passagers en transit (personnes qui voyagent et pour lesquelles Marseille ne représente qu'une halte). ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Lieux culturels de la Ville de Marseille</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lieux-culturels-de-la-ville-de-marseille-op</link>
+     <description><![CDATA[Lieux culturels de la Ville de Marseille avec adresse, coordonnées et géolocalisation. ]]></description>
+     <author>Ville de Marseille</author>
+  </item>
+  <item>
+     <title>Statistiques 2013 des rencontres sportives dans les gymnases et stades de Marseille</title>
+     <link>https://www.data.gouv.fr/fr/dataset/statistiques-2013-des-rencontres-sportives-dans-les-gymnases-et-stades-de-marseille-op</link>
+     <description><![CDATA[Statistiques des rencontres sportives par fédérations dans les gymnases et les stades dépendants de la Ville de Marseille pour l'année 2013. ]]></description>
+     <author>Ville de Marseille</author>
+  </item>
+  <item>
+     <title>Zones d'activités économiques du SAN Ouest Provence</title>
+     <link>https://www.data.gouv.fr/fr/dataset/zones-d-activites-economiques-du-san-ouest-provence-op</link>
+     <description><![CDATA[Localisation et description des zones d'activités du territoire du SAN Ouest Provence. ]]></description>
+     <author>SAN Ouest Provence</author>
+  </item>
+  <item>
+     <title>Statistiques 2013 des rencontres sportives dans les stades de Marseille</title>
+     <link>https://www.data.gouv.fr/fr/dataset/statistiques-2013-des-rencontres-sportives-dans-les-stades-de-marseille-op</link>
+     <description><![CDATA[Statistiques des rencontres sportives par fédérations dans les stades de la ville de Marseille pour l'année 2013. ]]></description>
+     <author>Ville de Marseille</author>
+  </item>
+  <item>
+     <title>Plantes de Chine du jardin botanique du parc Borély de Marseille</title>
+     <link>https://www.data.gouv.fr/fr/dataset/plantes-de-chine-du-jardin-botanique-du-parc-borely-de-marseille-op</link>
+     <description><![CDATA[Plantes de Chine du jardin botanique du parc Borély de la ville de Marseille, par nom de plants, espèce, auteur, famille, origine, par détail pour chaque type de plants. ]]></description>
+     <author>Ville de Marseille</author>
+  </item>
+  <item>
+     <title>Sondage 2009 sur l'impact de la crise économique sur les TPE/PME du bassin d'emploi de Carpentras</title>
+     <link>https://www.data.gouv.fr/fr/dataset/sondage-2009-sur-l-impact-de-la-crise-economique-sur-les-tpe-pme-du-bassin-d-emploi-de-carpentras-op</link>
+     <description><![CDATA[Sondage sur l'impact de la crise économique sur les TPE/PME du bassin d'emploi de Carpentras, réalisé en 2009. Sondage par e-mailing et publipostage. Représentativité assurée par la méthode des quotas. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Sites Wi-Fi à Marseille</title>
+     <link>https://www.data.gouv.fr/fr/dataset/sites-wi-fi-a-marseille-op</link>
+     <description><![CDATA[Sites d'implantation des points Wi-Fi publics de la Ville de Marseille avec indication de la zone couverte, adresse et géolocalisation. ]]></description>
+     <author>Ville de Marseille</author>
+  </item>
+  <item>
+     <title>Ville Sans Limite</title>
+     <link>https://www.data.gouv.fr/fr/dataset/ville-sans-limite-mtn</link>
+     <description><![CDATA[Cette donnée contient les résultats issus de l'expérimentation Ville Sans Limite qui s'est déroulée sur le quartier de la Ponpignane à Montpellier en juin 2013. Villes sans limite est une expérimentation portée par un cabinet d’urbanisme (UFO dirigé par Alain Renk) et la direction de l’urbanisme de la ville de Montpellier. Il s'agit d'un projet de concertation urbaine utilisant une plateforme...]]></description>
+     <author>Ville de Montpellier (certifié)</author>
+  </item>
   <item>
      <title>Compte rendu de conseil municipal</title>
      <link>https://www.data.gouv.fr/fr/dataset/compte-rendu-de-conseil-municipal-mtn</link>
@@ -35,6 +143,12 @@
      <link>https://www.data.gouv.fr/fr/dataset/proces-verbal-du-conseil-municipal-mtn</link>
      <description><![CDATA[Cette donnée renseigne les procès verbaux des conseils municipaux de la Ville de Montpellier à partir de l’année 2009. Les procès verbaux sont disponibles par conseil en fichier pdf ou word. Un procès verbal de conseil municipal doit être approuvé lors de la séance suivante du conseil municipal, il est ensuite publié. ]]></description>
      <author>Ville de Montpellier (certifié)</author>
+  </item>
+  <item>
+     <title>Chronologies de la vie publique</title>
+     <link>https://www.data.gouv.fr/fr/dataset/chronologies-de-la-vie-publique</link>
+     <description><![CDATA[Les dates, événements clés les faits marquants qui jalonnent la vie publique en France. Les chronologies, regroupées par année depuis l'an 2000, sont présentées mois par mois. ]]></description>
+     <author>Premier ministre (certifié)</author>
   </item>
   <item>
      <title>Chronologies de la vie publique</title>
@@ -251,120 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-cas-en-ae-cp-par-action-titre</link>
      <description><![CDATA[Dotation en AE et CP par mission / programme / Action et Titre des comptes d'affectation spéciale (CAS) de la loi de finances initiale pour 2014. ]]></description>
      <author>Ministère de l’Economie et des Finances (certifié)</author>
-  </item>
-  <item>
-     <title>LFI 2014 Dotation CAS en AE / CP par Action / Catégorie</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-cas-en-ae-cp-par-action-categorie</link>
-     <description><![CDATA[Dotation en AE et CP par mission / programme / Action et Catégorie des comptes d'affectation spéciale (CAS) de la loi de finances initiale pour 2014. ]]></description>
-     <author>Ministère de l’Economie et des Finances (certifié)</author>
-  </item>
-  <item>
-     <title>LFI 2014 Dotation BG en AE / CP par Action / Titre</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-bg-en-ae-cp-par-action-titre</link>
-     <description><![CDATA[Dotation en AE et CP par mission / programme / Action et Titre du budget général de la loi de finances initiale pour 2014. ]]></description>
-     <author>Ministère de l’Economie et des Finances (certifié)</author>
-  </item>
-  <item>
-     <title>Bureaux de vote</title>
-     <link>https://www.data.gouv.fr/fr/dataset/bureaux-de-vote</link>
-     <description><![CDATA[Liste des bureaux de vote 2014 d'Issy-les-Moulineaux avec leur numéro, leur adresse et leur géolocalisation et leur localisation par canton. ]]></description>
-     <author>Ville d'Issy-les-Moulineaux (certifié)</author>
-  </item>
-  <item>
-     <title>LFI 2014 Dotation BG en AE / CP par Action / Catégorie</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lfi-2014-dotation-bg-en-ae-cp-par-action-categorie</link>
-     <description><![CDATA[Dotation en AE et CP par mission / programme / Action et Catégorie du budget général de la loi de finances initiale pour 2014. ]]></description>
-     <author>Ministère de l’Economie et des Finances (certifié)</author>
-  </item>
-  <item>
-     <title>Liste des prénoms</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-prenoms</link>
-     <description><![CDATA[Liste des prénoms déclarés à l'état civil de 2000 à 2013. Prénoms des enfants nés à Issy ou dont les parents sont domiciliés à Issy. Afin de respecter la vie privée, les prénoms présentant une occurrence inférieure à 5 ne sont pas présentés. ]]></description>
-     <author>Ville d'Issy-les-Moulineaux (certifié)</author>
-  </item>
-  <item>
-     <title>Points d'intérêt - POI</title>
-     <link>https://www.data.gouv.fr/fr/dataset/points-d-interet-poi</link>
-     <description><![CDATA[Des milliers de points d'intérêt géolocalisés à Issy-les-Moulineaux: Administrations, bureaux de poste, cimetières, secours Education (écoles maternelles et élémentaires, collèges, lycées...) Cadre de vie (aires de jeux, arbres remarquables, conteneurs à verre, jardins, parcs, squares...) Hôtels et chambres d'hôtes Petite enfance (crèches,...]]></description>
-     <author>Ville d'Issy-les-Moulineaux (certifié)</author>
-  </item>
-  <item>
-     <title>Agenda des événements</title>
-     <link>https://www.data.gouv.fr/fr/dataset/agenda-des-evenements</link>
-     <description><![CDATA[La liste des prochains événements à Issy. Nom, lieu, géolocalisation, ajout à l'agenda électronique. issy.com/agenda Vous pouvez choisir le nombre de prochains événements auxquels vous souhaitez accéder en modifiant le lien. Ex: 100 prochains évènements suivant le mois en cours http://issy.com/ws/agenda/next/100 200 prochains évènements suivant le mois en cours...]]></description>
-     <author>Ville d'Issy-les-Moulineaux (certifié)</author>
-  </item>
-  <item>
-     <title>Zone Urbaine Sensible</title>
-     <link>https://www.data.gouv.fr/fr/dataset/zone-urbaine-sensible</link>
-     <description><![CDATA[Limites géographiques des zones urbaines sensibles de la ville de Saint-Quentin. ]]></description>
-     <author>Saint Quentin (Aisne) (certifié)</author>
-  </item>
-  <item>
-     <title>Elections</title>
-     <link>https://www.data.gouv.fr/fr/dataset/elections</link>
-     <description><![CDATA[Jeux sur les élections françaises. ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Les lieux de diffusion du spectacle vivant à Paris</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-lieux-de-diffusion-du-spectacle-vivant-a-par-0</link>
-     <description><![CDATA[Ce jeu de données référence les lieux de diffusion régulière ou occasionnelle du spectacle vivant à Paris. Structure des données : nom de l'établissement ; adresse ; e-mail ; téléphone ; fax ; site internet ; géolocalisation (WGS84). ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Baromètre POE 2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/barometre-poe-2014</link>
-     <description><![CDATA[Chaque année depuis 2010, Havas Media publie son baromètre POE, une mesure de la perception des marques par les consommateurs incluant les 3 dimensions des media : les media payants (PAID), les media privés (OWNED) et les media publics (EARNED). Une étude online réalisée en collaboration avec l'institut CSA, menée en mai 2013 auprès de 4596 individus de 15 à 59 ans et portant sur 179 marques...]]></description>
-     <author>Havas Media</author>
-  </item>
-  <item>
-     <title>Cartographie des données du recensement agricole </title>
-     <link>https://www.data.gouv.fr/fr/dataset/cartographie-des-donnees-du-recensement-agricole</link>
-     <description><![CDATA[Résultats du recensement agricole 2010 : Des cartes par communes, canton, département ou régions permettent d'accéder à des données de cadrage sur les exploitations agricoles et des données sur l'emploi agricole. Ces données peuvent être visualisées sous forme de tableaux. ]]></description>
-     <author>Ministère de l’Agriculture, de l’Agroalimentaire et de la Forêt (certifié)</author>
-  </item>
-  <item>
-     <title>Publication de l'article 133 du code des marchés publics par le ministère des Affaires étrangères</title>
-     <link>https://www.data.gouv.fr/fr/dataset/publication-de-l-article-133-du-code-des-marches-publics-par-le-ministere-des-affaires-etrangeres</link>
-     <description><![CDATA[Liste des marchés conclus en 2013 par le ministère des Affaires étrangères. ]]></description>
-     <author>Ministère des Affaires Etrangères (certifié)</author>
-  </item>
-  <item>
-     <title>Conjoncture agricole : le bulletin mensuel</title>
-     <link>https://www.data.gouv.fr/fr/dataset/conjoncture-agricole-le-bulletin-mensuel</link>
-     <description><![CDATA[Agreste. Les derniers chiffres et les séries longues historiques mensuelles de surfaces, productions, abattages d’animaux, échanges extérieurs, stocks, prix des produits de l’agriculture et des Industries agroalimentaires. Les données de climatologie, les immatriculations de tracteurs et machines agricoles, les cours des monnaies et les prix des produits énergétiques, les livraisons et les prix...]]></description>
-     <author>Ministère de l’Agriculture, de l’Agroalimentaire et de la Forêt (certifié)</author>
-  </item>
-  <item>
-     <title>Réserve parlementaire 2013 attribuée aux collectivités territoriales</title>
-     <link>https://www.data.gouv.fr/fr/dataset/reserve-parlementaire-2013-attribuee-aux-collectivites-territoriales</link>
-     <description><![CDATA[Pour la première fois en 2014, l'Assemblée nationale publie en ligne l'intégralité des subventions accordées aux collectivités et associations dans le cadre de la réserve parlementaire de 2013. Les tableaux html scrapés et complétés des informations tirées de NosDéputés sont rendus accessibles en CSV et mis à jour régulièrement. Source :...]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Polices municipales de France 2012</title>
-     <link>https://www.data.gouv.fr/fr/dataset/polices-municipales-de-france-2012</link>
-     <description><![CDATA[Jeux établis à partir des données 2012 fournies par Etalab pour La Gazette des communes. Géolocalisation par kml correspondant au contour des communes (pour les quelques grosses villes concernées, agrégation des arrondissements). ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Données sur les demandeurs d'emploi rattachés et sur les demandeurs d'emploi en portefeuille par modalité au 2013-09-01 à Pôle Emploi</title>
-     <link>https://www.data.gouv.fr/fr/dataset/donnees-sur-les-demandeurs-d-emploi-rattaches-et-sur-les-demandeurs-d-emploi-en-portefeuille-par-mod</link>
-     <description><![CDATA[Données sur les demandeurs d'emploi rattachés et sur les demandeurs d'emploi en portefeuille par modalité au 1er Septembre 2013 à Pôle Emploi. Données obtenues par les journalistes du Monde après demande auprès de la CADA (Avis n° 20132461 du 25 juillet 2013) Source : http://www.lemonde.fr/mmpub/edt/zip/20130925/140048/donneesPE.xls ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Procès-verbaux des séances publiques du Conseil Régional de Poitou-Charentes </title>
-     <link>https://www.data.gouv.fr/fr/dataset/proces-verbaux-des-seances-publiques-du-conseil-regional-de-poitou-charentes</link>
-     <description><![CDATA[PV et feuilles des votes validés par l'Assemblée régionale, au format PDF (pas d'autre format plus ouvert disponible). ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Commune de Brocas : Hydrographie</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commune-de-brocas-hydrographie</link>
-     <description><![CDATA[Eléments concernant l'hydrographie pour la commune de Brocas ]]></description>
-     <author>Commune de Brocas (certifié)</author>
   </item>
  </channel>
 </rss>
