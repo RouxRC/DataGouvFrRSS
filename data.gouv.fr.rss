@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 22 Feb 2014 00:00:02 +0100</pubDate>
+  <pubDate>Sun, 23 Feb 2014 21:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Élections municipales de 2008 : résultats et candidats</title>
+     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-de-2008-resultats-et-candidats-nd</link>
+     <description><![CDATA[Données des élections municipales sur les candidats et les résultats bureaux de vote par bureaux de vote pour les deux tours pour le communes de plus de 1000 habitants. ]]></description>
+     <author>NosDonnées.fr</author>
+  </item>
   <item>
      <title>Dotation aux instituts français</title>
      <link>https://www.data.gouv.fr/fr/dataset/dotation-aux-instituts-francais-nd</link>
@@ -327,7 +333,7 @@
   <item>
      <title>Raildar</title>
      <link>https://www.data.gouv.fr/fr/dataset/raildar</link>
-     <description><![CDATA[Le projet Raildar est basé sur une API ouverte agrégeant plusieurs sources théoriques et temps réel concernant les transports publics dans plusieus pays. ]]></description>
+     <description><![CDATA[Le projet Raildar est basé sur une API ouverte agrégeant plusieurs sources théoriques et temps réel concernant les transports publics dans plusieurs pays. Plus d'informations sur http://wiki.raildar.fr/ ]]></description>
      <author>citoyen</author>
   </item>
   <item>
@@ -358,12 +364,6 @@
      <title>Arbres remarquables</title>
      <link>https://www.data.gouv.fr/fr/dataset/arbres-remarquables</link>
      <description><![CDATA[Ce jeu de données au format csv contient des informations sur les arbres remarquables de la Ville d'Issy-les-Moulineaux: essences, localisation, lien vers du contenu enrichi... ]]></description>
-     <author>Ville d'Issy-les-Moulineaux (certifié)</author>
-  </item>
-  <item>
-     <title>Compte administratif</title>
-     <link>https://www.data.gouv.fr/fr/dataset/compte-administratif</link>
-     <description><![CDATA[Ces jeux de données contiennent les comptes administratifs de la Ville d'Issy-les-Moulineaux. Ils rendent compte de la gestion du maire (ordonnateur) pour les exercices écoulés. ]]></description>
      <author>Ville d'Issy-les-Moulineaux (certifié)</author>
   </item>
  </channel>
