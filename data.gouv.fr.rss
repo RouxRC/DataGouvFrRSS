@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 24 Feb 2014 15:00:02 +0100</pubDate>
+  <pubDate>Mon, 24 Feb 2014 19:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Données de consommation du médicament Médiator</title>
+     <link>https://www.data.gouv.fr/fr/dataset/donnees-de-consommation-du-medicament-mediator</link>
+     <description><![CDATA[Chiffres de consommation du Médiator, issus des données livrées par la Caisse nationale d’Assurance maladie (Cnam) à la demande du collectif Initiative Transparence Santé. Les données sont présentées sous la forme de deux fichiers : - Effectifs des consommateurs du médiator de 2008 à 2010 dans les départements Français (données SNIIRAM) - Prévalence du diabète et consommation de...]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Paris par arrondissements</title>
      <link>https://www.data.gouv.fr/fr/dataset/paris-par-arrondissements</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/commission-pour-l-indemnisation-des-victimes-de-spoliations-civs-statistiques-pour-le-mois-de-janvie</link>
      <description><![CDATA[Les statistiques mensuelles de la CIVS proposent, en plus d'éléments relatifs à l'activité de chaque service, les données suivantes : - nombre de dossiers enregistrés ; - nombre de dossiers traités ; - montant des indemnisations. ]]></description>
      <author>Premier ministre (certifié)</author>
-  </item>
-  <item>
-     <title>Défibrillateurs</title>
-     <link>https://www.data.gouv.fr/fr/dataset/defibrillateurs</link>
-     <description><![CDATA[Ce jeu de données contient des informations sur les défibrillateurs présents à Issy-les-Moulineaux (bâtiments publics ou voie publique). ]]></description>
-     <author>Ville d'Issy-les-Moulineaux (certifié)</author>
   </item>
  </channel>
 </rss>
