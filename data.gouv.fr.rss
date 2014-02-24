@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 23 Feb 2014 22:10:02 +0100</pubDate>
+  <pubDate>Mon, 24 Feb 2014 15:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Paris par arrondissements</title>
+     <link>https://www.data.gouv.fr/fr/dataset/paris-par-arrondissements</link>
+     <description><![CDATA[ Fond de carte (muet) et carte (avec numéros) de Paris par arrondissements ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Élections municipales de 2008 : résultats et candidats</title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-de-2008-resultats-et-candidats-nd</link>
@@ -358,12 +364,6 @@
      <title>Défibrillateurs</title>
      <link>https://www.data.gouv.fr/fr/dataset/defibrillateurs</link>
      <description><![CDATA[Ce jeu de données contient des informations sur les défibrillateurs présents à Issy-les-Moulineaux (bâtiments publics ou voie publique). ]]></description>
-     <author>Ville d'Issy-les-Moulineaux (certifié)</author>
-  </item>
-  <item>
-     <title>Arbres remarquables</title>
-     <link>https://www.data.gouv.fr/fr/dataset/arbres-remarquables</link>
-     <description><![CDATA[Ce jeu de données au format csv contient des informations sur les arbres remarquables de la Ville d'Issy-les-Moulineaux: essences, localisation, lien vers du contenu enrichi... ]]></description>
      <author>Ville d'Issy-les-Moulineaux (certifié)</author>
   </item>
  </channel>
