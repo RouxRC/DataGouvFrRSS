@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 25 Feb 2014 16:40:02 +0100</pubDate>
+  <pubDate>Wed, 26 Feb 2014 12:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Liste des filiales par entreprise par paradis fiscal et judiciaire</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-filiales-par-entreprise-par-paradis-fiscal-et-judiciaire</link>
+     <description><![CDATA[Liste des filiales par entreprise par paradis fiscal et judiciaire. Auteur : Jean Merckaert Source : http://www.revue-projet.com ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>test</title>
      <link>https://www.data.gouv.fr/fr/dataset/te-3</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/limitation-du-tonnage-sur-les-routes-departemental-0</link>
      <description><![CDATA[Limitation du tonnage sur les routes départementales ]]></description>
      <author>Conseil Général du Cantal (certifié)</author>
-  </item>
-  <item>
-     <title>Réseau d'information comptable agricole France (RICA France) : fichiers de micro-données</title>
-     <link>https://www.data.gouv.fr/fr/dataset/reseau-d-information-comptable-agricole-france-rica-france-fichiers-de-micro-donnees</link>
-     <description><![CDATA[Mis en oeuvre en France depuis 1968, le réseau d’information comptable agricole est une enquête réalisée dans les États membres de l’Union européenne selon des règles et des principes communs. Il est régi en France par le décret n°2010-78 du 23 février 2010 relatif à la création d'un réseau de données dénommé réseau d'information comptable agricole – RICA France. Les données...]]></description>
-     <author>Ministère de l’Agriculture, de l’Agroalimentaire et de la Forêt (certifié)</author>
   </item>
  </channel>
 </rss>
