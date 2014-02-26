@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 26 Feb 2014 12:20:02 +0100</pubDate>
+  <pubDate>Wed, 26 Feb 2014 13:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Logement</title>
@@ -28,12 +28,6 @@
      <title>Liste des filiales par entreprise par paradis fiscal et judiciaire</title>
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-filiales-par-entreprise-par-paradis-fiscal-et-judiciaire</link>
      <description><![CDATA[Liste des filiales par entreprise par paradis fiscal et judiciaire. Auteur : Jean Merckaert Source : http://www.revue-projet.com ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>test</title>
-     <link>https://www.data.gouv.fr/fr/dataset/te-3</link>
-     <description><![CDATA[test ]]></description>
      <author>citoyen</author>
   </item>
   <item>
@@ -365,6 +359,12 @@
      <link>https://www.data.gouv.fr/fr/dataset/listes-des-scpi</link>
      <description><![CDATA[Liste des SCPI immobiliers ]]></description>
      <author>citoyen</author>
+  </item>
+  <item>
+     <title>Le tourisme international en France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/le-tourisme-international-en-france</link>
+     <description><![CDATA[(données issues de l'enquête EVE et de la Banque de France) ]]></description>
+     <author>Ministère du Redressement productif (certifié)</author>
   </item>
  </channel>
 </rss>
