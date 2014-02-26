@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 26 Feb 2014 16:30:02 +0100</pubDate>
+  <pubDate>Wed, 26 Feb 2014 16:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Nombre de jours de tournage dans les principaux sites publics references par l'APIE</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-jours-de-tournage-dans-les-principaux-sites-publics-references-par-l-ap-0</link>
+     <description><![CDATA[Nombre de jours de tournage (cinéma, documentaires, téléfilms, ...) dans les principaux sites publics, par secteur (justice, santé, environnement,...), référencés par l'APIE. Ce recensement ne se veut donc pas exhaustif. Plus d'informations sur la démarche d'ouverture des lieux publics aux tournages ]]></description>
+     <author>Ministère de l’Economie et des Finances (certifié)</author>
+  </item>
   <item>
      <title>Comptes de la commune</title>
      <link>https://www.data.gouv.fr/fr/dataset/comptes-de-la-commune</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/chronologies-de-la-vie-publique</link>
      <description><![CDATA[Les dates, événements clés les faits marquants qui jalonnent la vie publique en France. Les chronologies, regroupées par année depuis l'an 2000, sont présentées mois par mois. ]]></description>
      <author>Premier ministre (certifié)</author>
-  </item>
-  <item>
-     <title>Listes des SCPI</title>
-     <link>https://www.data.gouv.fr/fr/dataset/listes-des-scpi</link>
-     <description><![CDATA[Liste des SCPI immobiliers ]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
