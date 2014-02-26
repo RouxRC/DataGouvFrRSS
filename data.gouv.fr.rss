@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 26 Feb 2014 13:40:02 +0100</pubDate>
+  <pubDate>Wed, 26 Feb 2014 16:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Comptes de la commune</title>
+     <link>https://www.data.gouv.fr/fr/dataset/comptes-de-la-commune</link>
+     <description><![CDATA[Chiffres Clés, Fonctionnement, Investissement, Fiscalité, Autofinancement, Endettement (source Ministère des Finances) ]]></description>
+     <author>Mairie des Lilas (certifié)</author>
+  </item>
   <item>
      <title>Logement</title>
      <link>https://www.data.gouv.fr/fr/dataset/logement</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/listes-des-scpi</link>
      <description><![CDATA[Liste des SCPI immobiliers ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Le tourisme international en France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/le-tourisme-international-en-france</link>
-     <description><![CDATA[(données issues de l'enquête EVE et de la Banque de France) ]]></description>
-     <author>Ministère du Redressement productif (certifié)</author>
   </item>
  </channel>
 </rss>
