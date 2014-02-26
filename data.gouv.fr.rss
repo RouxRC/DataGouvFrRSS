@@ -4,12 +4,12 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 26 Feb 2014 16:40:02 +0100</pubDate>
+  <pubDate>Wed, 26 Feb 2014 17:10:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
-     <title>Nombre de jours de tournage dans les principaux sites publics references par l'APIE</title>
-     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-jours-de-tournage-dans-les-principaux-sites-publics-references-par-l-ap-0</link>
-     <description><![CDATA[Nombre de jours de tournage (cinéma, documentaires, téléfilms, ...) dans les principaux sites publics, par secteur (justice, santé, environnement,...), référencés par l'APIE. Ce recensement ne se veut donc pas exhaustif. Plus d'informations sur la démarche d'ouverture des lieux publics aux tournages ]]></description>
+     <title>Nombre de jours de tournage dans les principaux sites publics</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-jours-de-tournage-dans-les-principaux-sites-publics</link>
+     <description><![CDATA[Nombre de jours de tournage (cinéma, documentaires, téléfilms...) dans les principaux sites publics, par secteur (justice, santé, environnement...), référencés par l'Agence du patrimoine immatériel de l'État (APIE). Ce recensement ne se veut donc pas exhaustif. La démarche d'ouverture des lieux publics aux tournages (sur le site de l'APIE) ]]></description>
      <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
   <item>
