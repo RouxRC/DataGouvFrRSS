@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 26 Feb 2014 12:10:02 +0100</pubDate>
+  <pubDate>Wed, 26 Feb 2014 12:20:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Logement</title>
+     <link>https://www.data.gouv.fr/fr/dataset/logement</link>
+     <description><![CDATA[Chiffres clés Logement (source INSEE) ]]></description>
+     <author>Mairie des Lilas (certifié)</author>
+  </item>
+  <item>
+     <title>Emploi</title>
+     <link>https://www.data.gouv.fr/fr/dataset/emploi</link>
+     <description><![CDATA[Chiffres clés Emploi - Population active (source INSEE) ]]></description>
+     <author>Mairie des Lilas (certifié)</author>
+  </item>
   <item>
      <title>Population</title>
      <link>https://www.data.gouv.fr/fr/dataset/populati-1</link>
@@ -143,12 +155,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/monuments-historiques-de-marseille-op</link>
      <description><![CDATA[Monuments historiques situés sur le territoire de Marseille, avec adresse, numéro de base Mérimée (base de données du Ministère de la Culture recensant les monuments historiques de toute la France), et numéro de correspondance avec le plan associé (monuments aquarellés). ]]></description>
      <author>Ville de Marseille</author>
-  </item>
-  <item>
-     <title>Evénements sportifs 2014 à Digne-les-Bains</title>
-     <link>https://www.data.gouv.fr/fr/dataset/evenements-sportifs-2014-a-digne-les-bains-op</link>
-     <description><![CDATA[Calendrier de tous les évènements sportifs de l'année 2014 à Digne-les-Bains classés par date, lieux, type d'évènement et nom de l'organisateur. ]]></description>
-     <author>Ville de Digne-les-Bains (certifié)</author>
   </item>
   <item>
      <title>Evénements sportifs 2014 à Digne-les-Bains</title>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/listes-des-scpi</link>
      <description><![CDATA[Liste des SCPI immobiliers ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Le tourisme international en France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/le-tourisme-international-en-france</link>
-     <description><![CDATA[(données issues de l'enquête EVE et de la Banque de France) ]]></description>
-     <author>Ministère du Redressement productif (certifié)</author>
   </item>
  </channel>
 </rss>
