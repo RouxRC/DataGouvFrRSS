@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 26 Feb 2014 17:10:02 +0100</pubDate>
+  <pubDate>Fri, 28 Feb 2014 19:10:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Catalogue des sites publics ouverts aux evenements</title>
+     <link>https://www.data.gouv.fr/fr/dataset/catalogue-des-sites-publics-ouverts-aux-evenements</link>
+     <description><![CDATA[Les immeubles de l’État sont nombreux, variés, parfois exceptionnels. À leur qualité architecturale, à leur situation, à leur décoration intérieure, s’ajoute un élément impalpable et essentiel : le prestige des lieux, leur image, leur histoire, les événements dont ils sont les témoins. Des entreprises désirent y organiser des manifestations événementielles pour associer ce capital immatériel à...]]></description>
+     <author>Ministère de l’Economie et des Finances (certifié)</author>
+  </item>
   <item>
      <title>Nombre de jours de tournage dans les principaux sites publics</title>
      <link>https://www.data.gouv.fr/fr/dataset/nombre-de-jours-de-tournage-dans-les-principaux-sites-publics</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/proces-verbal-du-conseil-municipal-mtn</link>
      <description><![CDATA[Cette donnée renseigne les procès verbaux des conseils municipaux de la Ville de Montpellier à partir de l’année 2009. Les procès verbaux sont disponibles par conseil en fichier pdf ou word. Un procès verbal de conseil municipal doit être approuvé lors de la séance suivante du conseil municipal, il est ensuite publié. ]]></description>
      <author>Ville de Montpellier (certifié)</author>
-  </item>
-  <item>
-     <title>Chronologies de la vie publique</title>
-     <link>https://www.data.gouv.fr/fr/dataset/chronologies-de-la-vie-publique</link>
-     <description><![CDATA[Les dates, événements clés les faits marquants qui jalonnent la vie publique en France. Les chronologies, regroupées par année depuis l'an 2000, sont présentées mois par mois. ]]></description>
-     <author>Premier ministre (certifié)</author>
   </item>
  </channel>
 </rss>
