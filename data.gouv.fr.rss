@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 28 Feb 2014 19:30:02 +0100</pubDate>
+  <pubDate>Sun, 02 Mar 2014 17:10:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Entreprises</title>
+     <link>https://www.data.gouv.fr/fr/dataset/entreprises</link>
+     <description><![CDATA[Ce jeu de données répertorie des entreprises isséennes: nom, adresse, téléphone, site web, appartenance à un réseau d'entreprises... ]]></description>
+     <author>Ville d'Issy-les-Moulineaux (certifié)</author>
+  </item>
   <item>
      <title>Catalogue des sites publics ouverts aux evenements</title>
      <link>https://www.data.gouv.fr/fr/dataset/catalogue-des-sites-publics-ouverts-aux-evenements</link>
@@ -358,12 +364,6 @@
      <title>Données de l’Open data - Montpellier Territoire Numérique</title>
      <link>https://www.data.gouv.fr/fr/dataset/donnees-de-l-open-data-montpellier-territoire-numerique-mtn</link>
      <description><![CDATA[Vous retrouverez ici le recensement de toutes les données disponibles en open data sur le portail de la Ville de Montpellier. Il s'agit du jeu de données des données open data. ]]></description>
-     <author>Ville de Montpellier (certifié)</author>
-  </item>
-  <item>
-     <title>Procès verbal du Conseil Municipal</title>
-     <link>https://www.data.gouv.fr/fr/dataset/proces-verbal-du-conseil-municipal-mtn</link>
-     <description><![CDATA[Cette donnée renseigne les procès verbaux des conseils municipaux de la Ville de Montpellier à partir de l’année 2009. Les procès verbaux sont disponibles par conseil en fichier pdf ou word. Un procès verbal de conseil municipal doit être approuvé lors de la séance suivante du conseil municipal, il est ensuite publié. ]]></description>
      <author>Ville de Montpellier (certifié)</author>
   </item>
  </channel>
