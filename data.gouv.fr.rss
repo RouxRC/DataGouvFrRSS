@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 02 Mar 2014 17:10:02 +0100</pubDate>
+  <pubDate>Sun, 02 Mar 2014 17:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Observations météorologiques décodées, issues de la résolution 40 de l'Organisation Mondiale de la Météorologie</title>
+     <link>https://www.data.gouv.fr/fr/dataset/observations-meteorologiques-decodees-issues-de-la-resolution-40-de-l-organisation-mondiale-de-la-me</link>
+     <description><![CDATA[Dans sa résolution n°40, l'OMM a amené les services météo des pays membres a publié librement les données tri-horaires d'une partie des stations météorologiques. En France, Météo-France produit toutes les 3h un fichier CSV reprenant les données de 42 stations de métropole, décodé et archivé par le site www.infoclimat.fr. Le système de requêtage permet de ramener jusqu'à 25000 valeurs différentes. ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Entreprises</title>
      <link>https://www.data.gouv.fr/fr/dataset/entreprises</link>
@@ -358,12 +364,6 @@
      <title>Pistes cyclables (Ville de Montpellier)</title>
      <link>https://www.data.gouv.fr/fr/dataset/pistes-cyclables-ville-de-montpellier-mtn</link>
      <description><![CDATA[Ce fichier renseigne l’emplacement des pistes cyclables de la commune de Montpellier ainsi que certaines voies vertes communes à d’autres villes de l’agglomération de Montpellier. ATTENTION : ce jeu de données existe en deux sources distinctes. Un jeu de données issu de la Ville de Montpellier (VilleMTP_AggloMTP_PistesCyclables) et un jeu de données issu d'OpenStreetMap...]]></description>
-     <author>Ville de Montpellier (certifié)</author>
-  </item>
-  <item>
-     <title>Données de l’Open data - Montpellier Territoire Numérique</title>
-     <link>https://www.data.gouv.fr/fr/dataset/donnees-de-l-open-data-montpellier-territoire-numerique-mtn</link>
-     <description><![CDATA[Vous retrouverez ici le recensement de toutes les données disponibles en open data sur le portail de la Ville de Montpellier. Il s'agit du jeu de données des données open data. ]]></description>
      <author>Ville de Montpellier (certifié)</author>
   </item>
  </channel>
