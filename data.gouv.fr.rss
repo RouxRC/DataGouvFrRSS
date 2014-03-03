@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 03 Mar 2014 17:10:02 +0100</pubDate>
+  <pubDate>Mon, 03 Mar 2014 17:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Thématique: élections municipales</title>
+     <link>https://www.data.gouv.fr/fr/dataset/thematique-elections-municipales</link>
+     <description><![CDATA[Cette page présente une compilation par l'équipe de data.gouv.fr de ressources en lien avec les élections municipales. Vous y trouverez notamment: les résultats des élections municipales de 2001 et 2008, 1er et second tours, pour les communes de plus de 3 500 habitants (fournies par le Ministère de l'Intérieur) un accès aux données détaillées du recensement 2010 de la...]]></description>
+     <author>data.gouv.fr (certifié)</author>
+  </item>
   <item>
      <title>Modélisation numérique pour la prévision météorologique (WRF-NMM)</title>
      <link>https://www.data.gouv.fr/fr/dataset/modelisation-numerique-pour-la-prevision-meteorologique-wrf-nmm</link>
@@ -358,12 +364,6 @@
      <title>Compte rendu de conseil municipal</title>
      <link>https://www.data.gouv.fr/fr/dataset/compte-rendu-de-conseil-municipal-mtn</link>
      <description><![CDATA[Cette donnée renseigne les comptes rendus des conseils municipaux de la Ville de Montpellier à partir de l’année 2010. Les comptes rendus sont disponibles par conseil en fichier pdf ou word. Un compte rendu de conseil municipal est publié généralement une semaine après le conseil municipal. ]]></description>
-     <author>Ville de Montpellier (certifié)</author>
-  </item>
-  <item>
-     <title>Registre des délibérations - décisions</title>
-     <link>https://www.data.gouv.fr/fr/dataset/registre-des-deliberations-decisions-mtn</link>
-     <description><![CDATA[Cette donnée renseigne les délibérations exécutoires et les décisions prises lors des conseils municipaux de la Ville de Montpellier à partir de l’année 2010. Les registres sont disponibles sous forme de tome annuel, attention pour chaque année le fichier compressé pèse plus de 500mo. ]]></description>
      <author>Ville de Montpellier (certifié)</author>
   </item>
  </channel>
