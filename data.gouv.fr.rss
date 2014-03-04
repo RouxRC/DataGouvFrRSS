@@ -4,14 +4,8 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 04 Mar 2014 01:40:02 +0100</pubDate>
+  <pubDate>Tue, 04 Mar 2014 04:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
-  <item>
-     <title>Baromètre usages biens culturels sur Internet - Octobre 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/barometre-usages-biens-culturels-sur-internet-octobre-2013</link>
-     <description><![CDATA[Chiffres issus d'une étude réalisée en ligne par l'IFOP pour le compte de l'Hadopi auprès d'un échantillon national représentatif (selon la méthode des quotas) de 1504 internautes français âgés de 15 ans et plus. ]]></description>
-     <author>Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (HADOPI) (certifié)</author>
-  </item>
   <item>
      <title>Thématique: élections municipales</title>
      <link>https://www.data.gouv.fr/fr/dataset/thematique-elections-municipales</link>
@@ -364,6 +358,12 @@
      <title>Ville Sans Limite</title>
      <link>https://www.data.gouv.fr/fr/dataset/ville-sans-limite-mtn</link>
      <description><![CDATA[Cette donnée contient les résultats issus de l'expérimentation Ville Sans Limite qui s'est déroulée sur le quartier de la Ponpignane à Montpellier en juin 2013. Villes sans limite est une expérimentation portée par un cabinet d’urbanisme (UFO dirigé par Alain Renk) et la direction de l’urbanisme de la ville de Montpellier. Il s'agit d'un projet de concertation urbaine utilisant une plateforme...]]></description>
+     <author>Ville de Montpellier (certifié)</author>
+  </item>
+  <item>
+     <title>Compte rendu de conseil municipal</title>
+     <link>https://www.data.gouv.fr/fr/dataset/compte-rendu-de-conseil-municipal-mtn</link>
+     <description><![CDATA[Cette donnée renseigne les comptes rendus des conseils municipaux de la Ville de Montpellier à partir de l’année 2010. Les comptes rendus sont disponibles par conseil en fichier pdf ou word. Un compte rendu de conseil municipal est publié généralement une semaine après le conseil municipal. ]]></description>
      <author>Ville de Montpellier (certifié)</author>
   </item>
  </channel>
