@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 04 Mar 2014 17:20:02 +0100</pubDate>
+  <pubDate>Wed, 05 Mar 2014 12:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Programmes des candidats aux élections municipales 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/programmes-des-candidats-aux-elections-municipales-2014</link>
+     <description><![CDATA[Les programmes des candidats aux élections municipales dans les grandes villes de France sont disponibles sur Voxe.org. Villes disponibles : - Paris - Strasbourg - Nantes - Lyon et ses 9 arrondissements - Marseille L'outil est ouvert à tous les candidats, journalistes ou citoyens engagés qui souhaitent contribuer ! Documentation de l'API : http://voxe.org/platform/ ]]></description>
+     <author>Voxe.org</author>
+  </item>
   <item>
      <title>Programmes des candidats à l'élection présidentielle de 2012</title>
      <link>https://www.data.gouv.fr/fr/dataset/programmes-des-candidats-a-l-election-presidentielle-de-2012</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/sites-wi-fi-a-marseille-op</link>
      <description><![CDATA[Sites d'implantation des points Wi-Fi publics de la Ville de Marseille avec indication de la zone couverte, adresse et géolocalisation. ]]></description>
      <author>Ville de Marseille</author>
-  </item>
-  <item>
-     <title>Mortalité due aux maladies cardiovasculaires</title>
-     <link>https://www.data.gouv.fr/fr/dataset/mortalite-due-aux-maladies-cardiovasculaires</link>
-     <description><![CDATA[Les maladies cardiovasculaires constituent une des principales causes de mortalité. Elles couvrent diverses maladies touchant le système circulatoire, notamment les cardiopathies ischémiques (crises cardiaques) et les accidents vasculaires cérébraux. Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données CépiDc Inserm ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
 </rss>
