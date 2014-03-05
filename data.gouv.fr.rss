@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 05 Mar 2014 12:10:02 +0100</pubDate>
+  <pubDate>Wed, 05 Mar 2014 16:20:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Morpho-sédimentologie et courants de marée 3D du passage du Fromveur</title>
+     <link>https://www.data.gouv.fr/fr/dataset/morpho-sedimentologie-et-courants-de-maree-3d-du-passage-du-fromveur</link>
+     <description><![CDATA[Le SHOM, établissement public de référence en matière d'hydrographie et de sédiments marins, a été subventionné par la représentation de l'Etat en région Bretagne (SGAR) pour acquérir la connaissance initiale de l'environnement marin physique sur la zone de la ferme pilote d'hydroliennes du Fromveur et sur le tracé envisagé du câble de transport d'énergie. Les données actuellement disponibles...]]></description>
+     <author>SHOM (certifié)</author>
+  </item>
   <item>
      <title>Programmes des candidats aux élections municipales 2014</title>
      <link>https://www.data.gouv.fr/fr/dataset/programmes-des-candidats-aux-elections-municipales-2014</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/sondage-2009-sur-l-impact-de-la-crise-economique-sur-les-tpe-pme-du-bassin-d-emploi-de-carpentras-op</link>
      <description><![CDATA[Sondage sur l'impact de la crise économique sur les TPE/PME du bassin d'emploi de Carpentras, réalisé en 2009. Sondage par e-mailing et publipostage. Représentativité assurée par la méthode des quotas. ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Sites Wi-Fi à Marseille</title>
-     <link>https://www.data.gouv.fr/fr/dataset/sites-wi-fi-a-marseille-op</link>
-     <description><![CDATA[Sites d'implantation des points Wi-Fi publics de la Ville de Marseille avec indication de la zone couverte, adresse et géolocalisation. ]]></description>
-     <author>Ville de Marseille</author>
   </item>
  </channel>
 </rss>
