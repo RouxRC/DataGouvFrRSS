@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 05 Mar 2014 16:20:02 +0100</pubDate>
+  <pubDate>Thu, 06 Mar 2014 11:50:03 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Jeu de données bathymétriques du sondeur multi-faisceaux EM 710 - Zone Iroise</title>
+     <link>https://www.data.gouv.fr/fr/dataset/jeu-de-donnees-bathymetriques-du-sondeur-multi-faisceaux-em-710-zone-iroise</link>
+     <description><![CDATA[Le SHOM met a disposition les jeux de données bathymétriques suivants acquis au sondeur multi-faisceaux EM 710 : -Epave du Drummond Castle ( (VH Guillemot) par 55 m de fond -Fosse d'Ouessant et épave du sous-marin U-821 (VH Cormoran) par 100 m de fond ]]></description>
+     <author>SHOM (certifié)</author>
+  </item>
   <item>
      <title>Morpho-sédimentologie et courants de marée 3D du passage du Fromveur</title>
      <link>https://www.data.gouv.fr/fr/dataset/morpho-sedimentologie-et-courants-de-maree-3d-du-passage-du-fromveur</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/plantes-de-chine-du-jardin-botanique-du-parc-borely-de-marseille-op</link>
      <description><![CDATA[Plantes de Chine du jardin botanique du parc Borély de la ville de Marseille, par nom de plants, espèce, auteur, famille, origine, par détail pour chaque type de plants. ]]></description>
      <author>Ville de Marseille</author>
-  </item>
-  <item>
-     <title>Sondage 2009 sur l'impact de la crise économique sur les TPE/PME du bassin d'emploi de Carpentras</title>
-     <link>https://www.data.gouv.fr/fr/dataset/sondage-2009-sur-l-impact-de-la-crise-economique-sur-les-tpe-pme-du-bassin-d-emploi-de-carpentras-op</link>
-     <description><![CDATA[Sondage sur l'impact de la crise économique sur les TPE/PME du bassin d'emploi de Carpentras, réalisé en 2009. Sondage par e-mailing et publipostage. Représentativité assurée par la méthode des quotas. ]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
