@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 06 Mar 2014 11:50:03 +0100</pubDate>
+  <pubDate>Thu, 06 Mar 2014 12:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Jeu de données bathymétriques du sondeur multi-faisceaux EM 710 - Zone Iroise</title>
@@ -67,9 +67,9 @@
      <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
   <item>
-     <title>Nombre de jours de tournage dans les principaux sites publics</title>
-     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-jours-de-tournage-dans-les-principaux-sites-publics</link>
-     <description><![CDATA[Nombre de jours de tournage (cinéma, documentaires, téléfilms...) dans les principaux sites publics, par secteur (justice, santé, environnement...), référencés par l'Agence du patrimoine immatériel de l'État (APIE). Ce recensement ne se veut donc pas exhaustif. La démarche d'ouverture des lieux publics aux tournages (sur le site de l'APIE) ]]></description>
+     <title>Nombre de productions audiovisuelles accueillies dans les lieux publics</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-productions-audiovisuelles-accueillies-dans-les-lieux-publics</link>
+     <description><![CDATA[Nombre de productions audiovisuelles (cinéma, documentaires, téléfilms...) dans les principaux lieux publics, par secteur (justice, santé, environnement...), référencés par l'Agence du patrimoine immatériel de l'État (APIE). Ce recensement ne se veut donc pas exhaustif. La démarche d'ouverture des lieux publics aux tournages (sur le site de l'APIE) ]]></description>
      <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
   <item>
