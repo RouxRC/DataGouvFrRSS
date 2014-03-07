@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 07 Mar 2014 13:40:02 +0100</pubDate>
+  <pubDate>Fri, 07 Mar 2014 17:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Annuaire statistique </title>
+     <link>https://www.data.gouv.fr/fr/dataset/annuaire-statistique</link>
+     <description><![CDATA[Les ex-Directions générales des impôts et de la comptabilité publique ont fusionné en 2008 en une direction unique. L'annuaire statistique de la Direction générale des Finances publiques (DGFiP) retrace l'activité de cette dernière pour une année civile de référence. Il recense sous forme de tableaux les principales données relatives : aux fiscalités personnelle, professionnelle et...]]></description>
+     <author>Ministère de l’Economie et des Finances (certifié)</author>
+  </item>
   <item>
      <title>Statistique agricole annuelle (SAA)</title>
      <link>https://www.data.gouv.fr/fr/dataset/statistique-agricole-annuelle-saa</link>
@@ -81,7 +87,7 @@
   <item>
      <title>Les prénoms des conseillers municipaux agrégés par departements 2008-2014</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-prenoms-des-conseillers-municipaux-agreges-par-departements-2008-2014</link>
-     <description><![CDATA[Extrait du répertoire national des élus du Ministère de l'Intérieur ]]></description>
+     <description><![CDATA[Extrait du répertoire national des élus du Ministère de l'Intérieur. Plus de détails sur IdeesLibres.org ]]></description>
      <author>IdeesLibres.org</author>
   </item>
   <item>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/stations-de-taxis-a-marseille-op</link>
      <description><![CDATA[Localisation des stations de taxis à Marseille. ]]></description>
      <author>Ville de Marseille</author>
-  </item>
-  <item>
-     <title>Evolution du nombre de croisiéristes à Marseille de 1995 à 2012</title>
-     <link>https://www.data.gouv.fr/fr/dataset/evolution-du-nombre-de-croisieristes-a-marseille-de-1995-a-2012-op</link>
-     <description><![CDATA[Liste des chiffres statistiques communiqués par le Club de la Croisière Marseille Provence, de l'année 1995 à l'année 2012, par passagers tête de ligne (port de Marseille comme port de départ ou port d'arrivée) et passagers en transit (personnes qui voyagent et pour lesquelles Marseille ne représente qu'une halte). ]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
