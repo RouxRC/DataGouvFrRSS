@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 07 Mar 2014 11:30:02 +0100</pubDate>
+  <pubDate>Fri, 07 Mar 2014 13:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Statistique agricole annuelle (SAA)</title>
@@ -77,6 +77,12 @@
      <link>https://www.data.gouv.fr/fr/dataset/observations-meteorologiques-decodees-issues-de-la-resolution-40-de-l-organisation-mondiale-de-la-me</link>
      <description><![CDATA[Dans sa résolution n°40, l'OMM a amené les services météo des pays membres a publié librement les données tri-horaires d'une partie des stations météorologiques. En France, Météo-France produit toutes les 3h un fichier CSV reprenant les données de 42 stations de métropole, décodé et archivé par le site www.infoclimat.fr. Le système de requêtage permet de ramener jusqu'à 25000 valeurs différentes. ]]></description>
      <author>citoyen</author>
+  </item>
+  <item>
+     <title>Les prénoms des conseillers municipaux agrégés par departements 2008-2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-prenoms-des-conseillers-municipaux-agreges-par-departements-2008-2014</link>
+     <description><![CDATA[Extrait du répertoire national des élus du Ministère de l'Intérieur ]]></description>
+     <author>IdeesLibres.org</author>
   </item>
   <item>
      <title>Entreprises</title>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/evolution-du-nombre-de-croisieristes-a-marseille-de-1995-a-2012-op</link>
      <description><![CDATA[Liste des chiffres statistiques communiqués par le Club de la Croisière Marseille Provence, de l'année 1995 à l'année 2012, par passagers tête de ligne (port de Marseille comme port de départ ou port d'arrivée) et passagers en transit (personnes qui voyagent et pour lesquelles Marseille ne représente qu'une halte). ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Lieux culturels de la Ville de Marseille</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lieux-culturels-de-la-ville-de-marseille-op</link>
-     <description><![CDATA[Lieux culturels de la Ville de Marseille avec adresse, coordonnées et géolocalisation. ]]></description>
-     <author>Ville de Marseille</author>
   </item>
  </channel>
 </rss>
