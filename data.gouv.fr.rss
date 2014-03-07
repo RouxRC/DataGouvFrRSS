@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 07 Mar 2014 09:00:02 +0100</pubDate>
+  <pubDate>Fri, 07 Mar 2014 09:10:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Inventaire des vergers</title>
+     <link>https://www.data.gouv.fr/fr/dataset/inventaire-des-vergers</link>
+     <description><![CDATA[Principaux résultats de l’enquête Inventaire des vergers en 2013. Nombre d’exploitations, superficies, circuits de commercialisation. Pomme, poire, pêche - nectarine, prune, abricot, cerise, noix, kiwi, agrumes, raisin de table. Des résultats par région et pour la France métropolitaine. ]]></description>
+     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
+  </item>
   <item>
      <title>Contours des EPCI 2014</title>
      <link>https://www.data.gouv.fr/fr/dataset/contours-des-epci-2014</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/zones-d-activites-economiques-du-san-ouest-provence-op</link>
      <description><![CDATA[Localisation et description des zones d'activités du territoire du SAN Ouest Provence. ]]></description>
      <author>SAN Ouest Provence</author>
-  </item>
-  <item>
-     <title>Statistiques 2013 des rencontres sportives dans les stades de Marseille</title>
-     <link>https://www.data.gouv.fr/fr/dataset/statistiques-2013-des-rencontres-sportives-dans-les-stades-de-marseille-op</link>
-     <description><![CDATA[Statistiques des rencontres sportives par fédérations dans les stades de la ville de Marseille pour l'année 2013. ]]></description>
-     <author>Ville de Marseille</author>
   </item>
  </channel>
 </rss>
