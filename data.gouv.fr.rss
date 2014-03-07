@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 07 Mar 2014 09:20:02 +0100</pubDate>
+  <pubDate>Fri, 07 Mar 2014 09:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Récolte de bois et production de sciages</title>
+     <link>https://www.data.gouv.fr/fr/dataset/recolte-de-bois-et-production-de-sciages</link>
+     <description><![CDATA[Récolte de bois d’œuvre et de bois d’industrie, production de sciages et produits connexes, nombre d’entreprises par département et région, production commercialisée, facturations des entreprises selon le produit. Résultats 2012 ]]></description>
+     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
+  </item>
   <item>
      <title>Inventaire des vergers</title>
      <link>https://www.data.gouv.fr/fr/dataset/inventaire-des-vergers</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/statistiques-2013-des-rencontres-sportives-dans-les-gymnases-et-stades-de-marseille-op</link>
      <description><![CDATA[Statistiques des rencontres sportives par fédérations dans les gymnases et les stades dépendants de la Ville de Marseille pour l'année 2013. ]]></description>
      <author>Ville de Marseille</author>
-  </item>
-  <item>
-     <title>Zones d'activités économiques du SAN Ouest Provence</title>
-     <link>https://www.data.gouv.fr/fr/dataset/zones-d-activites-economiques-du-san-ouest-provence-op</link>
-     <description><![CDATA[Localisation et description des zones d'activités du territoire du SAN Ouest Provence. ]]></description>
-     <author>SAN Ouest Provence</author>
   </item>
  </channel>
 </rss>
