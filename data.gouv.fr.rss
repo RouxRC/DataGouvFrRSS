@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 07 Mar 2014 11:00:02 +0100</pubDate>
+  <pubDate>Fri, 07 Mar 2014 11:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Statistique agricole annuelle (SAA)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/statistique-agricole-annuelle-saa</link>
+     <description><![CDATA[RESULTATS 2011 et 2012 définitifs Résultats France entière y compris DOM Productions végétales : Superficies, rendements, productions récoltées ou commercialisées Productions animales : Cheptel présent sur les exploitations, animaux finis produits. (production, poids moyen, poids produit), production et utilisation de lait à la ferme. Répartition du territoire en 2012 (statistique...]]></description>
+     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
+  </item>
   <item>
      <title>Récolte de bois et production de sciages</title>
      <link>https://www.data.gouv.fr/fr/dataset/recolte-de-bois-et-production-de-sciages</link>
@@ -358,12 +364,6 @@
      <title>Lieux culturels de la Ville de Marseille</title>
      <link>https://www.data.gouv.fr/fr/dataset/lieux-culturels-de-la-ville-de-marseille-op</link>
      <description><![CDATA[Lieux culturels de la Ville de Marseille avec adresse, coordonnées et géolocalisation. ]]></description>
-     <author>Ville de Marseille</author>
-  </item>
-  <item>
-     <title>Statistiques 2013 des rencontres sportives dans les gymnases et stades de Marseille</title>
-     <link>https://www.data.gouv.fr/fr/dataset/statistiques-2013-des-rencontres-sportives-dans-les-gymnases-et-stades-de-marseille-op</link>
-     <description><![CDATA[Statistiques des rencontres sportives par fédérations dans les gymnases et les stades dépendants de la Ville de Marseille pour l'année 2013. ]]></description>
      <author>Ville de Marseille</author>
   </item>
  </channel>
