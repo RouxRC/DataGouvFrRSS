@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 06 Mar 2014 17:10:02 +0100</pubDate>
+  <pubDate>Fri, 07 Mar 2014 09:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Contours des EPCI 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/contours-des-epci-2014</link>
+     <description><![CDATA[Contours géographiques des EPCI issu du croisement des limites communales d'OpenStreetMap et des données de la Direction Générale des Collectivités Locales datant de 2014. Ces données sont en partie issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont donc sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être...]]></description>
+     <author>OpenStreetMap</author>
+  </item>
   <item>
      <title>Jeu de données bathymétriques du sondeur multi-faisceaux EM 710 - Zone Iroise</title>
      <link>https://www.data.gouv.fr/fr/dataset/jeu-de-donnees-bathymetriques-du-sondeur-multi-faisceaux-em-710-zone-iroise</link>
@@ -358,12 +364,6 @@
      <title>Statistiques 2013 des rencontres sportives dans les stades de Marseille</title>
      <link>https://www.data.gouv.fr/fr/dataset/statistiques-2013-des-rencontres-sportives-dans-les-stades-de-marseille-op</link>
      <description><![CDATA[Statistiques des rencontres sportives par fédérations dans les stades de la ville de Marseille pour l'année 2013. ]]></description>
-     <author>Ville de Marseille</author>
-  </item>
-  <item>
-     <title>Plantes de Chine du jardin botanique du parc Borély de Marseille</title>
-     <link>https://www.data.gouv.fr/fr/dataset/plantes-de-chine-du-jardin-botanique-du-parc-borely-de-marseille-op</link>
-     <description><![CDATA[Plantes de Chine du jardin botanique du parc Borély de la ville de Marseille, par nom de plants, espèce, auteur, famille, origine, par détail pour chaque type de plants. ]]></description>
      <author>Ville de Marseille</author>
   </item>
  </channel>
