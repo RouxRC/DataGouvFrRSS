@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 09 Mar 2014 09:50:02 +0100</pubDate>
+  <pubDate>Sun, 09 Mar 2014 12:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Nomenclature des catégories socio-professionnelles du Ministère de l'Intérieur (codes CSP)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nomenclature-des-categories-socio-professionnelles-du-ministere-de-l-interieur-codes-csp</link>
+     <description><![CDATA[Utilisé pour toutes les élections en France afin d'alimenter le répertoire national des élus. Source : Ministère de l'Intérieur ]]></description>
+     <author>IdeesLibres.org</author>
+  </item>
   <item>
      <title>Taxe sur les salaires : les déclarations nationales</title>
      <link>https://www.data.gouv.fr/fr/dataset/taxe-sur-les-salaires-les-declarations-nationales</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/etude-2007-de-consommation-de-paniers-bio-autour-de-carpentras-op</link>
      <description><![CDATA[Etude de marché, réalisée en 2007, sur l'achat de paniers de fruits &amp; légumes en circuit court sur le bassin d'emploi de Carpentras. Sondage par questionnaires auto-administrés et entretiens en face à face. ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Plan de Prévention des Risques de Digne-les-Bains</title>
-     <link>https://www.data.gouv.fr/fr/dataset/plan-de-prevention-des-risques-de-digne-les-bains-op</link>
-     <description><![CDATA[Cartographie des différentes zones du Plan de Prévention des Risques de la ville de Digne-les-Bains. Numérisation effectuée à partir du cadastre numérisé. Echelle de référence : 1/1000ème. ]]></description>
-     <author>Ville de Digne-les-Bains (certifié)</author>
   </item>
  </channel>
 </rss>
