@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 07 Mar 2014 20:30:02 +0100</pubDate>
+  <pubDate>Sun, 09 Mar 2014 09:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Taxe sur les salaires : les déclarations nationales</title>
+     <link>https://www.data.gouv.fr/fr/dataset/taxe-sur-les-salaires-les-declarations-nationales</link>
+     <description><![CDATA[Vous pouvez consulter les résultats des déclarations nationales de taxe sur les salaires (n° 2502) en montant déclaré dans chaque case. ]]></description>
+     <author>Ministère de l’Economie et des Finances (certifié)</author>
+  </item>
   <item>
      <title>Annuaire statistique </title>
      <link>https://www.data.gouv.fr/fr/dataset/annuaire-statistique</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/plan-de-prevention-des-risques-de-digne-les-bains-op</link>
      <description><![CDATA[Cartographie des différentes zones du Plan de Prévention des Risques de la ville de Digne-les-Bains. Numérisation effectuée à partir du cadastre numérisé. Echelle de référence : 1/1000ème. ]]></description>
      <author>Ville de Digne-les-Bains (certifié)</author>
-  </item>
-  <item>
-     <title>Stations de taxis à Marseille</title>
-     <link>https://www.data.gouv.fr/fr/dataset/stations-de-taxis-a-marseille-op</link>
-     <description><![CDATA[Localisation des stations de taxis à Marseille. ]]></description>
-     <author>Ville de Marseille</author>
   </item>
  </channel>
 </rss>
