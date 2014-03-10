@@ -4,8 +4,224 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 10 Mar 2014 17:20:01 +0100</pubDate>
+  <pubDate>Mon, 10 Mar 2014 17:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les prénoms des conseillers municipaux</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-prenoms-des-conseillers-municipaux</link>
+     <description><![CDATA[Les prénoms des conseillers municipaux en France, leur genre et leur décompte. Couverture temporelle des élus de Paris étendue à mars 2014. Plus de détails sur IdeesLibres.org. ]]></description>
+     <author>IdeesLibres.org</author>
+  </item>
+  <item>
+     <title>Nomenclature des catégories socio-professionnelles du Ministère de l'Intérieur (codes CSP)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nomenclature-des-categories-socio-professionnelles-du-ministere-de-l-interieur-codes-csp</link>
+     <description><![CDATA[Utilisé pour toutes les élections en France afin d'alimenter le répertoire national des élus. Source : Ministère de l'Intérieur ]]></description>
+     <author>IdeesLibres.org</author>
+  </item>
+  <item>
+     <title>Taxe sur les salaires : les déclarations nationales</title>
+     <link>https://www.data.gouv.fr/fr/dataset/taxe-sur-les-salaires-les-declarations-nationales</link>
+     <description><![CDATA[Vous pouvez consulter les résultats des déclarations nationales de taxe sur les salaires (n° 2502) en montant déclaré dans chaque case. ]]></description>
+     <author>Ministère de l’Economie et des Finances (certifié)</author>
+  </item>
+  <item>
+     <title>Annuaire statistique </title>
+     <link>https://www.data.gouv.fr/fr/dataset/annuaire-statistique</link>
+     <description><![CDATA[Les ex-Directions générales des impôts et de la comptabilité publique ont fusionné en 2008 en une direction unique. L'annuaire statistique de la Direction générale des Finances publiques (DGFiP) retrace l'activité de cette dernière pour une année civile de référence. Il recense sous forme de tableaux les principales données relatives : aux fiscalités personnelle, professionnelle et...]]></description>
+     <author>Ministère de l’Economie et des Finances (certifié)</author>
+  </item>
+  <item>
+     <title>Statistique agricole annuelle (SAA)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/statistique-agricole-annuelle-saa</link>
+     <description><![CDATA[RESULTATS 2011 et 2012 définitifs Résultats France entière y compris DOM Productions végétales : Superficies, rendements, productions récoltées ou commercialisées Productions animales : Cheptel présent sur les exploitations, animaux finis produits. (production, poids moyen, poids produit), production et utilisation de lait à la ferme. Répartition du territoire en 2012 (statistique...]]></description>
+     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
+  </item>
+  <item>
+     <title>Récolte de bois et production de sciages</title>
+     <link>https://www.data.gouv.fr/fr/dataset/recolte-de-bois-et-production-de-sciages</link>
+     <description><![CDATA[Récolte de bois d’œuvre et de bois d’industrie, production de sciages et produits connexes, nombre d’entreprises par département et région, production commercialisée, facturations des entreprises selon le produit. Résultats 2012 ]]></description>
+     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
+  </item>
+  <item>
+     <title>Inventaire des vergers</title>
+     <link>https://www.data.gouv.fr/fr/dataset/inventaire-des-vergers</link>
+     <description><![CDATA[Principaux résultats de l’enquête Inventaire des vergers en 2013. Nombre d’exploitations, superficies, circuits de commercialisation. Pomme, poire, pêche - nectarine, prune, abricot, cerise, noix, kiwi, agrumes, raisin de table. Des résultats par région et pour la France métropolitaine. ]]></description>
+     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
+  </item>
+  <item>
+     <title>Contours des EPCI 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/contours-des-epci-2014</link>
+     <description><![CDATA[Contours géographiques des EPCI issu du croisement des limites communales d'OpenStreetMap et des données de la Direction Générale des Collectivités Locales datant de 2014. Ces données sont en partie issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont donc sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être...]]></description>
+     <author>OpenStreetMap</author>
+  </item>
+  <item>
+     <title>Jeu de données bathymétriques du sondeur multi-faisceaux EM 710 - Zone Iroise</title>
+     <link>https://www.data.gouv.fr/fr/dataset/jeu-de-donnees-bathymetriques-du-sondeur-multi-faisceaux-em-710-zone-iroise</link>
+     <description><![CDATA[Le SHOM met a disposition les jeux de données bathymétriques suivants acquis au sondeur multi-faisceaux EM 710 : -Epave du Drummond Castle ( (VH Guillemot) par 55 m de fond -Fosse d'Ouessant et épave du sous-marin U-821 (VH Cormoran) par 100 m de fond ]]></description>
+     <author>SHOM (certifié)</author>
+  </item>
+  <item>
+     <title>Morpho-sédimentologie et courants de marée 3D du passage du Fromveur</title>
+     <link>https://www.data.gouv.fr/fr/dataset/morpho-sedimentologie-et-courants-de-maree-3d-du-passage-du-fromveur</link>
+     <description><![CDATA[Le SHOM, établissement public de référence en matière d'hydrographie et de sédiments marins, a été subventionné par la représentation de l'Etat en région Bretagne (SGAR) pour acquérir la connaissance initiale de l'environnement marin physique sur la zone de la ferme pilote d'hydroliennes du Fromveur et sur le tracé envisagé du câble de transport d'énergie. Les données actuellement disponibles...]]></description>
+     <author>SHOM (certifié)</author>
+  </item>
+  <item>
+     <title>Programmes des candidats aux élections municipales 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/programmes-des-candidats-aux-elections-municipales-2014</link>
+     <description><![CDATA[Les programmes des candidats aux élections municipales dans les grandes villes de France sont disponibles sur Voxe.org. Villes disponibles : - Paris - Strasbourg - Nantes - Lyon et ses 9 arrondissements - Marseille L'outil est ouvert à tous les candidats, journalistes ou citoyens engagés qui souhaitent contribuer ! Documentation de l'API : http://voxe.org/platform/ ]]></description>
+     <author>Voxe.org</author>
+  </item>
+  <item>
+     <title>Programmes des candidats à l'élection présidentielle de 2012</title>
+     <link>https://www.data.gouv.fr/fr/dataset/programmes-des-candidats-a-l-election-presidentielle-de-2012</link>
+     <description><![CDATA[Ce jeu de données inclut toutes les propositions des candidats aux élections présidentielles de 2012. Documentation de l'API : http://voxe.org/platform ]]></description>
+     <author>Voxe.org</author>
+  </item>
+  <item>
+     <title>Baromètre usages biens culturels sur Internet - Octobre 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/barometre-usages-biens-culturels-sur-internet-octobre-2013</link>
+     <description><![CDATA[Chiffres issus d'une étude réalisée en ligne par l'IFOP pour le compte de l'Hadopi auprès d'un échantillon national représentatif (selon la méthode des quotas) de 1504 internautes français âgés de 15 ans et plus. ]]></description>
+     <author>Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (HADOPI) (certifié)</author>
+  </item>
+  <item>
+     <title>Thématique: élections municipales</title>
+     <link>https://www.data.gouv.fr/fr/dataset/thematique-elections-municipales</link>
+     <description><![CDATA[Cette page présente une compilation par l'équipe de data.gouv.fr de ressources en lien avec les élections municipales. Vous y trouverez notamment: les résultats des élections municipales de 2001 et 2008, 1er et second tours, pour les communes de plus de 3 500 habitants (fournies par le Ministère de l'Intérieur) un accès aux données détaillées du recensement 2010 de la...]]></description>
+     <author>data.gouv.fr (certifié)</author>
+  </item>
+  <item>
+     <title>Modélisation numérique pour la prévision météorologique (WRF-NMM)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/modelisation-numerique-pour-la-prevision-meteorologique-wrf-nmm</link>
+     <description><![CDATA[Modèle numérique de prévision météorologique WRF à coeur NMM pour la France métropolitaine à haute résolution (5 km), utilisant le modèle GFS aux limites. 4 sorties par jour, à 72h d'échéance par pas de 1h sur la majorité des paramètres atmosphériques de surface et d'altitude, dont température à 2m, précipitations horaires et cumulées, neige au sol etc.. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Observations météorologiques décodées, issues de la résolution 40 de l'Organisation Mondiale de la Météorologie</title>
+     <link>https://www.data.gouv.fr/fr/dataset/observations-meteorologiques-decodees-issues-de-la-resolution-40-de-l-organisation-mondiale-de-la-me</link>
+     <description><![CDATA[Dans sa résolution n°40, l'OMM a amené les services météo des pays membres a publié librement les données tri-horaires d'une partie des stations météorologiques. En France, Météo-France produit toutes les 3h un fichier CSV reprenant les données de 42 stations de métropole, décodé et archivé par le site www.infoclimat.fr. Le système de requêtage permet de ramener jusqu'à 25000 valeurs différentes. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Les prénoms des conseillers municipaux agrégés par departements</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-prenoms-des-conseillers-municipaux-agreges-par-departements</link>
+     <description><![CDATA[Extrait du répertoire national des élus du Ministère de l'Intérieur. Couverture temporelle étendue à mars 2014 pour les élus de Paris. Plus de détails sur IdeesLibres.org. Existe aussi sans agrégation ]]></description>
+     <author>IdeesLibres.org</author>
+  </item>
+  <item>
+     <title>Entreprises</title>
+     <link>https://www.data.gouv.fr/fr/dataset/entreprises</link>
+     <description><![CDATA[Ce jeu de données répertorie des entreprises isséennes: nom, adresse, téléphone, site web, appartenance à un réseau d'entreprises... ]]></description>
+     <author>Ville d'Issy-les-Moulineaux (certifié)</author>
+  </item>
+  <item>
+     <title>Catalogue des sites publics ouverts aux evenements</title>
+     <link>https://www.data.gouv.fr/fr/dataset/catalogue-des-sites-publics-ouverts-aux-evenements</link>
+     <description><![CDATA[Les immeubles de l’État sont nombreux, variés, parfois exceptionnels. À leur qualité architecturale, à leur situation, à leur décoration intérieure, s’ajoute un élément impalpable et essentiel : le prestige des lieux, leur image, leur histoire, les événements dont ils sont les témoins. Des entreprises désirent y organiser des manifestations événementielles pour associer ce capital immatériel à...]]></description>
+     <author>Ministère de l’Economie et des Finances (certifié)</author>
+  </item>
+  <item>
+     <title>Nombre de productions audiovisuelles accueillies dans les lieux publics</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-productions-audiovisuelles-accueillies-dans-les-lieux-publics</link>
+     <description><![CDATA[Nombre de productions audiovisuelles (cinéma, documentaires, téléfilms...) dans les principaux lieux publics, par secteur (justice, santé, environnement...), référencés par l'Agence du patrimoine immatériel de l'État (APIE). Ce recensement ne se veut donc pas exhaustif. La démarche d'ouverture des lieux publics aux tournages (sur le site de l'APIE) ]]></description>
+     <author>Ministère de l’Economie et des Finances (certifié)</author>
+  </item>
+  <item>
+     <title>Comptes de la commune</title>
+     <link>https://www.data.gouv.fr/fr/dataset/comptes-de-la-commune</link>
+     <description><![CDATA[Chiffres Clés, Fonctionnement, Investissement, Fiscalité, Autofinancement, Endettement (source Ministère des Finances) ]]></description>
+     <author>Mairie des Lilas (certifié)</author>
+  </item>
+  <item>
+     <title>Logement</title>
+     <link>https://www.data.gouv.fr/fr/dataset/logement</link>
+     <description><![CDATA[Chiffres clés Logement (source INSEE) ]]></description>
+     <author>Mairie des Lilas (certifié)</author>
+  </item>
+  <item>
+     <title>Emploi</title>
+     <link>https://www.data.gouv.fr/fr/dataset/emploi</link>
+     <description><![CDATA[Chiffres clés Emploi - Population active (source INSEE) ]]></description>
+     <author>Mairie des Lilas (certifié)</author>
+  </item>
+  <item>
+     <title>Population</title>
+     <link>https://www.data.gouv.fr/fr/dataset/populati-1</link>
+     <description><![CDATA[Chiffres clés Évolution et structure de la population (données INSEE) ]]></description>
+     <author>Mairie des Lilas (certifié)</author>
+  </item>
+  <item>
+     <title>Liste des filiales par entreprise par paradis fiscal et judiciaire</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-filiales-par-entreprise-par-paradis-fiscal-et-judiciaire</link>
+     <description><![CDATA[Liste des filiales par entreprise par paradis fiscal et judiciaire. Auteur : Jean Merckaert Source : http://www.revue-projet.com ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Données de consommation du médicament Médiator</title>
+     <link>https://www.data.gouv.fr/fr/dataset/donnees-de-consommation-du-medicament-mediator</link>
+     <description><![CDATA[Chiffres de consommation du Médiator, issus des données livrées par la Caisse nationale d’Assurance maladie (Cnam) à la demande du collectif Initiative Transparence Santé. Les données sont présentées sous la forme de deux fichiers : - Effectifs des consommateurs du médiator de 2008 à 2010 dans les départements Français (données SNIIRAM) - Prévalence du diabète et consommation de...]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Paris par arrondissements</title>
+     <link>https://www.data.gouv.fr/fr/dataset/paris-par-arrondissements</link>
+     <description><![CDATA[ Fond de carte (muet) et carte (avec numéros) de Paris par arrondissements ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Élections municipales de 2008 : résultats et candidats</title>
+     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-de-2008-resultats-et-candidats-nd</link>
+     <description><![CDATA[Données des élections municipales sur les candidats et les résultats bureaux de vote par bureaux de vote pour les deux tours pour le communes de plus de 1000 habitants. ]]></description>
+     <author>NosDonnées.fr</author>
+  </item>
+  <item>
+     <title>Dotation aux instituts français</title>
+     <link>https://www.data.gouv.fr/fr/dataset/dotation-aux-instituts-francais-nd</link>
+     <description><![CDATA[Données relatives aux finances attribuées aux instituts français présents à travers le monde ]]></description>
+     <author>NosDonnées.fr</author>
+  </item>
+  <item>
+     <title>Open Gov Tech Org Funding</title>
+     <link>https://www.data.gouv.fr/fr/dataset/open-gov-tech-org-funding-nd</link>
+     <description><![CDATA[Fonds reçus par les organisations Open Gov. Fichier préparé pour OpenSpending. Source : Trends in Civic Tech - Knight Foundation http://www.knightfoundation.org/features/civictech/ Licence : CC BY-NC-SA 3.0 ]]></description>
+     <author>NosDonnées.fr</author>
+  </item>
+  <item>
+     <title>World Development Indicators: The information society</title>
+     <link>https://www.data.gouv.fr/fr/dataset/world-development-indicators-the-information-society-nd</link>
+     <description><![CDATA[World Development Indicators on information society published in 2013. Source: The World Bank Dataset Name: World Development Indicators: information society Data source: International Telecommunication Union, World Telecommunication/ICT Development Report and database, and World Bank estimates). Dataset url: http://wdi.worldbank.org/table/5.12# ]]></description>
+     <author>NosDonnées.fr</author>
+  </item>
+  <item>
+     <title>Réserve parlementaire 2013 de l'Assemblée nationale</title>
+     <link>https://www.data.gouv.fr/fr/dataset/reserve-parlementaire-2013-de-l-assemblee-nationale-nd</link>
+     <description><![CDATA[Pour la première fois en 2014, l'Assemblée nationale publie e ligne l'intégralité des subeventions accordées aux collectivités et associations dans le cadre de la réserve parlementaire de 2013. Les tableaux html scrapés et complétés des informations tirées de NosDéputés sont rendus accessibles en CSV et mis à jour régulièrement. ]]></description>
+     <author>NosDonnées.fr</author>
+  </item>
+  <item>
+     <title>Lieux et dates des expositions itinérantes organisées par l'Institut Français</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lieux-et-dates-des-expositions-itinerantes-organisees-par-l-institut-francais-nd</link>
+     <description><![CDATA[]]></description>
+     <author>NosDonnées.fr</author>
+  </item>
+  <item>
+     <title>Programme d'aide à la publication de l'Institut Français</title>
+     <link>https://www.data.gouv.fr/fr/dataset/programme-d-aide-a-la-publication-de-l-institut-francais-nd</link>
+     <description><![CDATA[Le programme d’aide à la publication de l'Institut Français vise à faciliter l’accès des publics non francophones aux ouvrages d’expression originale venus de France (auteurs du XXe siècle à nos jours). Ce programme apporte aux éditeurs sélectionnés une aide pour la prise en charge des frais de traduction du français vers l’anglais pour des titres non diffusés au Canada, jusqu’à 30 % des coûts...]]></description>
+     <author>NosDonnées.fr</author>
+  </item>
+  <item>
+     <title>Localisation des instituts français dans le monde</title>
+     <link>https://www.data.gouv.fr/fr/dataset/localisation-des-instituts-francais-dans-le-monde-nd</link>
+     <description><![CDATA[]]></description>
+     <author>NosDonnées.fr</author>
+  </item>
+  <item>
+     <title>Données comptables et fiscales des collectivités locales</title>
+     <link>https://www.data.gouv.fr/fr/dataset/donnees-comptables-et-fiscales-des-collectivites-locales-nd</link>
+     <description><![CDATA[Données comptables détaillées et données de fiscalité directe locale des collectivités et établissements publics locaux publiées sur http://www.collectivites-locales.gouv.fr À titre d'exemple une douzaine d'indicateurs tirés de ces données pour les 36000 communes sont cartographies sur http://www.NosFinancesLocales.fr Méthodologies:...]]></description>
+     <author>NosDonnées.fr</author>
+  </item>
   <item>
      <title>Mortalité due aux accidents de la route</title>
      <link>https://www.data.gouv.fr/fr/dataset/mortalite-due-aux-accidents-de-la-route</link>
