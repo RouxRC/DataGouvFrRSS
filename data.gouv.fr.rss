@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 10 Mar 2014 13:40:02 +0100</pubDate>
+  <pubDate>Mon, 10 Mar 2014 14:20:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les prénoms des conseillers municipaux</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-prenoms-des-conseillers-municipaux</link>
+     <description><![CDATA[Les prénoms des conseillers municipaux en France, leur genre et leur décompte. Couverture temporelle des élus de Paris étendue à mars 2014. Plus de détails sur IdeesLibres.org. ]]></description>
+     <author>IdeesLibres.org</author>
+  </item>
   <item>
      <title>Nomenclature des catégories socio-professionnelles du Ministère de l'Intérieur (codes CSP)</title>
      <link>https://www.data.gouv.fr/fr/dataset/nomenclature-des-categories-socio-professionnelles-du-ministere-de-l-interieur-codes-csp</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-prenoms-2013-de-digne-les-bains-op</link>
      <description><![CDATA[Liste alphabétique des prénoms des enfants nés en 2013 sur la commune de Digne-les-Bains avec le nombre d'enfants par prénom et son pourcentage par rapport à l'ensemble des naissances de l'année. ]]></description>
      <author>Ville de Digne-les-Bains (certifié)</author>
-  </item>
-  <item>
-     <title>Etude 2007 de consommation de paniers Bio autour de Carpentras</title>
-     <link>https://www.data.gouv.fr/fr/dataset/etude-2007-de-consommation-de-paniers-bio-autour-de-carpentras-op</link>
-     <description><![CDATA[Etude de marché, réalisée en 2007, sur l'achat de paniers de fruits &amp; légumes en circuit court sur le bassin d'emploi de Carpentras. Sondage par questionnaires auto-administrés et entretiens en face à face. ]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
