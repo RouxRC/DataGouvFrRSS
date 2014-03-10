@@ -4,14 +4,8 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 10 Mar 2014 16:30:02 +0100</pubDate>
+  <pubDate>Mon, 10 Mar 2014 16:40:03 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
-  <item>
-     <title>test</title>
-     <link>https://www.data.gouv.fr/fr/dataset/te-4</link>
-     <description><![CDATA[qsdfqsdf ]]></description>
-     <author>citoyen</author>
-  </item>
   <item>
      <title>Les prénoms des conseillers municipaux</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-prenoms-des-conseillers-municipaux</link>
@@ -364,6 +358,12 @@
      <title>Consommation d'eau 2012 par compteur à Digne-les-Bains</title>
      <link>https://www.data.gouv.fr/fr/dataset/consommation-d-eau-2012-par-compteur-a-digne-les-bains-op</link>
      <description><![CDATA[Relevé détaillé de la consommation d'eau 2012 par compteur et avec l'historique de chacun d'eux à Digne-les-Bains. ]]></description>
+     <author>Ville de Digne-les-Bains (certifié)</author>
+  </item>
+  <item>
+     <title>Liste des prénoms 2013 de Digne-les-Bains</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-prenoms-2013-de-digne-les-bains-op</link>
+     <description><![CDATA[Liste alphabétique des prénoms des enfants nés en 2013 sur la commune de Digne-les-Bains avec le nombre d'enfants par prénom et son pourcentage par rapport à l'ensemble des naissances de l'année. ]]></description>
      <author>Ville de Digne-les-Bains (certifié)</author>
   </item>
  </channel>
