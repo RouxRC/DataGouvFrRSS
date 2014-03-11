@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 11 Mar 2014 12:50:02 +0100</pubDate>
+  <pubDate>Tue, 11 Mar 2014 13:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Candidats dans les communes de moins de 1 000 habitants – Région Alsace</title>
+     <link>https://www.data.gouv.fr/fr/dataset/candidats-dans-les-communes-de-moins-de-1-000-habitants-region-alsace</link>
+     <description><![CDATA[Liste des candidats dans les communes de moins de 1 000 habitants dans la région Alsace ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Barometre Inria 2014 - Les Français et le numerique</title>
      <link>https://www.data.gouv.fr/fr/dataset/barometre-inria-2014-les-francais-et-le-numeriq-0</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/lignes-urbaines-interurbaines-et-scolaires-du-pays-d-aix-op</link>
      <description><![CDATA[Itinéraires urbains, interurbains et scolaires (y compris le réseau Aix en Bus) de transport de la Communauté du Pays d'Aix : itinéraire (aller/retour...), services (horaires), points d'arrêt avec les coordonnées géographiques en RGF93 et WGS84. Format Shape et export TRIDENT (XML norme NEPTUNE). Les données TRIDENT sont incluses dans le dossier zippé. ]]></description>
      <author>Communauté du Pays d'Aix (certifié)</author>
-  </item>
-  <item>
-     <title>Plan Local d'Urbanisme de Digne-les-Bains</title>
-     <link>https://www.data.gouv.fr/fr/dataset/plan-local-d-urbanisme-de-digne-les-bains-op</link>
-     <description><![CDATA[Cartographie des différentes zones du Plan Local d'Urbanisme de la ville de Digne-les-Bains. Numérisation effectuée à partir du cadastre numérisé. Echelle de référence : 1/1000ème. ]]></description>
-     <author>Ville de Digne-les-Bains (certifié)</author>
   </item>
  </channel>
 </rss>
