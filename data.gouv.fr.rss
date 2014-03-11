@@ -4,13 +4,13 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 11 Mar 2014 17:20:02 +0100</pubDate>
+  <pubDate>Tue, 11 Mar 2014 17:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
-     <title>Mortalité générale</title>
-     <link>https://www.data.gouv.fr/fr/dataset/mortalite-generale</link>
-     <description><![CDATA[Test ]]></description>
-     <author>citoyen</author>
+     <title>Elections municipales 2014 – Candidatures - Listes détaillées dans les communes de 1 000 habitants et plus</title>
+     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-candidatures-listes-detaillees-dans-les-communes-de-1-000-habitants-et-pl</link>
+     <description><![CDATA[Elections municipales 2014 – Candidatures - Liste détaillées dans les communes de 1 000 habitants et plus. Ces listes sont publiées sous réserve : . des recours de candidats formés devant le tribunal administratif . des refus de récépissés définitifs non encore délivrés . des erreurs de saisies éventuelles. ]]></description>
+     <author>Ministère de l'Intérieur (certifié)</author>
   </item>
   <item>
      <title>Elections municipales 2014 - Candidats dans les communes de moins de 1 000 habitants </title>
