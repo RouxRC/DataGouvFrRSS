@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 11 Mar 2014 17:50:02 +0100</pubDate>
+  <pubDate>Tue, 11 Mar 2014 18:10:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Commissaires aux comptes des entreprises relevant de l'APE</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commissaires-aux-comptes-des-entreprises-relevant-de-l-ape</link>
+     <description><![CDATA[Liste des commissaires aux comptes des entreprises relevant du périmètre de l'agence des participations de l'Etat (APE) et échéances de renouvellement ]]></description>
+     <author>Ministère du Redressement productif (certifié)</author>
+  </item>
+  <item>
+     <title>Comptes Combinés 2012</title>
+     <link>https://www.data.gouv.fr/fr/dataset/comptes-combines-2012</link>
+     <description><![CDATA[Présentation et analyse des comptes combinés des entitées contrôlées par l'Etat. ]]></description>
+     <author>Ministère de l’Economie et des Finances (certifié)</author>
+  </item>
   <item>
      <title>Elections municipales 2014 – Candidatures - Listes détaillées dans les communes de 1 000 habitants et plus</title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-candidatures-listes-detaillees-dans-les-communes-de-1-000-habitants-et-pl</link>
@@ -352,18 +364,6 @@
      <title>Stationnements réservés aux handicapés à Marseille</title>
      <link>https://www.data.gouv.fr/fr/dataset/stationnements-reserves-aux-handicapes-a-marseille-op</link>
      <description><![CDATA[Aires de stationnement réservées aux handicapés avec coordonnées et géolocalisation à Marseille. ]]></description>
-     <author>Ville de Marseille</author>
-  </item>
-  <item>
-     <title>Sondage 2010 sur l'impact de la crise économique sur les TPE/PME du bassin d'emploi de Carpentras</title>
-     <link>https://www.data.gouv.fr/fr/dataset/sondage-2010-sur-l-impact-de-la-crise-economique-sur-les-tpe-pme-du-bassin-d-emploi-de-carpentras-op</link>
-     <description><![CDATA[Sondage sur l'impact de la crise économique sur les TPE/PME du bassin d'emploi de Carpentras, réalisé en 2010. Sondage par e-mailing et publipostage. Représentativité assurée par la méthode des quotas. ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Arceaux de vélos à Marseille</title>
-     <link>https://www.data.gouv.fr/fr/dataset/arceaux-de-velos-a-marseille-op</link>
-     <description><![CDATA[Sites d'implantation des arceaux vélos à Marseille avec nombre de places disponibles, et des données de géolocalisation. ]]></description>
      <author>Ville de Marseille</author>
   </item>
  </channel>
