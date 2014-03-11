@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 11 Mar 2014 13:10:02 +0100</pubDate>
+  <pubDate>Tue, 11 Mar 2014 13:20:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Municipales 2014 - Candidats dans les communes de moins de 1 000 habitants – Région Aquitaine</title>
+     <link>https://www.data.gouv.fr/fr/dataset/municipales-2014-candidats-dans-les-communes-de-moins-de-1-000-habitants-region-aquitaine</link>
+     <description><![CDATA[Municipales 2014 - Liste des candidats dans les communes de moins de 1 000 habitants dans la région Aquitaine ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Candidats dans les communes de moins de 1 000 habitants – Région Alsace</title>
      <link>https://www.data.gouv.fr/fr/dataset/candidats-dans-les-communes-de-moins-de-1-000-habitants-region-alsace</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/bibliographie-des-editions-parisiennes-du-xvie-siecle</link>
      <description><![CDATA[La Bibliographie des éditions parisiennes du 16e siècle, rédigée d’après les manuscrits de Philippe Renouard (1862-1934) conservés à la Réserve des livres rares de la Bibliothèque nationale de France, fait l'objet d'une base en ligne. Ce site contient dans un premier temps les 10 000 notices des cinq volumes de l’Inventaire chronologique des éditions parisiennes du 16e siècle, imprimés entre...]]></description>
      <author>Bibliothèque nationale de France (certifié)</author>
-  </item>
-  <item>
-     <title>Lignes urbaines, interurbaines et scolaires du Pays d'Aix</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lignes-urbaines-interurbaines-et-scolaires-du-pays-d-aix-op</link>
-     <description><![CDATA[Itinéraires urbains, interurbains et scolaires (y compris le réseau Aix en Bus) de transport de la Communauté du Pays d'Aix : itinéraire (aller/retour...), services (horaires), points d'arrêt avec les coordonnées géographiques en RGF93 et WGS84. Format Shape et export TRIDENT (XML norme NEPTUNE). Les données TRIDENT sont incluses dans le dossier zippé. ]]></description>
-     <author>Communauté du Pays d'Aix (certifié)</author>
   </item>
  </channel>
 </rss>
