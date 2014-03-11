@@ -4,8 +4,26 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 11 Mar 2014 18:20:02 +0100</pubDate>
+  <pubDate>Tue, 11 Mar 2014 18:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Rémunération 2012 des présidents et directeurs généraux des entreprises cotées du périmètre de l'APE</title>
+     <link>https://www.data.gouv.fr/fr/dataset/remuneration-2012-des-presidents-et-directeurs-generaux-des-entreprises-cotees-du-perimetre-de-l-ape</link>
+     <description><![CDATA[Rémunération 2012 des présidents et directeurs généraux des entreprises cotées du périmètre de l'APE ]]></description>
+     <author>Ministère du Redressement productif (certifié)</author>
+  </item>
+  <item>
+     <title>Rémunération des dirigeants des entreprises publiques</title>
+     <link>https://www.data.gouv.fr/fr/dataset/remuneration-des-dirigeants-des-entreprises-publiques</link>
+     <description><![CDATA[Rémunération des dirigeants des entreprises publiques ]]></description>
+     <author>Ministère du Redressement productif (certifié)</author>
+  </item>
+  <item>
+     <title>Présidents des conseils d'administrations ou de surveillances des entreprises du périmètre de l'APE</title>
+     <link>https://www.data.gouv.fr/fr/dataset/presidents-des-conseils-d-administrations-ou-de-surveillances-des-entreprises-du-perimetre-de-l-ape</link>
+     <description><![CDATA[Présidents des conseils d'administrations ou de surveillances des entreprises du périmètre de l'APE ]]></description>
+     <author>Ministère du Redressement productif (certifié)</author>
+  </item>
   <item>
      <title>Effectifs par entreprise relevant de l'APE ventillés par secteurs d'activités (en ETP)</title>
      <link>https://www.data.gouv.fr/fr/dataset/effectifs-par-entreprise-relevant-de-l-ape-ventilles-par-secteurs-d-activites-en-etp</link>
@@ -346,24 +364,6 @@
      <title>Etude 2010 sur l'achat de fruits et légumes à Carpentras</title>
      <link>https://www.data.gouv.fr/fr/dataset/etude-2010-sur-l-achat-de-fruits-et-legumes-a-carpentras-op</link>
      <description><![CDATA[Etude de marché sur l'achat de paniers de fruits &amp; légumes en circuit court sur Carpentras, réalisée en 2010. Sondage par questionnaires auto-administrés et entretiens en face à face. ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Statistiques 2013 des rencontres sportives dans les gymnases de Marseille</title>
-     <link>https://www.data.gouv.fr/fr/dataset/statistiques-2013-des-rencontres-sportives-dans-les-gymnases-de-marseille-op</link>
-     <description><![CDATA[Statistiques des rencontres sportives par fédérations déclinées par gymnases de la ville de Marseille pour l'année 2013. ]]></description>
-     <author>Ville de Marseille</author>
-  </item>
-  <item>
-     <title>Sondage 2009 sur les pratiques touristiques autour du Ventoux</title>
-     <link>https://www.data.gouv.fr/fr/dataset/sondage-2009-sur-les-pratiques-touristiques-autour-du-ventoux-op</link>
-     <description><![CDATA[Etude sur les demandes et pratiques touristiques autour du Ventoux. Sondage par entretiens en face à face auprès de 1300 vacanciers ayant passé au moins 1 nuit sur le territoire entre avril et novembre 2009. Représentativité assurée par la méthode des quotas. ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Sondage 2011 sur l'impact de la crise économique sur les TPE/PME du bassin d'emploi de Carpentras</title>
-     <link>https://www.data.gouv.fr/fr/dataset/sondage-2011-sur-l-impact-de-la-crise-economique-sur-les-tpe-pme-du-bassin-d-emploi-de-carpentras-op</link>
-     <description><![CDATA[Sondage sur l'impact de la crise économique sur les TPE/PME du bassin d'emploi de Carpentras, réalisé en 2011. Sondage par e-mailing et publipostage. Représentativité assurée par la méthode des quotas. ]]></description>
      <author>citoyen</author>
   </item>
  </channel>
