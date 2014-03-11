@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 11 Mar 2014 18:30:02 +0100</pubDate>
+  <pubDate>Tue, 11 Mar 2014 18:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Rémunération 2012 des présidents et directeurs généraux des entreprises cotées du périmètre de l'APE</title>
@@ -46,7 +46,7 @@
      <title>Comptes Combinés 2012</title>
      <link>https://www.data.gouv.fr/fr/dataset/comptes-combines-2012</link>
      <description><![CDATA[Présentation et analyse des comptes combinés des entitées contrôlées par l'Etat. ]]></description>
-     <author>Ministère de l’Economie et des Finances (certifié)</author>
+     <author>Ministère du Redressement productif (certifié)</author>
   </item>
   <item>
      <title>Elections municipales 2014 – Candidatures - Listes détaillées dans les communes de 1 000 habitants et plus</title>
