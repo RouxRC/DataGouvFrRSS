@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 11 Mar 2014 14:50:02 +0100</pubDate>
+  <pubDate>Tue, 11 Mar 2014 17:10:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Mortalité générale</title>
+     <link>https://www.data.gouv.fr/fr/dataset/mortalite-generale</link>
+     <description><![CDATA[Test ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Elections municipales 2014 - Candidats dans les communes de moins de 1 000 habitants </title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-candidats-dans-les-communes-de-moins-de-1-000-habitants</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/consommation-d-eau-2013-par-compteur-a-digne-les-bains-op</link>
      <description><![CDATA[Relevé détaillé de la consommation d'eau par compteur et avec l'historique de chacun d'eux à Digne-les-Bains, au 5 février 2014. ]]></description>
      <author>Ville de Digne-les-Bains (certifié)</author>
-  </item>
-  <item>
-     <title>Stationnements réservés aux handicapés à Marseille</title>
-     <link>https://www.data.gouv.fr/fr/dataset/stationnements-reserves-aux-handicapes-a-marseille-op</link>
-     <description><![CDATA[Aires de stationnement réservées aux handicapés avec coordonnées et géolocalisation à Marseille. ]]></description>
-     <author>Ville de Marseille</author>
   </item>
  </channel>
 </rss>
