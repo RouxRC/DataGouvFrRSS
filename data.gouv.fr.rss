@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 11 Mar 2014 12:20:02 +0100</pubDate>
+  <pubDate>Tue, 11 Mar 2014 12:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Barometre Inria 2014 - Les Français et le numerique</title>
+     <link>https://www.data.gouv.fr/fr/dataset/barometre-inria-2014-les-francais-et-le-numeriq-0</link>
+     <description><![CDATA[Résultats de la 2ème édition du baromètre Inria TNS-Sofres sur les Français et le numérique. 1145 personnes de 14 ans et plus ont été interrogées en face à face, dans toute la France, entre les 28 novembre et 2 décembre 2013. Le Baromètre met en lumière les relations des Français au numérique, avec des focus spécifiques sur l'économie numérique et l'éducation numérique. Les résultats...]]></description>
+     <author>Inria</author>
+  </item>
   <item>
      <title>Enquête sur la structure de la forêt privée</title>
      <link>https://www.data.gouv.fr/fr/dataset/enquete-sur-la-structure-de-la-foret-privee</link>
@@ -358,12 +364,6 @@
      <title>Plan Local d'Urbanisme de Digne-les-Bains</title>
      <link>https://www.data.gouv.fr/fr/dataset/plan-local-d-urbanisme-de-digne-les-bains-op</link>
      <description><![CDATA[Cartographie des différentes zones du Plan Local d'Urbanisme de la ville de Digne-les-Bains. Numérisation effectuée à partir du cadastre numérisé. Echelle de référence : 1/1000ème. ]]></description>
-     <author>Ville de Digne-les-Bains (certifié)</author>
-  </item>
-  <item>
-     <title>Consommation d'eau 2012 par compteur à Digne-les-Bains</title>
-     <link>https://www.data.gouv.fr/fr/dataset/consommation-d-eau-2012-par-compteur-a-digne-les-bains-op</link>
-     <description><![CDATA[Relevé détaillé de la consommation d'eau 2012 par compteur et avec l'historique de chacun d'eux à Digne-les-Bains. ]]></description>
      <author>Ville de Digne-les-Bains (certifié)</author>
   </item>
  </channel>
