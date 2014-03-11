@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 11 Mar 2014 14:20:02 +0100</pubDate>
+  <pubDate>Tue, 11 Mar 2014 14:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Elections municipales 2014 - Candidats dans les communes de moins de 1 000 habitants </title>
+     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-candidats-dans-les-communes-de-moins-de-1-000-habitants</link>
+     <description><![CDATA[Elections municipales 2014 - Liste des candidats dans les communes de moins de 1 000 habitants Ces listes sont publiées sous réserve : . des recours de candidats formés devant le tribunal administratif . des refus de récépissés définitifs non encore délivrés . des erreurs de saisies éventuelles. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Cartes, cadastre, routes, forêts, relief et limites administratives</title>
+     <link>https://www.data.gouv.fr/fr/dataset/cartes-cadastre-routes-forets-relief-et-limites-administratives</link>
+     <description><![CDATA[Cartes, parcelles cadastrales, routes, cartes de Cassini, carte forestière, carte du relief, bâtiments et limites administratives (source IGN). ]]></description>
+     <author>Les Lilas (certifié)</author>
+  </item>
   <item>
      <title>Elections municipales 2014 - Candidats dans les communes de moins de 1 000 habitants – Région Auvergne</title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-candidats-dans-les-communes-de-moins-de-1-000-habitants-region-auvergne</link>
@@ -352,18 +364,6 @@
      <title>Stationnements réservés aux handicapés à Marseille</title>
      <link>https://www.data.gouv.fr/fr/dataset/stationnements-reserves-aux-handicapes-a-marseille-op</link>
      <description><![CDATA[Aires de stationnement réservées aux handicapés avec coordonnées et géolocalisation à Marseille. ]]></description>
-     <author>Ville de Marseille</author>
-  </item>
-  <item>
-     <title>Sondage 2010 sur l'impact de la crise économique sur les TPE/PME du bassin d'emploi de Carpentras</title>
-     <link>https://www.data.gouv.fr/fr/dataset/sondage-2010-sur-l-impact-de-la-crise-economique-sur-les-tpe-pme-du-bassin-d-emploi-de-carpentras-op</link>
-     <description><![CDATA[Sondage sur l'impact de la crise économique sur les TPE/PME du bassin d'emploi de Carpentras, réalisé en 2010. Sondage par e-mailing et publipostage. Représentativité assurée par la méthode des quotas. ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Arceaux de vélos à Marseille</title>
-     <link>https://www.data.gouv.fr/fr/dataset/arceaux-de-velos-a-marseille-op</link>
-     <description><![CDATA[Sites d'implantation des arceaux vélos à Marseille avec nombre de places disponibles, et des données de géolocalisation. ]]></description>
      <author>Ville de Marseille</author>
   </item>
  </channel>
