@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 11 Mar 2014 18:10:02 +0100</pubDate>
+  <pubDate>Tue, 11 Mar 2014 18:20:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Effectifs par entreprise relevant de l'APE ventillés par secteurs d'activités (en ETP)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/effectifs-par-entreprise-relevant-de-l-ape-ventilles-par-secteurs-d-activites-en-etp</link>
+     <description><![CDATA[Effectifs par entreprise relevant de l'APE ventillés par secteurs d'activités (en ETP) ]]></description>
+     <author>Ministère du Redressement productif (certifié)</author>
+  </item>
+  <item>
+     <title>Composition des conseils d'administration ou de surveillance des entreprises relevant de l'APE</title>
+     <link>https://www.data.gouv.fr/fr/dataset/composition-des-conseils-d-administration-ou-de-surveillance-des-entreprises-relevant-de-l-ape</link>
+     <description><![CDATA[Composition des conseils d'administration ou de surveillance des entreprises relevant de l'APE ]]></description>
+     <author>Ministère du Redressement productif (certifié)</author>
+  </item>
   <item>
      <title>Commissaires aux comptes des entreprises relevant de l'APE</title>
      <link>https://www.data.gouv.fr/fr/dataset/commissaires-aux-comptes-des-entreprises-relevant-de-l-ape</link>
@@ -353,18 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/sondage-2011-sur-l-impact-de-la-crise-economique-sur-les-tpe-pme-du-bassin-d-emploi-de-carpentras-op</link>
      <description><![CDATA[Sondage sur l'impact de la crise économique sur les TPE/PME du bassin d'emploi de Carpentras, réalisé en 2011. Sondage par e-mailing et publipostage. Représentativité assurée par la méthode des quotas. ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Consommation d'eau 2013 par compteur à Digne-les-Bains</title>
-     <link>https://www.data.gouv.fr/fr/dataset/consommation-d-eau-2013-par-compteur-a-digne-les-bains-op</link>
-     <description><![CDATA[Relevé détaillé de la consommation d'eau par compteur et avec l'historique de chacun d'eux à Digne-les-Bains, au 5 février 2014. ]]></description>
-     <author>Ville de Digne-les-Bains (certifié)</author>
-  </item>
-  <item>
-     <title>Stationnements réservés aux handicapés à Marseille</title>
-     <link>https://www.data.gouv.fr/fr/dataset/stationnements-reserves-aux-handicapes-a-marseille-op</link>
-     <description><![CDATA[Aires de stationnement réservées aux handicapés avec coordonnées et géolocalisation à Marseille. ]]></description>
-     <author>Ville de Marseille</author>
   </item>
  </channel>
 </rss>
