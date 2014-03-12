@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 12 Mar 2014 09:10:02 +0100</pubDate>
+  <pubDate>Wed, 12 Mar 2014 10:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Aide à la réindustrialisation</title>
+     <link>https://www.data.gouv.fr/fr/dataset/aide-a-la-reindustrialisation</link>
+     <description><![CDATA[Aide à la réindustrialisation : un point comptable sur cette action du financement des entreprises dans le cadre du Programme d'Investissements d'Avenir. ]]></description>
+     <author>Ministère du Redressement productif (certifié)</author>
+  </item>
   <item>
      <title>Synthèse des comptes 2012 des principales entreprises à participations publiques</title>
      <link>https://www.data.gouv.fr/fr/dataset/synthese-des-comptes-2012-des-principales-entreprises-a-participations-publiques</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/evenements-sportifs-2014-a-digne-les-bains-op</link>
      <description><![CDATA[Calendrier de tous les évènements sportifs de l'année 2014 à Digne-les-Bains classés par date, lieux, type d'évènement et nom de l'organisateur. ]]></description>
      <author>Ville de Digne-les-Bains (certifié)</author>
-  </item>
-  <item>
-     <title>Sondage 2010 sur l'impact du tourisme dans l'activité économique autour de Carpentras</title>
-     <link>https://www.data.gouv.fr/fr/dataset/sondage-2010-sur-l-impact-du-tourisme-dans-l-activite-economique-autour-de-carpentras-op</link>
-     <description><![CDATA[Sondage sur l'impact du tourisme dans l'activité économique du bassin d'emploi de Carpentras, réalisé en 2010. Sondage par entretiens téléphoniques. Représentativité assurée par la méthode des quotas. ]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
