@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 12 Mar 2014 10:30:02 +0100</pubDate>
+  <pubDate>Wed, 12 Mar 2014 15:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Carte ancienne de la minute &#34;Ouessant, Le Four, Les Pierres Noires&#34;</title>
+     <link>https://www.data.gouv.fr/fr/dataset/carte-ancienne-de-la-minute-ouessant-le-four-les-pierres-noires</link>
+     <description><![CDATA[Carte numérique "non géoréférencée" issue du scannage de la minute "Ouessant, Le Four, Les Pierres Noires" de Beautemps-Beaupré (Charles-François) en 1816, couvrant Balanec, Molène, Quéménes, Triéten, La Helle, Béniguet (échelle non précisée). Latitude sud : 48°20"N Latitude nord : 48°25"N Longitude ouest : 005°05"W Longitude est : 004°50"W ]]></description>
+     <author>SHOM (certifié)</author>
+  </item>
   <item>
      <title>Aide à la réindustrialisation</title>
      <link>https://www.data.gouv.fr/fr/dataset/aide-a-la-reindustrialisation</link>
@@ -141,7 +147,7 @@
   <item>
      <title>Jeu de données bathymétriques du sondeur multi-faisceaux EM 710 - Zone Iroise</title>
      <link>https://www.data.gouv.fr/fr/dataset/jeu-de-donnees-bathymetriques-du-sondeur-multi-faisceaux-em-710-zone-iroise</link>
-     <description><![CDATA[Le SHOM met a disposition les jeux de données bathymétriques suivants acquis au sondeur multi-faisceaux EM 710 : -Epave du Drummond Castle ( (VH Guillemot) par 55 m de fond -Fosse d'Ouessant et épave du sous-marin U-821 (VH Cormoran) par 100 m de fond ]]></description>
+     <description><![CDATA[Le SHOM met a disposition les jeux de données bathymétriques suivants acquis au sondeur multi-faisceaux EM 710 : -Epave du Drummond Castle investiguée avec le BH2 La Pérouse par 55 m de fond -Fosse d'Ouessant et épave du sous-marin U-821 investiguées avec le BH2 Borda par 100 m de fond ]]></description>
      <author>SHOM (certifié)</author>
   </item>
   <item>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/monuments-historiques-de-marseille-op</link>
      <description><![CDATA[Monuments historiques situés sur le territoire de Marseille, avec adresse, numéro de base Mérimée (base de données du Ministère de la Culture recensant les monuments historiques de toute la France), et numéro de correspondance avec le plan associé (monuments aquarellés). ]]></description>
      <author>Ville de Marseille</author>
-  </item>
-  <item>
-     <title>Evénements sportifs 2014 à Digne-les-Bains</title>
-     <link>https://www.data.gouv.fr/fr/dataset/evenements-sportifs-2014-a-digne-les-bains-op</link>
-     <description><![CDATA[Calendrier de tous les évènements sportifs de l'année 2014 à Digne-les-Bains classés par date, lieux, type d'évènement et nom de l'organisateur. ]]></description>
-     <author>Ville de Digne-les-Bains (certifié)</author>
   </item>
  </channel>
 </rss>
