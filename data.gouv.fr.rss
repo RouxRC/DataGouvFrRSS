@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 13 Mar 2014 10:30:03 +0100</pubDate>
+  <pubDate>Thu, 13 Mar 2014 16:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Liste des consignes automatiques Cityssimo</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-consignes-automatiques-cityssimo</link>
+     <description><![CDATA[Cityssimo est un service de retrait de colis accessible via les sites internet proposant une livraison en So Colissimo ou via un abonnement gratuit et sans engagement. Ce service vous permet de réceptionner vos colis dans un des 35 consignes automatiques Cityssimo et de les retirer quand vous voulez 7 jours sur 7 et 24 heures sur 24. http://www.cityssimo.fr/ ]]></description>
+     <author>La Poste (certifié)</author>
+  </item>
   <item>
      <title>La Base Économique des Entreprises Régionales</title>
      <link>https://www.data.gouv.fr/fr/dataset/la-base-economique-des-entreprises-regionales</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/plantes-d-afrique-du-sud-du-jardin-botanique-du-parc-borely-de-marseille-op</link>
      <description><![CDATA[Plantes d'Afrique du sud, du jardin botanique du parc Borély de la ville de Marseille par genre, espèce, auteur, famille, et origine. ]]></description>
      <author>Ville de Marseille</author>
-  </item>
-  <item>
-     <title>Fôrets publiques de Provence-Alpes-Côte d'Azur</title>
-     <link>https://www.data.gouv.fr/fr/dataset/forets-publiques-de-provence-alpes-cote-d-azur-op</link>
-     <description><![CDATA[Contours des forêts publiques de Provence-Alpes-Côte d'Azur relevant du régime forestier : terrains domaniaux et communaux, y compris les terrains qui ne sont pas en nature de forêt. Ces contours ne doivent pas être considérés comme un référentiel mais uniquement à titre informatif. ]]></description>
-     <author>Office National des Forêts (certifié)</author>
   </item>
  </channel>
 </rss>
