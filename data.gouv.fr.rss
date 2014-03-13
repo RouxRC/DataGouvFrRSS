@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 12 Mar 2014 15:00:02 +0100</pubDate>
+  <pubDate>Thu, 13 Mar 2014 10:10:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>La Base Économique des Entreprises Régionales</title>
+     <link>https://www.data.gouv.fr/fr/dataset/la-base-economique-des-entreprises-regionales</link>
+     <description><![CDATA[Cette base présente, pour chaque région, les principaux résultats des entreprises quasi monorégionales, c’est-à-dire ayant une présence régionale forte : au moins 75% de leurs effectifs salariés sont localisés dans une même région. Ces indicateurs sont déclinés par secteur d’activité. ]]></description>
+     <author>Ministère du Redressement productif (certifié)</author>
+  </item>
   <item>
      <title>Carte ancienne de la minute &#34;Ouessant, Le Four, Les Pierres Noires&#34;</title>
      <link>https://www.data.gouv.fr/fr/dataset/carte-ancienne-de-la-minute-ouessant-le-four-les-pierres-noires</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/forets-publiques-de-provence-alpes-cote-d-azur-op</link>
      <description><![CDATA[Contours des forêts publiques de Provence-Alpes-Côte d'Azur relevant du régime forestier : terrains domaniaux et communaux, y compris les terrains qui ne sont pas en nature de forêt. Ces contours ne doivent pas être considérés comme un référentiel mais uniquement à titre informatif. ]]></description>
      <author>Office National des Forêts (certifié)</author>
-  </item>
-  <item>
-     <title>Monuments historiques de Marseille</title>
-     <link>https://www.data.gouv.fr/fr/dataset/monuments-historiques-de-marseille-op</link>
-     <description><![CDATA[Monuments historiques situés sur le territoire de Marseille, avec adresse, numéro de base Mérimée (base de données du Ministère de la Culture recensant les monuments historiques de toute la France), et numéro de correspondance avec le plan associé (monuments aquarellés). ]]></description>
-     <author>Ville de Marseille</author>
   </item>
  </channel>
 </rss>
