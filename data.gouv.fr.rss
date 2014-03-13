@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 13 Mar 2014 16:50:02 +0100</pubDate>
+  <pubDate>Thu, 13 Mar 2014 17:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Recueil des études scientifiques sur la cigarette électronique</title>
+     <link>https://www.data.gouv.fr/fr/dataset/recueil-des-etudes-scientifiques-sur-la-cigarette-electronique</link>
+     <description><![CDATA[Ce recueil liste l'ensemble des études scientifiques ayant un lien avec la cigarette électronique. Il a vocation à être actualisé régulièrement à partir d'une veille sur les principaux sites de recensement d'études. Il s'appuie fortement sur la bibliographie de la méta-étude sur la ecigarette de Farsalinos et Polosa. Des entrées peuvent également être suggérées en fonction des études en cours...]]></description>
+     <author>Veille sur la cigarette électronique - Absolut Vapor</author>
+  </item>
   <item>
      <title>Liste des consignes automatiques Cityssimo</title>
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-consignes-automatiques-cityssimo</link>
@@ -358,12 +364,6 @@
      <title>Plants de roses du jardin botanique du parc Borély de Marseille</title>
      <link>https://www.data.gouv.fr/fr/dataset/plants-de-roses-du-jardin-botanique-du-parc-borely-de-marseille-op</link>
      <description><![CDATA[Plants de roses du jardin botanique du parc Borély de la ville de Marseille par ordre alphabétique du nom du plant, par type de plants. ]]></description>
-     <author>Ville de Marseille</author>
-  </item>
-  <item>
-     <title>Plantes d'Afrique du sud, du jardin botanique du parc Borély de Marseille</title>
-     <link>https://www.data.gouv.fr/fr/dataset/plantes-d-afrique-du-sud-du-jardin-botanique-du-parc-borely-de-marseille-op</link>
-     <description><![CDATA[Plantes d'Afrique du sud, du jardin botanique du parc Borély de la ville de Marseille par genre, espèce, auteur, famille, et origine. ]]></description>
      <author>Ville de Marseille</author>
   </item>
  </channel>
