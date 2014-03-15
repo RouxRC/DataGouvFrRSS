@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 16 Mar 2014 00:30:02 +0100</pubDate>
+  <pubDate>Sun, 16 Mar 2014 00:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Régularité TGV à l'arrivée</title>
+     <link>https://www.data.gouv.fr/fr/dataset/regularite-tgv-a-l-arrivee</link>
+     <description><![CDATA[Régularité des TGV à l'arrivé. Vous avez des questions ou des remarques sur ces données ? Rendez-vous sur le forum SNCF Open Data. ]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Les Francais et la cigarette électronique</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-francais-et-la-cigarette-electronique</link>
+     <description><![CDATA[La cigarette électronique fait une entrée remarquée et puissante en France depuis 2012. Les dernières enquêtes montrent qu'il y a deux millions de vapoteurs sur le territoire national. Devant un tel phénomène les autorités Françaises et européennes légifèrent pour encadrer la vente et l'utilisation de l'e-cigarette et des e-liquides. Il y a peu de chiffres actuellement disponibles, c'est...]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Recueil des études scientifiques sur la cigarette électronique</title>
      <link>https://www.data.gouv.fr/fr/dataset/recueil-des-etudes-scientifiques-sur-la-cigarette-electronique</link>
@@ -353,18 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-observatoire-socio-economique-du-ventoux-op</link>
      <description><![CDATA[Les jeux de données publiés par Observatoire socio-économique du Ventoux, collectés par data.gouv.fr sur la plateforme Open PACA ]]></description>
      <author>Open PACA (certifié)</author>
-  </item>
-  <item>
-     <title>Statistiques d'état civil 2013 à Digne-les-Bains</title>
-     <link>https://www.data.gouv.fr/fr/dataset/statistiques-d-etat-civil-2013-a-digne-les-bains-op</link>
-     <description><![CDATA[Nombre d'actes d'état civil effectués en 2013 par la mairie de Digne-les-Bains et répartis par type d'acte : naissance, reconnaissance, mariages, décès. ]]></description>
-     <author>Ville de Digne-les-Bains (certifié)</author>
-  </item>
-  <item>
-     <title>Plants de roses du jardin botanique du parc Borély de Marseille</title>
-     <link>https://www.data.gouv.fr/fr/dataset/plants-de-roses-du-jardin-botanique-du-parc-borely-de-marseille-op</link>
-     <description><![CDATA[Plants de roses du jardin botanique du parc Borély de la ville de Marseille par ordre alphabétique du nom du plant, par type de plants. ]]></description>
-     <author>Ville de Marseille</author>
   </item>
  </channel>
 </rss>
