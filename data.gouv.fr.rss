@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 16 Mar 2014 00:50:02 +0100</pubDate>
+  <pubDate>Tue, 18 Mar 2014 16:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Cartographie OpenStreetMap des gares SNCF Transilien</title>
+     <link>https://www.data.gouv.fr/fr/dataset/cartographie-openstreetmap-des-gares-sncf-transilien</link>
+     <description><![CDATA[Equipements des gares cartographiés par OpenStreetMap sur le réseau SNCF Transilien en Ile-de-France. Vous avez des questions ou des remarques sur ces données ? Rendez-vous sur le forum SNCF Open Data. ]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
   <item>
      <title>Régularité TGV à l'arrivée</title>
      <link>https://www.data.gouv.fr/fr/dataset/regularite-tgv-a-l-arrivee</link>
@@ -358,12 +364,6 @@
      <title>Jeux de données - Club de la Croisière Marseille Provence</title>
      <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-club-de-la-croisiere-marseille-provence-op</link>
      <description><![CDATA[Les jeux de données publiés par Club de la Croisière Marseille Provence, collectés par data.gouv.fr sur la plateforme Open PACA ]]></description>
-     <author>Open PACA (certifié)</author>
-  </item>
-  <item>
-     <title>Jeux de données - Observatoire socio-économique du Ventoux</title>
-     <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-observatoire-socio-economique-du-ventoux-op</link>
-     <description><![CDATA[Les jeux de données publiés par Observatoire socio-économique du Ventoux, collectés par data.gouv.fr sur la plateforme Open PACA ]]></description>
      <author>Open PACA (certifié)</author>
   </item>
  </channel>
