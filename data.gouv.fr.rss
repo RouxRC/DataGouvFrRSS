@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 18 Mar 2014 18:40:02 +0100</pubDate>
+  <pubDate>Tue, 18 Mar 2014 19:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Commission pour l'indemnisation des victimes de spoliations (CIVS) - Statistiques pour le mois de février 2014</title>
@@ -27,7 +27,7 @@
   <item>
      <title>Régularité TGV à l'arrivée</title>
      <link>https://www.data.gouv.fr/fr/dataset/regularite-tgv-a-l-arrivee</link>
-     <description><![CDATA[Régularité des TGV à l'arrivé. Vous avez des questions ou des remarques sur ces données ? Rendez-vous sur le forum SNCF Open Data. ]]></description>
+     <description><![CDATA[Régularité des TGV à l'arrivée. Vous avez des questions ou des remarques sur ces données ? Rendez-vous sur le forum SNCF Open Data. ]]></description>
      <author>SNCF (certifié)</author>
   </item>
   <item>
