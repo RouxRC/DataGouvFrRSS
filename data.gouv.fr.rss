@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 18 Mar 2014 16:30:02 +0100</pubDate>
+  <pubDate>Tue, 18 Mar 2014 16:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Modèle numérique de terrain (terrestre)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/modele-numerique-de-terrain-terrestre</link>
+     <description><![CDATA[Fichier ASCII (x,y,z) Le Z correspond à la hauteur terrain sans les ouvrages d'art Les valeurs sont exprimées en mètres Lambert 93 / IGN69 Issu d'une prise de vue aérienne par caméra numérique : Vexcel Ultracam Xp® avec GPS et INS Date : Juil-août 2012 Pas : 5m Classe de précision altimétrique : 2m, pouvant aller jusqu’à 3 à 4m EQM pour les zones rurales couvertes. Classe...]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Cartographie OpenStreetMap des gares SNCF Transilien</title>
      <link>https://www.data.gouv.fr/fr/dataset/cartographie-openstreetmap-des-gares-sncf-transilien</link>
@@ -358,12 +364,6 @@
      <title>Jeux de données - Office National des Forêts</title>
      <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-office-national-des-forets-op</link>
      <description><![CDATA[Les jeux de données publiés par Office National des Forêts, collectés par data.gouv.fr sur la plateforme Open PACA ]]></description>
-     <author>Open PACA (certifié)</author>
-  </item>
-  <item>
-     <title>Jeux de données - Club de la Croisière Marseille Provence</title>
-     <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-club-de-la-croisiere-marseille-provence-op</link>
-     <description><![CDATA[Les jeux de données publiés par Club de la Croisière Marseille Provence, collectés par data.gouv.fr sur la plateforme Open PACA ]]></description>
      <author>Open PACA (certifié)</author>
   </item>
  </channel>
