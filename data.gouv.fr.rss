@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 18 Mar 2014 16:50:02 +0100</pubDate>
+  <pubDate>Tue, 18 Mar 2014 18:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Commission pour l'indemnisation des victimes de spoliations (CIVS) - Statistiques pour le mois de février 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commission-pour-l-indemnisation-des-victimes-de-spoliations-civs-statistiques-pour-le-mois-de-fevrie</link>
+     <description><![CDATA[Les statistiques mensuelles de la CIVS proposent, en plus d'éléments relatifs à l'activité de chaque service, les données suivantes : - nombre de dossiers enregistrés ; - nombre de dossiers traités ; - montant des indemnisations. ]]></description>
+     <author>Premier ministre (certifié)</author>
+  </item>
   <item>
      <title>Modèle numérique de terrain (terrestre)</title>
      <link>https://www.data.gouv.fr/fr/dataset/modele-numerique-de-terrain-terrestre</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/mortalite-due-aux-accidents-de-la-route</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Inserm CépiDC ]]></description>
      <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
-  </item>
-  <item>
-     <title>Jeux de données - Office National des Forêts</title>
-     <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-office-national-des-forets-op</link>
-     <description><![CDATA[Les jeux de données publiés par Office National des Forêts, collectés par data.gouv.fr sur la plateforme Open PACA ]]></description>
-     <author>Open PACA (certifié)</author>
   </item>
  </channel>
 </rss>
