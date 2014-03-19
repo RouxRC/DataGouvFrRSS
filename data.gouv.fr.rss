@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 19 Mar 2014 11:40:02 +0100</pubDate>
+  <pubDate>Wed, 19 Mar 2014 12:10:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Nuancier politique du Ministère de l'Intérieur</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nuancier-politique-du-ministere-de-l-interieur</link>
+     <description><![CDATA[Les nuances politiques du répertoire national des élus et leurs définitions (sources : Libération et Ministère de l'Intérieur 03/2014). ]]></description>
+     <author>IdeesLibres.org</author>
+  </item>
   <item>
      <title>Unlimited Cities - Rennes Gare Sud --</title>
      <link>https://www.data.gouv.fr/fr/dataset/unlimited-cities-rennes-gare-sud</link>
@@ -358,12 +364,6 @@
      <title>Programme d'aide à la publication de l'Institut Français</title>
      <link>https://www.data.gouv.fr/fr/dataset/programme-d-aide-a-la-publication-de-l-institut-francais-nd</link>
      <description><![CDATA[Le programme d’aide à la publication de l'Institut Français vise à faciliter l’accès des publics non francophones aux ouvrages d’expression originale venus de France (auteurs du XXe siècle à nos jours). Ce programme apporte aux éditeurs sélectionnés une aide pour la prise en charge des frais de traduction du français vers l’anglais pour des titres non diffusés au Canada, jusqu’à 30 % des coûts...]]></description>
-     <author>NosDonnées.fr</author>
-  </item>
-  <item>
-     <title>Localisation des instituts français dans le monde</title>
-     <link>https://www.data.gouv.fr/fr/dataset/localisation-des-instituts-francais-dans-le-monde-nd</link>
-     <description><![CDATA[]]></description>
      <author>NosDonnées.fr</author>
   </item>
  </channel>
