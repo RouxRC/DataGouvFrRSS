@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 18 Mar 2014 19:30:02 +0100</pubDate>
+  <pubDate>Wed, 19 Mar 2014 11:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Unlimited Cities - Rennes Gare Sud --</title>
+     <link>https://www.data.gouv.fr/fr/dataset/unlimited-cities-rennes-gare-sud</link>
+     <description><![CDATA[Les données en Open Data de - Unlimited Cities / Rennes Gare Sud - contiennent les résultats issus des choix émis par les participants lors de l'expérimentation et de la manipulation de l'application Unlimited Cities sur le site de Rennes Gare Sud. Elles contiennent: - le nombre de mix validés - le point de vue choisi par l'utilisateur - La date de validation du mix - Le...]]></description>
+     <author>UFO Urbanisme Collaboratif</author>
+  </item>
+  <item>
+     <title>Modèle numérique de terrain (terrestre)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/modele-numerique-de-terrain-terrest-0</link>
+     <description><![CDATA[Fichier ASCII (x,y,z) Le Z correspond à la hauteur terrain sans les ouvrages d'art Les valeurs sont exprimées en mètres Lambert 93 / IGN69 Issu d'une prise de vue aérienne par caméra numérique : Vexcel Ultracam Xp® avec GPS et INS Date : Juil-août 2012 Pas : 5m Classe de précision altimétrique : 2m, pouvant aller jusqu’à 3 à 4m EQM pour les zones rurales couvertes. Classe...]]></description>
+     <author>Brest métropole océane</author>
+  </item>
   <item>
      <title>Commission pour l'indemnisation des victimes de spoliations (CIVS) - Statistiques pour le mois de février 2014</title>
      <link>https://www.data.gouv.fr/fr/dataset/commission-pour-l-indemnisation-des-victimes-de-spoliations-civs-statistiques-pour-le-mois-de-fevrie</link>
@@ -353,18 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/localisation-des-instituts-francais-dans-le-monde-nd</link>
      <description><![CDATA[]]></description>
      <author>NosDonnées.fr</author>
-  </item>
-  <item>
-     <title>Données comptables et fiscales des collectivités locales</title>
-     <link>https://www.data.gouv.fr/fr/dataset/donnees-comptables-et-fiscales-des-collectivites-locales-nd</link>
-     <description><![CDATA[Données comptables détaillées et données de fiscalité directe locale des collectivités et établissements publics locaux publiées sur http://www.collectivites-locales.gouv.fr À titre d'exemple une douzaine d'indicateurs tirés de ces données pour les 36000 communes sont cartographies sur http://www.NosFinancesLocales.fr Méthodologies:...]]></description>
-     <author>NosDonnées.fr</author>
-  </item>
-  <item>
-     <title>Mortalité due aux accidents de la route</title>
-     <link>https://www.data.gouv.fr/fr/dataset/mortalite-due-aux-accidents-de-la-route</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Inserm CépiDC ]]></description>
-     <author>Institut de Recherche et Documentation en Economie de la Santé (IRDES) (certifié)</author>
   </item>
  </channel>
 </rss>
