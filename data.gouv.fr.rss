@@ -4,12 +4,12 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 19 Mar 2014 11:30:02 +0100</pubDate>
+  <pubDate>Wed, 19 Mar 2014 11:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Unlimited Cities - Rennes Gare Sud --</title>
      <link>https://www.data.gouv.fr/fr/dataset/unlimited-cities-rennes-gare-sud</link>
-     <description><![CDATA[Les données en Open Data de - Unlimited Cities / Rennes Gare Sud - contiennent les résultats issus des choix émis par les participants lors de l'expérimentation et de la manipulation de l'application Unlimited Cities sur le site de Rennes Gare Sud. Elles contiennent: - le nombre de mix validés - le point de vue choisi par l'utilisateur - La date de validation du mix - Le...]]></description>
+     <description><![CDATA[ Les données en Open Data de - Unlimited Cities / Rennes Gare Sud - contiennent les résultats issus des choix émis par les participants lors de l'expérimentation et de la manipulation de l'application Unlimited Cities sur le site de Rennes Gare Sud. Elles contiennent: - le nombre de mix validés - le point de vue choisi par l'utilisateur - La date de validation du mix - Le...]]></description>
      <author>UFO Urbanisme Collaboratif</author>
   </item>
   <item>
