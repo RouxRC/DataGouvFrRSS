@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 19 Mar 2014 12:10:02 +0100</pubDate>
+  <pubDate>Thu, 20 Mar 2014 08:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Nuancier politique du Ministère de l'Intérieur</title>
@@ -17,6 +17,12 @@
      <link>https://www.data.gouv.fr/fr/dataset/unlimited-cities-rennes-gare-sud</link>
      <description><![CDATA[ Les données en Open Data de - Unlimited Cities / Rennes Gare Sud - contiennent les résultats issus des choix émis par les participants lors de l'expérimentation et de la manipulation de l'application Unlimited Cities sur le site de Rennes Gare Sud. Elles contiennent: - le nombre de mix validés - le point de vue choisi par l'utilisateur - La date de validation du mix - Le...]]></description>
      <author>UFO Urbanisme Collaboratif</author>
+  </item>
+  <item>
+     <title>Photo aérienne verticale</title>
+     <link>https://www.data.gouv.fr/fr/dataset/photo-aerienne-vertica-0</link>
+     <description><![CDATA[Dalles JPEG géoréférencées en Lambert 93 Prise de vue aérienne par caméra numérique : Vexcel Ultracam Xp® avec GPS et INS Date : Juil-août 2012 Résolution : 20 cm Classe de précision planimétrique : 40 cm. ]]></description>
+     <author>Brest métropole océane</author>
   </item>
   <item>
      <title>Modèle numérique de terrain (terrestre)</title>
@@ -358,12 +364,6 @@
      <title>Lieux et dates des expositions itinérantes organisées par l'Institut Français</title>
      <link>https://www.data.gouv.fr/fr/dataset/lieux-et-dates-des-expositions-itinerantes-organisees-par-l-institut-francais-nd</link>
      <description><![CDATA[]]></description>
-     <author>NosDonnées.fr</author>
-  </item>
-  <item>
-     <title>Programme d'aide à la publication de l'Institut Français</title>
-     <link>https://www.data.gouv.fr/fr/dataset/programme-d-aide-a-la-publication-de-l-institut-francais-nd</link>
-     <description><![CDATA[Le programme d’aide à la publication de l'Institut Français vise à faciliter l’accès des publics non francophones aux ouvrages d’expression originale venus de France (auteurs du XXe siècle à nos jours). Ce programme apporte aux éditeurs sélectionnés une aide pour la prise en charge des frais de traduction du français vers l’anglais pour des titres non diffusés au Canada, jusqu’à 30 % des coûts...]]></description>
      <author>NosDonnées.fr</author>
   </item>
  </channel>
