@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 20 Mar 2014 16:50:02 +0100</pubDate>
+  <pubDate>Thu, 20 Mar 2014 17:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Nuancier politique du Ministère de l'Intérieur</title>
@@ -53,18 +53,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/regularite-tgv-a-l-arrivee</link>
      <description><![CDATA[Régularité des TGV à l'arrivée. Vous avez des questions ou des remarques sur ces données ? Rendez-vous sur le forum SNCF Open Data. ]]></description>
      <author>SNCF (certifié)</author>
-  </item>
-  <item>
-     <title>Les Francais et la cigarette électronique</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-francais-et-la-cigarette-electronique</link>
-     <description><![CDATA[La cigarette électronique fait une entrée remarquée et puissante en France depuis 2012. Les dernières enquêtes montrent qu'il y a deux millions de vapoteurs sur le territoire national. Devant un tel phénomène les autorités Françaises et européennes légifèrent pour encadrer la vente et l'utilisation de l'e-cigarette et des e-liquides. Il y a peu de chiffres actuellement disponibles, c'est...]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Recueil des études scientifiques sur la cigarette électronique</title>
-     <link>https://www.data.gouv.fr/fr/dataset/recueil-des-etudes-scientifiques-sur-la-cigarette-electronique</link>
-     <description><![CDATA[Ce recueil liste l'ensemble des études scientifiques ayant un lien avec la cigarette électronique. Il a vocation à être actualisé régulièrement à partir d'une veille sur les principaux sites de recensement d'études. Il s'appuie fortement sur la bibliographie de la [méta-étude sur la ecigarette de Farsalinos et Polosa]. Des entrées peuvent également être suggérées en fonction des études en cours...]]></description>
-     <author>Veille sur la cigarette électronique - Absolut Vapor</author>
   </item>
   <item>
      <title>Liste des consignes automatiques Cityssimo</title>
@@ -363,6 +351,18 @@
   <item>
      <title>Lieux et dates des expositions itinérantes organisées par l'Institut Français</title>
      <link>https://www.data.gouv.fr/fr/dataset/lieux-et-dates-des-expositions-itinerantes-organisees-par-l-institut-francais-nd</link>
+     <description><![CDATA[]]></description>
+     <author>NosDonnées.fr</author>
+  </item>
+  <item>
+     <title>Programme d'aide à la publication de l'Institut Français</title>
+     <link>https://www.data.gouv.fr/fr/dataset/programme-d-aide-a-la-publication-de-l-institut-francais-nd</link>
+     <description><![CDATA[Le programme d’aide à la publication de l'Institut Français vise à faciliter l’accès des publics non francophones aux ouvrages d’expression originale venus de France (auteurs du XXe siècle à nos jours). Ce programme apporte aux éditeurs sélectionnés une aide pour la prise en charge des frais de traduction du français vers l’anglais pour des titres non diffusés au Canada, jusqu’à 30 % des coûts...]]></description>
+     <author>NosDonnées.fr</author>
+  </item>
+  <item>
+     <title>Localisation des instituts français dans le monde</title>
+     <link>https://www.data.gouv.fr/fr/dataset/localisation-des-instituts-francais-dans-le-monde-nd</link>
      <description><![CDATA[]]></description>
      <author>NosDonnées.fr</author>
   </item>
