@@ -4,8 +4,50 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 20 Mar 2014 17:20:02 +0100</pubDate>
+  <pubDate>Thu, 20 Mar 2014 17:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Municipales 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/municipales-2014-nd</link>
+     <description><![CDATA[Données non publiées sur data.gouv.fr relatives aux municipales 2014 ]]></description>
+     <author>NosDonnées.fr</author>
+  </item>
+  <item>
+     <title>winter_olympics_medals</title>
+     <link>https://www.data.gouv.fr/fr/dataset/winter-olympics-medals-nd</link>
+     <description><![CDATA[Ensemble des médailles aux jeux olympiques d'hiver entre 1924 et 2010. Les données ont été extraites du site du comité international olympique en février 2014 (lien). ]]></description>
+     <author>NosDonnées.fr</author>
+  </item>
+  <item>
+     <title>Subventions de la région ile de france aux associations</title>
+     <link>https://www.data.gouv.fr/fr/dataset/subventions-de-la-region-ile-de-france-aux-associations-nd</link>
+     <description><![CDATA[]]></description>
+     <author>NosDonnées.fr</author>
+  </item>
+  <item>
+     <title>Arrondissements de Marseille</title>
+     <link>https://www.data.gouv.fr/fr/dataset/arrondissements-de-marseille-nd</link>
+     <description><![CDATA[Contours des arrondissements de Marseille. ]]></description>
+     <author>NosDonnées.fr</author>
+  </item>
+  <item>
+     <title>recapitulatif depenses personnel 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/recapitulatif-depenses-personnel-2013-nd</link>
+     <description><![CDATA[]]></description>
+     <author>NosDonnées.fr</author>
+  </item>
+  <item>
+     <title>Contours des nouveaux cantons des Bouches-du-Rhône</title>
+     <link>https://www.data.gouv.fr/fr/dataset/contours-des-nouveaux-cantons-des-bouches-du-rhone-nd</link>
+     <description><![CDATA[Contours des cantons des Bouches-du-Rhône proposés dans le cadre de la réforme du scrutin. De 57, le département passe à 29 cantons, dont 12 à Marseille. Dans cette ville, ainsi qu'à Aix-en-Provence et Salon-de-Provence, le découpage se fait sur la base des IRIS. Le zip contient des fichiers shapefile, ordonnés par numéros de cantons. Dans les Bouches-du-Rhône, un nom est déjà défini,...]]></description>
+     <author>NosDonnées.fr</author>
+  </item>
+  <item>
+     <title>Unlimited Cities - Evreux Saint-Louis --</title>
+     <link>https://www.data.gouv.fr/fr/dataset/unlimited-cities-evreux-saint-louis</link>
+     <description><![CDATA[ Les données en Open Data de - Unlimited Cities / Evreux Saint-Louis - contiennent les résultats issus des choix émis par les participants lors de l'expérimentation et de la manipulation de l'application Unlimited Cities sur le site d'Evreux Saint-Louis. Elles contiennent: - le nombre de mix validés - le point de vue choisi par l'utilisateur - La date de validation du mix - Le...]]></description>
+     <author>UFO Urbanisme Collaboratif</author>
+  </item>
   <item>
      <title>Nuancier politique du Ministère de l'Intérieur</title>
      <link>https://www.data.gouv.fr/fr/dataset/nuancier-politique-du-ministere-de-l-interieur</link>
@@ -322,48 +364,6 @@
      <title>Élections municipales de 2008 : résultats et candidats</title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-de-2008-resultats-et-candidats-nd</link>
      <description><![CDATA[Données des élections municipales sur les candidats et les résultats bureaux de vote par bureaux de vote pour les deux tours pour le communes de plus de 1000 habitants. ]]></description>
-     <author>NosDonnées.fr</author>
-  </item>
-  <item>
-     <title>Dotation aux instituts français</title>
-     <link>https://www.data.gouv.fr/fr/dataset/dotation-aux-instituts-francais-nd</link>
-     <description><![CDATA[Données relatives aux finances attribuées aux instituts français présents à travers le monde ]]></description>
-     <author>NosDonnées.fr</author>
-  </item>
-  <item>
-     <title>Open Gov Tech Org Funding</title>
-     <link>https://www.data.gouv.fr/fr/dataset/open-gov-tech-org-funding-nd</link>
-     <description><![CDATA[Fonds reçus par les organisations Open Gov. Fichier préparé pour OpenSpending. Source : Trends in Civic Tech - Knight Foundation http://www.knightfoundation.org/features/civictech/ Licence : CC BY-NC-SA 3.0 ]]></description>
-     <author>NosDonnées.fr</author>
-  </item>
-  <item>
-     <title>World Development Indicators: The information society</title>
-     <link>https://www.data.gouv.fr/fr/dataset/world-development-indicators-the-information-society-nd</link>
-     <description><![CDATA[World Development Indicators on information society published in 2013. Source: The World Bank Dataset Name: World Development Indicators: information society Data source: International Telecommunication Union, World Telecommunication/ICT Development Report and database, and World Bank estimates). Dataset url: http://wdi.worldbank.org/table/5.12# ]]></description>
-     <author>NosDonnées.fr</author>
-  </item>
-  <item>
-     <title>Réserve parlementaire 2013 de l'Assemblée nationale</title>
-     <link>https://www.data.gouv.fr/fr/dataset/reserve-parlementaire-2013-de-l-assemblee-nationale-nd</link>
-     <description><![CDATA[Pour la première fois en 2014, l'Assemblée nationale publie e ligne l'intégralité des subeventions accordées aux collectivités et associations dans le cadre de la réserve parlementaire de 2013. Les tableaux html scrapés et complétés des informations tirées de NosDéputés sont rendus accessibles en CSV et mis à jour régulièrement. ]]></description>
-     <author>NosDonnées.fr</author>
-  </item>
-  <item>
-     <title>Lieux et dates des expositions itinérantes organisées par l'Institut Français</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lieux-et-dates-des-expositions-itinerantes-organisees-par-l-institut-francais-nd</link>
-     <description><![CDATA[]]></description>
-     <author>NosDonnées.fr</author>
-  </item>
-  <item>
-     <title>Programme d'aide à la publication de l'Institut Français</title>
-     <link>https://www.data.gouv.fr/fr/dataset/programme-d-aide-a-la-publication-de-l-institut-francais-nd</link>
-     <description><![CDATA[Le programme d’aide à la publication de l'Institut Français vise à faciliter l’accès des publics non francophones aux ouvrages d’expression originale venus de France (auteurs du XXe siècle à nos jours). Ce programme apporte aux éditeurs sélectionnés une aide pour la prise en charge des frais de traduction du français vers l’anglais pour des titres non diffusés au Canada, jusqu’à 30 % des coûts...]]></description>
-     <author>NosDonnées.fr</author>
-  </item>
-  <item>
-     <title>Localisation des instituts français dans le monde</title>
-     <link>https://www.data.gouv.fr/fr/dataset/localisation-des-instituts-francais-dans-le-monde-nd</link>
-     <description><![CDATA[]]></description>
      <author>NosDonnées.fr</author>
   </item>
  </channel>
