@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 20 Mar 2014 17:30:02 +0100</pubDate>
+  <pubDate>Thu, 20 Mar 2014 21:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Test</title>
+     <link>https://www.data.gouv.fr/fr/dataset/test-nd</link>
+     <description><![CDATA[]]></description>
+     <author>NosDonnées.fr</author>
+  </item>
   <item>
      <title>Municipales 2014</title>
      <link>https://www.data.gouv.fr/fr/dataset/municipales-2014-nd</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/paris-par-arrondissements</link>
      <description><![CDATA[ Fond de carte (muet) et carte (avec numéros) de Paris par arrondissements ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Élections municipales de 2008 : résultats et candidats</title>
-     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-de-2008-resultats-et-candidats-nd</link>
-     <description><![CDATA[Données des élections municipales sur les candidats et les résultats bureaux de vote par bureaux de vote pour les deux tours pour le communes de plus de 1000 habitants. ]]></description>
-     <author>NosDonnées.fr</author>
   </item>
  </channel>
 </rss>
