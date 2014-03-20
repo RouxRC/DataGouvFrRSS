@@ -4,13 +4,13 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 20 Mar 2014 21:20:02 +0100</pubDate>
+  <pubDate>Thu, 20 Mar 2014 21:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
-     <title>Test</title>
-     <link>https://www.data.gouv.fr/fr/dataset/test-nd</link>
-     <description><![CDATA[]]></description>
-     <author>NosDonnées.fr</author>
+     <title>Les hommes et femmes têtes de liste aux élections municipales 2014 par région (communes de + 1000 habitants) par La gazette des communes</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-hommes-et-femmes-tetes-de-liste-aux-elections-municipales-2014-par-region-communes-de-1000-habit</link>
+     <description><![CDATA[Nombre et pourcentage des hommes et femmes têtes de liste aux élections municipales 2014 dans les communes de plus de 1000 habitants, par région, hors ROM. KML des régions. ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
      <title>Municipales 2014</title>
