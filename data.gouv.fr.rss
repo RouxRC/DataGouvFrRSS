@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 21 Mar 2014 17:00:02 +0100</pubDate>
+  <pubDate>Fri, 21 Mar 2014 17:20:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Ambassades étrangères en France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/ambassades-etrangeres-en-fran-0</link>
+     <description><![CDATA[Liste des ambassades étrangères recensées par le Ministère des Affaires Étrangères Source : http://www.mfe.org/index.php/Annuaires/Ambassades-et-consulats-etrangers-en-France Date : 20/10/13 ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Les candidats aux municipales par communes</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-candidats-aux-municipales-par-communes</link>
@@ -358,12 +364,6 @@
      <title>Liste des filiales par entreprise par paradis fiscal et judiciaire</title>
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-filiales-par-entreprise-par-paradis-fiscal-et-judiciaire</link>
      <description><![CDATA[Liste des filiales par entreprise par paradis fiscal et judiciaire. Auteur : Jean Merckaert Source : http://www.revue-projet.com ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Données de consommation du médicament Médiator</title>
-     <link>https://www.data.gouv.fr/fr/dataset/donnees-de-consommation-du-medicament-mediator</link>
-     <description><![CDATA[Chiffres de consommation du Médiator, issus des données livrées par la Caisse nationale d’Assurance maladie (Cnam) à la demande du collectif Initiative Transparence Santé. Les données sont présentées sous la forme de deux fichiers : - Effectifs des consommateurs du médiator de 2008 à 2010 dans les départements Français (données SNIIRAM) - Prévalence du diabète et consommation de...]]></description>
      <author>citoyen</author>
   </item>
  </channel>
