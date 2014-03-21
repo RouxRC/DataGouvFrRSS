@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 21 Mar 2014 17:40:02 +0100</pubDate>
+  <pubDate>Fri, 21 Mar 2014 17:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Les jeunes entreprises innovantes</title>
@@ -15,7 +15,7 @@
   <item>
      <title>Ambassades étrangères en France</title>
      <link>https://www.data.gouv.fr/fr/dataset/ambassades-etrangeres-en-fran-0</link>
-     <description><![CDATA[Liste des ambassades étrangères recensées par le Ministère des Affaires Étrangères Source : http://www.mfe.org/index.php/Annuaires/Ambassades-et-consulats-etrangers-en-France Date : 20/10/13 ]]></description>
+     <description><![CDATA[Liste des ambassades étrangères recensées par le Ministère des Affaires Étrangères. Une URL est disponible : http://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/annuaires-et-adresses-du-ministere/ambassades-et-consulats-etrangers/ ]]></description>
      <author>citoyen</author>
   </item>
   <item>
