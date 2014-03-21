@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 21 Mar 2014 10:10:02 +0100</pubDate>
+  <pubDate>Fri, 21 Mar 2014 17:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les candidats aux municipales par communes</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-candidats-aux-municipales-par-communes</link>
+     <description><![CDATA[Version CSV du XML du Ministère de l'Intérieur (complet : communes de plus et moins de 1000 habitants) Plus de détails sur IdeesLibres.org. ]]></description>
+     <author>IdeesLibres.org</author>
+  </item>
   <item>
      <title>Les hommes et femmes têtes de liste aux élections municipales 2014 par région (communes de + 1000 habitants) par La gazette des communes</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-hommes-et-femmes-tetes-de-liste-aux-elections-municipales-2014-par-region-communes-de-1000-habit</link>
@@ -358,12 +364,6 @@
      <title>Données de consommation du médicament Médiator</title>
      <link>https://www.data.gouv.fr/fr/dataset/donnees-de-consommation-du-medicament-mediator</link>
      <description><![CDATA[Chiffres de consommation du Médiator, issus des données livrées par la Caisse nationale d’Assurance maladie (Cnam) à la demande du collectif Initiative Transparence Santé. Les données sont présentées sous la forme de deux fichiers : - Effectifs des consommateurs du médiator de 2008 à 2010 dans les départements Français (données SNIIRAM) - Prévalence du diabète et consommation de...]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Paris par arrondissements</title>
-     <link>https://www.data.gouv.fr/fr/dataset/paris-par-arrondissements</link>
-     <description><![CDATA[ Fond de carte (muet) et carte (avec numéros) de Paris par arrondissements ]]></description>
      <author>citoyen</author>
   </item>
  </channel>
