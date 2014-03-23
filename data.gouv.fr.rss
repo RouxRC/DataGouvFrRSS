@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 22 Mar 2014 08:50:02 +0100</pubDate>
+  <pubDate>Sun, 23 Mar 2014 14:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Villes sous vidéosurveillance</title>
+     <link>https://www.data.gouv.fr/fr/dataset/villes-sous-videosurveillance</link>
+     <description><![CDATA[Liste des communes disposant d'un système de vidéoprotection. Un distinguo est fait entre celles qui relèvent de la Police nationale et celles de la Gendarmerie nationale. Source : http://questions.assemblee-nationale.fr/q14/14-19799QE.htm ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Les jeunes entreprises innovantes</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-jeunes-entreprises-innovantes</link>
@@ -358,12 +364,6 @@
      <title>Emploi</title>
      <link>https://www.data.gouv.fr/fr/dataset/emploi</link>
      <description><![CDATA[Chiffres clés Emploi - Population active (source INSEE) ]]></description>
-     <author>Les Lilas (certifié)</author>
-  </item>
-  <item>
-     <title>Population</title>
-     <link>https://www.data.gouv.fr/fr/dataset/populati-1</link>
-     <description><![CDATA[Chiffres clés Évolution et structure de la population (données INSEE) ]]></description>
      <author>Les Lilas (certifié)</author>
   </item>
  </channel>
