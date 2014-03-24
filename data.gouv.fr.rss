@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 24 Mar 2014 11:30:02 +0100</pubDate>
+  <pubDate>Mon, 24 Mar 2014 15:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Démographie des professionnels de santé</title>
+     <link>https://www.data.gouv.fr/fr/dataset/demographie-des-professionnels-de-sante</link>
+     <description><![CDATA[L'ensemble des informations relatives aux professionnels de santé libéraux est disponible au format Excel par région et par département, pour l'année 2010. Grâce aux "Données complètes", l'utilisateur pourra, pour une année, filtrer ces données pour obtenir des tableaux personnalisés. ]]></description>
+     <author>Caisse nationale de l'assurance maladie des travailleurs salariés (certifié)</author>
+  </item>
   <item>
      <title>Référentiel des municipales - Appartenance des communes aux EPCI - Modes scrutins - Population</title>
      <link>https://www.data.gouv.fr/fr/dataset/referentiel-des-municipales-appartenance-des-communes-aux-epci-modes-scrutins-population</link>
@@ -358,12 +364,6 @@
      <title>Comptes de la commune</title>
      <link>https://www.data.gouv.fr/fr/dataset/comptes-de-la-commune</link>
      <description><![CDATA[Chiffres Clés, Fonctionnement, Investissement, Fiscalité, Autofinancement, Endettement (source Ministère des Finances) ]]></description>
-     <author>Les Lilas (certifié)</author>
-  </item>
-  <item>
-     <title>Logement</title>
-     <link>https://www.data.gouv.fr/fr/dataset/logement</link>
-     <description><![CDATA[Chiffres clés Logement (source INSEE) ]]></description>
      <author>Les Lilas (certifié)</author>
   </item>
  </channel>
