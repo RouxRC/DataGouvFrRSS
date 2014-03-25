@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 25 Mar 2014 16:10:01 +0100</pubDate>
+  <pubDate>Tue, 25 Mar 2014 16:20:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Elections municipales 2014 - Résultats 1er tour</title>
+     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-resultats-1er-to-0</link>
+     <description><![CDATA[Résultats des élections municipales 2014, tour 1, pour les communes de moins de 1 000 habitants (sous réserve de rectifications par le juge de l'élection) ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Elections Municipales 2014 - Résultats 1er tour</title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-resultats-1er-tour</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/entreprises</link>
      <description><![CDATA[Ce jeu de données répertorie des entreprises isséennes: nom, adresse, téléphone, site web, appartenance à un réseau d'entreprises... ]]></description>
      <author>Ville d'Issy-les-Moulineaux (certifié)</author>
-  </item>
-  <item>
-     <title>Catalogue des sites publics ouverts aux evenements</title>
-     <link>https://www.data.gouv.fr/fr/dataset/catalogue-des-sites-publics-ouverts-aux-evenements</link>
-     <description><![CDATA[Les immeubles de l’État sont nombreux, variés, parfois exceptionnels. À leur qualité architecturale, à leur situation, à leur décoration intérieure, s’ajoute un élément impalpable et essentiel : le prestige des lieux, leur image, leur histoire, les événements dont ils sont les témoins. Des entreprises désirent y organiser des manifestations événementielles pour associer ce capital immatériel à...]]></description>
-     <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
  </channel>
 </rss>
