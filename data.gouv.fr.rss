@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 24 Mar 2014 15:50:02 +0100</pubDate>
+  <pubDate>Tue, 25 Mar 2014 16:10:01 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Elections Municipales 2014 - Résultats 1er tour</title>
+     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-resultats-1er-tour</link>
+     <description><![CDATA[Résultats des élections municipales 2014, tour 1, pour les communes de 1 000 habitants et plus (sous réserve de rectifications par le juge de l'élection) ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>La répartition de la prise en charge de consommation de soins et biens médicaux</title>
+     <link>https://www.data.gouv.fr/fr/dataset/la-repartition-de-la-prise-en-charge-de-consommation-de-soins-et-biens-medicaux</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Comptes de la santé ]]></description>
+     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Démographie des professionnels de santé</title>
      <link>https://www.data.gouv.fr/fr/dataset/demographie-des-professionnels-de-sante</link>
@@ -353,18 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/catalogue-des-sites-publics-ouverts-aux-evenements</link>
      <description><![CDATA[Les immeubles de l’État sont nombreux, variés, parfois exceptionnels. À leur qualité architecturale, à leur situation, à leur décoration intérieure, s’ajoute un élément impalpable et essentiel : le prestige des lieux, leur image, leur histoire, les événements dont ils sont les témoins. Des entreprises désirent y organiser des manifestations événementielles pour associer ce capital immatériel à...]]></description>
      <author>Ministère de l’Economie et des Finances (certifié)</author>
-  </item>
-  <item>
-     <title>Nombre de productions audiovisuelles accueillies dans les lieux publics</title>
-     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-productions-audiovisuelles-accueillies-dans-les-lieux-publics</link>
-     <description><![CDATA[Nombre de productions audiovisuelles (cinéma, documentaires, téléfilms...) dans les principaux lieux publics, par secteur (justice, santé, environnement...), référencés par l'Agence du patrimoine immatériel de l'État (APIE). Ce recensement ne se veut donc pas exhaustif. La démarche d'ouverture des lieux publics aux tournages (sur le site de l'APIE) ]]></description>
-     <author>Ministère de l’Economie et des Finances (certifié)</author>
-  </item>
-  <item>
-     <title>Comptes de la commune</title>
-     <link>https://www.data.gouv.fr/fr/dataset/comptes-de-la-commune</link>
-     <description><![CDATA[Chiffres Clés, Fonctionnement, Investissement, Fiscalité, Autofinancement, Endettement (source Ministère des Finances) ]]></description>
-     <author>Les Lilas (certifié)</author>
   </item>
  </channel>
 </rss>
