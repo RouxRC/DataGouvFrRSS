@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 25 Mar 2014 16:20:02 +0100</pubDate>
+  <pubDate>Tue, 25 Mar 2014 16:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Elections municipales 2014 - Elus au 1er tour (communes de 1 000 habitants et plus)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-elus-au-1er-tour-communes-de-1-000-habitants-et-plus</link>
+     <description><![CDATA[Liste des élus au premier tour des élections municipales 2014, pour les communes de 1 000 habitants et plus (sous réserve de rectifications par le juge de l'élection) ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Elections municipales 2014 - Résultats 1er tour</title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-resultats-1er-to-0</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/les-prenoms-des-conseillers-municipaux-agreges-par-departements</link>
      <description><![CDATA[Extrait du répertoire national des élus du Ministère de l'Intérieur. Couverture temporelle étendue à mars 2014 pour les élus de Paris. Plus de détails sur IdeesLibres.org. Existe aussi sans agrégation ]]></description>
      <author>IdeesLibres.org</author>
-  </item>
-  <item>
-     <title>Entreprises</title>
-     <link>https://www.data.gouv.fr/fr/dataset/entreprises</link>
-     <description><![CDATA[Ce jeu de données répertorie des entreprises isséennes: nom, adresse, téléphone, site web, appartenance à un réseau d'entreprises... ]]></description>
-     <author>Ville d'Issy-les-Moulineaux (certifié)</author>
   </item>
  </channel>
 </rss>
