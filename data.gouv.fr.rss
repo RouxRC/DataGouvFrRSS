@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 26 Mar 2014 21:20:02 +0100</pubDate>
+  <pubDate>Wed, 26 Mar 2014 22:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>DBpedia.fr le chapitre francophone de DBpedia</title>
+     <link>https://www.data.gouv.fr/fr/dataset/dbpedia-fr-le-chapitre-francophone-de-dbpedia</link>
+     <description><![CDATA[DBpédia.fr ou DBpédia en français est le chapitre francophone de DBpedia, il s'inscrit dans l'effort d'internationalisation de DBpedia dont le but est de maintenir des données structurées extraites de différents chapitres de Wikipedia. Le développement de DBpedia en français est mené dans le cadre de la plateforme Sémanticpédia dont les partenaires sont : - l'équipe Wimmics d'Inria -...]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Elections municipales 2014 - Elus au 1er tour (communes de moins de 1 000 habitants)</title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-elus-au-1er-tour-communes-de-moins-de-1-000-habitants</link>
@@ -358,12 +364,6 @@
      <title>Modélisation numérique pour la prévision météorologique (WRF-NMM)</title>
      <link>https://www.data.gouv.fr/fr/dataset/modelisation-numerique-pour-la-prevision-meteorologique-wrf-nmm</link>
      <description><![CDATA[Modèle numérique de prévision météorologique WRF à coeur NMM pour la France métropolitaine à haute résolution (5 km), utilisant le modèle GFS aux limites. 4 sorties par jour, à 72h d'échéance par pas de 1h sur la majorité des paramètres atmosphériques de surface et d'altitude, dont température à 2m, précipitations horaires et cumulées, neige au sol etc.. ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Observations météorologiques décodées, issues de la résolution 40 de l'Organisation Mondiale de la Météorologie</title>
-     <link>https://www.data.gouv.fr/fr/dataset/observations-meteorologiques-decodees-issues-de-la-resolution-40-de-l-organisation-mondiale-de-la-me</link>
-     <description><![CDATA[Dans sa résolution n°40, l'OMM a amené les services météo des pays membres a publié librement les données tri-horaires d'une partie des stations météorologiques. En France, Météo-France produit toutes les 3h un fichier CSV reprenant les données de 42 stations de métropole, décodé et archivé par le site www.infoclimat.fr. Le système de requêtage permet de ramener jusqu'à 25000 valeurs différentes. ]]></description>
      <author>citoyen</author>
   </item>
  </channel>
