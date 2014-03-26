@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 25 Mar 2014 19:50:02 +0100</pubDate>
+  <pubDate>Wed, 26 Mar 2014 21:00:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Elections municipales 2014 - Elus au 1er tour (communes de moins de 1 000 habitants)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-elus-au-1er-tour-communes-de-moins-de-1-000-habitants</link>
+     <description><![CDATA[Liste des élus au premier tour des élections municipales 2014, pour les communes de moins de 1 000 habitants (sous réserve de rectifications par le juge de l'élection) ]]></description>
+     <author>Ministère de l'Intérieur (certifié)</author>
+  </item>
   <item>
      <title>Elections municipales 2014 - Elus au 1er tour (communes de 1 000 habitants et plus)</title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-elus-au-1er-tour-communes-de-1-000-habitants-et-plus</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/observations-meteorologiques-decodees-issues-de-la-resolution-40-de-l-organisation-mondiale-de-la-me</link>
      <description><![CDATA[Dans sa résolution n°40, l'OMM a amené les services météo des pays membres a publié librement les données tri-horaires d'une partie des stations météorologiques. En France, Météo-France produit toutes les 3h un fichier CSV reprenant les données de 42 stations de métropole, décodé et archivé par le site www.infoclimat.fr. Le système de requêtage permet de ramener jusqu'à 25000 valeurs différentes. ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Les prénoms des conseillers municipaux agrégés par departements</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-prenoms-des-conseillers-municipaux-agreges-par-departements</link>
-     <description><![CDATA[Extrait du répertoire national des élus du Ministère de l'Intérieur. Couverture temporelle étendue à mars 2014 pour les élus de Paris. Plus de détails sur IdeesLibres.org. Existe aussi sans agrégation ]]></description>
-     <author>IdeesLibres.org</author>
   </item>
  </channel>
 </rss>
