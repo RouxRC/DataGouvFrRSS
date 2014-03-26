@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 26 Mar 2014 22:40:02 +0100</pubDate>
+  <pubDate>Wed, 26 Mar 2014 23:20:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Liste des établissements des premier et second degrés pour les secteurs publics et privés en France (coordonnées WGS84, données liées aux codes INSEE)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-etablissements-des-premier-et-second-degres-pour-les-secteurs-publics-et-prives-en-france-</link>
+     <description><![CDATA[Liste des établissements d'enseignement du ministère de l'éducation nationale, de la jeunesse et de la vie associative, des premier et second degrés, des secteurs public et privé, comportant les coordonnées X et Y au format WGS84 et reliés aux codes INSEE. Ce jeux de données résulte de l'enrichissement du jeu suivant : Liste des établissements d'enseignement des premier et second degrés du...]]></description>
+     <author>Datalift</author>
+  </item>
   <item>
      <title>DBpedia.fr le chapitre francophone de DBpedia</title>
      <link>https://www.data.gouv.fr/fr/dataset/dbpedia-fr-le-chapitre-francophone-de-dbpedia</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/thematique-elections-municipales</link>
      <description><![CDATA[Cette page présente une compilation par l'équipe de data.gouv.fr de ressources en lien avec les élections municipales. Vous y trouverez notamment: les résultats des élections municipales de 2001 et 2008, 1er et second tours, pour les communes de plus de 3 500 habitants (fournies par le Ministère de l'Intérieur) un accès aux données détaillées du recensement 2010 de la...]]></description>
      <author>data.gouv.fr (certifié)</author>
-  </item>
-  <item>
-     <title>Modélisation numérique pour la prévision météorologique (WRF-NMM)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/modelisation-numerique-pour-la-prevision-meteorologique-wrf-nmm</link>
-     <description><![CDATA[Modèle numérique de prévision météorologique WRF à coeur NMM pour la France métropolitaine à haute résolution (5 km), utilisant le modèle GFS aux limites. 4 sorties par jour, à 72h d'échéance par pas de 1h sur la majorité des paramètres atmosphériques de surface et d'altitude, dont température à 2m, précipitations horaires et cumulées, neige au sol etc.. ]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
