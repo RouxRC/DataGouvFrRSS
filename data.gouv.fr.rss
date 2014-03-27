@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 27 Mar 2014 12:10:02 +0100</pubDate>
+  <pubDate>Thu, 27 Mar 2014 12:20:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Elections municipales 2014 - Tour 2 - Candidatures - Listes détaillées dans les communes de 1 000 habitants et plus</title>
+     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-tour-2-candidatures-listes-detaillees-dans-les-communes-de-1-000-habita-1</link>
+     <description><![CDATA[Elections municipales 2014, 2ème tour : Liste détaillées dans les communes de 1 000 habitants et plus. Ces listes sont publiées sous réserve d’erreurs de saisies éventuelles. ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Elections municipales 2014 - Tour 2 - Candidatures - Listes détaillées dans les communes de 1 000 habitants et plus</title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-tour-2-candidatures-listes-detaillees-dans-les-communes-de-1-000-habita-0</link>
@@ -358,12 +364,6 @@
      <title>Programmes des candidats aux élections municipales 2014</title>
      <link>https://www.data.gouv.fr/fr/dataset/programmes-des-candidats-aux-elections-municipales-2014</link>
      <description><![CDATA[Les programmes des candidats aux élections municipales dans les grandes villes de France sont disponibles sur Voxe.org. Villes disponibles : - Paris - Strasbourg - Nantes - Lyon et ses 9 arrondissements - Marseille L'outil est ouvert à tous les candidats, journalistes ou citoyens engagés qui souhaitent contribuer ! Documentation de l'API : http://voxe.org/platform/ ]]></description>
-     <author>Voxe.org</author>
-  </item>
-  <item>
-     <title>Programmes des candidats à l'élection présidentielle de 2012</title>
-     <link>https://www.data.gouv.fr/fr/dataset/programmes-des-candidats-a-l-election-presidentielle-de-2012</link>
-     <description><![CDATA[Ce jeu de données inclut toutes les propositions des candidats aux élections présidentielles de 2012. Documentation de l'API : http://voxe.org/platform ]]></description>
      <author>Voxe.org</author>
   </item>
  </channel>
