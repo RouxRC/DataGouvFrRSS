@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 26 Mar 2014 23:20:02 +0100</pubDate>
+  <pubDate>Thu, 27 Mar 2014 11:50:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Elections municipales 2014 - Tour 2 - Candidatures - Listes détaillées dans les communes de 1 000 habitants et plus</title>
+     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-tour-2-candidatures-listes-detaillees-dans-les-communes-de-1-000-habita-0</link>
+     <description><![CDATA[Elections municipales 2014, 2ème tour : Liste détaillées dans les communes de 1 000 habitants et plus. Ces listes sont publiées sous réserve d’erreurs de saisies éventuelles. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Indicateurs de valeur ajoutée des lycées d'enseignement professionnel, modélisés sous forme de cubes de données</title>
+     <link>https://www.data.gouv.fr/fr/dataset/indicateurs-de-valeur-ajoutee-des-lycees-d-enseignement-professionnel-modelises-sous-forme-de-cubes-</link>
+     <description><![CDATA[Ce jeux de données résulte de l'enrichissement du jeu suivant : *Indicateurs de valeur ajoutée des lycées d'enseignement professionnel, publié le 14 septembre 2013 par Ministère de l'Education Nationale sur la plateforme data.gouv.fr : https://www.data.gouv.fr/fr/dataset/indicateurs-de-valeur-ajoutee-des-lycees-d-enseignement-professionnel-00000000 données statistiques : les indicateurs de...]]></description>
+     <author>Datalift</author>
+  </item>
   <item>
      <title>Liste des établissements des premier et second degrés pour les secteurs publics et privés en France (coordonnées WGS84, données liées aux codes INSEE)</title>
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-etablissements-des-premier-et-second-degres-pour-les-secteurs-publics-et-prives-en-france-</link>
@@ -353,18 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/programmes-des-candidats-a-l-election-presidentielle-de-2012</link>
      <description><![CDATA[Ce jeu de données inclut toutes les propositions des candidats aux élections présidentielles de 2012. Documentation de l'API : http://voxe.org/platform ]]></description>
      <author>Voxe.org</author>
-  </item>
-  <item>
-     <title>Baromètre usages biens culturels sur Internet - Octobre 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/barometre-usages-biens-culturels-sur-internet-octobre-2013</link>
-     <description><![CDATA[Chiffres issus d'une étude réalisée en ligne par l'IFOP pour le compte de l'Hadopi auprès d'un échantillon national représentatif (selon la méthode des quotas) de 1504 internautes français âgés de 15 ans et plus. ]]></description>
-     <author>Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (HADOPI) (certifié)</author>
-  </item>
-  <item>
-     <title>Thématique: élections municipales</title>
-     <link>https://www.data.gouv.fr/fr/dataset/thematique-elections-municipales</link>
-     <description><![CDATA[Cette page présente une compilation par l'équipe de data.gouv.fr de ressources en lien avec les élections municipales. Vous y trouverez notamment: les résultats des élections municipales de 2001 et 2008, 1er et second tours, pour les communes de plus de 3 500 habitants (fournies par le Ministère de l'Intérieur) un accès aux données détaillées du recensement 2010 de la...]]></description>
-     <author>data.gouv.fr (certifié)</author>
   </item>
  </channel>
 </rss>
