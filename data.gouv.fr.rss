@@ -4,19 +4,19 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 27 Mar 2014 12:20:02 +0100</pubDate>
+  <pubDate>Thu, 27 Mar 2014 16:20:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Elections municipales 2014 - Tour 2 - Candidatures - Listes détaillées dans les communes de 1 000 habitants et plus</title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-tour-2-candidatures-listes-detaillees-dans-les-communes-de-1-000-habita-1</link>
      <description><![CDATA[Elections municipales 2014, 2ème tour : Liste détaillées dans les communes de 1 000 habitants et plus. Ces listes sont publiées sous réserve d’erreurs de saisies éventuelles. ]]></description>
-     <author>citoyen</author>
+     <author>Ministère de l'Intérieur (certifié)</author>
   </item>
   <item>
      <title>Elections municipales 2014 - Tour 2 - Candidatures - Listes détaillées dans les communes de 1 000 habitants et plus</title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-tour-2-candidatures-listes-detaillees-dans-les-communes-de-1-000-habita-0</link>
      <description><![CDATA[Elections municipales 2014, 2ème tour : Liste détaillées dans les communes de 1 000 habitants et plus. Ces listes sont publiées sous réserve d’erreurs de saisies éventuelles. ]]></description>
-     <author>citoyen</author>
+     <author>Ministère de l'Intérieur (certifié)</author>
   </item>
   <item>
      <title>Indicateurs de valeur ajoutée des lycées d'enseignement professionnel, modélisés sous forme de cubes de données</title>
