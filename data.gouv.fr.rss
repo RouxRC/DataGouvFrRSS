@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 28 Mar 2014 13:00:02 +0100</pubDate>
+  <pubDate>Fri, 28 Mar 2014 13:10:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Jeux de données de Ressources pédagogiques pour l'enseignement de l'histoire des arts (en rdf)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-de-ressources-pedagogiques-pour-l-enseignement-de-l-histoire-des-arts-en-rdf</link>
+     <description><![CDATA[Ce jeux de données résulte le traitement de la transformation du fichier CSV en RDF par DATALIFT. Le fichier CSV est mis à disposition par le Ministère de la Culture et de la Communication (https://www.data.gouv.fr/fr/dataset/ressources-pedagogiques-pour-l-enseignement-de-l-histoire-des-arts) Vous pouvez consulter l'analyse de de ce jeux de données et son usage potentiel en rapport avec notre...]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Elections municipales 2014 - Tour 2 - Candidats dans les communes de moins de 1 000 habitants</title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-tour-2-candidats-dans-les-communes-de-moins-de-1-000-habitants</link>
@@ -358,12 +364,6 @@
      <title>Jeu de données bathymétriques du sondeur multi-faisceaux EM 710 - Zone Iroise</title>
      <link>https://www.data.gouv.fr/fr/dataset/jeu-de-donnees-bathymetriques-du-sondeur-multi-faisceaux-em-710-zone-iroise</link>
      <description><![CDATA[Le SHOM met a disposition les jeux de données bathymétriques suivants acquis au sondeur multi-faisceaux EM 710 : -Epave du Drummond Castle investiguée avec le BH2 La Pérouse par 55 m de fond -Fosse d'Ouessant et épave du sous-marin U-821 investiguées avec le BH2 Borda par 100 m de fond ]]></description>
-     <author>SHOM (certifié)</author>
-  </item>
-  <item>
-     <title>Morpho-sédimentologie et courants de marée 3D du passage du Fromveur</title>
-     <link>https://www.data.gouv.fr/fr/dataset/morpho-sedimentologie-et-courants-de-maree-3d-du-passage-du-fromveur</link>
-     <description><![CDATA[Le SHOM, établissement public de référence en matière d'hydrographie et de sédiments marins, a été subventionné par la représentation de l'Etat en région Bretagne (SGAR) pour acquérir la connaissance initiale de l'environnement marin physique sur la zone de la ferme pilote d'hydroliennes du Fromveur et sur le tracé envisagé du câble de transport d'énergie. Les données actuellement disponibles...]]></description>
      <author>SHOM (certifié)</author>
   </item>
  </channel>
