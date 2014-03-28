@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 27 Mar 2014 16:20:02 +0100</pubDate>
+  <pubDate>Fri, 28 Mar 2014 11:10:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Elections municipales 2014 - Tour 2 - Candidats dans les communes de moins de 1 000 habitants</title>
+     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-tour-2-candidats-dans-les-communes-de-moins-de-1-000-habitants</link>
+     <description><![CDATA[Elections municipales 2014, 2ème tour : Liste des candidats dans les communes de moins de 1 000 habitants. Ces listes sont publiées sous réserve d’erreurs de saisies éventuelles. ]]></description>
+     <author>Ministère de l'Intérieur (certifié)</author>
+  </item>
   <item>
      <title>Elections municipales 2014 - Tour 2 - Candidatures - Listes détaillées dans les communes de 1 000 habitants et plus</title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-tour-2-candidatures-listes-detaillees-dans-les-communes-de-1-000-habita-1</link>
@@ -213,7 +219,7 @@
   <item>
      <title>Carte ancienne de la minute &#34;Ouessant, Le Four, Les Pierres Noires&#34;</title>
      <link>https://www.data.gouv.fr/fr/dataset/carte-ancienne-de-la-minute-ouessant-le-four-les-pierres-noires</link>
-     <description><![CDATA[Carte numérique "non géoréférencée" issue du scannage de la minute "Ouessant, Le Four, Les Pierres Noires" de Beautemps-Beaupré (Charles-François) en 1816, couvrant Balanec, Molène, Quéménes, Triéten, La Helle, Béniguet (échelle non précisée). Latitude sud : 48°20"N Latitude nord : 48°25"N Longitude ouest : 005°05"W Longitude est : 004°50"W ]]></description>
+     <description><![CDATA[Carte numérique "non géoréférencée" issue du scannage de la minute "Ouessant, Le Four, Les Pierres Noires" de Beautemps-Beaupré (Charles-François) en 1816, couvrant Balanec, Molène, Quéménes, Triélen, La Helle, Béniguet (échelle non précisée). Latitude sud : 48°20"N Latitude nord : 48°25"N Longitude ouest : 005°05"W Longitude est : 004°50"W ]]></description>
      <author>SHOM (certifié)</author>
   </item>
   <item>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/morpho-sedimentologie-et-courants-de-maree-3d-du-passage-du-fromveur</link>
      <description><![CDATA[Le SHOM, établissement public de référence en matière d'hydrographie et de sédiments marins, a été subventionné par la représentation de l'Etat en région Bretagne (SGAR) pour acquérir la connaissance initiale de l'environnement marin physique sur la zone de la ferme pilote d'hydroliennes du Fromveur et sur le tracé envisagé du câble de transport d'énergie. Les données actuellement disponibles...]]></description>
      <author>SHOM (certifié)</author>
-  </item>
-  <item>
-     <title>Programmes des candidats aux élections municipales 2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/programmes-des-candidats-aux-elections-municipales-2014</link>
-     <description><![CDATA[Les programmes des candidats aux élections municipales dans les grandes villes de France sont disponibles sur Voxe.org. Villes disponibles : - Paris - Strasbourg - Nantes - Lyon et ses 9 arrondissements - Marseille L'outil est ouvert à tous les candidats, journalistes ou citoyens engagés qui souhaitent contribuer ! Documentation de l'API : http://voxe.org/platform/ ]]></description>
-     <author>Voxe.org</author>
   </item>
  </channel>
 </rss>
