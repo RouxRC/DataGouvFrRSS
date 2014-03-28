@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 28 Mar 2014 18:50:02 +0100</pubDate>
+  <pubDate>Fri, 28 Mar 2014 21:40:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Thématique: élections municipales</title>
+     <link>https://www.data.gouv.fr/fr/dataset/thematique-elections-municipal-0</link>
+     <description><![CDATA[Cette page recense les jeux de données produits par IdeesLibres.org principalement sur la base du XML fourni par le Ministère de l'Intérieur. ]]></description>
+     <author>IdeesLibres.org</author>
+  </item>
   <item>
      <title>Jeux de données de Ressources pédagogiques pour l'enseignement de l'histoire des arts (en rdf)</title>
      <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-de-ressources-pedagogiques-pour-l-enseignement-de-l-histoire-des-arts-en-rdf</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/contours-des-epci-2014</link>
      <description><![CDATA[Contours géographiques des EPCI issu du croisement des limites communales d'OpenStreetMap et des données de la Direction Générale des Collectivités Locales datant de 2014. Ces données sont en partie issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont donc sous licence ODbL qui impose un partage à l'identique et la mention obligatoire d'attribution doit être...]]></description>
      <author>OpenStreetMap</author>
-  </item>
-  <item>
-     <title>Jeu de données bathymétriques du sondeur multi-faisceaux EM 710 - Zone Iroise</title>
-     <link>https://www.data.gouv.fr/fr/dataset/jeu-de-donnees-bathymetriques-du-sondeur-multi-faisceaux-em-710-zone-iroise</link>
-     <description><![CDATA[Le SHOM met a disposition les jeux de données bathymétriques suivants acquis au sondeur multi-faisceaux EM 710 : -Epave du Drummond Castle investiguée avec le BH2 La Pérouse par 55 m de fond -Fosse d'Ouessant et épave du sous-marin U-821 investiguées avec le BH2 Borda par 100 m de fond ]]></description>
-     <author>SHOM (certifié)</author>
   </item>
  </channel>
 </rss>
