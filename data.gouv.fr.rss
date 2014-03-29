@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 28 Mar 2014 22:00:02 +0100</pubDate>
+  <pubDate>Sat, 29 Mar 2014 21:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Base de données et comparateur de la teneur en sel des produits industriels</title>
@@ -21,7 +21,7 @@
   <item>
      <title>Jeux de données de Ressources pédagogiques pour l'enseignement de l'histoire des arts (en rdf)</title>
      <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-de-ressources-pedagogiques-pour-l-enseignement-de-l-histoire-des-arts-en-rdf</link>
-     <description><![CDATA[Ce jeux de données résulte le traitement de la transformation du fichier CSV en RDF par DATALIFT. Le fichier CSV est mis à disposition par le Ministère de la Culture et de la Communication (https://www.data.gouv.fr/fr/dataset/ressources-pedagogiques-pour-l-enseignement-de-l-histoire-des-arts) Vous pouvez consulter l'analyse de ce jeux de données et son usage potentiel en rapport avec notre...]]></description>
+     <description><![CDATA[Ce jeux de données résulte de la transformation du fichier CSV en RDF à l'aide de DATALIFT. Le fichier CSV est mis à disposition par le Ministère de la Culture et de la Communication (https://www.data.gouv.fr/fr/dataset/ressources-pedagogiques-pour-l-enseignement-de-l-histoire-des-arts) Vous pouvez consulter l'analyse de ce jeux de données et son usage potentiel en rapport avec notre projet. (...]]></description>
      <author>citoyen</author>
   </item>
   <item>
