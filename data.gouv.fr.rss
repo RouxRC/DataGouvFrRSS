@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 29 Mar 2014 21:40:02 +0100</pubDate>
+  <pubDate>Sun, 30 Mar 2014 19:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les résultats du premier tour des municipales</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-resultats-du-premier-tour-des-municipales</link>
+     <description><![CDATA[Version CSV du XML du Ministère de l'Intérieur pour le 1er tour (complet : communes de plus et moins de 1000 habitants) ]]></description>
+     <author>IdeesLibres.org</author>
+  </item>
   <item>
      <title>Base de données et comparateur de la teneur en sel des produits industriels</title>
      <link>https://www.data.gouv.fr/fr/dataset/base-de-donnees-et-comparateur-de-la-teneur-en-sel-des-produits-industriels</link>
@@ -358,12 +364,6 @@
      <title>Récolte de bois et production de sciages</title>
      <link>https://www.data.gouv.fr/fr/dataset/recolte-de-bois-et-production-de-sciages</link>
      <description><![CDATA[Récolte de bois d’œuvre et de bois d’industrie, production de sciages et produits connexes, nombre d’entreprises par département et région, production commercialisée, facturations des entreprises selon le produit. Résultats 2012 ]]></description>
-     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
-  </item>
-  <item>
-     <title>Inventaire des vergers</title>
-     <link>https://www.data.gouv.fr/fr/dataset/inventaire-des-vergers</link>
-     <description><![CDATA[Principaux résultats de l’enquête Inventaire des vergers en 2013. Nombre d’exploitations, superficies, circuits de commercialisation. Pomme, poire, pêche - nectarine, prune, abricot, cerise, noix, kiwi, agrumes, raisin de table. Des résultats par région et pour la France métropolitaine. ]]></description>
      <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
   </item>
  </channel>
