@@ -4,13 +4,13 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 31 Mar 2014 10:00:02 +0200</pubDate>
+  <pubDate>Mon, 31 Mar 2014 10:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Elections municipales 2014 - Résultats 2ème tour </title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-resultats-2eme-tour</link>
      <description><![CDATA[Résultats des élections municipales 2014, tour 2, pour les communes de 1 000 habitants et plus (sous réserve de rectifications par le juge de l’élection) ]]></description>
-     <author>citoyen</author>
+     <author>Ministère de l'Intérieur (certifié)</author>
   </item>
   <item>
      <title>Les résultats du deuxième tour des municipales</title>
