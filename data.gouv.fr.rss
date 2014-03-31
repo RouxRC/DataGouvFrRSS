@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 31 Mar 2014 05:00:02 +0200</pubDate>
+  <pubDate>Mon, 31 Mar 2014 07:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Résultats second tour élections municipales 2014 en live</title>
@@ -27,7 +27,7 @@
   <item>
      <title>Thématique: élections municipales</title>
      <link>https://www.data.gouv.fr/fr/dataset/thematique-elections-municipal-0</link>
-     <description><![CDATA[Cette page recense les jeux de données produits par IdeesLibres.org principalement sur la base du XML fourni par le Ministère de l'Intérieur. ]]></description>
+     <description><![CDATA[Résultats, candidats, référentiel et définitions des nuances politiques. Cette page recense les jeux de données produits par IdeesLibres.org principalement sur la base du XML fourni par le Ministère de l'Intérieur. ]]></description>
      <author>IdeesLibres.org</author>
   </item>
   <item>
