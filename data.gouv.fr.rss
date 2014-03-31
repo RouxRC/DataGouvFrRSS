@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 31 Mar 2014 07:00:02 +0200</pubDate>
+  <pubDate>Mon, 31 Mar 2014 09:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les résultats du deuxième tour des municipales</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-resultats-du-deuxieme-tour-des-municipales</link>
+     <description><![CDATA[Version CSV du XML du Ministère de l'Intérieur pour le 2ème tour (complet : communes de plus et moins de 1000 habitants) Le XML affichait le statut "clos" pour tous les départements français le 31/03 à deux heures du matin. Voici la version du fichier à cet instant. Des mises à jour sont à prévoir (par exemple, les résultats du 1er tour ont continués d'être consolidés par l'Intérieur durant...]]></description>
+     <author>IdeesLibres.org</author>
+  </item>
   <item>
      <title>Résultats second tour élections municipales 2014 en live</title>
      <link>https://www.data.gouv.fr/fr/dataset/resultats-second-tour-elections-municipales-2014-en-live</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/annuaire-statistique</link>
      <description><![CDATA[Les ex-Directions générales des impôts et de la comptabilité publique ont fusionné en 2008 en une direction unique. L'annuaire statistique de la Direction générale des Finances publiques (DGFiP) retrace l'activité de cette dernière pour une année civile de référence. Il recense sous forme de tableaux les principales données relatives : aux fiscalités personnelle, professionnelle et...]]></description>
      <author>Ministère de l’Economie et des Finances (certifié)</author>
-  </item>
-  <item>
-     <title>Statistique agricole annuelle (SAA)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/statistique-agricole-annuelle-saa</link>
-     <description><![CDATA[RESULTATS 2011 et 2012 définitifs Résultats France entière y compris DOM Productions végétales : Superficies, rendements, productions récoltées ou commercialisées Productions animales : Cheptel présent sur les exploitations, animaux finis produits. (production, poids moyen, poids produit), production et utilisation de lait à la ferme. Répartition du territoire en 2012 (statistique...]]></description>
-     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
   </item>
  </channel>
 </rss>
