@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 31 Mar 2014 15:50:02 +0200</pubDate>
+  <pubDate>Mon, 31 Mar 2014 16:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Elections municipales 2014 – Liste des élus (communes de moins de 1 000 habitants) </title>
+     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-liste-des-elus-communes-de-moins-de-1-000-habitants</link>
+     <description><![CDATA[Liste des élus aux élections municipales 2014, pour les communes de moins de 1 000 habitants (sous réserve de rectifications par le juge de l’élection) ]]></description>
+     <author>Ministère de l'Intérieur (certifié)</author>
+  </item>
   <item>
      <title>Elections municipales 2014 – Liste des élus (communes de 1 000 habitants et plus) </title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-liste-des-elus-communes-de-1-000-habitants-et-plus</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/enquete-sur-la-structure-de-la-foret-privee</link>
      <description><![CDATA[Résultats 2012 Caractéristiques des propriétaires de forêt privée en France métropolitaine et dans 3 Dom (Guadeloupe, Martinique et Réunion) : personne physique ou morale, superficie forestière, morcellement, type de peuplement, gestion forestière, récolte, travaux forestiers, chasse, accueil du public, fiscalité, assurance. ]]></description>
      <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
-  </item>
-  <item>
-     <title>Les prénoms des conseillers municipaux</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-prenoms-des-conseillers-municipaux</link>
-     <description><![CDATA[Les prénoms des conseillers municipaux en France, leur genre et leur décompte. Couverture temporelle des élus de Paris étendue à mars 2014. Plus de détails sur IdeesLibres.org. ]]></description>
-     <author>IdeesLibres.org</author>
   </item>
  </channel>
 </rss>
