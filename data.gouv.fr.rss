@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 31 Mar 2014 15:40:02 +0200</pubDate>
+  <pubDate>Mon, 31 Mar 2014 15:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Elections municipales 2014 – Liste des élus (communes de 1 000 habitants et plus) </title>
+     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-liste-des-elus-communes-de-1-000-habitants-et-plus</link>
+     <description><![CDATA[Liste des élus aux élections municipales 2014, pour les communes de 1 000 habitants et plus (sous réserve de rectifications par le juge de l’élection) ]]></description>
+     <author>Ministère de l'Intérieur (certifié)</author>
+  </item>
   <item>
      <title>Elections municipales 2014 - Résultats 2ème tour </title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-resultats-2eme-to-0</link>
@@ -358,12 +364,6 @@
      <title>Les prénoms des conseillers municipaux</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-prenoms-des-conseillers-municipaux</link>
      <description><![CDATA[Les prénoms des conseillers municipaux en France, leur genre et leur décompte. Couverture temporelle des élus de Paris étendue à mars 2014. Plus de détails sur IdeesLibres.org. ]]></description>
-     <author>IdeesLibres.org</author>
-  </item>
-  <item>
-     <title>Nomenclature des catégories socio-professionnelles du Ministère de l'Intérieur (codes CSP)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/nomenclature-des-categories-socio-professionnelles-du-ministere-de-l-interieur-codes-csp</link>
-     <description><![CDATA[Utilisé pour toutes les élections en France afin d'alimenter le répertoire national des élus. Source : Ministère de l'Intérieur ]]></description>
      <author>IdeesLibres.org</author>
   </item>
  </channel>
