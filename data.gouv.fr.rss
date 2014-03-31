@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 30 Mar 2014 19:10:02 +0200</pubDate>
+  <pubDate>Mon, 31 Mar 2014 05:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Résultats second tour élections municipales 2014 en live</title>
+     <link>https://www.data.gouv.fr/fr/dataset/resultats-second-tour-elections-municipales-2014-en-live</link>
+     <description><![CDATA[Résultats en temps réel sur le site du ministère de l'intérieur. A partir de 20h (j'imagine, comme pour le premier tour) ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Les résultats du premier tour des municipales</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-resultats-du-premier-tour-des-municipales</link>
@@ -358,12 +364,6 @@
      <title>Statistique agricole annuelle (SAA)</title>
      <link>https://www.data.gouv.fr/fr/dataset/statistique-agricole-annuelle-saa</link>
      <description><![CDATA[RESULTATS 2011 et 2012 définitifs Résultats France entière y compris DOM Productions végétales : Superficies, rendements, productions récoltées ou commercialisées Productions animales : Cheptel présent sur les exploitations, animaux finis produits. (production, poids moyen, poids produit), production et utilisation de lait à la ferme. Répartition du territoire en 2012 (statistique...]]></description>
-     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
-  </item>
-  <item>
-     <title>Récolte de bois et production de sciages</title>
-     <link>https://www.data.gouv.fr/fr/dataset/recolte-de-bois-et-production-de-sciages</link>
-     <description><![CDATA[Récolte de bois d’œuvre et de bois d’industrie, production de sciages et produits connexes, nombre d’entreprises par département et région, production commercialisée, facturations des entreprises selon le produit. Résultats 2012 ]]></description>
      <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
   </item>
  </channel>
