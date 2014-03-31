@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 31 Mar 2014 12:50:02 +0200</pubDate>
+  <pubDate>Mon, 31 Mar 2014 15:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Elections municipales 2014 - Résultats 2ème tour </title>
+     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-resultats-2eme-to-0</link>
+     <description><![CDATA[Résultats des élections municipales 2014, tour 2, pour les communes de moins de 1 000 habitants (sous réserve de rectifications par le juge de l’élection) ]]></description>
+     <author>Ministère de l'Intérieur (certifié)</author>
+  </item>
   <item>
      <title>Elections municipales 2014 - Résultats 2ème tour </title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-resultats-2eme-tour</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/nomenclature-des-categories-socio-professionnelles-du-ministere-de-l-interieur-codes-csp</link>
      <description><![CDATA[Utilisé pour toutes les élections en France afin d'alimenter le répertoire national des élus. Source : Ministère de l'Intérieur ]]></description>
      <author>IdeesLibres.org</author>
-  </item>
-  <item>
-     <title>Taxe sur les salaires : les déclarations nationales</title>
-     <link>https://www.data.gouv.fr/fr/dataset/taxe-sur-les-salaires-les-declarations-nationales</link>
-     <description><![CDATA[Vous pouvez consulter les résultats des déclarations nationales de taxe sur les salaires (n° 2502) en montant déclaré dans chaque case. ]]></description>
-     <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
  </channel>
 </rss>
