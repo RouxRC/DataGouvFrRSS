@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 31 Mar 2014 09:50:02 +0200</pubDate>
+  <pubDate>Mon, 31 Mar 2014 10:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Elections municipales 2014 - Résultats 2ème tour </title>
+     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-resultats-2eme-tour</link>
+     <description><![CDATA[Résultats des élections municipales 2014, tour 2, pour les communes de 1 000 habitants et plus (sous réserve de rectifications par le juge de l’élection) ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Les résultats du deuxième tour des municipales</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-resultats-du-deuxieme-tour-des-municipales</link>
@@ -358,12 +364,6 @@
      <title>Taxe sur les salaires : les déclarations nationales</title>
      <link>https://www.data.gouv.fr/fr/dataset/taxe-sur-les-salaires-les-declarations-nationales</link>
      <description><![CDATA[Vous pouvez consulter les résultats des déclarations nationales de taxe sur les salaires (n° 2502) en montant déclaré dans chaque case. ]]></description>
-     <author>Ministère de l’Economie et des Finances (certifié)</author>
-  </item>
-  <item>
-     <title>Annuaire statistique </title>
-     <link>https://www.data.gouv.fr/fr/dataset/annuaire-statistique</link>
-     <description><![CDATA[Les ex-Directions générales des impôts et de la comptabilité publique ont fusionné en 2008 en une direction unique. L'annuaire statistique de la Direction générale des Finances publiques (DGFiP) retrace l'activité de cette dernière pour une année civile de référence. Il recense sous forme de tableaux les principales données relatives : aux fiscalités personnelle, professionnelle et...]]></description>
      <author>Ministère de l’Economie et des Finances (certifié)</author>
   </item>
  </channel>
