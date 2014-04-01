@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 31 Mar 2014 16:10:02 +0200</pubDate>
+  <pubDate>Tue, 01 Apr 2014 21:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Recueil des études scientifiques sur la cigarette électronique</title>
+     <link>https://www.data.gouv.fr/fr/dataset/recueil-des-etudes-scientifiques-sur-la-cigarette-electronique</link>
+     <description><![CDATA[Ce recueil liste l'ensemble des études scientifiques ayant un lien avec la cigarette électronique. Il a vocation à être actualisé régulièrement à partir d'une veille sur les principaux sites de recensement d'études. Il s'appuie fortement sur la bibliographie de la méta-étude sur la ecigarette et le eliquide de Farsalinos et Polosa. Des entrées peuvent également être suggérées en fonction des...]]></description>
+     <author>Veille sur la cigarette électronique - Absolut Vapor </author>
+  </item>
   <item>
      <title>Elections municipales 2014 – Liste des élus (communes de moins de 1 000 habitants) </title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-liste-des-elus-communes-de-moins-de-1-000-habitants</link>
@@ -127,8 +133,8 @@
      <author>Ministère de l'Intérieur (certifié)</author>
   </item>
   <item>
-     <title>La répartition de la prise en charge de consommation de soins et biens médicaux</title>
-     <link>https://www.data.gouv.fr/fr/dataset/la-repartition-de-la-prise-en-charge-de-consommation-de-soins-et-biens-medicaux</link>
+     <title>Répartition de la prise en charge de consommation de soins et biens médicaux</title>
+     <link>https://www.data.gouv.fr/fr/dataset/repartition-de-la-prise-en-charge-de-consommation-de-soins-et-biens-medicaux</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Comptes de la santé ]]></description>
      <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
   </item>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/barometre-inria-2014-les-francais-et-le-numeriq-0</link>
      <description><![CDATA[Résultats de la 2ème édition du baromètre Inria TNS-Sofres sur les Français et le numérique. 1145 personnes de 14 ans et plus ont été interrogées en face à face, dans toute la France, entre les 28 novembre et 2 décembre 2013. Le Baromètre met en lumière les relations des Français au numérique, avec des focus spécifiques sur l'économie numérique et l'éducation numérique. Les résultats...]]></description>
      <author>Inria</author>
-  </item>
-  <item>
-     <title>Enquête sur la structure de la forêt privée</title>
-     <link>https://www.data.gouv.fr/fr/dataset/enquete-sur-la-structure-de-la-foret-privee</link>
-     <description><![CDATA[Résultats 2012 Caractéristiques des propriétaires de forêt privée en France métropolitaine et dans 3 Dom (Guadeloupe, Martinique et Réunion) : personne physique ou morale, superficie forestière, morcellement, type de peuplement, gestion forestière, récolte, travaux forestiers, chasse, accueil du public, fiscalité, assurance. ]]></description>
-     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
   </item>
  </channel>
 </rss>
