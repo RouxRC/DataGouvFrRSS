@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 02 Apr 2014 11:30:02 +0200</pubDate>
+  <pubDate>Wed, 02 Apr 2014 14:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Recueil des études scientifiques sur la cigarette électronique</title>
@@ -51,7 +51,7 @@
   <item>
      <title>Les résultats du premier tour des municipales</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-resultats-du-premier-tour-des-municipales</link>
-     <description><![CDATA[Version CSV du XML du Ministère de l'Intérieur pour le 1er tour (complet : communes de plus et moins de 1000 habitants). La mention obligatoire d’attribution doit être « Licence ODbL © IdeesLibres.org 04/2014, Ministère de l’Intérieur 03/2014 » avec les liens indiqués lors d’une publication en ligne. ]]></description>
+     <description><![CDATA[Version CSV du XML (28/03/14 18h00) du Ministère de l'Intérieur pour le 1er tour (complet : communes de plus et moins de 1000 habitants). La mention obligatoire d’attribution doit être « Licence ODbL © IdeesLibres.org 04/2014, Ministère de l’Intérieur 03/2014 » avec les liens indiqués lors d’une publication en ligne. ]]></description>
      <author>IdeesLibres.org</author>
   </item>
   <item>
