@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 01 Apr 2014 21:00:02 +0200</pubDate>
+  <pubDate>Wed, 02 Apr 2014 11:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Recueil des études scientifiques sur la cigarette électronique</title>
@@ -63,7 +63,7 @@
   <item>
      <title>Thématique: élections municipales</title>
      <link>https://www.data.gouv.fr/fr/dataset/thematique-elections-municipal-0</link>
-     <description><![CDATA[Résultats, candidats, référentiel et définitions des nuances politiques. Cette page recense les jeux de données produits par IdeesLibres.org principalement sur la base du XML fourni par le Ministère de l'Intérieur. ]]></description>
+     <description><![CDATA[Résultats, élus, candidats, référentiel et définitions des nuances politiques. Cette page recense les jeux de données produits par IdeesLibres.org principalement sur la base du XML fourni par le Ministère de l'Intérieur. La mention obligatoire d’attribution doit être « Licence ODbL © IdeesLibres.org 04/2014, Ministère de l’Intérieur 03/2014 » avec les liens indiqués lors d’une publication en...]]></description>
      <author>IdeesLibres.org</author>
   </item>
   <item>
