@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 02 Apr 2014 14:20:02 +0200</pubDate>
+  <pubDate>Thu, 03 Apr 2014 18:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Recueil des études scientifiques sur la cigarette électronique</title>
@@ -71,6 +71,12 @@
      <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-de-ressources-pedagogiques-pour-l-enseignement-de-l-histoire-des-arts-en-rdf</link>
      <description><![CDATA[Ce jeux de données résulte de la transformation du fichier CSV en RDF à l'aide de DATALIFT. Le fichier CSV est mis à disposition par le Ministère de la Culture et de la Communication (https://www.data.gouv.fr/fr/dataset/ressources-pedagogiques-pour-l-enseignement-de-l-histoire-des-arts) Vous pouvez consulter l'analyse de ce jeux de données et son usage potentiel en rapport avec notre projet. (...]]></description>
      <author>citoyen</author>
+  </item>
+  <item>
+     <title>Cartographie des bases de données publiques en santé</title>
+     <link>https://www.data.gouv.fr/fr/dataset/cartographie-des-bases-de-donnees-publiques-en-sante</link>
+     <description><![CDATA[Dans le cadre du débat thématique sur l’ouverture des données publiques de santé lancé par le Ministère des Affaires Sociales et de la Santé en novembre 2013, la mission Etalab a réalisé un travail de recensement le plus complet possible des bases et jeux de données publiques existants dans le domaine de la santé, et publie aujourd'hui cette cartographie. Plus de 260 bases ou jeux de données...]]></description>
+     <author>Etalab (certifié)</author>
   </item>
   <item>
      <title>Elections municipales 2014 - Tour 2 - Candidats dans les communes de moins de 1 000 habitants</title>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/cartes-cadastre-routes-forets-relief-et-limites-administratives</link>
      <description><![CDATA[Cartes, parcelles cadastrales, routes, cartes de Cassini, carte forestière, carte du relief, bâtiments et limites administratives (source IGN). ]]></description>
      <author>Les Lilas (certifié)</author>
-  </item>
-  <item>
-     <title>Barometre Inria 2014 - Les Français et le numerique</title>
-     <link>https://www.data.gouv.fr/fr/dataset/barometre-inria-2014-les-francais-et-le-numeriq-0</link>
-     <description><![CDATA[Résultats de la 2ème édition du baromètre Inria TNS-Sofres sur les Français et le numérique. 1145 personnes de 14 ans et plus ont été interrogées en face à face, dans toute la France, entre les 28 novembre et 2 décembre 2013. Le Baromètre met en lumière les relations des Français au numérique, avec des focus spécifiques sur l'économie numérique et l'éducation numérique. Les résultats...]]></description>
-     <author>Inria</author>
   </item>
  </channel>
 </rss>
