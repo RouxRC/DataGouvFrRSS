@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 03 Apr 2014 18:40:02 +0200</pubDate>
+  <pubDate>Fri, 04 Apr 2014 17:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les élus municipaux</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-elus-municipaux</link>
+     <description><![CDATA[Version CSV des XLS du Ministère de l'Intérieur (complet : communes de plus et moins de 1000 habitants) La mention obligatoire d’attribution doit être « Licence ODbL © IdeesLibres.org 04/2014, Ministère de l’Intérieur 03/2014 » avec les liens indiqués lors d’une publication en ligne. ]]></description>
+     <author>IdeesLibres.org</author>
+  </item>
   <item>
      <title>Recueil des études scientifiques sur la cigarette électronique</title>
      <link>https://www.data.gouv.fr/fr/dataset/recueil-des-etudes-scientifiques-sur-la-cigarette-electronique</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-candidats-dans-les-communes-de-moins-de-1-000-habitants</link>
      <description><![CDATA[Elections municipales 2014 - Liste des candidats dans les communes de moins de 1 000 habitants Ces listes sont publiées sous réserve : . des recours de candidats formés devant le tribunal administratif . des refus de récépissés définitifs non encore délivrés . des erreurs de saisies éventuelles. ]]></description>
      <author>Ministère de l'Intérieur (certifié)</author>
-  </item>
-  <item>
-     <title>Cartes, cadastre, routes, forêts, relief et limites administratives</title>
-     <link>https://www.data.gouv.fr/fr/dataset/cartes-cadastre-routes-forets-relief-et-limites-administratives</link>
-     <description><![CDATA[Cartes, parcelles cadastrales, routes, cartes de Cassini, carte forestière, carte du relief, bâtiments et limites administratives (source IGN). ]]></description>
-     <author>Les Lilas (certifié)</author>
   </item>
  </channel>
 </rss>
