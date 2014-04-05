@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 04 Apr 2014 18:30:02 +0200</pubDate>
+  <pubDate>Sat, 05 Apr 2014 13:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Evolution des dépenses de santé</title>
+     <link>https://www.data.gouv.fr/fr/dataset/evolution-des-depenses-de-sante</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Comptes de la santé, Drees ]]></description>
+     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Les élus municipaux</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-elus-municipaux</link>
@@ -358,12 +364,6 @@
      <title>Elections municipales 2014 – Candidatures - Listes détaillées dans les communes de 1 000 habitants et plus</title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-candidatures-listes-detaillees-dans-les-communes-de-1-000-habitants-et-pl</link>
      <description><![CDATA[Elections municipales 2014 – Candidatures - Liste détaillées dans les communes de 1 000 habitants et plus. Ces listes sont publiées sous réserve : . des recours de candidats formés devant le tribunal administratif . des refus de récépissés définitifs non encore délivrés . des erreurs de saisies éventuelles. ]]></description>
-     <author>Ministère de l'Intérieur (certifié)</author>
-  </item>
-  <item>
-     <title>Elections municipales 2014 - Candidats dans les communes de moins de 1 000 habitants </title>
-     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-candidats-dans-les-communes-de-moins-de-1-000-habitants</link>
-     <description><![CDATA[Elections municipales 2014 - Liste des candidats dans les communes de moins de 1 000 habitants Ces listes sont publiées sous réserve : . des recours de candidats formés devant le tribunal administratif . des refus de récépissés définitifs non encore délivrés . des erreurs de saisies éventuelles. ]]></description>
      <author>Ministère de l'Intérieur (certifié)</author>
   </item>
  </channel>
