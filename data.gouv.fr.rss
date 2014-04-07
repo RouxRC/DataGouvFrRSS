@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 07 Apr 2014 01:10:02 +0200</pubDate>
+  <pubDate>Mon, 07 Apr 2014 19:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Association culturelle de Paris</title>
+     <link>https://www.data.gouv.fr/fr/dataset/association-culturelle-de-paris</link>
+     <description><![CDATA[ Association culturel de Paris Association ou organisme culturel français en rapport avec les monuments historiques dépendant de Ministère de la Culture et de la Communication ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Services publics44</title>
      <link>https://www.data.gouv.fr/fr/dataset/services-publics44</link>
@@ -358,12 +364,6 @@
      <title>Commissaires aux comptes des entreprises relevant de l'APE</title>
      <link>https://www.data.gouv.fr/fr/dataset/commissaires-aux-comptes-des-entreprises-relevant-de-l-ape</link>
      <description><![CDATA[Liste des commissaires aux comptes des entreprises relevant du périmètre de l'agence des participations de l'Etat (APE) et échéances de renouvellement ]]></description>
-     <author>Ministère du Redressement productif (certifié)</author>
-  </item>
-  <item>
-     <title>Comptes Combinés 2012</title>
-     <link>https://www.data.gouv.fr/fr/dataset/comptes-combines-2012</link>
-     <description><![CDATA[Présentation et analyse des comptes combinés des entitées contrôlées par l'Etat. ]]></description>
      <author>Ministère du Redressement productif (certifié)</author>
   </item>
  </channel>
