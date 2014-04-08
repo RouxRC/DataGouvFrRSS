@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 08 Apr 2014 10:30:02 +0200</pubDate>
+  <pubDate>Tue, 08 Apr 2014 17:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Nuances politiques</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nuances-politiques</link>
+     <description><![CDATA[Mise en codes INSEE du jeu de données de Sabine Blanc &amp; Julien Kirch concernant la mandature 2008-2014 des conseils municipaux français des villes de plus de 3500 habitants. ]]></description>
+     <author>IdeesLibres.org</author>
+  </item>
   <item>
      <title>Association culturelle de Paris</title>
      <link>https://www.data.gouv.fr/fr/dataset/association-culturelle-de-paris</link>
@@ -358,12 +364,6 @@
      <title>Composition des conseils d'administration ou de surveillance des entreprises relevant de l'APE</title>
      <link>https://www.data.gouv.fr/fr/dataset/composition-des-conseils-d-administration-ou-de-surveillance-des-entreprises-relevant-de-l-ape</link>
      <description><![CDATA[Composition des conseils d'administration ou de surveillance des entreprises relevant de l'APE ]]></description>
-     <author>Ministère du Redressement productif (certifié)</author>
-  </item>
-  <item>
-     <title>Commissaires aux comptes des entreprises relevant de l'APE</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commissaires-aux-comptes-des-entreprises-relevant-de-l-ape</link>
-     <description><![CDATA[Liste des commissaires aux comptes des entreprises relevant du périmètre de l'agence des participations de l'Etat (APE) et échéances de renouvellement ]]></description>
      <author>Ministère du Redressement productif (certifié)</author>
   </item>
  </channel>
