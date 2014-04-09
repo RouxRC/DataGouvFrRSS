@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 09 Apr 2014 09:10:02 +0200</pubDate>
+  <pubDate>Wed, 09 Apr 2014 11:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les élus municipaux (version enrichie)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-elus-municipaux-version-enrichie</link>
+     <description><![CDATA[Ce jeu de données a pu être construit grâce au croisement de ces trois jeux de données : https://www.data.gouv.fr/fr/dataset/les-elus-municipaux https://www.data.gouv.fr/fr/dataset/les-resultats-du-premier-tour-des-municipales https://www.data.gouv.fr/fr/dataset/les-resultats-du-deuxieme-tour-des-municipales Une application cartographique a également été réalisée. La mention obligatoire...]]></description>
+     <author>IdeesLibres.org</author>
+  </item>
   <item>
      <title>Alimentation animale</title>
      <link>https://www.data.gouv.fr/fr/dataset/alimentation-animale</link>
@@ -358,12 +364,6 @@
      <title>Présidents des conseils d'administrations ou de surveillances des entreprises du périmètre de l'APE</title>
      <link>https://www.data.gouv.fr/fr/dataset/presidents-des-conseils-d-administrations-ou-de-surveillances-des-entreprises-du-perimetre-de-l-ape</link>
      <description><![CDATA[Présidents des conseils d'administrations ou de surveillances des entreprises du périmètre de l'APE ]]></description>
-     <author>Ministère du Redressement productif (certifié)</author>
-  </item>
-  <item>
-     <title>Effectifs par entreprise relevant de l'APE ventillés par secteurs d'activités (en ETP)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/effectifs-par-entreprise-relevant-de-l-ape-ventilles-par-secteurs-d-activites-en-etp</link>
-     <description><![CDATA[Effectifs par entreprise relevant de l'APE ventillés par secteurs d'activités (en ETP) ]]></description>
      <author>Ministère du Redressement productif (certifié)</author>
   </item>
  </channel>
