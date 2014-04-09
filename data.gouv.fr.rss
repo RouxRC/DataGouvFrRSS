@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 08 Apr 2014 17:20:02 +0200</pubDate>
+  <pubDate>Wed, 09 Apr 2014 09:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Alimentation animale</title>
+     <link>https://www.data.gouv.fr/fr/dataset/alimentation-animale</link>
+     <description><![CDATA[Matières premières utilisées pour la fabrication d’aliments composés (sauf pour les aliments d’allaitement) - Matières premières utilisées pour la fabrication d’aliments d’allaitement - Matières premières utilisées pour la fabrication d’aliments minéraux - Matières premières utilisées pour la fabrication d’aliments composés selon le type de fabrication (sauf pour les aliments d’allaitement)...]]></description>
+     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
+  </item>
   <item>
      <title>Nuances politiques</title>
      <link>https://www.data.gouv.fr/fr/dataset/nuances-politiques</link>
@@ -358,12 +364,6 @@
      <title>Effectifs par entreprise relevant de l'APE ventillés par secteurs d'activités (en ETP)</title>
      <link>https://www.data.gouv.fr/fr/dataset/effectifs-par-entreprise-relevant-de-l-ape-ventilles-par-secteurs-d-activites-en-etp</link>
      <description><![CDATA[Effectifs par entreprise relevant de l'APE ventillés par secteurs d'activités (en ETP) ]]></description>
-     <author>Ministère du Redressement productif (certifié)</author>
-  </item>
-  <item>
-     <title>Composition des conseils d'administration ou de surveillance des entreprises relevant de l'APE</title>
-     <link>https://www.data.gouv.fr/fr/dataset/composition-des-conseils-d-administration-ou-de-surveillance-des-entreprises-relevant-de-l-ape</link>
-     <description><![CDATA[Composition des conseils d'administration ou de surveillance des entreprises relevant de l'APE ]]></description>
      <author>Ministère du Redressement productif (certifié)</author>
   </item>
  </channel>
