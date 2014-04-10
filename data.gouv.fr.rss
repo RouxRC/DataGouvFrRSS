@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 10 Apr 2014 14:00:02 +0200</pubDate>
+  <pubDate>Thu, 10 Apr 2014 16:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Forêts de protection du Haut-Rhin</title>
@@ -21,7 +21,7 @@
   <item>
      <title>Les élus municipaux (version enrichie)</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-elus-municipaux-version-enrichie</link>
-     <description><![CDATA[Ce jeu de données a pu être construit grâce au croisement de ces trois jeux de données : https://www.data.gouv.fr/fr/dataset/les-elus-municipaux https://www.data.gouv.fr/fr/dataset/les-resultats-du-premier-tour-des-municipales https://www.data.gouv.fr/fr/dataset/les-resultats-du-deuxieme-tour-des-municipales Une application cartographique a également été réalisée. La mention obligatoire...]]></description>
+     <description><![CDATA[Ce jeu de données a pu être construit grâce au croisement de ces trois jeux de données : https://www.data.gouv.fr/fr/dataset/les-elus-municipaux https://www.data.gouv.fr/fr/dataset/les-resultats-du-premier-tour-des-municipales https://www.data.gouv.fr/fr/dataset/les-resultats-du-deuxieme-tour-des-municipales Une application cartographique a également été réalisée. Mise à jour : Pour...]]></description>
      <author>IdeesLibres.org</author>
   </item>
   <item>
