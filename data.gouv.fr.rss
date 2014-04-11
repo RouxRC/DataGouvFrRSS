@@ -4,13 +4,13 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 10 Apr 2014 16:40:02 +0200</pubDate>
+  <pubDate>Fri, 11 Apr 2014 11:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Forêts de protection du Haut-Rhin</title>
      <link>https://www.data.gouv.fr/fr/dataset/forets-de-protection-du-haut-rhin</link>
      <description><![CDATA[Forêt de protection Servitude A7 (articles L.411-1 à L.413-1 du code forestier) échelle d'usage 1/5000 projection EPSG 2154 Peuvent être classées comme forêts de protection, pour cause d'utilité publique (art L411-1 du code forestier) : les forêts dont la conservation est reconnue nécessaire au maintien des terres sur les montagnes et sur les pentes, à la défense contre les avalanches, les...]]></description>
-     <author>citoyen</author>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
   </item>
   <item>
      <title>Forêts de protection du Bas-Rhin</title>
