@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 11 Apr 2014 11:50:02 +0200</pubDate>
+  <pubDate>Fri, 11 Apr 2014 12:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Subventions de la ville de Lannion</title>
+     <link>https://www.data.gouv.fr/fr/dataset/subventions-de-la-ville-de-lannion</link>
+     <description><![CDATA[Subventions versées par la ville de Lannion entre 2008 et 2013 (évolution). Données pour 2013 et 2008. Infographie à retrouver sur le site de Lannion+ : http://lannionplus.fr/2014/04/10/infographie-subventions/ ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>[Bretagne romantique] Patrimoine numérique du territoire </title>
      <link>https://www.data.gouv.fr/fr/dataset/bretagne-romantique-patrimoine-numerique-du-territoire</link>
@@ -358,12 +364,6 @@
      <title>Aide à la réindustrialisation</title>
      <link>https://www.data.gouv.fr/fr/dataset/aide-a-la-reindustrialisation</link>
      <description><![CDATA[Aide à la réindustrialisation : un point comptable sur cette action du financement des entreprises dans le cadre du Programme d'Investissements d'Avenir. ]]></description>
-     <author>Ministère du Redressement productif (certifié)</author>
-  </item>
-  <item>
-     <title>Synthèse des comptes 2012 des principales entreprises à participations publiques</title>
-     <link>https://www.data.gouv.fr/fr/dataset/synthese-des-comptes-2012-des-principales-entreprises-a-participations-publiques</link>
-     <description><![CDATA[Synthèse des comptes 2012 des principales entreprises à participations publiques ]]></description>
      <author>Ministère du Redressement productif (certifié)</author>
   </item>
  </channel>
