@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 11 Apr 2014 15:20:02 +0200</pubDate>
+  <pubDate>Fri, 11 Apr 2014 16:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Subventions de la ville de Lannion</title>
+     <link>https://www.data.gouv.fr/fr/dataset/subventions-de-la-ville-de-lannion</link>
+     <description><![CDATA[Subventions versées par la ville de Lannion entre 2008 et 2013 (évolution). Données pour 2013 et 2008. Infographie à retrouver sur le site de Lannion+ : http://lannionplus.fr/2014/04/10/infographie-subventions/ ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Avis et conseils de la CADA</title>
      <link>https://www.data.gouv.fr/fr/dataset/avis-et-conseils-de-la-cada</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/carte-ancienne-de-la-minute-ouessant-le-four-les-pierres-noires</link>
      <description><![CDATA[Carte numérique "non géoréférencée" issue du scannage de la minute "Ouessant, Le Four, Les Pierres Noires" de Beautemps-Beaupré (Charles-François) en 1816, couvrant Balanec, Molène, Quéménes, Triélen, La Helle, Béniguet (échelle non précisée). Latitude sud : 48°20"N Latitude nord : 48°25"N Longitude ouest : 005°05"W Longitude est : 004°50"W ]]></description>
      <author>SHOM (certifié)</author>
-  </item>
-  <item>
-     <title>Aide à la réindustrialisation</title>
-     <link>https://www.data.gouv.fr/fr/dataset/aide-a-la-reindustrialisation</link>
-     <description><![CDATA[Aide à la réindustrialisation : un point comptable sur cette action du financement des entreprises dans le cadre du Programme d'Investissements d'Avenir. ]]></description>
-     <author>Ministère du Redressement productif (certifié)</author>
   </item>
  </channel>
 </rss>
