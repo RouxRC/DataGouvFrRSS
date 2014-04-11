@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 11 Apr 2014 12:10:02 +0200</pubDate>
+  <pubDate>Fri, 11 Apr 2014 13:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Avis et conseils de la CADA</title>
+     <link>https://www.data.gouv.fr/fr/dataset/avis-et-conseils-de-la-cada</link>
+     <description><![CDATA[Ce jeu de données contient les avis rendus par la Commission d'Accès aux Documents Administratifs (CADA) ainsi que ses conseils à destination des admnistrations, tels que défini par son rôle. Ces données ont été libérées suite à la décision n°25 du CIMAP du 18 Décembre 2013 concernant la suppression des redevances sur certains jeux de données. Sur la période 2005-2011, seuls les avis...]]></description>
+     <author>Commission d’accès aux documents administratifs (CADA) (certifié)</author>
+  </item>
   <item>
      <title>[Bretagne romantique] Patrimoine numérique du territoire </title>
      <link>https://www.data.gouv.fr/fr/dataset/bretagne-romantique-patrimoine-numerique-du-territoire</link>
@@ -358,12 +364,6 @@
      <title>Aide à la réindustrialisation</title>
      <link>https://www.data.gouv.fr/fr/dataset/aide-a-la-reindustrialisation</link>
      <description><![CDATA[Aide à la réindustrialisation : un point comptable sur cette action du financement des entreprises dans le cadre du Programme d'Investissements d'Avenir. ]]></description>
-     <author>Ministère du Redressement productif (certifié)</author>
-  </item>
-  <item>
-     <title>Synthèse des comptes 2012 des principales entreprises à participations publiques</title>
-     <link>https://www.data.gouv.fr/fr/dataset/synthese-des-comptes-2012-des-principales-entreprises-a-participations-publiques</link>
-     <description><![CDATA[Synthèse des comptes 2012 des principales entreprises à participations publiques ]]></description>
      <author>Ministère du Redressement productif (certifié)</author>
   </item>
  </channel>
