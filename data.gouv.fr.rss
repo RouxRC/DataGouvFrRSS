@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 11 Apr 2014 11:20:02 +0200</pubDate>
+  <pubDate>Fri, 11 Apr 2014 11:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>[Bretagne romantique] Patrimoine numérique du territoire </title>
+     <link>https://www.data.gouv.fr/fr/dataset/bretagne-romantique-patrimoine-numerique-du-territoire</link>
+     <description><![CDATA[Ce jeu de donné à pour vocation de référencer les équipements numériques à disposition des citoyens et des services de la communauté de communes. ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Forêts de protection du Haut-Rhin</title>
      <link>https://www.data.gouv.fr/fr/dataset/forets-de-protection-du-haut-rhin</link>
@@ -358,12 +364,6 @@
      <title>Synthèse des comptes 2012 des principales entreprises à participations publiques</title>
      <link>https://www.data.gouv.fr/fr/dataset/synthese-des-comptes-2012-des-principales-entreprises-a-participations-publiques</link>
      <description><![CDATA[Synthèse des comptes 2012 des principales entreprises à participations publiques ]]></description>
-     <author>Ministère du Redressement productif (certifié)</author>
-  </item>
-  <item>
-     <title>Rémunération 2012 des présidents et directeurs généraux des entreprises cotées du périmètre de l'APE</title>
-     <link>https://www.data.gouv.fr/fr/dataset/remuneration-2012-des-presidents-et-directeurs-generaux-des-entreprises-cotees-du-perimetre-de-l-ape</link>
-     <description><![CDATA[Rémunération 2012 des présidents et directeurs généraux des entreprises cotées du périmètre de l'APE ]]></description>
      <author>Ministère du Redressement productif (certifié)</author>
   </item>
  </channel>
