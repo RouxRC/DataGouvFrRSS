@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 11 Apr 2014 17:10:02 +0200</pubDate>
+  <pubDate>Sun, 13 Apr 2014 11:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Densité des professionnels paramédicaux libéraux</title>
+     <link>https://www.data.gouv.fr/fr/dataset/densite-des-professionnels-paramedicaux-liberaux</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Snir ]]></description>
+     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Subventions de la ville de Lannion</title>
      <link>https://www.data.gouv.fr/fr/dataset/subventions-de-la-ville-de-lannion</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/la-base-economique-des-entreprises-regionales</link>
      <description><![CDATA[Cette base présente, pour chaque région, les principaux résultats des entreprises quasi monorégionales, c’est-à-dire ayant une présence régionale forte : au moins 75% de leurs effectifs salariés sont localisés dans une même région. Ces indicateurs sont déclinés par secteur d’activité. ]]></description>
      <author>Ministère du Redressement productif (certifié)</author>
-  </item>
-  <item>
-     <title>Carte ancienne de la minute &#34;Ouessant, Le Four, Les Pierres Noires&#34;</title>
-     <link>https://www.data.gouv.fr/fr/dataset/carte-ancienne-de-la-minute-ouessant-le-four-les-pierres-noires</link>
-     <description><![CDATA[Carte numérique "non géoréférencée" issue du scannage de la minute "Ouessant, Le Four, Les Pierres Noires" de Beautemps-Beaupré (Charles-François) en 1816, couvrant Balanec, Molène, Quéménes, Triélen, La Helle, Béniguet (échelle non précisée). Latitude sud : 48°20"N Latitude nord : 48°25"N Longitude ouest : 005°05"W Longitude est : 004°50"W ]]></description>
-     <author>SHOM (certifié)</author>
   </item>
  </channel>
 </rss>
