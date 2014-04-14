@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 13 Apr 2014 16:00:02 +0200</pubDate>
+  <pubDate>Mon, 14 Apr 2014 14:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Densité des professionnels paramédicaux libéraux</title>
@@ -325,8 +325,8 @@
      <author>Brest métropole océane</author>
   </item>
   <item>
-     <title>Commission pour l'indemnisation des victimes de spoliations (CIVS) - Statistiques pour le mois de février 2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commission-pour-l-indemnisation-des-victimes-de-spoliations-civs-statistiques-pour-le-mois-de-fevrie</link>
+     <title>Commission pour l'indemnisation des victimes de spoliations (CIVS) - Statistiques mensuelles 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commission-pour-l-indemnisation-des-victimes-de-spoliations-civs-statistiques-mensuelles-2014</link>
      <description><![CDATA[Les statistiques mensuelles de la CIVS proposent, en plus d'éléments relatifs à l'activité de chaque service, les données suivantes : - nombre de dossiers enregistrés ; - nombre de dossiers traités ; - montant des indemnisations. ]]></description>
      <author>Premier ministre (certifié)</author>
   </item>
