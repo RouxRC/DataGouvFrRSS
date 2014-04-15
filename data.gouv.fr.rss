@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 14 Apr 2014 17:20:02 +0200</pubDate>
+  <pubDate>Tue, 15 Apr 2014 18:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Activité des médecins libéraux</title>
+     <link>https://www.data.gouv.fr/fr/dataset/activite-des-medecins-liberaux</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Snir ]]></description>
+     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Thématique: données de santé</title>
      <link>https://www.data.gouv.fr/fr/dataset/thematique-donnees-de-sante</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/regularite-tgv-a-l-arrivee</link>
      <description><![CDATA[Régularité des TGV à l'arrivée. Vous avez des questions ou des remarques sur ces données ? Rendez-vous sur le forum SNCF Open Data. ]]></description>
      <author>SNCF (certifié)</author>
-  </item>
-  <item>
-     <title>Liste des consignes automatiques Cityssimo</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-consignes-automatiques-cityssimo</link>
-     <description><![CDATA[Cityssimo est un service de retrait de colis accessible via les sites internet proposant une livraison en So Colissimo ou via un abonnement gratuit et sans engagement. Ce service vous permet de réceptionner vos colis dans un des 35 consignes automatiques Cityssimo et de les retirer quand vous voulez 7 jours sur 7 et 24 heures sur 24. http://www.cityssimo.fr/ ]]></description>
-     <author>La Poste (certifié)</author>
   </item>
  </channel>
 </rss>
