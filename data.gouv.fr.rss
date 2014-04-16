@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 16 Apr 2014 16:00:02 +0200</pubDate>
+  <pubDate>Wed, 16 Apr 2014 17:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Arbres remarquables</title>
+     <link>https://www.data.gouv.fr/fr/dataset/arbres-remarquabl-0</link>
+     <description><![CDATA[Listes des arbres remarquables de la commune de metz ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Résultats consultation CNIL &#34;open data et données personnelles&#34;</title>
      <link>https://www.data.gouv.fr/fr/dataset/resultats-consultation-cnil-open-data-et-donnees-personnelles</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/modele-numerique-de-terrain-terrest-0</link>
      <description><![CDATA[Fichier ASCII (x,y,z) Le Z correspond à la hauteur terrain sans les ouvrages d'art Les valeurs sont exprimées en mètres Lambert 93 / IGN69 Issu d'une prise de vue aérienne par caméra numérique : Vexcel Ultracam Xp® avec GPS et INS Date : Juil-août 2012 Pas : 5m Classe de précision altimétrique : 2m, pouvant aller jusqu’à 3 à 4m EQM pour les zones rurales couvertes. Classe...]]></description>
      <author>Brest métropole océane</author>
-  </item>
-  <item>
-     <title>Commission pour l'indemnisation des victimes de spoliations (CIVS) - Statistiques mensuelles 2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commission-pour-l-indemnisation-des-victimes-de-spoliations-civs-statistiques-mensuelles-2014</link>
-     <description><![CDATA[Les statistiques mensuelles de la CIVS proposent, en plus d'éléments relatifs à l'activité de chaque service, les données suivantes : - nombre de dossiers enregistrés ; - nombre de dossiers traités ; - montant des indemnisations. ]]></description>
-     <author>Premier ministre (certifié)</author>
   </item>
  </channel>
 </rss>
