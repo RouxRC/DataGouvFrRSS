@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 15 Apr 2014 18:20:02 +0200</pubDate>
+  <pubDate>Wed, 16 Apr 2014 09:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Barèmes IPP - système social et fiscal français</title>
+     <link>https://www.data.gouv.fr/fr/dataset/baremes-ipp-systeme-social-et-fiscal-francais</link>
+     <description><![CDATA[L’Institut des politiques publiques (IPP) s’est donné pour mission de rassembler l’ensemble de la législation des politiques publiques en France dans une perspective historique et scientifique. L’objectif est d’en faciliter l’évaluation, l’analyse et la diffusion. En premier lieu, ces barèmes législatifs sont utilisés dans le modèle de microsimulation du système socio-fiscal de l’IPP, TAXIPP....]]></description>
+     <author>Institut des politiques publiques (IPP)</author>
+  </item>
   <item>
      <title>Activité des médecins libéraux</title>
      <link>https://www.data.gouv.fr/fr/dataset/activite-des-medecins-liberaux</link>
@@ -358,12 +364,6 @@
      <title>Cartographie OpenStreetMap des gares SNCF Transilien</title>
      <link>https://www.data.gouv.fr/fr/dataset/cartographie-openstreetmap-des-gares-sncf-transilien</link>
      <description><![CDATA[Equipements des gares cartographiés par OpenStreetMap sur le réseau SNCF Transilien en Ile-de-France. Vous avez des questions ou des remarques sur ces données ? Rendez-vous sur le forum SNCF Open Data. ]]></description>
-     <author>SNCF (certifié)</author>
-  </item>
-  <item>
-     <title>Régularité TGV à l'arrivée</title>
-     <link>https://www.data.gouv.fr/fr/dataset/regularite-tgv-a-l-arrivee</link>
-     <description><![CDATA[Régularité des TGV à l'arrivée. Vous avez des questions ou des remarques sur ces données ? Rendez-vous sur le forum SNCF Open Data. ]]></description>
      <author>SNCF (certifié)</author>
   </item>
  </channel>
