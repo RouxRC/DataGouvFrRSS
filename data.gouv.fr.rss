@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 16 Apr 2014 17:20:02 +0200</pubDate>
+  <pubDate>Wed, 16 Apr 2014 18:00:03 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Bilans d'approvisionnement</title>
+     <link>https://www.data.gouv.fr/fr/dataset/bilans-d-approvisionnement</link>
+     <description><![CDATA[Instrument de la gestion des marchés agricoles et de la politique agricole communautaires, les bilans d’approvisionnement sont établis par tous les pays membres de l’Union européenne. Le bilan, exprimé en quantités, décrit l’équilibre des ressources (stocks de début, production utilisable, importations) et des emplois (exportations, utilisations intérieures, stocks finals) pour un produit...]]></description>
+     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
+  </item>
   <item>
      <title>Valeur vénale des terres</title>
      <link>https://www.data.gouv.fr/fr/dataset/valeur-venale-des-terres</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/unlimited-cities-rennes-gare-sud</link>
      <description><![CDATA[ Les données en Open Data de - Unlimited Cities / Rennes Gare Sud - contiennent les résultats issus des choix émis par les participants lors de l'expérimentation et de la manipulation de l'application Unlimited Cities sur le site de Rennes Gare Sud. Elles contiennent: - le nombre de mix validés - le point de vue choisi par l'utilisateur - La date de validation du mix - Le...]]></description>
      <author>UFO Urbanisme Collaboratif</author>
-  </item>
-  <item>
-     <title>Photo aérienne verticale</title>
-     <link>https://www.data.gouv.fr/fr/dataset/photo-aerienne-vertica-0</link>
-     <description><![CDATA[Dalles JPEG géoréférencées en Lambert 93 Prise de vue aérienne par caméra numérique : Vexcel Ultracam Xp® avec GPS et INS Date : Juil-août 2012 Résolution : 20 cm Classe de précision planimétrique : 40 cm. ]]></description>
-     <author>Brest métropole océane</author>
   </item>
  </channel>
 </rss>
