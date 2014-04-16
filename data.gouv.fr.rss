@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 16 Apr 2014 10:00:02 +0200</pubDate>
+  <pubDate>Wed, 16 Apr 2014 11:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Résultats consultation CNIL &#34;open data et données personnelles&#34;</title>
+     <link>https://www.data.gouv.fr/fr/dataset/resultats-consultation-cnil-open-data-et-donnees-personnelles</link>
+     <description><![CDATA[Pour compléter et élargir les débats de la journée « OpenCNIL » de juillet 2013, la CNIL a mené, au début de l’année 2014, une consultation publique: auprès des acteurs impliqués dans la mise en œuvre d’une plateforme ou d’une politique d’open data ; des producteurs ou gestionnaires d'informations publiques susceptibles d’être ouvertes ; des réutilisateurs à divers titres ; ainsi qu’auprès des...]]></description>
+     <author>CNIL</author>
+  </item>
   <item>
      <title>Barèmes IPP - système social et fiscal français</title>
      <link>https://www.data.gouv.fr/fr/dataset/baremes-ipp-systeme-social-et-fiscal-francais</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/modele-numerique-de-terrain-terrestre</link>
      <description><![CDATA[Fichier ASCII (x,y,z) Le Z correspond à la hauteur terrain sans les ouvrages d'art Les valeurs sont exprimées en mètres Lambert 93 / IGN69 Issu d'une prise de vue aérienne par caméra numérique : Vexcel Ultracam Xp® avec GPS et INS Date : Juil-août 2012 Pas : 5m Classe de précision altimétrique : 2m, pouvant aller jusqu’à 3 à 4m EQM pour les zones rurales couvertes. Classe...]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Cartographie OpenStreetMap des gares SNCF Transilien</title>
-     <link>https://www.data.gouv.fr/fr/dataset/cartographie-openstreetmap-des-gares-sncf-transilien</link>
-     <description><![CDATA[Equipements des gares cartographiés par OpenStreetMap sur le réseau SNCF Transilien en Ile-de-France. Vous avez des questions ou des remarques sur ces données ? Rendez-vous sur le forum SNCF Open Data. ]]></description>
-     <author>SNCF (certifié)</author>
   </item>
  </channel>
 </rss>
