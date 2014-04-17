@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 17 Apr 2014 17:20:02 +0200</pubDate>
+  <pubDate>Thu, 17 Apr 2014 17:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Emploi</title>
+     <link>https://www.data.gouv.fr/fr/dataset/empl-0</link>
+     <description><![CDATA[Chiffres clés Emploi - Population active sur le territoire (source INSEE) ]]></description>
+     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
+  </item>
   <item>
      <title>Logement</title>
      <link>https://www.data.gouv.fr/fr/dataset/logeme-0</link>
@@ -358,12 +364,6 @@
      <title>Subventions de la région ile de france aux associations</title>
      <link>https://www.data.gouv.fr/fr/dataset/subventions-de-la-region-ile-de-france-aux-associations-nd</link>
      <description><![CDATA[]]></description>
-     <author>NosDonnées.fr</author>
-  </item>
-  <item>
-     <title>Arrondissements de Marseille</title>
-     <link>https://www.data.gouv.fr/fr/dataset/arrondissements-de-marseille-nd</link>
-     <description><![CDATA[Contours des arrondissements de Marseille. ]]></description>
      <author>NosDonnées.fr</author>
   </item>
  </channel>
