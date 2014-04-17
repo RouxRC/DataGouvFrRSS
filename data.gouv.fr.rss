@@ -4,8 +4,26 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 17 Apr 2014 17:10:02 +0200</pubDate>
+  <pubDate>Thu, 17 Apr 2014 17:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Logement</title>
+     <link>https://www.data.gouv.fr/fr/dataset/logeme-0</link>
+     <description><![CDATA[Chiffres clés du logement sur le territoire (source INSEE) ]]></description>
+     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
+  </item>
+  <item>
+     <title>Graphagri Régions</title>
+     <link>https://www.data.gouv.fr/fr/dataset/graphagri-regions</link>
+     <description><![CDATA[Multiples facettes de l’agriculture française, vision indispensable tant la spécialisation régionale est forte en ce domaine. Par thème, les résultats nationaux pour l’agriculture, les industries agroalimentaires, les forêts et les industries du bois: Emploi et agriculture, Exploitations agricoles, Moyens de production, Productions végétales, Productions animales, Comptes et revenus,...]]></description>
+     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
+  </item>
+  <item>
+     <title>Population (INSEE)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/population-insee</link>
+     <description><![CDATA[Chiffres clés Évolution et structure de la population sur le territoire (données INSEE) ]]></description>
+     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
+  </item>
   <item>
      <title>Graphagri France</title>
      <link>https://www.data.gouv.fr/fr/dataset/graphagri-france</link>
@@ -347,24 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/arrondissements-de-marseille-nd</link>
      <description><![CDATA[Contours des arrondissements de Marseille. ]]></description>
      <author>NosDonnées.fr</author>
-  </item>
-  <item>
-     <title>recapitulatif depenses personnel 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/recapitulatif-depenses-personnel-2013-nd</link>
-     <description><![CDATA[]]></description>
-     <author>NosDonnées.fr</author>
-  </item>
-  <item>
-     <title>Contours des nouveaux cantons des Bouches-du-Rhône</title>
-     <link>https://www.data.gouv.fr/fr/dataset/contours-des-nouveaux-cantons-des-bouches-du-rhone-nd</link>
-     <description><![CDATA[Contours des cantons des Bouches-du-Rhône proposés dans le cadre de la réforme du scrutin. De 57, le département passe à 29 cantons, dont 12 à Marseille. Dans cette ville, ainsi qu'à Aix-en-Provence et Salon-de-Provence, le découpage se fait sur la base des IRIS. Le zip contient des fichiers shapefile, ordonnés par numéros de cantons. Dans les Bouches-du-Rhône, un nom est déjà défini,...]]></description>
-     <author>NosDonnées.fr</author>
-  </item>
-  <item>
-     <title>Unlimited Cities - Evreux Saint-Louis --</title>
-     <link>https://www.data.gouv.fr/fr/dataset/unlimited-cities-evreux-saint-louis</link>
-     <description><![CDATA[ Les données en Open Data de - Unlimited Cities / Evreux Saint-Louis - contiennent les résultats issus des choix émis par les participants lors de l'expérimentation et de la manipulation de l'application Unlimited Cities sur le site d'Evreux Saint-Louis. Elles contiennent: - le nombre de mix validés - le point de vue choisi par l'utilisateur - La date de validation du mix - Le...]]></description>
-     <author>UFO Urbanisme Collaboratif</author>
   </item>
  </channel>
 </rss>
