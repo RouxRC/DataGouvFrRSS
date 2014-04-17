@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 17 Apr 2014 10:20:02 +0200</pubDate>
+  <pubDate>Thu, 17 Apr 2014 10:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Avis et conseils janvier-mars 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/avis-et-conseils-janvier-mars-2013</link>
+     <description><![CDATA[Ce jeu de données contient les avis rendus par la Commission d'Accès aux Documents Administratifs (CADA) ainsi que ses conseils à destination des admnistrations, tels que défini par son rôle. Ces données ont été libérées suite à la décision n°25 du CIMAP du 18 Décembre 2013 concernant la suppression des redevances sur certains jeux de données. Sur la période 2005-2011, seuls les avis...]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Bilans d'approvisionnement</title>
      <link>https://www.data.gouv.fr/fr/dataset/bilans-d-approvisionnement</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/nuancier-politique-du-ministere-de-l-interieur</link>
      <description><![CDATA[Les nuances politiques du répertoire national des élus et leurs définitions (sources : Libération et Ministère de l'Intérieur 03/2014). ]]></description>
      <author>IdeesLibres.org</author>
-  </item>
-  <item>
-     <title>Unlimited Cities - Rennes Gare Sud --</title>
-     <link>https://www.data.gouv.fr/fr/dataset/unlimited-cities-rennes-gare-sud</link>
-     <description><![CDATA[ Les données en Open Data de - Unlimited Cities / Rennes Gare Sud - contiennent les résultats issus des choix émis par les participants lors de l'expérimentation et de la manipulation de l'application Unlimited Cities sur le site de Rennes Gare Sud. Elles contiennent: - le nombre de mix validés - le point de vue choisi par l'utilisateur - La date de validation du mix - Le...]]></description>
-     <author>UFO Urbanisme Collaboratif</author>
   </item>
  </channel>
 </rss>
