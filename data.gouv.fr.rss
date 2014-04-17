@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 17 Apr 2014 17:30:02 +0200</pubDate>
+  <pubDate>Thu, 17 Apr 2014 17:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Comptes de la collectivité</title>
+     <link>https://www.data.gouv.fr/fr/dataset/comptes-de-la-collectivite</link>
+     <description><![CDATA[Chiffres Clés, Fonctionnement, Investissement, Fiscalité, Autofinancement, Endettement (source Ministère des Finances) ]]></description>
+     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
+  </item>
   <item>
      <title>Emploi</title>
      <link>https://www.data.gouv.fr/fr/dataset/empl-0</link>
@@ -358,12 +364,6 @@
      <title>winter_olympics_medals</title>
      <link>https://www.data.gouv.fr/fr/dataset/winter-olympics-medals-nd</link>
      <description><![CDATA[Ensemble des médailles aux jeux olympiques d'hiver entre 1924 et 2010. Les données ont été extraites du site du comité international olympique en février 2014 (lien). ]]></description>
-     <author>NosDonnées.fr</author>
-  </item>
-  <item>
-     <title>Subventions de la région ile de france aux associations</title>
-     <link>https://www.data.gouv.fr/fr/dataset/subventions-de-la-region-ile-de-france-aux-associations-nd</link>
-     <description><![CDATA[]]></description>
      <author>NosDonnées.fr</author>
   </item>
  </channel>
