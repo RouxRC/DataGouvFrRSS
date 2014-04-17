@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 17 Apr 2014 10:30:02 +0200</pubDate>
+  <pubDate>Thu, 17 Apr 2014 17:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Graphagri France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/graphagri-france</link>
+     <description><![CDATA[Un panorama de l’agriculture, des industries agroalimentaires, de la forêt et de l’alimentation, avec tableaux, graphiques, cartes et commentaires. Données de cadrage, Territoire et climat, Structures et moyens de production agricoles, Population agricole, formation et recherche, Résultats économiques de l’agriculture, Entreprises agroalimentaires, Bois et sciages, Environnement,...]]></description>
+     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
+  </item>
   <item>
      <title>Avis et conseils janvier-mars 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/avis-et-conseils-janvier-mars-2013</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/unlimited-cities-evreux-saint-louis</link>
      <description><![CDATA[ Les données en Open Data de - Unlimited Cities / Evreux Saint-Louis - contiennent les résultats issus des choix émis par les participants lors de l'expérimentation et de la manipulation de l'application Unlimited Cities sur le site d'Evreux Saint-Louis. Elles contiennent: - le nombre de mix validés - le point de vue choisi par l'utilisateur - La date de validation du mix - Le...]]></description>
      <author>UFO Urbanisme Collaboratif</author>
-  </item>
-  <item>
-     <title>Nuancier politique du Ministère de l'Intérieur</title>
-     <link>https://www.data.gouv.fr/fr/dataset/nuancier-politique-du-ministere-de-l-interieur</link>
-     <description><![CDATA[Les nuances politiques du répertoire national des élus et leurs définitions (sources : Libération et Ministère de l'Intérieur 03/2014). ]]></description>
-     <author>IdeesLibres.org</author>
   </item>
  </channel>
 </rss>
