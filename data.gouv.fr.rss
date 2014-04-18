@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 18 Apr 2014 12:40:02 +0200</pubDate>
+  <pubDate>Fri, 18 Apr 2014 13:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Servitudes d'Utilité Publique INT1 Cimetières</title>
+     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-int1-cimetieres</link>
+     <description><![CDATA[Les servitudes résultant du voisinage d'un cimetière (servitude non aedificandi et servitudes relatives aux puits) instituées par l'article L.2223-5 du code général des collectivités territoriales s'étendent dans un rayon de 100 mètres autour du cimetière, et s'appliquent aux cimetières transférés hors des communes urbaines ou des périmètres d'agglomération (art. L.2223-1, alinéa 2, du code...]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Jeu TCL</title>
      <link>https://www.data.gouv.fr/fr/dataset/jeu-tcl</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/repartition-de-la-prise-en-charge-de-consommation-de-soins-et-biens-medicaux</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Comptes de la santé ]]></description>
      <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Démographie des professionnels de santé</title>
-     <link>https://www.data.gouv.fr/fr/dataset/demographie-des-professionnels-de-sante</link>
-     <description><![CDATA[L'ensemble des informations relatives aux professionnels de santé libéraux est disponible au format Excel par région et par département, pour l'année 2010. Grâce aux "Données complètes", l'utilisateur pourra, pour une année, filtrer ces données pour obtenir des tableaux personnalisés. ]]></description>
-     <author>Caisse nationale de l'assurance maladie des travailleurs salariés (certifié)</author>
   </item>
  </channel>
 </rss>
