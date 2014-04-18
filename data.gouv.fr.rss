@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 18 Apr 2014 10:40:02 +0200</pubDate>
+  <pubDate>Fri, 18 Apr 2014 12:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Jeu TCL</title>
+     <link>https://www.data.gouv.fr/fr/dataset/jeu-tcl</link>
+     <description><![CDATA[Jeu TCL ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Démographie des professionnels de santé 2012</title>
      <link>https://www.data.gouv.fr/fr/dataset/demographie-des-professionnels-de-sante-2012</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/demographie-des-professionnels-de-sante</link>
      <description><![CDATA[L'ensemble des informations relatives aux professionnels de santé libéraux est disponible au format Excel par région et par département, pour l'année 2010. Grâce aux "Données complètes", l'utilisateur pourra, pour une année, filtrer ces données pour obtenir des tableaux personnalisés. ]]></description>
      <author>Caisse nationale de l'assurance maladie des travailleurs salariés (certifié)</author>
-  </item>
-  <item>
-     <title>Référentiel des municipales - Appartenance des communes aux EPCI - Modes scrutins - Population</title>
-     <link>https://www.data.gouv.fr/fr/dataset/referentiel-des-municipales-appartenance-des-communes-aux-epci-modes-scrutins-population</link>
-     <description><![CDATA[Référentiel utilisé pour les municipales 2014 par le Ministère de l'Intérieur (avec noms et codes SIREN des EPCI). La mention obligatoire d’attribution doit être « Licence ODbL © IdeesLibres.org 04/2014, Ministère de l’Intérieur 03/2014 » avec les liens indiqués lors d’une publication en ligne. ]]></description>
-     <author>IdeesLibres.org</author>
   </item>
  </channel>
 </rss>
