@@ -4,11 +4,11 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 18 Apr 2014 16:40:02 +0200</pubDate>
+  <pubDate>Fri, 18 Apr 2014 16:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
-     <title>Les dépenses de soins de longue durée pour personnes âgées</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-depenses-de-soins-de-longue-duree-pour-personnes-age-0</link>
+     <title>Les dépenses de soins de longue durée aux personnes âgées</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-depenses-de-soins-de-longue-duree-aux-personnes-agees</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Comptes de la Santé, Drees ]]></description>
      <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
   </item>
