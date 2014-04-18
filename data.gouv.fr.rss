@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 18 Apr 2014 17:30:02 +0200</pubDate>
+  <pubDate>Fri, 18 Apr 2014 18:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les comptes de la protection sociale</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-comptes-de-la-protection-sociale</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees ]]></description>
+     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+  </item>
+  <item>
+     <title>Servitudes d'Utilité Publique EL3 Halage et de marchepied</title>
+     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-el3-halage-et-de-marchepied</link>
+     <description><![CDATA[Servitudes de halage et de marchepied instituée par les articles 15, 16 et 28 du code du domaine public fluvial et de la navigation intérieure et par l'article 424 du code rural. Article devenu L. 235-9 du code rural - NB : article devenu L2131-2 du code générale de la propriété des personnes publiques ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Servitudes d'Utilité Publique I6 Mine et carrière</title>
      <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-i6-mine-et-carriere</link>
@@ -353,18 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/cartographie-des-bases-de-donnees-publiques-en-sante</link>
      <description><![CDATA[Dans le cadre du débat thématique sur l’ouverture des données publiques de santé lancé par le Ministère des Affaires Sociales et de la Santé en novembre 2013, la mission Etalab a réalisé un travail de recensement le plus complet possible des bases et jeux de données publiques existants dans le domaine de la santé, et publie aujourd'hui cette cartographie. Plus de 260 bases ou jeux de données...]]></description>
      <author>Etalab (certifié)</author>
-  </item>
-  <item>
-     <title>Elections municipales 2014 - Tour 2 - Candidats dans les communes de moins de 1 000 habitants</title>
-     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-tour-2-candidats-dans-les-communes-de-moins-de-1-000-habitants</link>
-     <description><![CDATA[Elections municipales 2014, 2ème tour : Liste des candidats dans les communes de moins de 1 000 habitants. Ces listes sont publiées sous réserve d’erreurs de saisies éventuelles. ]]></description>
-     <author>Ministère de l'Intérieur (certifié)</author>
-  </item>
-  <item>
-     <title>Elections municipales 2014 - Tour 2 - Candidatures - Listes détaillées dans les communes de 1 000 habitants et plus</title>
-     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-tour-2-candidatures-listes-detaillees-dans-les-communes-de-1-000-habita-1</link>
-     <description><![CDATA[Elections municipales 2014, 2ème tour : Liste détaillées dans les communes de 1 000 habitants et plus. Ces listes sont publiées sous réserve d’erreurs de saisies éventuelles. ]]></description>
-     <author>Ministère de l'Intérieur (certifié)</author>
   </item>
  </channel>
 </rss>
