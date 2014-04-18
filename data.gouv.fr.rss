@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 18 Apr 2014 17:20:02 +0200</pubDate>
+  <pubDate>Fri, 18 Apr 2014 17:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Servitudes d'Utilité Publique I6 Mine et carrière</title>
+     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-i6-mine-et-carriere</link>
+     <description><![CDATA[Servitude concernant les mines et carrières établie au profit des titulaires de titres miniers, de permis d'exploitation des carrières ou d'autorisation de recherches pétrolifère ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Les dépenses de soins de longue durée aux personnes âgées</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-depenses-de-soins-de-longue-duree-aux-personnes-agees</link>
@@ -357,12 +363,6 @@
   <item>
      <title>Elections municipales 2014 - Tour 2 - Candidatures - Listes détaillées dans les communes de 1 000 habitants et plus</title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-tour-2-candidatures-listes-detaillees-dans-les-communes-de-1-000-habita-1</link>
-     <description><![CDATA[Elections municipales 2014, 2ème tour : Liste détaillées dans les communes de 1 000 habitants et plus. Ces listes sont publiées sous réserve d’erreurs de saisies éventuelles. ]]></description>
-     <author>Ministère de l'Intérieur (certifié)</author>
-  </item>
-  <item>
-     <title>Elections municipales 2014 - Tour 2 - Candidatures - Listes détaillées dans les communes de 1 000 habitants et plus</title>
-     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-tour-2-candidatures-listes-detaillees-dans-les-communes-de-1-000-habita-0</link>
      <description><![CDATA[Elections municipales 2014, 2ème tour : Liste détaillées dans les communes de 1 000 habitants et plus. Ces listes sont publiées sous réserve d’erreurs de saisies éventuelles. ]]></description>
      <author>Ministère de l'Intérieur (certifié)</author>
   </item>
