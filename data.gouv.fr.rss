@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 18 Apr 2014 18:30:02 +0200</pubDate>
+  <pubDate>Fri, 18 Apr 2014 18:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Servitudes d'Utilité Publiqe A4 liée à l'entretien des cours d'eau</title>
+     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publiqe-a4-liee-a-l-entretien-des-cours-d-eau</link>
+     <description><![CDATA[Servitudes relatives au passage des engins mécaniques d'entretien sur les berges et dans le lit des cours d'eau non domaniaux ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Servitudes d'Utilité Publique INT2 Frontières</title>
      <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-int2-frontieres</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/thematique-elections-municipal-0</link>
      <description><![CDATA[Résultats, élus, candidats, référentiel et définitions des nuances politiques. Cette page recense les jeux de données produits par IdeesLibres.org principalement sur la base du XML fourni par le Ministère de l'Intérieur. La mention obligatoire d’attribution doit être « Licence ODbL © IdeesLibres.org 04/2014, Ministère de l’Intérieur 03/2014 » avec les liens indiqués lors d’une publication en...]]></description>
      <author>IdeesLibres.org</author>
-  </item>
-  <item>
-     <title>Jeux de données de Ressources pédagogiques pour l'enseignement de l'histoire des arts (en rdf)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-de-ressources-pedagogiques-pour-l-enseignement-de-l-histoire-des-arts-en-rdf</link>
-     <description><![CDATA[Ce jeux de données résulte de la transformation du fichier CSV en RDF à l'aide de DATALIFT. Le fichier CSV est mis à disposition par le Ministère de la Culture et de la Communication (https://www.data.gouv.fr/fr/dataset/ressources-pedagogiques-pour-l-enseignement-de-l-histoire-des-arts) Vous pouvez consulter l'analyse de ce jeux de données et son usage potentiel en rapport avec notre projet. (...]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
