@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 18 Apr 2014 10:10:02 +0200</pubDate>
+  <pubDate>Fri, 18 Apr 2014 10:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Démographie des professionnels de santé 2012</title>
+     <link>https://www.data.gouv.fr/fr/dataset/demographie-des-professionnels-de-sante-2012</link>
+     <description><![CDATA[L'ensemble des informations relatives aux professionnels de santé libéraux sont présentées par région et par département, mode d'exercice, âge, sexe, pour l'année 2012. ]]></description>
+     <author>Caisse nationale de l'assurance maladie des travailleurs salariés (certifié)</author>
+  </item>
   <item>
      <title>Cartes, cadastre, routes, forêts, relief et limites administratives</title>
      <link>https://www.data.gouv.fr/fr/dataset/cartes-cadastre-routes-forets-relief-et-limites-administrativ-0</link>
@@ -65,6 +71,36 @@
      <link>https://www.data.gouv.fr/fr/dataset/valeur-venale-des-terres</link>
      <description><![CDATA[Prix des terres agricoles (terres et prés, et vignes), évolutions, principaux résultats. ]]></description>
      <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
+  </item>
+  <item>
+     <title>Couverture maladie universelle (CMU)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/couverture-maladie-universelle-cmu</link>
+     <description><![CDATA[Environ 4,10 millions de personnes affiliées au régime général bénéficient de la couverture complémentaire CMU. 40 % d'entre elles bénéficient également de l'affiliation à la CMU "de base" sous critère de résidence pour le régime obligatoire. ]]></description>
+     <author>Caisse nationale de l'assurance maladie des travailleurs salariés (certifié)</author>
+  </item>
+  <item>
+     <title>Dépenses annuelles d'assurance maladie</title>
+     <link>https://www.data.gouv.fr/fr/dataset/depenses-annuelles-d-assurance-maladie</link>
+     <description><![CDATA[Rétrospective annuelle des dépenses d'assurance maladie par catégorie de professionnels de santé et pour chaque catégorie par acte ou par groupe d'actes. ]]></description>
+     <author>Caisse nationale de l'assurance maladie des travailleurs salariés (certifié)</author>
+  </item>
+  <item>
+     <title>Produits de santé remboursés par l'assurance maladie </title>
+     <link>https://www.data.gouv.fr/fr/dataset/produits-de-sante-rembourses-par-l-assurance-maladie</link>
+     <description><![CDATA[L'étude, disponible ci-dessous en téléchargement, présente des informations détaillées sur les dispositifs médicaux inscrits à la liste des produits et prestations (LPP) remboursés au cours des années 2006 à 2012 (régime général - hors sections locales mutualistes - métropole). ]]></description>
+     <author>Caisse nationale de l'assurance maladie des travailleurs salariés (certifié)</author>
+  </item>
+  <item>
+     <title>Actes de biologie médicale remboursés par l'asurance maladie </title>
+     <link>https://www.data.gouv.fr/fr/dataset/actes-de-biologie-medicale-rembourses-par-l-asurance-maladie</link>
+     <description><![CDATA[Les données BIOLAM 2010 - 2011 - 2012 présentent des informations détaillées sur les remboursements des actes de biologie médicale inscrits à la nomenclature des actes de biologie médicale. Le champ des données est celui des actes remboursés au cours des années 2010 à 2012 par le régime général en France métropolitaine, hors sections locales mutualistes. Source des données : DCIR - Données...]]></description>
+     <author>Caisse nationale de l'assurance maladie des travailleurs salariés (certifié)</author>
+  </item>
+  <item>
+     <title>Médicaments remboursés par l'assurance maladie</title>
+     <link>https://www.data.gouv.fr/fr/dataset/medicaments-rembourses-par-l-assurance-maladie</link>
+     <description><![CDATA[Medic'AM présente des informations détaillées sur les médicaments remboursés au cours des années 2008 à 2013 (Régime Général - Hors Sections Locales Mutualistes - Métropole). Ce tableau présente pour chaque médicament, par code CIP, les données suivantes : la base de remboursement ; le montant remboursé ; le dénombrement (nombre de boites remboursées) ; la base de remboursement...]]></description>
+     <author>Caisse nationale de l'assurance maladie des travailleurs salariés (certifié)</author>
   </item>
   <item>
      <title>Arbres remarquables</title>
@@ -329,42 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/referentiel-des-municipales-appartenance-des-communes-aux-epci-modes-scrutins-population</link>
      <description><![CDATA[Référentiel utilisé pour les municipales 2014 par le Ministère de l'Intérieur (avec noms et codes SIREN des EPCI). La mention obligatoire d’attribution doit être « Licence ODbL © IdeesLibres.org 04/2014, Ministère de l’Intérieur 03/2014 » avec les liens indiqués lors d’une publication en ligne. ]]></description>
      <author>IdeesLibres.org</author>
-  </item>
-  <item>
-     <title>Villes sous vidéosurveillance</title>
-     <link>https://www.data.gouv.fr/fr/dataset/villes-sous-videosurveillance</link>
-     <description><![CDATA[Liste des communes disposant d'un système de vidéoprotection. Un distinguo est fait entre celles qui relèvent de la Police nationale et celles de la Gendarmerie nationale. Source : http://questions.assemblee-nationale.fr/q14/14-19799QE.htm ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Les jeunes entreprises innovantes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-jeunes-entreprises-innovantes</link>
-     <description><![CDATA[Principaux résultats comptables et répartition régionale des JEI ]]></description>
-     <author>Ministère du Redressement productif (certifié)</author>
-  </item>
-  <item>
-     <title>Ambassades étrangères en France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/ambassades-etrangeres-en-fran-0</link>
-     <description><![CDATA[Liste des ambassades étrangères recensées par le Ministère des Affaires Étrangères. Une URL est disponible : http://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/annuaires-et-adresses-du-ministere/ambassades-et-consulats-etrangers/ ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Les candidats aux municipales par communes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-candidats-aux-municipales-par-communes</link>
-     <description><![CDATA[Version CSV du XML du Ministère de l'Intérieur pour le 1er tour (complet : communes de plus et moins de 1000 habitants) Plus de détails sur IdeesLibres.org. La mention obligatoire d’attribution doit être « Licence ODbL © IdeesLibres.org 04/2014, Ministère de l’Intérieur 03/2014 » avec les liens indiqués lors d’une publication en ligne. ]]></description>
-     <author>IdeesLibres.org</author>
-  </item>
-  <item>
-     <title>Les hommes et femmes têtes de liste aux élections municipales 2014 par région (communes de + 1000 habitants) par La gazette des communes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-hommes-et-femmes-tetes-de-liste-aux-elections-municipales-2014-par-region-communes-de-1000-habit</link>
-     <description><![CDATA[Nombre et pourcentage des hommes et femmes têtes de liste aux élections municipales 2014 dans les communes de plus de 1000 habitants, par région, hors ROM. KML des régions. ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Municipales 2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/municipales-2014-nd</link>
-     <description><![CDATA[Données non publiées sur data.gouv.fr relatives aux municipales 2014 ]]></description>
-     <author>NosDonnées.fr</author>
   </item>
  </channel>
 </rss>
