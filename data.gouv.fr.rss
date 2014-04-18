@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 18 Apr 2014 18:40:02 +0200</pubDate>
+  <pubDate>Fri, 18 Apr 2014 18:50:01 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Servitudes d'Utilité Publique AC3 Périmètre de protection de réserve naturelle</title>
+     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-ac3-perimetre-de-protection-de-reserve-naturelle</link>
+     <description><![CDATA[Servitudes relatives à la conservation du patrimoine Patrimoine naturel - Réserves naturelles et parcs nationaux ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Servitudes d'Utilité Publiqe A4 liée à l'entretien des cours d'eau</title>
      <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publiqe-a4-liee-a-l-entretien-des-cours-d-eau</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/base-de-donnees-et-comparateur-de-la-teneur-en-sel-des-produits-industriels</link>
      <description><![CDATA[Le site moins-de-sel.fr exploite une version adaptée de la base de données Open Food Facts pour mettre en avant la teneur en sel des produits industriels. Le site permet ainsi au consommateur de mieux choisir parmi ces produits, en particulier dans le contexte d’un régime pauvre en sel. ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Thématique: élections municipales</title>
-     <link>https://www.data.gouv.fr/fr/dataset/thematique-elections-municipal-0</link>
-     <description><![CDATA[Résultats, élus, candidats, référentiel et définitions des nuances politiques. Cette page recense les jeux de données produits par IdeesLibres.org principalement sur la base du XML fourni par le Ministère de l'Intérieur. La mention obligatoire d’attribution doit être « Licence ODbL © IdeesLibres.org 04/2014, Ministère de l’Intérieur 03/2014 » avec les liens indiqués lors d’une publication en...]]></description>
-     <author>IdeesLibres.org</author>
   </item>
  </channel>
 </rss>
