@@ -4,11 +4,17 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 18 Apr 2014 16:20:02 +0200</pubDate>
+  <pubDate>Fri, 18 Apr 2014 16:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
-     <title>Servitudes d'Utilité Publique AC1 Périmètre global de protection de monument historique </title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-ac1-perimetre-global-de-protection-de-monument-historique</link>
+     <title>Les dépenses de soins de longue durée pour personnes âgées</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-depenses-de-soins-de-longue-duree-pour-personnes-age-0</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Comptes de la Santé, Drees ]]></description>
+     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+  </item>
+  <item>
+     <title>Servitudes d'Utilité Publique AC1 Périmètres globaux par commune de protection de monument historique </title>
+     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-ac1-perimetres-globaux-par-commune-de-protection-de-monument-historiqu</link>
      <description><![CDATA[Enveloppe global des périmètres de protection des monuments historiques par communes et périmètre de protection modifié. Les périmètres des monuments d'une même commune ont été agrégés en un seul. ]]></description>
      <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
   </item>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-tour-2-candidatures-listes-detaillees-dans-les-communes-de-1-000-habita-0</link>
      <description><![CDATA[Elections municipales 2014, 2ème tour : Liste détaillées dans les communes de 1 000 habitants et plus. Ces listes sont publiées sous réserve d’erreurs de saisies éventuelles. ]]></description>
      <author>Ministère de l'Intérieur (certifié)</author>
-  </item>
-  <item>
-     <title>Indicateurs de valeur ajoutée des lycées d'enseignement professionnel, modélisés sous forme de cubes de données</title>
-     <link>https://www.data.gouv.fr/fr/dataset/indicateurs-de-valeur-ajoutee-des-lycees-d-enseignement-professionnel-modelises-sous-forme-de-cubes-</link>
-     <description><![CDATA[Ce jeux de données résulte de l'enrichissement du jeu suivant : *Indicateurs de valeur ajoutée des lycées d'enseignement professionnel, publié le 14 septembre 2013 par Ministère de l'Education Nationale sur la plateforme data.gouv.fr : https://www.data.gouv.fr/fr/dataset/indicateurs-de-valeur-ajoutee-des-lycees-d-enseignement-professionnel-00000000 données statistiques : les indicateurs de...]]></description>
-     <author>Datalift</author>
   </item>
  </channel>
 </rss>
