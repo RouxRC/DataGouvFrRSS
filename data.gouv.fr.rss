@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 17 Apr 2014 17:40:02 +0200</pubDate>
+  <pubDate>Fri, 18 Apr 2014 10:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Cartes, cadastre, routes, forêts, relief et limites administratives</title>
+     <link>https://www.data.gouv.fr/fr/dataset/cartes-cadastre-routes-forets-relief-et-limites-administrativ-0</link>
+     <description><![CDATA[Cartes, parcelles cadastrales, routes, cartes de Cassini, carte forestière, carte du relief, bâtiments et limites administratives (source IGN). ]]></description>
+     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
+  </item>
   <item>
      <title>Comptes de la collectivité</title>
      <link>https://www.data.gouv.fr/fr/dataset/comptes-de-la-collectivite</link>
@@ -358,12 +364,6 @@
      <title>Municipales 2014</title>
      <link>https://www.data.gouv.fr/fr/dataset/municipales-2014-nd</link>
      <description><![CDATA[Données non publiées sur data.gouv.fr relatives aux municipales 2014 ]]></description>
-     <author>NosDonnées.fr</author>
-  </item>
-  <item>
-     <title>winter_olympics_medals</title>
-     <link>https://www.data.gouv.fr/fr/dataset/winter-olympics-medals-nd</link>
-     <description><![CDATA[Ensemble des médailles aux jeux olympiques d'hiver entre 1924 et 2010. Les données ont été extraites du site du comité international olympique en février 2014 (lien). ]]></description>
      <author>NosDonnées.fr</author>
   </item>
  </channel>
