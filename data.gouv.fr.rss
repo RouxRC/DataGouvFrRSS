@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 18 Apr 2014 18:20:02 +0200</pubDate>
+  <pubDate>Fri, 18 Apr 2014 18:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Servitudes d'Utilité Publique INT2 Frontières</title>
+     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-int2-frontieres</link>
+     <description><![CDATA[Servitudes d'Utilité Publique INT2 Frontières ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Les comptes de la protection sociale</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-comptes-de-la-protection-sociale</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-de-ressources-pedagogiques-pour-l-enseignement-de-l-histoire-des-arts-en-rdf</link>
      <description><![CDATA[Ce jeux de données résulte de la transformation du fichier CSV en RDF à l'aide de DATALIFT. Le fichier CSV est mis à disposition par le Ministère de la Culture et de la Communication (https://www.data.gouv.fr/fr/dataset/ressources-pedagogiques-pour-l-enseignement-de-l-histoire-des-arts) Vous pouvez consulter l'analyse de ce jeux de données et son usage potentiel en rapport avec notre projet. (...]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Cartographie des bases de données publiques en santé</title>
-     <link>https://www.data.gouv.fr/fr/dataset/cartographie-des-bases-de-donnees-publiques-en-sante</link>
-     <description><![CDATA[Dans le cadre du débat thématique sur l’ouverture des données publiques de santé lancé par le Ministère des Affaires Sociales et de la Santé en novembre 2013, la mission Etalab a réalisé un travail de recensement le plus complet possible des bases et jeux de données publiques existants dans le domaine de la santé, et publie aujourd'hui cette cartographie. Plus de 260 bases ou jeux de données...]]></description>
-     <author>Etalab (certifié)</author>
   </item>
  </channel>
 </rss>
