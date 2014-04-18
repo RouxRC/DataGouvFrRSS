@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 18 Apr 2014 14:20:02 +0200</pubDate>
+  <pubDate>Fri, 18 Apr 2014 14:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Servitudes d'Utilité Publique AC4 Zones de protection du patrimoine architectural et urbain</title>
+     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-ac4-zones-de-protection-du-patrimoine-architectural-et-urbain</link>
+     <description><![CDATA[Servitudes applicables dans les zones de protection autour des monuments historiques et dans les quartiers et sites à protéger ou à mettre en valeur pour des motifs d’ordre esthétique ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Servitudes d'Utilité Publique EL2 Défense contre les inondations</title>
      <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-el2-defense-contre-les-inondations</link>
@@ -358,12 +364,6 @@
      <title>Elections municipales 2014 - Elus au 1er tour (communes de 1 000 habitants et plus)</title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-elus-au-1er-tour-communes-de-1-000-habitants-et-plus</link>
      <description><![CDATA[Liste des élus au premier tour des élections municipales 2014, pour les communes de 1 000 habitants et plus (sous réserve de rectifications par le juge de l'élection) ]]></description>
-     <author>Ministère de l'Intérieur (certifié)</author>
-  </item>
-  <item>
-     <title>Elections municipales 2014 - Résultats 1er tour</title>
-     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-resultats-1er-to-0</link>
-     <description><![CDATA[Résultats des élections municipales 2014, tour 1, pour les communes de moins de 1 000 habitants (sous réserve de rectifications par le juge de l'élection) ]]></description>
      <author>Ministère de l'Intérieur (certifié)</author>
   </item>
  </channel>
