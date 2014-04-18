@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 18 Apr 2014 16:00:02 +0200</pubDate>
+  <pubDate>Fri, 18 Apr 2014 16:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Servitudes d'Utilité Publique AC1 Périmètre global de protection de monument historique </title>
+     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-ac1-perimetre-global-de-protection-de-monument-historique</link>
+     <description><![CDATA[Enveloppe global des périmètres de protection des monuments historiques par communes et périmètre de protection modifié. Les périmètres des monuments d'une même commune ont été agrégés en un seul. ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
+  <item>
+     <title>Servitudes d'Utilité Publique EL4 Remontées mécaniques </title>
+     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-el4-remontees-mecaniques</link>
+     <description><![CDATA[Remontées mécaniques - Servitudes concernant l'implantation, l'entretien et la protection des remontées mécaniques et servitudes relatives à la pratique du ski et de l'escalade. ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Servitudes d'Utilité Publique EL7 Alignement</title>
      <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-el7-alignement</link>
@@ -353,18 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/indicateurs-de-valeur-ajoutee-des-lycees-d-enseignement-professionnel-modelises-sous-forme-de-cubes-</link>
      <description><![CDATA[Ce jeux de données résulte de l'enrichissement du jeu suivant : *Indicateurs de valeur ajoutée des lycées d'enseignement professionnel, publié le 14 septembre 2013 par Ministère de l'Education Nationale sur la plateforme data.gouv.fr : https://www.data.gouv.fr/fr/dataset/indicateurs-de-valeur-ajoutee-des-lycees-d-enseignement-professionnel-00000000 données statistiques : les indicateurs de...]]></description>
      <author>Datalift</author>
-  </item>
-  <item>
-     <title>Liste des établissements des premier et second degrés pour les secteurs publics et privés en France (coordonnées WGS84, données liées aux codes INSEE)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-etablissements-des-premier-et-second-degres-pour-les-secteurs-publics-et-prives-en-france-</link>
-     <description><![CDATA[Liste des établissements d'enseignement du ministère de l'éducation nationale, de la jeunesse et de la vie associative, des premier et second degrés, des secteurs public et privé, comportant les coordonnées X et Y au format WGS84 et reliés aux codes INSEE. Ce jeux de données résulte de l'enrichissement du jeu suivant : Liste des établissements d'enseignement des premier et second degrés du...]]></description>
-     <author>Datalift</author>
-  </item>
-  <item>
-     <title>DBpedia.fr le chapitre francophone de DBpedia</title>
-     <link>https://www.data.gouv.fr/fr/dataset/dbpedia-fr-le-chapitre-francophone-de-dbpedia</link>
-     <description><![CDATA[DBpédia.fr ou DBpédia en français est le chapitre francophone de DBpedia, il s'inscrit dans l'effort d'internationalisation de DBpedia dont le but est de maintenir des données structurées extraites de différents chapitres de Wikipedia. Le développement de DBpedia en français est mené dans le cadre de la plateforme Sémanticpédia dont les partenaires sont : - l'équipe Wimmics d'Inria -...]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
