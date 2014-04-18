@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 18 Apr 2014 16:30:02 +0200</pubDate>
+  <pubDate>Fri, 18 Apr 2014 16:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Les dépenses de soins de longue durée pour personnes âgées</title>
@@ -13,9 +13,9 @@
      <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
   </item>
   <item>
-     <title>Servitudes d'Utilité Publique AC1 Périmètres globaux par commune de protection de monument historique </title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-ac1-perimetres-globaux-par-commune-de-protection-de-monument-historiqu</link>
-     <description><![CDATA[Enveloppe global des périmètres de protection des monuments historiques par communes et périmètre de protection modifié. Les périmètres des monuments d'une même commune ont été agrégés en un seul. ]]></description>
+     <title>Servitudes d'Utilité Publique AC1 monuments historiques</title>
+     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-ac1-monuments-historiques</link>
+     <description><![CDATA[Périmètres globaux par commune de protection de monument historique Enveloppes agrégées des périmètres de protection des monuments historiques par communes et périmètre de protection modifié. Localisation ponctuelle des monuments historiques représentant le ou les bâtiments ou les vestiges sur lesquelles s'appliqueront le périmètre de protection du ou des monuments ]]></description>
      <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
   </item>
   <item>
