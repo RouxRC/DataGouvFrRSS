@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 18 Apr 2014 14:40:02 +0200</pubDate>
+  <pubDate>Fri, 18 Apr 2014 16:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Servitudes d'Utilité Publique EL7 Alignement</title>
+     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-el7-alignement</link>
+     <description><![CDATA[Servitude attachée à l'alignement des voies nationales, départementales ou communales. Articles L112-1 à L112-7 du code de la voirie routière. ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Servitudes d'Utilité Publique T1 relative aux chemins de fer et aux croisements fer/route</title>
      <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-t1-relative-aux-chemins-de-fer-et-aux-croisements-fer-route</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/dbpedia-fr-le-chapitre-francophone-de-dbpedia</link>
      <description><![CDATA[DBpédia.fr ou DBpédia en français est le chapitre francophone de DBpedia, il s'inscrit dans l'effort d'internationalisation de DBpedia dont le but est de maintenir des données structurées extraites de différents chapitres de Wikipedia. Le développement de DBpedia en français est mené dans le cadre de la plateforme Sémanticpédia dont les partenaires sont : - l'équipe Wimmics d'Inria -...]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Elections municipales 2014 - Elus au 1er tour (communes de moins de 1 000 habitants)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-elus-au-1er-tour-communes-de-moins-de-1-000-habitants</link>
-     <description><![CDATA[Liste des élus au premier tour des élections municipales 2014, pour les communes de moins de 1 000 habitants (sous réserve de rectifications par le juge de l'élection) ]]></description>
-     <author>Ministère de l'Intérieur (certifié)</author>
   </item>
  </channel>
 </rss>
