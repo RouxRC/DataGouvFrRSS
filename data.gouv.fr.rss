@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 22 Apr 2014 09:50:02 +0200</pubDate>
+  <pubDate>Tue, 22 Apr 2014 11:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Jeux de données - Région Île-de-France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-region-ile-de-france-idf</link>
+     <description><![CDATA[Les jeux de données collectés par data.gouv.fr sur la plateforme Région Île-de-France ]]></description>
+     <author>Région Île-de-France (certifié)</author>
+  </item>
   <item>
      <title>Fichier FANTOIR des voies et lieux-dits 2013 - Val-d'Oise</title>
      <link>https://www.data.gouv.fr/fr/dataset/fichier-fantoir-des-voies-et-lieux-dits-2013-val-d-oise-idf</link>
@@ -358,12 +364,6 @@
      <title>Carte des bibliothèques d'Île-de-France</title>
      <link>https://www.data.gouv.fr/fr/dataset/carte-des-bibliotheques-d-ile-de-france-idf</link>
      <description><![CDATA[Recensement des équipements de lecture publique  dans les communes d'Île-de-France après croisement de données transmises par le Ministère de la culture et les départements (bibliothèques départementales, conseils généraux, associations de bibliothèques) ]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Aide aux fonds pour les disquaires indépendants 2011-2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/aide-aux-fonds-pour-les-disquaires-independants-2011-2013-idf</link>
-     <description><![CDATA[Le jeu de données concerne les aides accordées depuis 2011 dans le cadre de l'aide aux fonds pour les disquaires indépendants. La Région favorise l’élargissement de la diffusion musicale en dehors des grands circuits de distribution ainsi que l’accessibilité des Franciliens au répertoire des musiques actuelles. Bénéficiaires  Disquaires indépendants :  généralistes ou...]]></description>
      <author>Région Île-de-France (certifié)</author>
   </item>
  </channel>
