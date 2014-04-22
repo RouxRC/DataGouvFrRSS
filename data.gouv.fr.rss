@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 22 Apr 2014 11:00:02 +0200</pubDate>
+  <pubDate>Tue, 22 Apr 2014 19:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Espérance de vie à la naissance par région en France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/esperance-de-vie-a-la-naissance-par-region-en-france</link>
+     <description><![CDATA[Espérance de vie par région françaises de 2000 à 2011 avec les évolutions. Comparez l’espérance de vie entre chaque région et la France. En 2011 l’espérance de vie en France est de 83.7 ans. Pour les hommes elle est de 80.5 ans, pour les femmes 86.6 ans. Sur ce tableau, si vous êtes un homme, il convient donc d’enlever 3 ans; si vous êtes une femme il faut ajouter 3 ans. Description: Nombre...]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Jeux de données - Région Île-de-France</title>
      <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-region-ile-de-france-idf</link>
@@ -358,12 +364,6 @@
      <title>Les lieux de diffusion du spectacle vivant dans le Val-de-Marne</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-lieux-de-diffusion-du-spectacle-vivant-dans-le-val-de-marne-idf</link>
      <description><![CDATA[Ce jeu de données référence les lieux de diffusion régulière ou occasionnelle du spectacle vivant dans le Val-de-Marne. Structure des données nom de l'établissement ; adresse ; e-mail ; téléphone ; fax ; site internet ; géolocalisation (WGS84). ]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Carte des bibliothèques d'Île-de-France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/carte-des-bibliotheques-d-ile-de-france-idf</link>
-     <description><![CDATA[Recensement des équipements de lecture publique  dans les communes d'Île-de-France après croisement de données transmises par le Ministère de la culture et les départements (bibliothèques départementales, conseils généraux, associations de bibliothèques) ]]></description>
      <author>Région Île-de-France (certifié)</author>
   </item>
  </channel>
