@@ -4,367 +4,367 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 19 Apr 2014 14:50:02 +0200</pubDate>
+  <pubDate>Tue, 22 Apr 2014 09:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
-     <title>Servitudes d'Utilité Publique AC3 Périmètre de protection de réserve naturelle</title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-ac3-perimetre-de-protection-de-reserve-naturelle</link>
-     <description><![CDATA[Servitudes relatives à la conservation du patrimoine Patrimoine naturel - Réserves naturelles et parcs nationaux ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+     <title>Taux de construction annuel de logements ordinaires entre 2001 et 2010 en Île-de-France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/taux-de-construction-annuel-de-logements-ordinaires-entre-2001-et-2010-en-ile-de-france-idf</link>
+     <description><![CDATA[Ce jeu de données repose sur la collecte mensuelle des permis de construire et des événements relatifs à chaque opération. Ne sont pris en compte que les permis de construire des logements ou des locaux neufs créant une surface hors œuvre nette (SHON) non nulle. Version : 1 ]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Servitudes d'Utilité Publiqe A4 liée à l'entretien des cours d'eau</title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publiqe-a4-liee-a-l-entretien-des-cours-d-eau</link>
-     <description><![CDATA[Servitudes relatives au passage des engins mécaniques d'entretien sur les berges et dans le lit des cours d'eau non domaniaux ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+     <title>Budget primitif (BP) - 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/budget-primitif-bp-2013-idf</link>
+     <description><![CDATA[Budget prévisionnel annuel de la région Île-de-France du niveau le plus global au niveau le plus fin. Le jeu comprend : le code secteur, le libellé secteur, le chapitre, la sous-fonction, le code fonctionnel, le programme, le type de contrat, le code action, le libellé action et le budget primitif en euros. Pour plus d'informations : Budget des collectivités | Collectivités...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Servitudes d'Utilité Publique INT2 Frontières</title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-int2-frontieres</link>
-     <description><![CDATA[Servitudes d'Utilité Publique INT2 Frontières ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+     <title>Élections municipales 2014 - Les candidats du 2e tour (communes de 1000 hab. et plus)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-les-candidats-du-2e-tour-communes-de-1000-hab-et-plus-idf</link>
+     <description><![CDATA[Élections municipales 2014, 2ème tour : liste des candidats dans les communes franciliennes  de moins de 1000 habitants. Ces listes sont publiées sous réserve d’erreurs de saisies éventuelles. ]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Les comptes de la protection sociale</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-comptes-de-la-protection-sociale</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees ]]></description>
-     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+     <title>Nombre de bornes d'appel par gare Transilien</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-bornes-d-appel-par-gare-transilien-idf</link>
+     <description><![CDATA[Nombre de bornes d'appel d'urgence présentes pour chaque gare. Nom de la gare : Libellé de la gare Code UIC : Code unique de la gare. Ce code correspond à celui utilisé dans les autres fichiers présentant des données sur les gares Nombre de Bornes d’appels : Nombre de bornes d’appels d’urgence de la gare Vous avez des questions ou des remarques sur...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Servitudes d'Utilité Publique EL3 Halage et de marchepied</title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-el3-halage-et-de-marchepied</link>
-     <description><![CDATA[Servitudes de halage et de marchepied instituée par les articles 15, 16 et 28 du code du domaine public fluvial et de la navigation intérieure et par l'article 424 du code rural. Article devenu L. 235-9 du code rural - NB : article devenu L2131-2 du code générale de la propriété des personnes publiques ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+     <title>Cartolycées - la carte des filières scolaires et d'apprentissage</title>
+     <link>https://www.data.gouv.fr/fr/dataset/cartolycees-la-carte-des-filieres-scolaires-et-d-apprentissage-idf</link>
+     <description><![CDATA[Ce jeu de données reprend toutes les informations présentes sur l'application cartolycees.iledefrance.fr : Statut  Apprentissage / Scolaire Nom de l'établissement Géolocalisation Adresse Internat oui / non Académie Niveau Pré-Bac / Post-Bac FilièreBTP, chimie... Sous-filièreGros-œuvre, second œuvre......]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Servitudes d'Utilité Publique I6 Mine et carrière</title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-i6-mine-et-carriere</link>
-     <description><![CDATA[Servitude concernant les mines et carrières établie au profit des titulaires de titres miniers, de permis d'exploitation des carrières ou d'autorisation de recherches pétrolifère ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+     <title>Schémas de cohérence territoriale en Île-de-France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/schemas-de-coherence-territoriale-en-ile-de-france-idf</link>
+     <description><![CDATA[Le SCOT contribue à assurer les équilibres entre le développement urbain, la préservation des espaces agricoles et forestiers, la protection des espaces naturels et des paysages la mixité urbaine et la mixité sociale dans l’habitat une utilisation économe de l’espace, la maîtrise de la demande de déplacement, la limitation de la circulation automobile, la préservation de la...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Les dépenses de soins de longue durée aux personnes âgées</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-depenses-de-soins-de-longue-duree-aux-personnes-agees</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Comptes de la Santé, Drees ]]></description>
-     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+     <title>Les conservatoires et écoles de musique en Île-de-France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-conservatoires-et-ecoles-de-musique-en-ile-de-france-idf</link>
+     <description><![CDATA[Cette liste est composée des conservatoires classés, des écoles de musique municipales ou privées, avec leurs adresses. ]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Servitudes d'Utilité Publique AC1 monuments historiques</title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-ac1-monuments-historiques</link>
-     <description><![CDATA[Périmètres globaux par commune de protection de monument historique Enveloppes agrégées des périmètres de protection des monuments historiques par communes et périmètre de protection modifié. Localisation ponctuelle des monuments historiques représentant le ou les bâtiments ou les vestiges sur lesquelles s'appliqueront le périmètre de protection du ou des monuments ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+     <title>Dotation initiale de l’aide régionale à la demi-pension pour les formations post-bac en 2013-2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/dotation-initiale-de-l-aide-regionale-a-la-demi-pension-pour-les-formations-post-bac-en-2013-201-idf</link>
+     <description><![CDATA[L’objectif de l’aide est de pallier les difficultés financières que rencontrent les familles de lycéens pour le paiement de la restauration scolaire.  Les bénéficiaires sont les élèves en formation post-bac des établissements publics.  Les modalités d’attribution individuelle de l’aide sont définies par le conseil d’administration du lycée mais déterminé en fonction d’un barème...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Servitudes d'Utilité Publique EL4 Remontées mécaniques </title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-el4-remontees-mecaniques</link>
-     <description><![CDATA[Remontées mécaniques - Servitudes concernant l'implantation, l'entretien et la protection des remontées mécaniques et servitudes relatives à la pratique du ski et de l'escalade. ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+     <title>Voirie surfacique inventoriée - 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/voirie-surfacique-inventoriee-2013-idf</link>
+     <description><![CDATA[Voirie surfacique inventoriée par les agents de la Direction de l’Aménagement et de la Gestion de l’AEV par relevé GPS. Légende des colonnes : +--------------------+--------------------+--------------------+--------------------+ | Nom de champs | Libellé | Type | Commentaires |...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Servitudes d'Utilité Publique EL7 Alignement</title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-el7-alignement</link>
-     <description><![CDATA[Servitude attachée à l'alignement des voies nationales, départementales ou communales. Articles L112-1 à L112-7 du code de la voirie routière. ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+     <title>Paniers fraîcheur dans les gares du réseau Transilien</title>
+     <link>https://www.data.gouv.fr/fr/dataset/paniers-fraicheur-dans-les-gares-du-reseau-transilien-idf</link>
+     <description><![CDATA[Dans les gares disposant du service, des maraîchers locaux vendent leurs produits directement sur les quais une fois par semaine. Chaque semaine, plus de sept tonnes de fruits et légumes sont vendues dans les gares d'Île-de-France. Ce fichier présente le jour de présence des Paniers fraîcheur pour chaque gare : Nom de la gare : Libellé de la gare Code UIC : Code...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Servitudes d'Utilité Publique T1 relative aux chemins de fer et aux croisements fer/route</title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-t1-relative-aux-chemins-de-fer-et-aux-croisements-fer-route</link>
-     <description><![CDATA[Zones d'application de la servitude T1 liée aux Voies ferrées et dépendances du domaine public ferroviaire (gares, cour de gares et avenues d’accès non classées dans une autre voirie) ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+     <title>Carte des pharmacies de l'Essonne</title>
+     <link>https://www.data.gouv.fr/fr/dataset/carte-des-pharmacies-de-l-essonne-idf</link>
+     <description><![CDATA[Liste des pharmacies essonniennes, leurs coordonnées, adresse et géolocalisation. (Source : FINESS ; septembre 2013) Structure des données nofinessetNuméro FINESS établissement nofinessej Numéro FINESS entité juridique rsRaison sociale rslongueRaison sociale longue compldistribComplément de distribution numvoie Numéro de voie...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Servitudes d'Utilité Publique AC4 Zones de protection du patrimoine architectural et urbain</title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-ac4-zones-de-protection-du-patrimoine-architectural-et-urbain</link>
-     <description><![CDATA[Servitudes applicables dans les zones de protection autour des monuments historiques et dans les quartiers et sites à protéger ou à mettre en valeur pour des motifs d’ordre esthétique ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+     <title>Parcs Naturels Régionaux (PNR) 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/parcs-naturels-regionaux-pnr-2014-idf</link>
+     <description><![CDATA[Les Parcs naturels régionaux sont créés pour protéger et mettre en valeur de grands espaces ruraux habités.  Peut être classé "Parc naturel régional" un territoire à dominante rurale dont les paysages, les milieux naturels et le patrimoine culturel sont de grande qualité, mais dont l'équilibre est fragile.  Un Parc naturel régional s'organise autour d'un projet concerté de...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Servitudes d'Utilité Publique EL2 Défense contre les inondations</title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-el2-defense-contre-les-inondations</link>
-     <description><![CDATA[Défense contre les inondations - Servitudes en zones submersibles ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+     <title>Les lieux de diffusion du spectacle vivant dans le Val-d'Oise</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-lieux-de-diffusion-du-spectacle-vivant-dans-le-val-d-oise-idf</link>
+     <description><![CDATA[Ce jeu de données référence les lieux de diffusion régulière ou occasionnelle du spectacle vivant dans le Val-de-Marne. Structure des données nom de l'établissement ; adresse ; e-mail ; téléphone ; fax ; site internet ; géolocalisation (WGS84). ]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Servitudes d'Utilité Publique AS1 Conservation des eaux</title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-as1-conservation-des-eaux</link>
-     <description><![CDATA[Les périmètres de protection institués en vertu des articles L. 1321-2 et R. 1321-13 du Code de la Santé publique autour de points de prélèvement d’eau destinée à l'alimentation des collectivités humaines , en vue d'assurer la protection de la qualité de cette eau, qu’il s’agisse de captage d’eaux de source, d’eaux souterraines ou d’eaux superficielles (cours d’eau, lacs, retenues,…) Le...]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+     <title>Activités des médecins généralistes et MEP en 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/activites-des-medecins-generalistes-et-mep-en-2010-idf</link>
+     <description><![CDATA[Démographie des professionnels de santé : activités des médecins (actes) en Île-de-France en 2010. MEP = Modes d'exercice particulier "Un médecin ayant un mode d'exercice particulier est un médecin dont la spécialité n'est pas reconnue par la Sécurite sociale, telles l'acupuncture et l'homéopathie ou un médecin généraliste exerçant plusieurs disciplines pour lesquelles il a été...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Servitudes d'Utilité Publique INT1 Cimetières</title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-int1-cimetieres</link>
-     <description><![CDATA[Les servitudes résultant du voisinage d'un cimetière (servitude non aedificandi et servitudes relatives aux puits) instituées par l'article L.2223-5 du code général des collectivités territoriales s'étendent dans un rayon de 100 mètres autour du cimetière, et s'appliquent aux cimetières transférés hors des communes urbaines ou des périmètres d'agglomération (art. L.2223-1, alinéa 2, du code...]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+     <title>Carte des kiosques presse à Paris</title>
+     <link>https://www.data.gouv.fr/fr/dataset/carte-des-kiosques-presse-a-paris-idf</link>
+     <description><![CDATA[Liste des kiosques Parisiens en activité avec les horaires d'ouverture et fermeture. Liste établie par Médiakiosk. ]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Jeu TCL</title>
-     <link>https://www.data.gouv.fr/fr/dataset/jeu-tcl</link>
-     <description><![CDATA[Jeu TCL ]]></description>
-     <author>citoyen</author>
+     <title>Découpage morphologique de l'atlas rural et agricole</title>
+     <link>https://www.data.gouv.fr/fr/dataset/decoupage-morphologique-de-l-atlas-rural-et-agricole-idf</link>
+     <description><![CDATA[Ce jeu de données représente le découpage morphologique de l'Île-de-France, selon "l'atlas rural et agricole de l'Île-de-France".  Dans le même thème, il existe à l'IAU îdF (SDE/LIMITES.MORPHOLOGIE) le jeu de données représentant la limite entre le rural et l'urbain en Île-de-France : "atlas_rural_zone_urbaine".  Ce découpage réalisé par un groupe de travail de l'IAU îdF (DEUR), est...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Démographie des professionnels de santé 2012</title>
-     <link>https://www.data.gouv.fr/fr/dataset/demographie-des-professionnels-de-sante-2012</link>
-     <description><![CDATA[L'ensemble des informations relatives aux professionnels de santé libéraux sont présentées par région et par département, mode d'exercice, âge, sexe, pour l'année 2012. ]]></description>
-     <author>Caisse nationale de l'assurance maladie des travailleurs salariés (certifié)</author>
+     <title>Carte des missions locales</title>
+     <link>https://www.data.gouv.fr/fr/dataset/carte-des-missions-locales-idf</link>
+     <description><![CDATA[Les missions locales s'adressent à tous les jeunes de 16 à 25 ans qui rencontrent des difficultés, notamment en matière d'accès à l'emploi ou à la formation. Structure des données Département, nom de la structure, adresse, téléphone et géolocalisation (WGS84) ]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Cartes, cadastre, routes, forêts, relief et limites administratives</title>
-     <link>https://www.data.gouv.fr/fr/dataset/cartes-cadastre-routes-forets-relief-et-limites-administrativ-0</link>
-     <description><![CDATA[Cartes, parcelles cadastrales, routes, cartes de Cassini, carte forestière, carte du relief, bâtiments et limites administratives (source IGN). ]]></description>
-     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
+     <title>Localisation des sites de fouille archéologiques de l'Inrap</title>
+     <link>https://www.data.gouv.fr/fr/dataset/localisation-des-sites-de-fouille-archeologiques-de-l-inrap-idf</link>
+     <description><![CDATA[Ce jeu de données présente les localisations géographiques d’une sélection d’opérations de fouilles archéologiques préventives menées sur le territoire francilien par l’Inrap (Institut national de recherches archéologiques préventives). Structure des données :  géolocalisation (WGS84),  département, commune,  nom du site, dates de...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Comptes de la collectivité</title>
-     <link>https://www.data.gouv.fr/fr/dataset/comptes-de-la-collectivite</link>
-     <description><![CDATA[Chiffres Clés, Fonctionnement, Investissement, Fiscalité, Autofinancement, Endettement (source Ministère des Finances) ]]></description>
-     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
+     <title>Aides aux manifestations culturelles 2006-2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/aides-aux-manifestations-culturelles-2006-2013-idf</link>
+     <description><![CDATA[Le jeu de données concerne les aides aux manifestations culturelles de 2006 à 2013. Depuis 2005, la Région soutient des festivals et des manifestations artistiques d’envergure régionale par leur rayonnement géographique ou par le caractère innovant ou inédit du contenu. Ces manifestations s’accompagnent d’actions culturelles auprès des publics. En 2013, la Région a soutenu 67...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Emploi</title>
-     <link>https://www.data.gouv.fr/fr/dataset/empl-0</link>
-     <description><![CDATA[Chiffres clés Emploi - Population active sur le territoire (source INSEE) ]]></description>
-     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
+     <title>Geofla® - Départements</title>
+     <link>https://www.data.gouv.fr/fr/dataset/geofla-departements-idf</link>
+     <description><![CDATA[Découpage départemental de la région Île-de-France ]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Logement</title>
-     <link>https://www.data.gouv.fr/fr/dataset/logeme-0</link>
-     <description><![CDATA[Chiffres clés du logement sur le territoire (source INSEE) ]]></description>
-     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
+     <title>Points d'intérêts avec photos (projet balade) - 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/points-d-interets-avec-photos-projet-balade-2014-idf</link>
+     <description><![CDATA[Cette couche de points permet de recenser les points d’intérêts identifiés dans le cadre du projet de communication « balade en forêt ». Cette donnée est constituée sur le terrain avec l’aide de GPS et photo-interprétation. Légende des colonnes : *Nom Alias Type Description OBJECTID OBJECTID Identifiant d’objet Identifiant SDE...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Graphagri Régions</title>
-     <link>https://www.data.gouv.fr/fr/dataset/graphagri-regions</link>
-     <description><![CDATA[Multiples facettes de l’agriculture française, vision indispensable tant la spécialisation régionale est forte en ce domaine. Par thème, les résultats nationaux pour l’agriculture, les industries agroalimentaires, les forêts et les industries du bois: Emploi et agriculture, Exploitations agricoles, Moyens de production, Productions végétales, Productions animales, Comptes et revenus,...]]></description>
-     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
+     <title>Les marchés publics de fournitures en 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-marches-publics-de-fournitures-en-2013-idf</link>
+     <description><![CDATA[La liste des marchés publics de fournitures conclus par la Région Île-de-France en 2013. Seuils des marchés, attributaires et leur code postal, date de notification et objet du marché. ]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Population (INSEE)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/population-insee</link>
-     <description><![CDATA[Chiffres clés Évolution et structure de la population sur le territoire (données INSEE) ]]></description>
-     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
+     <title>Les communes d'Île-de-France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-communes-d-ile-de-france-idf</link>
+     <description><![CDATA[Ce jeu de données représente les communes de la Région Île-de-France issues de la base de donnée de l'IGN GEOFLA. Version : 1 ]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Graphagri France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/graphagri-france</link>
-     <description><![CDATA[Un panorama de l’agriculture, des industries agroalimentaires, de la forêt et de l’alimentation, avec tableaux, graphiques, cartes et commentaires. Données de cadrage, Territoire et climat, Structures et moyens de production agricoles, Population agricole, formation et recherche, Résultats économiques de l’agriculture, Entreprises agroalimentaires, Bois et sciages, Environnement,...]]></description>
-     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
+     <title>Aide à la résidence territoriale pour les arts de la rue et les arts du cirque 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/aide-a-la-residence-territoriale-pour-les-arts-de-la-rue-et-les-arts-du-cirque-2013-idf</link>
+     <description><![CDATA[Le jeu de données concerne les aides accordées en 2013 dans le cadre de l'aide à la résidence territoriale pour les arts de la rue et les arts du cirque. La résidence est entendue comme l’association d’un artiste ou d’une équipe artistique et d’une collectivité locale ou structure d’accueil autour d’un projet de résidence arts de la rue ou de la piste dans l’espace public. Il...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Avis et conseils janvier-mars 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/avis-et-conseils-janvier-mars-2013</link>
-     <description><![CDATA[Ce jeu de données contient les avis rendus par la Commission d'Accès aux Documents Administratifs (CADA) ainsi que ses conseils à destination des admnistrations, tels que défini par son rôle. Ces données ont été libérées suite à la décision n°25 du CIMAP du 18 Décembre 2013 concernant la suppression des redevances sur certains jeux de données. Sur la période 2005-2011, seuls les avis...]]></description>
-     <author>citoyen</author>
+     <title>Carte des pharmacies de Paris</title>
+     <link>https://www.data.gouv.fr/fr/dataset/carte-des-pharmacies-de-paris-idf</link>
+     <description><![CDATA[Liste des pharmacies parisiennes, leurs coordonnées, adresse et géolocalisation. (Source : FINESS ; septembre 2013)  Structure des données  nofinesset Numéro FINESS établissement  nofinessej Numéro FINESS entité juridique  rs Raison sociale  rslongue Raison sociale longue  compldistrib Complément de distribution  numvoie Numéro de...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Bilans d'approvisionnement</title>
-     <link>https://www.data.gouv.fr/fr/dataset/bilans-d-approvisionnement</link>
-     <description><![CDATA[Instrument de la gestion des marchés agricoles et de la politique agricole communautaires, les bilans d’approvisionnement sont établis par tous les pays membres de l’Union européenne. Le bilan, exprimé en quantités, décrit l’équilibre des ressources (stocks de début, production utilisable, importations) et des emplois (exportations, utilisations intérieures, stocks finals) pour un produit...]]></description>
-     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
+     <title>Dotation initiale à l’aide régionale à l’équipement pour les formations post-bac en 2013-2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/dotation-initiale-a-l-aide-regionale-a-l-equipement-pour-les-formations-post-bac-en-2013-2014-idf</link>
+     <description><![CDATA[L’objectif est d’aider les familles à acheter les équipements personnels nécessaires aux formations professionnelles.  Les bénéficiaires sont les élèves de 1ère année de BTS, sous condition de ressources, des filières « production » et de certaines spécialités des filières de service.  La Région verse une dotation aux établissements avant le début de l’année scolaire et fixe les...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Valeur vénale des terres</title>
-     <link>https://www.data.gouv.fr/fr/dataset/valeur-venale-des-terres</link>
-     <description><![CDATA[Prix des terres agricoles (terres et prés, et vignes), évolutions, principaux résultats. ]]></description>
-     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
+     <title>Arbres dans les parcs de la ville de Versailles</title>
+     <link>https://www.data.gouv.fr/fr/dataset/arbres-dans-les-parcs-de-la-ville-de-versailles-idf</link>
+     <description><![CDATA[Ce jeu de données décrit les différents arbres des squares, parcs et jardins de la ville de Versailles. ]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Couverture maladie universelle (CMU)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/couverture-maladie-universelle-cmu</link>
-     <description><![CDATA[Environ 4,10 millions de personnes affiliées au régime général bénéficient de la couverture complémentaire CMU. 40 % d'entre elles bénéficient également de l'affiliation à la CMU "de base" sous critère de résidence pour le régime obligatoire. ]]></description>
-     <author>Caisse nationale de l'assurance maladie des travailleurs salariés (certifié)</author>
+     <title>Répertoire de l'Orchestre national d'Île-de-France de 1995 à 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/repertoire-de-l-orchestre-national-d-ile-de-france-de-1995-a-2013-idf</link>
+     <description><![CDATA[Le répertoire recense, depuis 1995, les concerts donnés en Île-de-France par l'Orchestre national d'Île-de-France. Il comprend les œuvres données mais aussi les noms des chefs d'orchestre dirigeant l'Orchestre, les solistes invités, les dates et lieux des concerts. Créé en 1974, l'orchestre national d'Île-de-France a pour mission de diffuser la musique symphonique sur tout le...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Dépenses annuelles d'assurance maladie</title>
-     <link>https://www.data.gouv.fr/fr/dataset/depenses-annuelles-d-assurance-maladie</link>
-     <description><![CDATA[Rétrospective annuelle des dépenses d'assurance maladie par catégorie de professionnels de santé et pour chaque catégorie par acte ou par groupe d'actes. ]]></description>
-     <author>Caisse nationale de l'assurance maladie des travailleurs salariés (certifié)</author>
+     <title>Les services de santé par commune ou par arrondissement (base permanente des équipements)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-services-de-sante-par-commune-ou-par-arrondissement-base-permanente-des-equipements-idf</link>
+     <description><![CDATA[La base permanente des équipements (BPE), produite par l'INSEE, est destinée à fournir le niveau d'équipement et de services rendus par un territoire à la population. Ce jeu de données dénombre les service de santé au niveau communal (arrondissement de Paris et commune). Liste des variables : Établissement et services de santé  Établissement santé court séjour ;...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Produits de santé remboursés par l'assurance maladie </title>
-     <link>https://www.data.gouv.fr/fr/dataset/produits-de-sante-rembourses-par-l-assurance-maladie</link>
-     <description><![CDATA[L'étude, disponible ci-dessous en téléchargement, présente des informations détaillées sur les dispositifs médicaux inscrits à la liste des produits et prestations (LPP) remboursés au cours des années 2006 à 2012 (régime général - hors sections locales mutualistes - métropole). ]]></description>
-     <author>Caisse nationale de l'assurance maladie des travailleurs salariés (certifié)</author>
+     <title>Liste des espaces de retrait So Colissimo (sans horaires)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-espaces-de-retrait-so-colissimo-sans-horaires-idf</link>
+     <description><![CDATA[Ce jeu de données représente l'ensemble des points de contact éligibles au service So Colissimo, hors points relais Pick Up et espaces Courrier. Il comporte le référentiel des points : identifiant, nom, adresse, coordonnées géographiques (WGS) , un indicateur d’accessibilité aux personnes à mobilité réduites, et le type de point relais :  BPR = bureau de Poste relais  CIT =...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Actes de biologie médicale remboursés par l'asurance maladie </title>
-     <link>https://www.data.gouv.fr/fr/dataset/actes-de-biologie-medicale-rembourses-par-l-asurance-maladie</link>
-     <description><![CDATA[Les données BIOLAM 2010 - 2011 - 2012 présentent des informations détaillées sur les remboursements des actes de biologie médicale inscrits à la nomenclature des actes de biologie médicale. Le champ des données est celui des actes remboursés au cours des années 2010 à 2012 par le régime général en France métropolitaine, hors sections locales mutualistes. Source des données : DCIR - Données...]]></description>
-     <author>Caisse nationale de l'assurance maladie des travailleurs salariés (certifié)</author>
+     <title>Résidences de tourisme classées en Île-de-France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/residences-de-tourisme-classees-en-ile-de-france-idf</link>
+     <description><![CDATA[Liste des résidences de tourisme classées comprenant les données publiques mentionnées à l'article 5 de l'arrêté du 4 juin 2010 fixant les normes et la procédure de classement des résidences de tourisme. ]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Médicaments remboursés par l'assurance maladie</title>
-     <link>https://www.data.gouv.fr/fr/dataset/medicaments-rembourses-par-l-assurance-maladie</link>
-     <description><![CDATA[Medic'AM présente des informations détaillées sur les médicaments remboursés au cours des années 2008 à 2013 (Régime Général - Hors Sections Locales Mutualistes - Métropole). Ce tableau présente pour chaque médicament, par code CIP, les données suivantes : la base de remboursement ; le montant remboursé ; le dénombrement (nombre de boites remboursées) ; la base de remboursement...]]></description>
-     <author>Caisse nationale de l'assurance maladie des travailleurs salariés (certifié)</author>
+     <title>Ensemble des équipements sportifs d'Île-de-France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/ensemble-des-equipements-sportifs-d-ile-de-france-idf</link>
+     <description><![CDATA[Localisation des équipements sportifs d'Île-de-France. L'équipement comprendra le bassin de natation, la piste de saut en longueur quand la couche installation recensera plutôt les piscines et les stades d'athlétisme.  Version : 1 ]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Arbres remarquables</title>
-     <link>https://www.data.gouv.fr/fr/dataset/arbres-remarquabl-0</link>
-     <description><![CDATA[Listes des arbres remarquables de la commune de metz ]]></description>
-     <author>citoyen</author>
+     <title>Dotation de l’aide régionale aux frais de concours en 2013-2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/dotation-de-l-aide-regionale-aux-frais-de-concours-en-2013-2014-idf</link>
+     <description><![CDATA[L’objectif de l’aide est de pallier les difficultés financières liées au paiement des frais de concours (inscription, hébergement, transport) des élèves des classes préparatoires.  Les bénéficiaires sont les élèves de dernière année des CPGE des établissements publics, sous condition de ressources.  Le montant de l’aide régionale est plafonné par concours et limité à 3 concours...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Résultats consultation CNIL &#34;open data et données personnelles&#34;</title>
-     <link>https://www.data.gouv.fr/fr/dataset/resultats-consultation-cnil-open-data-et-donnees-personnelles</link>
-     <description><![CDATA[Pour compléter et élargir les débats de la journée « OpenCNIL » de juillet 2013, la CNIL a mené, au début de l’année 2014, une consultation publique: auprès des acteurs impliqués dans la mise en œuvre d’une plateforme ou d’une politique d’open data ; des producteurs ou gestionnaires d'informations publiques susceptibles d’être ouvertes ; des réutilisateurs à divers titres ; ainsi qu’auprès des...]]></description>
-     <author>CNIL</author>
+     <title>Les lieux de diffusion du spectacle vivant en Essonne</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-lieux-de-diffusion-du-spectacle-vivant-en-essonne-idf</link>
+     <description><![CDATA[Ce jeu de données référence les lieux de diffusion régulière ou occasionnelle du spectacle vivant en Essonne. Structure des données nom de l'établissement ; adresse ; e-mail ; téléphone ; fax ; site internet ; géolocalisation (WGS84). ]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Barèmes IPP - système social et fiscal français</title>
-     <link>https://www.data.gouv.fr/fr/dataset/baremes-ipp-systeme-social-et-fiscal-francais</link>
-     <description><![CDATA[L’Institut des politiques publiques (IPP) s’est donné pour mission de rassembler l’ensemble de la législation des politiques publiques en France dans une perspective historique et scientifique. L’objectif est d’en faciliter l’évaluation, l’analyse et la diffusion. En premier lieu, ces barèmes législatifs sont utilisés dans le modèle de microsimulation du système socio-fiscal de l’IPP, TAXIPP....]]></description>
-     <author>Institut des politiques publiques (IPP)</author>
+     <title>Les lieux de diffusion du spectacle vivant dans les Yvelines</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-lieux-de-diffusion-du-spectacle-vivant-dans-les-yvelines-idf</link>
+     <description><![CDATA[Ce jeu de données référence les lieux de diffusion régulière ou occasionnelle du spectacle vivant dans les Yvelines. Structure des données  nom de l'établissement ; adresse ; e-mail ; téléphone ; fax ; site internet ; géolocalisation (WGS84). ]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Activité des médecins libéraux</title>
-     <link>https://www.data.gouv.fr/fr/dataset/activite-des-medecins-liberaux</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Snir ]]></description>
-     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+     <title>Territorialisation des objectifs logement en Île-de-France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/territorialisation-des-objectifs-logement-en-ile-de-france-idf</link>
+     <description><![CDATA[Territorialisation des objectifs logements en Île-de-France. Le « bassin de territorialisation » est un territoire à l'échelle multicommunale qui intègre des logiques de fonctionnement locales (réalités géographiques, déplacements domicile-travail, périmètres de planification supra-communale -SCOT, PLH,...-). Version : 1 ]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Thématique: données de santé</title>
-     <link>https://www.data.gouv.fr/fr/dataset/thematique-donnees-de-sante</link>
-     <description><![CDATA[Cette page présente une compilation par l'équipe de data.gouv.fr de ressources en lien avec le thème de la santé. Vous y trouverez notamment: la cartographie des bases de données publiques de santé, réalisée par la mission Etalab dans le cadre du débat thématique, l'extraction du fichier national des établissements sanitaires et sociaux (FINESS), les catégories...]]></description>
-     <author>data.gouv.fr (certifié)</author>
+     <title>Territorialisation des objectifs logement en Île-de-France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/territorialisation-des-objectifs-logement-en-ile-de-france-idf</link>
+     <description><![CDATA[Territorialisation des objectifs logements en Île-de-France. Le « bassin de territorialisation » est un territoire à l'échelle multicommunale qui intègre des logiques de fonctionnement locales (réalités géographiques, déplacements domicile-travail, périmètres de planification supra-communale -SCOT, PLH,...-). Version : 1 ]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Participation aux municipales</title>
-     <link>https://www.data.gouv.fr/fr/dataset/participation-aux-municipales</link>
-     <description><![CDATA[Population, nombre d'inscrits sur les listes électorales, votants, exprimés, abstentionnistes par tours, nombre de candidats et listes, tous les chiffres de la participation aux municipales 2014 par communes (avec codes INSEE). Ce jeu de données a pu être construit grâce au croisement de ces deux jeux de données :...]]></description>
-     <author>IdeesLibres.org</author>
+     <title>Actions éducatives dans les lycées en 2012-2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/actions-educatives-dans-les-lycees-en-2012-2013-idf</link>
+     <description><![CDATA[Le jeu de données présente la liste des lycées participant aux actions éducatives durant l'année scolaire 2012-2013. Dans le cadre de sa politique en faveur de la réussite de tous les élèves et dans une visée d’accès à la citoyenneté pour tous, la Région a la responsabilité, aux côtés de l’Etat, de créer les conditions de la réussite au lycée.  Ainsi, dans la mesure où elle...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Densité des professionnels paramédicaux libéraux</title>
-     <link>https://www.data.gouv.fr/fr/dataset/densite-des-professionnels-paramedicaux-liberaux</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Snir ]]></description>
-     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+     <title>Bancs des parcs et jardins de la ville de Versailles</title>
+     <link>https://www.data.gouv.fr/fr/dataset/bancs-des-parcs-et-jardins-de-la-ville-de-versailles-idf</link>
+     <description><![CDATA[Ce jeu de données contient la position des bancs situés dans les parcs et jardins de Versailles ou sur le domaine public dans les zones arborées. ]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Agenda de la 1ère édition de la Journée des Arts et de la Culture dans l'Enseignement Supérieur</title>
-     <link>https://www.data.gouv.fr/fr/dataset/agenda-de-la-1ere-edition-de-la-journee-des-arts-et-de-la-culture-dans-l-enseignement-superieur</link>
-     <description><![CDATA[http://journee-arts-culture-sup.fr/ LA 1ÈRE ÉDITION LA CONVENTION CADRE « UNIVERSITÉ, LIEU DE CULTURE » Les ministères chargés de la culture et de l’enseignement supérieur et la Conférence des présidents d’université, ont signé en Avignon le 12 juillet 2013 : la convention cadre « Université, lieu de culture ». Cette convention met en lumière le rôle important que jouent les universités...]]></description>
-     <author>Cibul</author>
+     <title>Carte des pharmacies d'Île-de-France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/carte-des-pharmacies-d-ile-de-france-idf</link>
+     <description><![CDATA[Liste des pharmacies franciliennes, leurs coordonnées, adresse et géolocalisation. (Source : FINESS ; septembre 2013) Structure des données nofinessetNuméro FINESS établissement nofinessej Numéro FINESS entité juridique rsRaison sociale rslongueRaison sociale longue numvoie Numéro de voie typvoieType de voie voie Libellé...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Subventions de la ville de Lannion</title>
-     <link>https://www.data.gouv.fr/fr/dataset/subventions-de-la-ville-de-lannion</link>
-     <description><![CDATA[Subventions versées par la ville de Lannion entre 2008 et 2013 (évolution). Données pour 2013 et 2008. Infographie à retrouver sur le site de Lannion+ : http://lannionplus.fr/2014/04/10/infographie-subventions/ ]]></description>
-     <author>citoyen</author>
+     <title>La démarche Agenda 21 (points)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/la-demarche-agenda-21-points-idf</link>
+     <description><![CDATA[Chaque point représente le siège d'un organisme ou d'une collectivité qui conduit une démarche d'Agenda 21 (Région, CG, bailleur social, etc.) Un Agenda 21 local est une démarche participative à l'échelle d'un territoire, qui vise à élaborer et faire vivre un programme d'actions en faveur du développement durable. Le programme d'actions est lui-même mis à jour périodiquement....]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Avis et conseils de la CADA</title>
-     <link>https://www.data.gouv.fr/fr/dataset/avis-et-conseils-de-la-cada</link>
-     <description><![CDATA[Ce jeu de données contient les avis rendus par la Commission d'Accès aux Documents Administratifs (CADA) ainsi que ses conseils à destination des admnistrations, tels que défini par son rôle. Ces données ont été libérées suite à la décision n°25 du CIMAP du 18 Décembre 2013 concernant la suppression des redevances sur certains jeux de données. Sur la période 2005-2011, seuls les avis...]]></description>
-     <author>Commission d’accès aux documents administratifs (CADA) (certifié)</author>
+     <title>Diffusion des spectacles de danse contemporaine en Île-de-France, entre les saisons 2003/2004 et 2011/2012</title>
+     <link>https://www.data.gouv.fr/fr/dataset/diffusion-des-spectacles-de-danse-contemporaine-en-ile-de-france-entre-les-saisons-2003-2004-et-idf</link>
+     <description><![CDATA[Sources : tableaux mensuels réalisés par la Drac Île-de-France sur la diffusion de la danse, complétés à l’occasion de la consultation des compagnies de danse franciliennes en 2007 par Arcadi, à l’aide des plaquettes de saison des programmations des lieux et des festivals et d’autres sources (sites internet, magazine Danser). Ce travail a été poursuivi après 2007. Dans la...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>[Bretagne romantique] Patrimoine numérique du territoire </title>
-     <link>https://www.data.gouv.fr/fr/dataset/bretagne-romantique-patrimoine-numerique-du-territoire</link>
-     <description><![CDATA[Ce jeu de donné à pour vocation de référencer les équipements numériques à disposition des citoyens et des services de la communauté de communes. ]]></description>
-     <author>citoyen</author>
+     <title>Carte des pharmacies des Hauts-de-Seine</title>
+     <link>https://www.data.gouv.fr/fr/dataset/carte-des-pharmacies-des-hauts-de-seine-idf</link>
+     <description><![CDATA[Liste des pharmacies altoséquanaises, leurs coordonnées, adresse et géolocalisation. (Source : FINESS ; septembre 2013) Structure des données nofinessetNuméro FINESS établissement nofinessej Numéro FINESS entité juridique rsRaison sociale rslongueRaison sociale longue compldistribComplément de distribution numvoie Numéro de voie...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Servitudes d'utilité publique A7 Forêts de protection du Haut-Rhin</title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-a7-forets-de-protection-du-haut-rhin</link>
-     <description><![CDATA[Forêt de protection Servitude A7 (articles L.411-1 à L.413-1 du code forestier) Peuvent être classées comme forêts de protection, pour cause d'utilité publique (art L411-1 du code forestier) : les forêts dont la conservation est reconnue nécessaire au maintien des terres sur les montagnes et sur les pentes, à la défense contre les avalanches, les érosions et les envahissements des eaux et...]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+     <title>Dotation initiale de l’aide régionale à la demi-pension pour les formations pré-bac en 2013-2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/dotation-initiale-de-l-aide-regionale-a-la-demi-pension-pour-les-formations-pre-bac-en-2013-2014-idf</link>
+     <description><![CDATA[L’objectif de l’aide est de pallier les difficultés financières que rencontrent les familles de lycéens pour le paiement de la restauration scolaire.  Les bénéficiaires sont les lycéens des établissements publics.  Les modalités d’attribution individuelle de l’aide sont définies par le conseil d’administration du lycée mais déterminé en fonction d’un barème régional de quotient...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Forêts de protection du Bas-Rhin</title>
-     <link>https://www.data.gouv.fr/fr/dataset/forets-de-protection-du-bas-rhin</link>
-     <description><![CDATA[Forêt de protection (articles L.411-1 à L.413-1 du code forestier) échelle d'usage 1/25000 projection EPSG 2154 Peuvent être classées comme forêts de protection, pour cause d'utilité publique (art L411-1 du code forestier) : les forêts dont la conservation est reconnue nécessaire au maintien des terres sur les montagnes et sur les pentes, à la défense contre les avalanches, les érosions...]]></description>
-     <author>citoyen</author>
+     <title>Les lieux de diffusion du spectacle vivant en Île-de-France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-lieux-de-diffusion-du-spectacle-vivant-en-ile-de-france-idf</link>
+     <description><![CDATA[Ce jeu de données référence les lieux de diffusion régulière ou occasionnelle du spectacle vivant en Île-de-France. Structure des données nom de l'établissement ; adresse ; e-mail ; téléphone ; fax ; site internet ; géolocalisation (WGS84). ]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Les élus municipaux (version enrichie)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-elus-municipaux-version-enrichie</link>
-     <description><![CDATA[Ce jeu de données a pu être construit grâce au croisement de ces trois jeux de données : https://www.data.gouv.fr/fr/dataset/les-elus-municipaux https://www.data.gouv.fr/fr/dataset/les-resultats-du-premier-tour-des-municipales https://www.data.gouv.fr/fr/dataset/les-resultats-du-deuxieme-tour-des-municipales Une application cartographique a également été réalisée. Mise à jour : Pour...]]></description>
-     <author>IdeesLibres.org</author>
+     <title>Emploi au quart de 1968 à 2009 en Île-de-France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/emploi-au-quart-de-1968-a-2009-en-ile-de-france-idf</link>
+     <description><![CDATA[Emploi communal au quart de 1968 à 2010. Au recensement, les personnes actives ayant un emploi peuvent être comptées à leur lieu de résidence ou à leur lieu de travail.  Par opposition a lieu de résidence, on parle de population active ayant un emploi.  Version : 5 ]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Alimentation animale</title>
-     <link>https://www.data.gouv.fr/fr/dataset/alimentation-animale</link>
-     <description><![CDATA[Matières premières utilisées pour la fabrication d’aliments composés (sauf pour les aliments d’allaitement) - Matières premières utilisées pour la fabrication d’aliments d’allaitement - Matières premières utilisées pour la fabrication d’aliments minéraux - Matières premières utilisées pour la fabrication d’aliments composés selon le type de fabrication (sauf pour les aliments d’allaitement)...]]></description>
-     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
+     <title>Animation nature - 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/animation-nature-2014-idf</link>
+     <description><![CDATA[Cette donnée permet de recenser les animations nature et de localiser les points de rendez-vous. ]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Nuances politiques</title>
-     <link>https://www.data.gouv.fr/fr/dataset/nuances-politiques</link>
-     <description><![CDATA[Mise en codes INSEE du jeu de données de Sabine Blanc &amp; Julien Kirch concernant la mandature 2008-2014 des conseils municipaux français des villes de plus de 3500 habitants. ]]></description>
-     <author>IdeesLibres.org</author>
+     <title>Budget primitif (BP) - 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/budget-primitif-bp-2014-idf</link>
+     <description><![CDATA[Budget prévisionnel annuel de la région Île-de-France du niveau le plus global au niveau le plus fin. Le jeu comprend : le code secteur, le libellé secteur, le chapitre, la sous-fonction, le code fonctionnel, le programme, le type de contrat, le code action, le libellé action et le budget primitif en euros. Pour plus d'informations :  - Budget des collectivités | Collectivités...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Services publics44</title>
-     <link>https://www.data.gouv.fr/fr/dataset/services-publics44</link>
-     <description><![CDATA[je teste ]]></description>
-     <author>citoyen</author>
+     <title>Fichier FANTOIR des voies et lieux-dits 2013 - Seine-et-Marne</title>
+     <link>https://www.data.gouv.fr/fr/dataset/fichier-fantoir-des-voies-et-lieux-dits-2013-seine-et-marne-idf</link>
+     <description><![CDATA[Le fichier des voies et lieux-dits ou fichier FANTOIR recense par commune : les voies ; les lieux-dits ; les ensembles immobiliers ; les pseudo-voies. Il est constitué de l’ensemble des références topographiques qu’elles soient annulées ou actives. Cette extraction répertorie pour commune de Seine-et-Marne le nom des lieux-dits et des voies, y...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Evolution des dépenses de santé</title>
-     <link>https://www.data.gouv.fr/fr/dataset/evolution-des-depenses-de-sante</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Comptes de la santé, Drees ]]></description>
-     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+     <title>Aide à projet « Musiques actuelles et amplifiées » 2011-2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/aide-a-projet-musiques-actuelles-et-amplifiees-2011-2014-idf</link>
+     <description><![CDATA[Le jeu de données concerne le dispositif mis en œuvre en 2011 par la Région pour soutenir l’émergence, la création et la prise de risque artistique dans le domaine des musiques actuelles et amplifiées.  A travers cette aide, la Région souhaite soutenir la diversité des esthétiques de l’offre musicale régionale, soutenir l’émergence, la création et la prise de risque artistique,...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Les élus municipaux</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-elus-municipaux</link>
-     <description><![CDATA[Version CSV des XLS du Ministère de l'Intérieur (complet : communes de plus et moins de 1000 habitants) La mention obligatoire d’attribution doit être « Licence ODbL © IdeesLibres.org 04/2014, Ministère de l’Intérieur 03/2014 » avec les liens indiqués lors d’une publication en ligne. ]]></description>
-     <author>IdeesLibres.org</author>
+     <title>Bénéficiaires de la CMU de base par département (2007-2011)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/beneficiaires-de-la-cmu-de-base-par-departement-2007-2011-idf</link>
+     <description><![CDATA[La couverture maladie universelle de base permet l’accès à l’assurance maladie, pour la part obligatoire, pour toutes les personnes résidant en France de manière stable et régulière, et qui n’ont pas droit à l’assurance maladie à un autre titre (activité professionnelle, etc.). Les valeurs indiquées correspondent à la moyenne des effectifs sur les 12 mois de l'année concernée....]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Recueil des études scientifiques sur la cigarette électronique</title>
-     <link>https://www.data.gouv.fr/fr/dataset/recueil-des-etudes-scientifiques-sur-la-cigarette-electronique</link>
-     <description><![CDATA[Ce recueil liste l'ensemble des études scientifiques ayant un lien avec la cigarette électronique. Il a vocation à être actualisé régulièrement à partir d'une veille sur les principaux sites de recensement d'études. Il s'appuie fortement sur la bibliographie de la méta-étude sur la ecigarette et le eliquide de Farsalinos et Polosa. Des entrées peuvent également être suggérées en fonction des...]]></description>
-     <author>Veille sur la cigarette électronique - Absolut Vapor </author>
+     <title>Découpage en secteurs d'étude de l'Île-de-France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/decoupage-en-secteurs-d-etude-de-l-ile-de-france-idf</link>
+     <description><![CDATA[Découpage de la Région Île-de-France en 118 secteurs d'étude. Ce découpage correspond en grande partie à des limites de SCOT et/ou d'intercommunalité.  Lorsque les communes n'étaient pas couvertes par l'une ou l'autre de ces structures, le regroupement de communes s'est fait "à dire d'expert" en consultant les correspondants départementaux. Version : 2 ]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Elections municipales 2014 – Liste des élus (communes de moins de 1 000 habitants) </title>
-     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-liste-des-elus-communes-de-moins-de-1-000-habitants</link>
-     <description><![CDATA[Liste des élus aux élections municipales 2014, pour les communes de moins de 1 000 habitants (sous réserve de rectifications par le juge de l’élection) ]]></description>
-     <author>Ministère de l'Intérieur (certifié)</author>
+     <title>Les intercommunalités à fiscalité propre d'Île-de-France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-intercommunalites-a-fiscalite-propre-d-ile-de-france-idf</link>
+     <description><![CDATA[L'intercommunalité désigne les différentes formes de coopération existant entre les communes. L'intercommunalité permet aux communes de se regrouper au sein d'un établissement public de coopération intercommunale (EPCI).  L’intercommunalité, dite à fiscalité propre, est caractérisée par l'existence de compétences obligatoires et par une fiscalité propre. Version : 1 ]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Elections municipales 2014 – Liste des élus (communes de 1 000 habitants et plus) </title>
-     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-liste-des-elus-communes-de-1-000-habitants-et-plus</link>
-     <description><![CDATA[Liste des élus aux élections municipales 2014, pour les communes de 1 000 habitants et plus (sous réserve de rectifications par le juge de l’élection) ]]></description>
-     <author>Ministère de l'Intérieur (certifié)</author>
+     <title>La démarche Agenda 21 (polygones)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/la-demarche-agenda-21-polygones-idf</link>
+     <description><![CDATA[Un Agenda 21 local est une démarche participative à l'échelle d'un territoire, qui vise à élaborer et faire vivre un programme d'actions en faveur du développement durable. Le programme d'actions est lui-même mis à jour périodiquement. Le territoire peut être celui d'une commune, d'une CA (Communauté d'Agglomération), d'une CC (Communauté de Communes). Version : 1 ]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Elections municipales 2014 - Résultats 2ème tour </title>
-     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-resultats-2eme-to-0</link>
-     <description><![CDATA[Résultats des élections municipales 2014, tour 2, pour les communes de moins de 1 000 habitants (sous réserve de rectifications par le juge de l’élection) ]]></description>
-     <author>Ministère de l'Intérieur (certifié)</author>
+     <title>Patrimoine bâti historique - 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/patrimoine-bati-historique-2013-idf</link>
+     <description><![CDATA[Cette couche permet de recenser le bâti patrimonial. Cette donnée est relevée par les techniciens sur le terrain avec l’aide de GPS et par photo-interprétation. Légende des colonnes : *OBJECTID OBJECTID Identifiant d’objet Identifiant SDE N_BASE_BAT* N_BASE_BAT Entier long Identifiant du bâti de la base de données de gestion du bâti de l’AEV...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Elections municipales 2014 - Résultats 2ème tour </title>
-     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-resultats-2eme-tour</link>
-     <description><![CDATA[Résultats des élections municipales 2014, tour 2, pour les communes de 1 000 habitants et plus (sous réserve de rectifications par le juge de l’élection) ]]></description>
-     <author>Ministère de l'Intérieur (certifié)</author>
+     <title>Les lieux de diffusion du spectacle vivant en Seine-et-Marne</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-lieux-de-diffusion-du-spectacle-vivant-en-seine-et-marne-idf</link>
+     <description><![CDATA[Ce jeu de données référence les lieux de diffusion régulière ou occasionnelle du spectacle vivant en Seine-et-Marne. Structure des données : nom de l'établissement ; adresse ; e-mail ; téléphone ; fax ; site internet ; géolocalisation (WGS84). ]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Les résultats du deuxième tour des municipales</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-resultats-du-deuxieme-tour-des-municipales</link>
-     <description><![CDATA[Version CSV du XML du Ministère de l'Intérieur pour le 2ème tour (complet : communes de plus et moins de 1000 habitants) Le XML affichait le statut "clos" pour tous les départements français le 31/03 à deux heures du matin. Voici la version du fichier à cet instant. Des mises à jour sont à prévoir (par exemple, les résultats du 1er tour ont continués d'être consolidés par l'Intérieur durant...]]></description>
-     <author>IdeesLibres.org</author>
+     <title>Opérations d'intérêt national (OIN) d'Île-de-France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/operations-d-interet-national-oin-d-ile-de-france-idf</link>
+     <description><![CDATA[Ce jeu de données représente les Opérations d'intérêt national d'Île-de-France en 2011. Une opération d'intérêt national (OIN) est, en France, une opération d'urbanisme à laquelle s'applique un régime juridique particulier en raison de son intérêt majeur. Version : 1 ]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Résultats second tour élections municipales 2014 en live</title>
-     <link>https://www.data.gouv.fr/fr/dataset/resultats-second-tour-elections-municipales-2014-en-live</link>
-     <description><![CDATA[Résultats en temps réel sur le site du ministère de l'intérieur. A partir de 20h (j'imagine, comme pour le premier tour) ]]></description>
-     <author>citoyen</author>
+     <title>Fichier FANTOIR des voies et lieux-dits 2013 - Yvelines</title>
+     <link>https://www.data.gouv.fr/fr/dataset/fichier-fantoir-des-voies-et-lieux-dits-2013-yvelines-idf</link>
+     <description><![CDATA[Le fichier des voies et lieux-dits ou fichier FANTOIR recense par commune : les voies ; les lieux-dits ; les ensembles immobiliers ; les pseudo-voies. Il est constitué de l’ensemble des références topographiques qu’elles soient annulées ou actives. Cette extraction répertorie pour chaque commune des Yvelines le nom des lieux-dits et des voies,...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Les résultats du premier tour des municipales</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-resultats-du-premier-tour-des-municipales</link>
-     <description><![CDATA[Version CSV du XML (28/03/14 18h00) du Ministère de l'Intérieur pour le 1er tour (complet : communes de plus et moins de 1000 habitants). La mention obligatoire d’attribution doit être « Licence ODbL © IdeesLibres.org 04/2014, Ministère de l’Intérieur 03/2014 » avec les liens indiqués lors d’une publication en ligne. ]]></description>
-     <author>IdeesLibres.org</author>
+     <title>Périmètres des Projets de rénovation urbaine (PRU) d'Île-de-France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/perimetres-des-projets-de-renovation-urbaine-pru-d-ile-de-france-idf</link>
+     <description><![CDATA[Projets de renouvellement urbain de l’Agence Nationale pour le Renouvellement Urbain.  Version : 1 ]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Base de données et comparateur de la teneur en sel des produits industriels</title>
-     <link>https://www.data.gouv.fr/fr/dataset/base-de-donnees-et-comparateur-de-la-teneur-en-sel-des-produits-industriels</link>
-     <description><![CDATA[Le site moins-de-sel.fr exploite une version adaptée de la base de données Open Food Facts pour mettre en avant la teneur en sel des produits industriels. Le site permet ainsi au consommateur de mieux choisir parmi ces produits, en particulier dans le contexte d’un régime pauvre en sel. ]]></description>
-     <author>citoyen</author>
+     <title>Aide à la résidence de musiques actuelles et au développement d’artistes 2011-2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/aide-a-la-residence-de-musiques-actuelles-et-au-developpement-d-artistes-2011-2013-idf</link>
+     <description><![CDATA[Le jeu de données concerne le dispositif mis en œuvre en 2011 pour soutenir des projets de résidence de musiques actuelles en Île-de-France qui favorisent l’insertion professionnelle de jeunes artistes et l’émergence de nouveaux talents, la création et la prise de risque artistique.  La Région souhaite accompagner les équipes artistiques en termes administratif, artistique et/ou...]]></description>
+     <author>Région Île-de-France (certifié)</author>
   </item>
  </channel>
 </rss>
