@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 23 Apr 2014 16:10:02 +0200</pubDate>
+  <pubDate>Wed, 23 Apr 2014 16:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Données de l’Institut de Veille Sanitaire sur la surveillance liée au syndrome grippal</title>
+     <link>https://www.data.gouv.fr/fr/dataset/donnees-de-l-institut-de-veille-sanitaire-sur-la-surveillance-liee-au-syndrome-grippal</link>
+     <description><![CDATA[Données recueillies auprès de l’InVS pendant la période de surveillance (le plus souvent, semaine 40 à semaine 15 de l’année suivante), en métropole, des cas graves admis en réanimation par saison et par région et des cas groupés d’infection respiratoire aiguë basse en collectivité de personnes âgées par saison. Le découpage en régions correspond au découpage en cellules de surveillance de...]]></description>
+     <author>CELTIPHARM</author>
+  </item>
   <item>
      <title>Liste des marchés conclus 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-marches-conclus-2013</link>
@@ -358,12 +364,6 @@
      <title>Aide à projet arts de la rue et arts du cirque 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/aide-a-projet-arts-de-la-rue-et-arts-du-cirque-2013-idf</link>
      <description><![CDATA[Le jeu de données concerne les aides accordées en 2013 dans le cadre de l'aide à projet arts de la rue et arts du cirque.  Bénéficiaires  Peuvent être bénéficiaires de cette aide régionale les acteurs du champ des arts de la rue et du cirque et agissant pour le développement de la création, de la production et de la diffusion des œuvres dans l’espace public : compagnies, collectif...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Mode d'occupation du sol (MOS) en 11 postes en 2012</title>
-     <link>https://www.data.gouv.fr/fr/dataset/mode-d-occupation-du-sol-mos-en-11-postes-en-2012-idf</link>
-     <description><![CDATA[Mode d'occupation du sol en Ile de France en 2012 en 11 postes de légende au pas de 25m. Le Mos (Modes d'Occupation du Sol) est l'atlas cartographique informatisé de l'occupation du sol de l'Île-de-France. Actualisé régulièrement depuis sa première édition de 1982, le Mos permet de suivre et d'analyser en détail l'évolution de l'occupation du sol sur tout le territoire Régional....]]></description>
      <author>Région Île-de-France (certifié)</author>
   </item>
  </channel>
