@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 23 Apr 2014 18:30:02 +0200</pubDate>
+  <pubDate>Wed, 23 Apr 2014 18:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Nombre de magistrats des chambres régionales et territoriales des comptes (CRTC), par grade (2010-2013)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-magistrats-des-chambres-regionales-et-territoriales-des-comptes-crtc-par-grade-2010-2013</link>
+     <description><![CDATA[Les chambres régionales et territoriales des comptes exercent à titre principal sur les collectivités territoriales et leurs établissements publics une triple compétence de jugement des comptes des comptables publics, d’examen de la gestion et de contrôle budgétaire. Elles ont aussi une mission d’évaluation des politiques publiques et des conditions de leur mise en œuvre au niveau local par...]]></description>
+     <author>Cour des comptes (certifié)</author>
+  </item>
+  <item>
+     <title>Positions administratives des magistrats de la Cour des comptes (2010-2013)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/positions-administratives-des-magistrats-de-la-cour-des-comptes-2010-2013</link>
+     <description><![CDATA[Les carrières des magistrats à la Cour des comptes peuvent les amener à changer de position administrative. S'ils débutent nécessairement comme personnel de contrôle en service à la Cour, ils peuvent notamment être détachés ou mis à disposition auprès d'une autre administration. Certains magistrats sont détachés dans les fonctions de chef de juridiction en chambre régionale ou territoriale des...]]></description>
+     <author>Cour des comptes (certifié)</author>
+  </item>
   <item>
      <title>Effectifs de la Cour des comptes, par type de grade ou d'affectation (2011-2013)</title>
      <link>https://www.data.gouv.fr/fr/dataset/effectifs-de-la-cour-des-comptes-par-type-de-grade-ou-d-affectation-2011-2013</link>
@@ -352,18 +364,6 @@
      <title>Adresses des panneaux d'affichage des Conseils de Quartier</title>
      <link>https://www.data.gouv.fr/fr/dataset/adresses-des-panneaux-d-affichage-des-conseils-de-quartier-prs</link>
      <description><![CDATA[Liste des panneaux d'affichage des Conseils de Quartier. Le jeu de données précise: - Le type de panneau - L'adresse - Le conseil de quartier responsable du panneau - Les personnes à contacter Les lignes vides dans le jeu de données signifient qu'il n'y a pas de panneaux dans l'arrondissement en question. Consultez l'annuaire des coordinateurs des conseils de quartier :...]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Petits Marchands sur l'espace public en 2011</title>
-     <link>https://www.data.gouv.fr/fr/dataset/petits-marchands-sur-l-espace-public-en-2011-prs</link>
-     <description><![CDATA[Liste des commerçants autorisés et exerçant sur la voie publique. Le jeu de données comprend la localisation du stand, le type d'activité exercée et les horaires d'activité autorisés. A noter qu'il existe un autre jeu de donnée mis à jour. ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Liste des marchés de services passés par le Département de Paris</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-marches-de-services-passes-par-le-departement-de-paris-prs</link>
-     <description><![CDATA[Le jeu de données comprend les marchés de services passés par le Département de Paris, de 2009 à 2013. Ce jeu de données comprend: l'année -le n° national de marché le nom du titulaire le code postal l'objet du marché le montant la date de notif ]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
