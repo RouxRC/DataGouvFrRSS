@@ -4,14 +4,8 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 23 Apr 2014 12:20:02 +0200</pubDate>
+  <pubDate>Wed, 23 Apr 2014 12:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
-  <item>
-     <title>Liste des ouvrages des bibliothèques en janvier 2009</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-ouvrages-des-bibliotheques-en-janvier-2009-prs</link>
-     <description><![CDATA[Liste des ouvrages (notice bibliographique et localisation) dans les bibliothèques parisiennes au 02/01/2009 ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
   <item>
      <title>Liste des marchés de fournitures passés par la Ville de Paris</title>
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-marches-de-fournitures-passes-par-la-ville-de-paris-prs</link>
@@ -364,6 +358,12 @@
      <title>Bassins versants élémentaires</title>
      <link>https://www.data.gouv.fr/fr/dataset/bassins-versants-elementaires-2-idf</link>
      <description><![CDATA[L'AESN (Agence de l'Eau Seine Normandie), en partenariat avec l'IAU îdF, a fait numériser l'hydrographie de surface de la Région Ile de France à partir des cartes IGN au 1/25.000. Le jeu de données des bassins versants couvre la totalité du territoire de l'Île-de-France. Elle a été réalisée à partir des informations d'hydrographie préparées par l'Agence de l'Eau Seine...]]></description>
+     <author>Région Île-de-France (certifié)</author>
+  </item>
+  <item>
+     <title>Activités des médecins spécialistes et autres PSL en 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/activites-des-medecins-specialistes-et-autres-psl-en-2010-idf</link>
+     <description><![CDATA[Démographie des professionnels de santé : activités des médecins (actes) en Île-de-France en 2010. PSL = Professionnels de santé libéraux ]]></description>
      <author>Région Île-de-France (certifié)</author>
   </item>
  </channel>
