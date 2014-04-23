@@ -4,8 +4,38 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 22 Apr 2014 19:00:02 +0200</pubDate>
+  <pubDate>Wed, 23 Apr 2014 12:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Liste des jardins partagés à Paris</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-jardins-partages-a-paris-prs</link>
+     <description><![CDATA[Jeu de données listant l'ensemble des jardins partagés de Paris. ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Détail du Bâti</title>
+     <link>https://www.data.gouv.fr/fr/dataset/detail-du-bati-prs</link>
+     <description><![CDATA[Données de type vecteur décrivant :accès piéton, accès véhicule, seuil de porte, rampe d'accès, escalier extérieur, terrasse, etc. ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Consultations des centres de santé à Paris</title>
+     <link>https://www.data.gouv.fr/fr/dataset/consultations-des-centres-de-sante-a-paris-prs</link>
+     <description><![CDATA[Des professionnels médicaux, paramédicaux et sociaux accueillent et proposent des consultations de médecine générale et spécialisée, ou dentaires, des examens radiologiques et échographiques, des soins infirmiers et de pédicure, des informations et des conseils de prévention. Le jeu de données comprend toutes les consultations proposées par les centres de santé du réseau paris...]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Panneaux d'affichages associatifs</title>
+     <link>https://www.data.gouv.fr/fr/dataset/panneaux-d-affichages-associatifs-prs</link>
+     <description><![CDATA[Liste des panneaux d'affichage associatifs par arrondissement, comportant la géolocalisation et le format du panneau ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Découpage NUTS-2 des régions européennes</title>
+     <link>https://www.data.gouv.fr/fr/dataset/decoupage-nuts-2-des-regions-europeennes</link>
+     <description><![CDATA[Parmi les trois niveaux de «Nomenclature des unités territoriales statistiques» d'Eurostat, voici le niveau 2 (NUTS-2), destiné à comparer les régions européennes entre elles. Source : http://nuts.geovocab.org/id/nuts2.html ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Espérance de vie à la naissance par région en France</title>
      <link>https://www.data.gouv.fr/fr/dataset/esperance-de-vie-a-la-naissance-par-region-en-france</link>
@@ -40,6 +70,12 @@
      <title>Élections municipales 2014 - résultats 1er tour</title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-resultats-1er-tour-idf</link>
      <description><![CDATA[Résultats des élections municipales 2014, tour 1, pour les communes franciliennes de 1000 habitants et plus (sous réserve de rectifications par le juge de l'élection) ]]></description>
+     <author>Région Île-de-France (certifié)</author>
+  </item>
+  <item>
+     <title>Points d'intérêt de la ville d'Issy-les-Moulineaux</title>
+     <link>https://www.data.gouv.fr/fr/dataset/points-d-interet-de-la-ville-d-issy-les-moulineaux-idf</link>
+     <description><![CDATA[Les points d'intérêt géolocalisés à Issy-les-Moulineaux: Administrations, bureaux de poste, cimetières, secours Education (écoles maternelles et élémentaires, collèges, lycées...) Cadre de vie (aires de jeux, arbres remarquables, conteneurs à verre, jardins, parcs, squares...) Hôtels et chambres d'hôtes Petite enfance (crèches,...]]></description>
      <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
@@ -259,6 +295,12 @@
      <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
+     <title>Voyageurs montant en gare sur le réseau Transilien</title>
+     <link>https://www.data.gouv.fr/fr/dataset/voyageurs-montant-en-gare-sur-le-reseau-transilien-2-idf</link>
+     <description><![CDATA[Nombre de voyageurs montant par gare chaque jour (pour un jour de semaine en période scolaire) dans les trains des lignes SNCF Transilien, sous forme d'une fourchette de valeurs. Libellé de la gare : Libellé de la gare Code UIC : Code unique de la gare. Ce code correspond à celui utilisé dans les autres fichiers présentant des données sur les gares...]]></description>
+     <author>Région Île-de-France (certifié)</author>
+  </item>
+  <item>
      <title>Accessibilité des équipements de la Ville de Paris</title>
      <link>https://www.data.gouv.fr/fr/dataset/accessibilite-des-equipements-de-la-ville-de-paris-idf</link>
      <description><![CDATA[Ce jeu de données recense les équipements accessibles de la Ville de Paris. Il détaille : le type d'équipement le nom de l'équipement l'adresse complète le type de handicap Consultez la notice en pièce jointe, définissant les niveaux d'accessibilité de chaque équipement. ]]></description>
@@ -322,48 +364,6 @@
      <title>Réseau hydrographique principal simplifié d'Île-de-France</title>
      <link>https://www.data.gouv.fr/fr/dataset/reseau-hydrographique-principal-simplifie-d-ile-de-france-idf</link>
      <description><![CDATA[Ce jeu de données représente le réseau hydrographique principal de la Région Île-de-France, simplifié par généralisation du tracé. L'AESN (Agence de l'Eau Seine Normandie), en partenariat avec l'IAU-ÎdF, a fait numériser l'hydrographie de surface de la Région Île-de-France. Ce jeu de données représente le réseau hydrologique linéaire d'Île-de-France en 2002.  Version : 1 ]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Carte des acteurs du numérique - Techonmap</title>
-     <link>https://www.data.gouv.fr/fr/dataset/carte-des-acteurs-du-numerique-techonmap-idf</link>
-     <description><![CDATA[Collecte contributive de données permettant de cartographier l'ensemble des acteurs participant de l'écosystème du numérique en Ile-de-France répartis en 8 catégories. Contact : techonmap@lafonderie-idf.fr ]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Élections municipales 2014 - Les candidats du 2e tour (communes de moins de 1000 hab.)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-les-candidats-du-2e-tour-communes-de-moins-de-1000-hab-idf</link>
-     <description><![CDATA[Élections municipales 2014, 2ème tour : liste des candidats dans les communes franciliennes de moins de 1000 habitants. Ces listes sont publiées sous réserve d’erreurs de saisies éventuelles. ]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>RATP - Trafic annuel entrant par station sur le réseau ferré (2012)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/ratp-trafic-annuel-entrant-par-station-sur-le-reseau-ferre-2012-idf</link>
-     <description><![CDATA[Ce jeu de donnée détaille le trafic des entrants directs sur le réseau ferré RATP. ]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Population communale Active totale (au quart) en Île-de-France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/population-communale-active-totale-au-quart-en-ile-de-france-idf</link>
-     <description><![CDATA[Population communale active de 1962 à 2010 (au 1/4). La population active regroupe les actifs ayant un emploi et les chômeurs (hors militaires du contingent). En 1999 le recensement de la population distinguait d’entrée les situations d’emploi et les situations de non emploi. Cela excluait a priori d’enregistrer des situations mixtes telles que des étudiants qui travaillaient...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Les contrats de développement territorial</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-contrats-de-developpement-territorial-idf</link>
-     <description><![CDATA[Le contrat de développement territorial est un projet de territoire assorti d'un programme d'action sur les thèmes de l'économie, du logement, du transport et de l'environnement en lien avec la mise en place du réseau de transport du Grand Paris Express. Le projet de CDT fait l'objet d'une évaluation environnementale. Il donne lieu à une enquête publique et à signature des...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Itinéraire promenade (projet balade) - 2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/itineraire-promenade-projet-balade-2014-idf</link>
-     <description><![CDATA[Linéaire représentant les étapes du parcours identifié dans le cadre du projet de communication « balade en forêt ». Chaque ligne correspond à un tronçon reliant deux points d’intérêt. Cette donnée est issue de la composante route de la BDTOPO de l’IGN et complétée par les techniciens APEN. Cette donnée a été corrigée par la mission SIG et le service communication. Légendes des...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Les lieux de diffusion du spectacle vivant dans le Val-de-Marne</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-lieux-de-diffusion-du-spectacle-vivant-dans-le-val-de-marne-idf</link>
-     <description><![CDATA[Ce jeu de données référence les lieux de diffusion régulière ou occasionnelle du spectacle vivant dans le Val-de-Marne. Structure des données nom de l'établissement ; adresse ; e-mail ; téléphone ; fax ; site internet ; géolocalisation (WGS84). ]]></description>
      <author>Région Île-de-France (certifié)</author>
   </item>
  </channel>
