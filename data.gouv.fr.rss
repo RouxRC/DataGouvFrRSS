@@ -4,8 +4,134 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 23 Apr 2014 16:40:02 +0200</pubDate>
+  <pubDate>Wed, 23 Apr 2014 17:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Principaux établissements d'enseignement supérieur</title>
+     <link>https://www.data.gouv.fr/fr/dataset/principaux-etablissements-d-enseignement-superieur-mesr</link>
+     <description><![CDATA[Caractéristiques des principaux établissements d'enseignement supérieur. Situation au 1er janvier 2014. ]]></description>
+     <author>Enseignement Supérieur et Recherche (certifié)</author>
+  </item>
+  <item>
+     <title>Institutions partenaires des pôles étudiants pour l'innovation, le transfert et l'entrepreneuriat (PEPITE)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/institutions-partenaires-des-poles-etudiants-pour-l-innovation-le-transfert-et-l-entrepreneuria-mesr</link>
+     <description><![CDATA[Liste des institutions partenaires des pôles étudiants pour l'innovation, le transfert et l'entrepreneuriat (PEPITE) ]]></description>
+     <author>Enseignement Supérieur et Recherche (certifié)</author>
+  </item>
+  <item>
+     <title>Les membres de l'Institut universitaire de France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-membres-de-l-institut-universitaire-de-france-mesr</link>
+     <description><![CDATA[Ce jeu de données présente la liste des nouveaux membres actifs de l'Institut universitaire de France (IUF) par année d'intégration. ]]></description>
+     <author>Enseignement Supérieur et Recherche (certifié)</author>
+  </item>
+  <item>
+     <title>Écoles supérieures du professorat et de l'éducation : Parcours des masters Métiers de l’enseignement, de l’éducation et de la formation</title>
+     <link>https://www.data.gouv.fr/fr/dataset/ecoles-superieures-du-professorat-et-de-l-education-parcours-des-masters-metiers-de-l-enseignem-mesr</link>
+     <description><![CDATA[Ce jeu de données permet d'identifier les parcours des masters Métiers de l’enseignement, de l’éducation et de la formation proposées dans les implantations des Écoles supérieures du professorat et de l'éducation. ]]></description>
+     <author>Enseignement Supérieur et Recherche (certifié)</author>
+  </item>
+  <item>
+     <title>Effectifs d'étudiants inscrits dans les établissements publics sous tutelle du ministère en charge de l’Enseignement supérieur et de la Recherche</title>
+     <link>https://www.data.gouv.fr/fr/dataset/effectifs-d-etudiants-inscrits-dans-les-etablissements-publics-sous-tutelle-du-ministere-en-cha-mesr</link>
+     <description><![CDATA[Ce jeu de données présente les effectifs d’étudiants inscrits dans les établissements publics d'enseignement supérieur sous tutelle du Ministère en charge de l'enseignement supérieur et de la recherche de 2006-2007 à 2012-2013. Les données sont tirées du système d'information sur le suivi de l'étudiant (SISE). Les inscriptions sont observées à la date du 15 janvier, sauf pour...]]></description>
+     <author>Enseignement Supérieur et Recherche (certifié)</author>
+  </item>
+  <item>
+     <title>Écoles supérieures du professorat et de l'éducation : Implantations et parcours MEEF proposés</title>
+     <link>https://www.data.gouv.fr/fr/dataset/ecoles-superieures-du-professorat-et-de-l-education-implantations-et-parcours-meef-proposes-mesr</link>
+     <description><![CDATA[Ce jeu de données permet de localiser les implantations et l'offre de formation des Écoles supérieures du professorat et de l'éducation. ]]></description>
+     <author>Enseignement Supérieur et Recherche (certifié)</author>
+  </item>
+  <item>
+     <title>Contrats signés du programme-cadre de recherche et développement technologique (7ème PCRDT) de la Commission européenne</title>
+     <link>https://www.data.gouv.fr/fr/dataset/contrats-signes-du-programme-cadre-de-recherche-et-developpement-technologique-7eme-pcrdt-de-la-mesr</link>
+     <description><![CDATA[Ce jeu de données contient le nombre de contrats signés dans le cadre du 7ème PCRDT à la date du 21 février 2014. Données complémentaires dans Participations dans les contrats signés du programme-cadre recherche et développement technologique (7ème PCRDT) de la Commission européenne ]]></description>
+     <author>Enseignement Supérieur et Recherche (certifié)</author>
+  </item>
+  <item>
+     <title>Effectifs d’étudiants inscrits dans les établissements et les formations de l’enseignement supérieur</title>
+     <link>https://www.data.gouv.fr/fr/dataset/effectifs-d-etudiants-inscrits-dans-les-etablissements-et-les-formations-de-l-enseignement-supe-mesr</link>
+     <description><![CDATA[Ce jeu de données présente les effectifs d’étudiants inscrits dans les établissements et les formations de l’enseignement supérieur, recensés pour les années 2001-2002 à 2012-13 dans les systèmes d’information et enquêtes du ministère de l’Éducation nationale, de l’Enseignement supérieur et de la Recherche, des ministères en charge de l’Agriculture, de la Pêche, de la Culture, de...]]></description>
+     <author>Enseignement Supérieur et Recherche (certifié)</author>
+  </item>
+  <item>
+     <title>Structures de transfert et de valorisation</title>
+     <link>https://www.data.gouv.fr/fr/dataset/structures-de-transfert-et-de-valorisation-mesr</link>
+     <description><![CDATA[Ce jeu de données présente la liste exhaustive des incubateurs publics soutenus par le ministère de l'Education nationale, de l'Enseignement supérieur et de la Recherche, des plateformes technologiques (PFT), des centres de ressources technologiques (CRT), des centres de développement technologique (CDT), des sociétés d'accélération du transfert de technologies (SATT), des...]]></description>
+     <author>Enseignement Supérieur et Recherche (certifié)</author>
+  </item>
+  <item>
+     <title>Les moyens consacrés à la R&amp;D : Les administrations par type d'organisme</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-moyens-consacres-a-la-r-d-les-administrations-par-type-d-organisme-mesr</link>
+     <description><![CDATA[Ce jeu de données présente les moyens financiers et humains consacrés à la recherche et au développement des administrations par zone géographique, année, type d'organisme et type de personnel. ]]></description>
+     <author>Enseignement Supérieur et Recherche (certifié)</author>
+  </item>
+  <item>
+     <title>Les moyens consacrés à la R&amp;D : Les entreprises par taille</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-moyens-consacres-a-la-r-d-les-entreprises-par-taille-mesr</link>
+     <description><![CDATA[Ce jeu de données présente les moyens financiers et humains consacrés à la recherche et au développement dans les entreprises par zone géographique, année, taille et type de personnel. ]]></description>
+     <author>Enseignement Supérieur et Recherche (certifié)</author>
+  </item>
+  <item>
+     <title>Insertion professionnelle des diplômés de Master en universités et établissements assimilés</title>
+     <link>https://www.data.gouv.fr/fr/dataset/insertion-professionnelle-des-diplomes-de-master-en-universites-et-etablissements-assimiles-mesr</link>
+     <description><![CDATA[Ces données sont basées sur les données collectées dans le cadre de l'opération nationale de collecte de données sur l’insertion professionnelle des diplômés de Master. Cette enquête a été menée en décembre 2012, 30 mois après l’obtention de leur diplôme, auprès de 47 500 diplômés de Master de la session 2010. Le taux d’insertion est défini comme étant le pourcentage de diplômés...]]></description>
+     <author>Enseignement Supérieur et Recherche (certifié)</author>
+  </item>
+  <item>
+     <title>Les moyens consacrés à la R&amp;D : Les entreprises par intensité technologique</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-moyens-consacres-a-la-r-d-les-entreprises-par-intensite-technologique-mesr</link>
+     <description><![CDATA[Ce jeu de données présente les moyens financiers et humains consacrés à la recherche et au développement dans les entreprises par zone géographique, année, intensité technologique et type de personnel. ]]></description>
+     <author>Enseignement Supérieur et Recherche (certifié)</author>
+  </item>
+  <item>
+     <title>Les moyens consacrés à la R&amp;D : Les administrations et les entreprises</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-moyens-consacres-a-la-r-d-les-administrations-et-les-entreprises-mesr</link>
+     <description><![CDATA[Ce jeu de données présente les moyens financiers et humains consacrés à la recherche et au développement dans les administrations et les entreprises. Ces moyens sont ventilés par zone géographique, année, type d'organisme et type de personnel. ]]></description>
+     <author>Enseignement Supérieur et Recherche (certifié)</author>
+  </item>
+  <item>
+     <title>Les moyens consacrés à la R&amp;D : Les entreprises par branche d'activité</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-moyens-consacres-a-la-r-d-les-entreprises-par-branche-d-activite-mesr</link>
+     <description><![CDATA[Ce jeu de données présente les moyens financiers et humains consacrés à la recherche et au développement dans les entreprises par zone géographique, année, branche d'activité et type de personnel ]]></description>
+     <author>Enseignement Supérieur et Recherche (certifié)</author>
+  </item>
+  <item>
+     <title>Indicateurs des contrats du 7ème PCRDT par pays 2007-2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/indicateurs-des-contrats-du-7eme-pcrdt-par-pays-2007-2013-mesr</link>
+     <description><![CDATA[Indicateurs de participations, de contributions allouées, de nombre de projets, de coordinations de projets et poids international de chaque pays sur la période du FP7. ]]></description>
+     <author>Enseignement Supérieur et Recherche (certifié)</author>
+  </item>
+  <item>
+     <title>Les moyens consacrés à la R&amp;D : les EPST et les EPIC</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-moyens-consacres-a-la-r-d-les-epst-et-les-epic-mesr</link>
+     <description><![CDATA[Ce jeu de données présente les moyens financiers et humains consacrés à la recherche et au développement des EPST et des EPIC par région, année, type d'organisme et type de personnel. ]]></description>
+     <author>Enseignement Supérieur et Recherche (certifié)</author>
+  </item>
+  <item>
+     <title>Écoles supérieures du professorat et de l'éducation : Concours d'enseignement visés</title>
+     <link>https://www.data.gouv.fr/fr/dataset/ecoles-superieures-du-professorat-et-de-l-education-concours-d-enseignement-vises-mesr</link>
+     <description><![CDATA[Ce jeu de données permet d'identifier les implantations des Écoles supérieures du professorat et de l'éducation préparant aux concours d'enseignement selon le type de concours visé, la section et l'option. ]]></description>
+     <author>Enseignement Supérieur et Recherche (certifié)</author>
+  </item>
+  <item>
+     <title>Liste des écoles doctorales accréditées</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-ecoles-doctorales-accreditees-mesr</link>
+     <description><![CDATA[Ce jeu de données présente la liste exhaustive de toutes les écoles doctorales françaises accréditées par le Ministère de l'Éducation nationale, de l'Enseignement supérieur et de la Recherche ]]></description>
+     <author>Enseignement Supérieur et Recherche (certifié)</author>
+  </item>
+  <item>
+     <title>Les bénéficiaires de la prime d'excellence scientifique</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-beneficiaires-de-la-prime-d-excellence-scientifique-mesr</link>
+     <description><![CDATA[Ce jeu de données présente les effectifs des bénéficiaires de la prime d'excellence scientifique (ex prime d'encadrement doctoral et de recherche) par sexe, secteur CNU, corps et établissement. ]]></description>
+     <author>Enseignement Supérieur et Recherche (certifié)</author>
+  </item>
+  <item>
+     <title>Saisines des chambres régionales et territoriales des comptes, par année et type de saisine (2008-2013)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/saisines-des-chambres-regionales-et-territoriales-des-comptes-par-annee-et-type-de-saisine-2008-2013</link>
+     <description><![CDATA[Nombre de saisines dont ont fait l'objet les chambres régionales et territoriales des comptes (CRTC) chaque année, de 2008 à 2013. Les principaux motifs de saisine sont au nombre de six : les saisines en cas de budget non voté dans le délai légal (art. L. 1612-2 du code général des collectivités territoriales) ; les saisines en cas de budget voté en déséquilibre réel (art. L. 1612-5...]]></description>
+     <author>Cour des comptes (certifié)</author>
+  </item>
   <item>
      <title>Données de l’Institut de Veille Sanitaire sur la surveillance liée au syndrome grippal</title>
      <link>https://www.data.gouv.fr/fr/dataset/donnees-de-l-institut-de-veille-sanitaire-sur-la-surveillance-liee-au-syndrome-grippal</link>
@@ -239,132 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-prenoms-2004-a-2013-prs</link>
      <description><![CDATA[Liste des prénoms déclarés à l'état-civil de 2009 à 2013. Un "X" dans la case "sexe" signifie que le prénom est mixte et que le sexe n'est pas spécifié. ]]></description>
      <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Filiation des voies actuelles</title>
-     <link>https://www.data.gouv.fr/fr/dataset/filiation-des-voies-actuelles-prs</link>
-     <description><![CDATA[Informations sur l'origine et les dénominations successives des voies parisiennes ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Liste des cafés à un euro</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-cafes-a-un-euro-prs</link>
-     <description><![CDATA[La liste des cafés à un euro de Paris. La colonne MAJ correspond à la date de contribution. Ce jeu de données est totalement crowdsourcé. N'hésitez pas à participer à l'enrichissement de ce jeu de données ici: https://docs.google.com/spreadsheet/viewform?formkey=dGNHWl83NzJvUm9USk1NZVkzWENRUUE6MQ ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Attractions foraines sur l'espace public</title>
-     <link>https://www.data.gouv.fr/fr/dataset/attractions-foraines-sur-l-espace-public-prs</link>
-     <description><![CDATA[Manèges et jeux forains autorisés sur l'espace public parisien. Le jeu de données comprend la localisation du l'attraction, le type d'attraction et les horaires d'activité autorisés. A noter que le jeu de données " Attractions foraines sur l'espace public en 2011" ne sera plus mis à jour. Il faudra désormais se réferer à ce jeu de donnée pour les futures mises à jour. ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Nomenclature des voies actuelles</title>
-     <link>https://www.data.gouv.fr/fr/dataset/nomenclature-des-voies-actuelles-prs</link>
-     <description><![CDATA[Informations sur l'origine et les dénominations successives des voies parisiennes Exemple(s) de réutilisation(s) des données : - Cartographie sur http://www.govdata.eu/samples/Paris/ParisHistoRuesBing.html ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Panneaux indicateurs de signalisation routière et piétonne</title>
-     <link>https://www.data.gouv.fr/fr/dataset/panneaux-indicateurs-de-signalisation-routiere-et-pietonne-prs</link>
-     <description><![CDATA[Données de type vecteur, décrivant les panneaux indicateurs de signalisation routière et piétonne : poteaux indicateur, potelet piéton, panneaux indicateur... ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>les 1000 titres les plus empruntés par bibliothèque en 2012</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-1000-titres-les-plus-empruntes-par-bibliotheque-en-2012-prs</link>
-     <description><![CDATA[Les 1000 références les plus empruntées en 2012, par bibliothèque ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Les 1000 titres les plus réservés en 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-1000-titres-les-plus-reserves-en-2013-prs</link>
-     <description><![CDATA[Les 1000 références les plus réservées en 2013 au sein des bibliothèques municipales de la ville de Paris. La mise de ce jeu de données est semestrielle. En pièce jointe, vous trouverez le même fichier au format xls contenant les liens vers les oeuvres. ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Liste des marchés de services passés par la Ville de Paris</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-marches-de-services-passes-par-la-ville-de-paris-prs</link>
-     <description><![CDATA[Le jeu de données comprend les marchés de fournitures passés par la Ville de Paris, de 2009 à 2013. Ce jeu de données comprend: l'année le n° national de marché le nom du titulaire le code postal l'objet du marché le montant la date de notif ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Liste des jardins partagés à Paris</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-jardins-partages-a-paris-prs</link>
-     <description><![CDATA[Jeu de données listant l'ensemble des jardins partagés de Paris. ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Détail du Bâti</title>
-     <link>https://www.data.gouv.fr/fr/dataset/detail-du-bati-prs</link>
-     <description><![CDATA[Données de type vecteur décrivant :accès piéton, accès véhicule, seuil de porte, rampe d'accès, escalier extérieur, terrasse, etc. ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Consultations des centres de santé à Paris</title>
-     <link>https://www.data.gouv.fr/fr/dataset/consultations-des-centres-de-sante-a-paris-prs</link>
-     <description><![CDATA[Des professionnels médicaux, paramédicaux et sociaux accueillent et proposent des consultations de médecine générale et spécialisée, ou dentaires, des examens radiologiques et échographiques, des soins infirmiers et de pédicure, des informations et des conseils de prévention. Le jeu de données comprend toutes les consultations proposées par les centres de santé du réseau paris...]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Panneaux d'affichages associatifs</title>
-     <link>https://www.data.gouv.fr/fr/dataset/panneaux-d-affichages-associatifs-prs</link>
-     <description><![CDATA[Liste des panneaux d'affichage associatifs par arrondissement, comportant la géolocalisation et le format du panneau ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Découpage NUTS-2 des régions européennes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/decoupage-nuts-2-des-regions-europeennes</link>
-     <description><![CDATA[Parmi les trois niveaux de «Nomenclature des unités territoriales statistiques» d'Eurostat, voici le niveau 2 (NUTS-2), destiné à comparer les régions européennes entre elles. Source : http://nuts.geovocab.org/id/nuts2.html ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Espérance de vie à la naissance par région en France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/esperance-de-vie-a-la-naissance-par-region-en-france</link>
-     <description><![CDATA[Espérance de vie par région françaises de 2000 à 2011 avec les évolutions. Comparez l’espérance de vie entre chaque région et la France. En 2011 l’espérance de vie en France est de 83.7 ans. Pour les hommes elle est de 80.5 ans, pour les femmes 86.6 ans. Sur ce tableau, si vous êtes un homme, il convient donc d’enlever 3 ans; si vous êtes une femme il faut ajouter 3 ans. Description: Nombre...]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Jeux de données - Région Île-de-France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-region-ile-de-france-idf</link>
-     <description><![CDATA[Les jeux de données collectés par data.gouv.fr sur la plateforme Région Île-de-France ]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Fichier FANTOIR des voies et lieux-dits 2013 - Val-d'Oise</title>
-     <link>https://www.data.gouv.fr/fr/dataset/fichier-fantoir-des-voies-et-lieux-dits-2013-val-d-oise-idf</link>
-     <description><![CDATA[Le fichier des voies et lieux-dits ou fichier FANTOIR recense par commune : les voies ; les lieux-dits ; les ensembles immobiliers ; les pseudo-voies. Il est constitué de l’ensemble des références topographiques qu’elles soient annulées ou actives. Cette extraction répertorie pour commune du Val-d'Oise le nom des lieux-dits et des voies, y...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Carte des pharmacies du Val-de-Marne</title>
-     <link>https://www.data.gouv.fr/fr/dataset/carte-des-pharmacies-du-val-de-marne-idf</link>
-     <description><![CDATA[Liste des pharmacies val-de-marnaises, leurs coordonnées, adresse et géolocalisation. (Source : FINESS ; septembre 2013) Structure des données nofinessetNuméro FINESS établissement nofinessej Numéro FINESS entité juridique rsRaison sociale rslongueRaison sociale longue compldistribComplément de distribution numvoie Numéro de voie...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Autoroutes et voies rapides simplifiées en Île-de-France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/autoroutes-et-voies-rapides-simplifiees-en-ile-de-france-idf</link>
-     <description><![CDATA[Ce jeu de données contient l'ensemble des autoroutes et voies rapides simplifiées par généralisation. Les discontinuités et arcs pendants ont été corrigés, aussi cette couche ne représente pas l'exhaustivité de la donnée autoroutes et voies rapides. Certains tronçons ont été allongés pour assurer une continuité visuelle.  Version : 1 ]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Élections municipales 2014 - résultats 1er tour</title>
-     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-resultats-1er-tour-idf</link>
-     <description><![CDATA[Résultats des élections municipales 2014, tour 1, pour les communes franciliennes de 1000 habitants et plus (sous réserve de rectifications par le juge de l'élection) ]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Points d'intérêt de la ville d'Issy-les-Moulineaux</title>
-     <link>https://www.data.gouv.fr/fr/dataset/points-d-interet-de-la-ville-d-issy-les-moulineaux-idf</link>
-     <description><![CDATA[Les points d'intérêt géolocalisés à Issy-les-Moulineaux: Administrations, bureaux de poste, cimetières, secours Education (écoles maternelles et élémentaires, collèges, lycées...) Cadre de vie (aires de jeux, arbres remarquables, conteneurs à verre, jardins, parcs, squares...) Hôtels et chambres d'hôtes Petite enfance (crèches,...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Aide à projet arts de la rue et arts du cirque 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/aide-a-projet-arts-de-la-rue-et-arts-du-cirque-2013-idf</link>
-     <description><![CDATA[Le jeu de données concerne les aides accordées en 2013 dans le cadre de l'aide à projet arts de la rue et arts du cirque.  Bénéficiaires  Peuvent être bénéficiaires de cette aide régionale les acteurs du champ des arts de la rue et du cirque et agissant pour le développement de la création, de la production et de la diffusion des œuvres dans l’espace public : compagnies, collectif...]]></description>
-     <author>Région Île-de-France (certifié)</author>
   </item>
  </channel>
 </rss>
