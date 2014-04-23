@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 23 Apr 2014 18:50:02 +0200</pubDate>
+  <pubDate>Wed, 23 Apr 2014 19:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Effectifs des chambres régionales et territoriales des comptes, par chambre et type d'affectation (2012-2013)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/effectifs-des-chambres-regionales-et-territoriales-des-comptes-par-chambre-et-type-d-affectation-201</link>
+     <description><![CDATA[Les juridictions financières comptent plus de 1800 professionnels. Ils sont dédiés au jugement des comptes des comptables publics, au contrôle du bon emploi des fonds publics et à l'évaluation des politiques publiques. Ils travaillent à la Cour des comptes à Paris, dans quinze sites interrégionaux et régionaux en métropole, ainsi que dans quatre sites ultramarins. Ces collaborateurs présentent...]]></description>
+     <author>Cour des comptes (certifié)</author>
+  </item>
   <item>
      <title>Positions administratives des magistrats de chambres régionales et territoriales des comptes (2010-2013)</title>
      <link>https://www.data.gouv.fr/fr/dataset/positions-administratives-des-magistrats-de-chambres-regionales-et-territoriales-des-comptes-2010-20</link>
@@ -358,12 +364,6 @@
      <title>Relief naturel</title>
      <link>https://www.data.gouv.fr/fr/dataset/relief-naturel-prs</link>
      <description><![CDATA[Données de type vecteur décrivant crête ou pied de talus durs, sens d'écoulement,... Exemple(s) de réutilisation(s) des données : - Cartographie sur http://demo.3liz.fr/opendataparis ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Mobiliers de voies routières de type barriere</title>
-     <link>https://www.data.gouv.fr/fr/dataset/mobiliers-de-voies-routieres-de-type-barriere-prs</link>
-     <description><![CDATA[Données de type vecteur décrivant : barrières piétons, garde-corps, glissière, poteau ... ]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
