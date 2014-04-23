@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 23 Apr 2014 17:50:02 +0200</pubDate>
+  <pubDate>Wed, 23 Apr 2014 18:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Effectifs de la Cour des comptes, par type de grade ou d'affectation (2011-2013)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/effectifs-de-la-cour-des-comptes-par-type-de-grade-ou-d-affectation-2011-2013</link>
+     <description><![CDATA[Les juridictions financières comptent plus de 1800 professionnels. Ils sont dédiés au jugement des comptes des comptables publics, au contrôle du bon emploi des fonds publics et à l'évaluation des politiques publiques. Ils travaillent à la Cour des comptes à Paris, dans quinze sites interrégionaux et régionaux en métropole, ainsi que dans quatre sites ultramarins. Ces collaborateurs présentent...]]></description>
+     <author>Cour des comptes (certifié)</author>
+  </item>
   <item>
      <title>Productions des chambres régionales et territoriales des comptes, par chambre régionale et par type de production (2010-2013)</title>
      <link>https://www.data.gouv.fr/fr/dataset/productions-des-chambres-regionales-et-territoriales-des-comptes-par-chambre-regionale-et-par-type-d</link>
@@ -358,12 +364,6 @@
      <title>Liste des marchés de services passés par le Département de Paris</title>
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-marches-de-services-passes-par-le-departement-de-paris-prs</link>
      <description><![CDATA[Le jeu de données comprend les marchés de services passés par le Département de Paris, de 2009 à 2013. Ce jeu de données comprend: l'année -le n° national de marché le nom du titulaire le code postal l'objet du marché le montant la date de notif ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Résultats de l'élection municipale 2014 2ème tour</title>
-     <link>https://www.data.gouv.fr/fr/dataset/resultats-de-l-election-municipale-2014-2eme-tour-prs</link>
-     <description><![CDATA[Résultats du 2ème tour des élections Municipales de 2014 ]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
