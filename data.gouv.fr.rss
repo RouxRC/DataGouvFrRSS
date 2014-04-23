@@ -4,8 +4,278 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 23 Apr 2014 12:10:02 +0200</pubDate>
+  <pubDate>Wed, 23 Apr 2014 12:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Liste des ouvrages des bibliothèques en janvier 2009</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-ouvrages-des-bibliotheques-en-janvier-2009-prs</link>
+     <description><![CDATA[Liste des ouvrages (notice bibliographique et localisation) dans les bibliothèques parisiennes au 02/01/2009 ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Liste des marchés de fournitures passés par la Ville de Paris</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-marches-de-fournitures-passes-par-la-ville-de-paris-prs</link>
+     <description><![CDATA[Le jeu de données comprend les marchés de fournitures passés par la Ville de Paris, de 2009 à 2013. Ce jeu de données comprend: l'année le n° national de marché le nom du titulaire le code postal l'objet du marché le montant la date de notif ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Liste des marchés de travaux passés par la Ville de Paris</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-marches-de-travaux-passes-par-la-ville-de-paris-prs</link>
+     <description><![CDATA[Le jeu de données comprend les marchés des travaux passés par la Ville de Paris, de 2009 à 2013. Ce jeu de données comprend: l'année le n° national de marché le nom du titulaire le code postal l'objet du marché le montant la date de notif ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Les 1000 titres les plus recherchés en 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-1000-titres-les-plus-recherches-en-2013-prs</link>
+     <description><![CDATA[Les 1000 références les plus recherchées en 2013 au sein des bibliothèques municipales de la ville de Paris. La mise de ce jeu de données est semestrielle. En pièce jointe, vous trouverez le même fichier au format xls contenant les liens vers les oeuvres. ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Liste des marchés de fournitures passés par le Département de Paris</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-marches-de-fournitures-passes-par-le-departement-de-paris-prs</link>
+     <description><![CDATA[Le jeu de données comprend les marchés de fournitures passés passés le Département de Paris, de 2009 à 2013. Ce jeu de données précise: l'année le n° national de marché le nom du titulaire le code postal l'objet du marché le montant la date de notif ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Résultats électoraux</title>
+     <link>https://www.data.gouv.fr/fr/dataset/resultats-electoraux-prs</link>
+     <description><![CDATA[Résultats des élections, Présidentielles, Législatives, Municipales, Européennes et Régionales de 2007 à 2014 par arrondissement, bureau et candidat ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Parc de stationnement en sous sol</title>
+     <link>https://www.data.gouv.fr/fr/dataset/parc-de-stationnement-en-sous-sol-prs</link>
+     <description><![CDATA[Liste de tous les parcs de stationnement en sous-sol concédés à Paris. Le jeu de données comprend de nombreuses données : - Nom - Adresse - Caractéristiques et services du parc Nom , site internet et téléphone du délégataire Places pour les personnes à mobilité réduite Horaires Accès selon les véhicules Tarification selon le...]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Résultats de l'élection municipale 2014 1er tour</title>
+     <link>https://www.data.gouv.fr/fr/dataset/resultats-de-l-election-municipale-2014-1er-tour-prs</link>
+     <description><![CDATA[Résultats du 1er tour des élections Municipales de 2014 ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Liste des bureaux de vote : voies de Paris</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-bureaux-de-vote-voies-de-paris-prs</link>
+     <description><![CDATA[Résultats des élections, Présidentielles, Législatives, Municipales, Européennes et Régionales. Exemple(s) de réutilisation(s) des données : - Cartographie sur http://mounirsimon.com/dequelbord/ ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Distributeurs de préservatifs à Paris</title>
+     <link>https://www.data.gouv.fr/fr/dataset/distributeurs-de-preservatifs-a-paris-prs</link>
+     <description><![CDATA[Equipements municipaux qui hébergent un distributeur de préservatifs masculins à prix réduit (1€ les 5 préservatifs). Le jeu de données comprend l'adresse et les horaires d'ouverture des équipements. ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Liste des marchés de quartier à Paris</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-marches-de-quartier-a-paris-prs</link>
+     <description><![CDATA[Liste des marchés de quartier en 2012 avec : • Adresse du site • Jours et horaires d'ouverture (ils sont fixes) • Type du marché : alimentaires couverts,alimentaires découverts,fleurs,timbres,création,puces,biologique ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Cheminement d'assainissement</title>
+     <link>https://www.data.gouv.fr/fr/dataset/cheminement-d-assainissement-prs</link>
+     <description><![CDATA[Données de type vecteur, décrivant la partie routière du réseau d'assainissement. ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Poteaux divers sur voie publique</title>
+     <link>https://www.data.gouv.fr/fr/dataset/poteaux-divers-sur-voie-publique-prs</link>
+     <description><![CDATA[Données de type vecteur, décrivant des poteaux divers sur voie publique ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Attractions foraines sur l'espace public en 2011</title>
+     <link>https://www.data.gouv.fr/fr/dataset/attractions-foraines-sur-l-espace-public-en-2011-prs</link>
+     <description><![CDATA[Manèges et jeux forains autorisés sur l'espace public parisien. Le jeu de données comprend la localisation du l'attraction, le type d'attraction et les horaires d'activité autorisés. A noter qu'il existe un autre jeu de donnée mis à jour. ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Liste des kiosques presse, théâtre et Loto</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-kiosques-presse-theatre-et-loto-2-prs</link>
+     <description><![CDATA[Liste des kiosques théatre, loto et presse sur l'espace public parisien. Le jeu de données comprend : - le type de kiosque - l'adresse du kiosque - certains horaires d'ouverture. A noter, Open Data Paris propose également un autre fichier comprenant uniquement les kiosques de presse mais plus précis sur les horaires d'ouverture. Exemples de réutilisations: - Kiosques à...]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Les 1000 titres les plus empruntés de 2012</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-1000-titres-les-plus-empruntes-de-2012-prs</link>
+     <description><![CDATA[Les 1000 références les plus empruntées en 2012 au sein des bibliothèques municipales de la ville de Paris. ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Trottoirs des rues de Paris</title>
+     <link>https://www.data.gouv.fr/fr/dataset/trottoirs-des-rues-de-paris-prs</link>
+     <description><![CDATA[Données de type vecteur décrivant les trottoirs parisiens. Exemple(s) de réutilisation(s) des données : - Cartographie sur http://demo.3liz.fr/opendataparis ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>les 1000 titres les plus empruntés de 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-1000-titres-les-plus-empruntes-de-2013-prs</link>
+     <description><![CDATA[Les 1000 références les plus empruntées en 2013 au sein des bibliothèques municipales de la ville de Paris. La mise de ce jeu de données est semestrielle. En pièce jointe, vous trouverez le même fichier au format xls contenant les liens vers les oeuvres. ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Liste des prénoms masculins en 2012</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-prenoms-masculins-en-2012-prs</link>
+     <description><![CDATA[Liste des prénoms déclarés à l'état-civil en 2012 ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Liste des prénoms par année</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-prenoms-par-annee-prs</link>
+     <description><![CDATA[Liste des prénoms déclarés à l'état-civil par année Exemple(s) de réutilisation(s) des données : - Datavisualisations sur http://notjustbi.wordpress.com/2011/01/28/les-prenoms-des-petits-parisiens/ ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Zones de rattachement des bureaux de vote en 2012</title>
+     <link>https://www.data.gouv.fr/fr/dataset/zones-de-rattachement-des-bureaux-de-vote-en-2012-prs</link>
+     <description><![CDATA[Zones de rattachement des bureaux de vote en 2012 ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Bornes et Arceaux de Stationnement à Paris</title>
+     <link>https://www.data.gouv.fr/fr/dataset/bornes-et-arceaux-de-stationnement-a-paris-prs</link>
+     <description><![CDATA[Données de type vecteur décrivant des bornes: à vélo, d'amarrage, rabattable, les épingles moto, arceaux pour véhicules... ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Zones de rattachement des bureaux de vote en 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/zones-de-rattachement-des-bureaux-de-vote-en-2014-prs</link>
+     <description><![CDATA[Zones de rattachement des bureaux de vote en 2014 ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Liste des bureaux de vote : liste des points adresse</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-bureaux-de-vote-liste-des-points-adresse-prs</link>
+     <description><![CDATA[]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Liste des prénoms féminins en 2012</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-prenoms-feminins-en-2012-prs</link>
+     <description><![CDATA[Liste des prénoms déclarés à l'état-civil en 2012 ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Stations et espaces AutoLib de la métropole parisienne</title>
+     <link>https://www.data.gouv.fr/fr/dataset/stations-et-espaces-autolib-de-la-metropole-parisienne-prs</link>
+     <description><![CDATA[Ce jeu de données comprend:  l'Identifiant DSP le nom de la station le Code postal Ville Latitude &amp; Longitude le type de station l'emplacement les places Autolib'  les places "Recharge tiers" le nombre total de places ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Arrêtés municipaux d'insalubrité - 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/arretes-municipaux-d-insalubrite-2010-prs</link>
+     <description><![CDATA[Arrêté municipaux d'insalubrité de mise en demeure à 1 mois ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Liste des marchés de travaux passés par le Département de Paris</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-marches-de-travaux-passes-par-le-departement-de-paris-prs</link>
+     <description><![CDATA[Le jeu de données comprend les marchés de travaux passés par le Département de Paris, de 2009 à 2013. Ce jeu de données comprend: l'année le n° national de marché le nom du titulaire le code postal l'objet du marché le montant la date de notif ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Murs et Clôtures</title>
+     <link>https://www.data.gouv.fr/fr/dataset/murs-et-clotures-prs</link>
+     <description><![CDATA[Données de type vecteur décrivant les murs en dur, les entrées de métro, les grilles ou clôtures. ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Relief naturel</title>
+     <link>https://www.data.gouv.fr/fr/dataset/relief-naturel-prs</link>
+     <description><![CDATA[Données de type vecteur décrivant crête ou pied de talus durs, sens d'écoulement,... Exemple(s) de réutilisation(s) des données : - Cartographie sur http://demo.3liz.fr/opendataparis ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Mobiliers de voies routières de type barriere</title>
+     <link>https://www.data.gouv.fr/fr/dataset/mobiliers-de-voies-routieres-de-type-barriere-prs</link>
+     <description><![CDATA[Données de type vecteur décrivant : barrières piétons, garde-corps, glissière, poteau ... ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Adresses des panneaux d'affichage des Conseils de Quartier</title>
+     <link>https://www.data.gouv.fr/fr/dataset/adresses-des-panneaux-d-affichage-des-conseils-de-quartier-prs</link>
+     <description><![CDATA[Liste des panneaux d'affichage des Conseils de Quartier. Le jeu de données précise: - Le type de panneau - L'adresse - Le conseil de quartier responsable du panneau - Les personnes à contacter Les lignes vides dans le jeu de données signifient qu'il n'y a pas de panneaux dans l'arrondissement en question. Consultez l'annuaire des coordinateurs des conseils de quartier :...]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Petits Marchands sur l'espace public en 2011</title>
+     <link>https://www.data.gouv.fr/fr/dataset/petits-marchands-sur-l-espace-public-en-2011-prs</link>
+     <description><![CDATA[Liste des commerçants autorisés et exerçant sur la voie publique. Le jeu de données comprend la localisation du stand, le type d'activité exercée et les horaires d'activité autorisés. A noter qu'il existe un autre jeu de donnée mis à jour. ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Liste des marchés de services passés par le Département de Paris</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-marches-de-services-passes-par-le-departement-de-paris-prs</link>
+     <description><![CDATA[Le jeu de données comprend les marchés de services passés par le Département de Paris, de 2009 à 2013. Ce jeu de données comprend: l'année -le n° national de marché le nom du titulaire le code postal l'objet du marché le montant la date de notif ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Résultats de l'élection municipale 2014 2ème tour</title>
+     <link>https://www.data.gouv.fr/fr/dataset/resultats-de-l-election-municipale-2014-2eme-tour-prs</link>
+     <description><![CDATA[Résultats du 2ème tour des élections Municipales de 2014 ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Références les plus réservées en 2011</title>
+     <link>https://www.data.gouv.fr/fr/dataset/references-les-plus-reservees-en-2011-prs</link>
+     <description><![CDATA[Les Références les plus réservées en 2011 par les usagers dans le catalogue des bibliothèques de prêt ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Liste des prénoms 2004 à 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-prenoms-2004-a-2013-prs</link>
+     <description><![CDATA[Liste des prénoms déclarés à l'état-civil de 2009 à 2013. Un "X" dans la case "sexe" signifie que le prénom est mixte et que le sexe n'est pas spécifié. ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Filiation des voies actuelles</title>
+     <link>https://www.data.gouv.fr/fr/dataset/filiation-des-voies-actuelles-prs</link>
+     <description><![CDATA[Informations sur l'origine et les dénominations successives des voies parisiennes ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Liste des cafés à un euro</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-cafes-a-un-euro-prs</link>
+     <description><![CDATA[La liste des cafés à un euro de Paris. La colonne MAJ correspond à la date de contribution. Ce jeu de données est totalement crowdsourcé. N'hésitez pas à participer à l'enrichissement de ce jeu de données ici: https://docs.google.com/spreadsheet/viewform?formkey=dGNHWl83NzJvUm9USk1NZVkzWENRUUE6MQ ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Attractions foraines sur l'espace public</title>
+     <link>https://www.data.gouv.fr/fr/dataset/attractions-foraines-sur-l-espace-public-prs</link>
+     <description><![CDATA[Manèges et jeux forains autorisés sur l'espace public parisien. Le jeu de données comprend la localisation du l'attraction, le type d'attraction et les horaires d'activité autorisés. A noter que le jeu de données " Attractions foraines sur l'espace public en 2011" ne sera plus mis à jour. Il faudra désormais se réferer à ce jeu de donnée pour les futures mises à jour. ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Nomenclature des voies actuelles</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nomenclature-des-voies-actuelles-prs</link>
+     <description><![CDATA[Informations sur l'origine et les dénominations successives des voies parisiennes Exemple(s) de réutilisation(s) des données : - Cartographie sur http://www.govdata.eu/samples/Paris/ParisHistoRuesBing.html ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Panneaux indicateurs de signalisation routière et piétonne</title>
+     <link>https://www.data.gouv.fr/fr/dataset/panneaux-indicateurs-de-signalisation-routiere-et-pietonne-prs</link>
+     <description><![CDATA[Données de type vecteur, décrivant les panneaux indicateurs de signalisation routière et piétonne : poteaux indicateur, potelet piéton, panneaux indicateur... ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>les 1000 titres les plus empruntés par bibliothèque en 2012</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-1000-titres-les-plus-empruntes-par-bibliotheque-en-2012-prs</link>
+     <description><![CDATA[Les 1000 références les plus empruntées en 2012, par bibliothèque ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Les 1000 titres les plus réservés en 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-1000-titres-les-plus-reserves-en-2013-prs</link>
+     <description><![CDATA[Les 1000 références les plus réservées en 2013 au sein des bibliothèques municipales de la ville de Paris. La mise de ce jeu de données est semestrielle. En pièce jointe, vous trouverez le même fichier au format xls contenant les liens vers les oeuvres. ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Liste des marchés de services passés par la Ville de Paris</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-marches-de-services-passes-par-la-ville-de-paris-prs</link>
+     <description><![CDATA[Le jeu de données comprend les marchés de fournitures passés par la Ville de Paris, de 2009 à 2013. Ce jeu de données comprend: l'année le n° national de marché le nom du titulaire le code postal l'objet du marché le montant la date de notif ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
   <item>
      <title>Liste des jardins partagés à Paris</title>
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-jardins-partages-a-paris-prs</link>
@@ -79,12 +349,6 @@
      <author>Région Île-de-France (certifié)</author>
   </item>
   <item>
-     <title>Points d'intérêt de la ville d'Issy-les-Moulineaux</title>
-     <link>https://www.data.gouv.fr/fr/dataset/points-d-interet-de-la-ville-d-issy-les-moulineaux-idf</link>
-     <description><![CDATA[Les points d'intérêt géolocalisés à Issy-les-Moulineaux: Administrations, bureaux de poste, cimetières, secours Education (écoles maternelles et élémentaires, collèges, lycées...) Cadre de vie (aires de jeux, arbres remarquables, conteneurs à verre, jardins, parcs, squares...) Hôtels et chambres d'hôtes Petite enfance (crèches,...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
      <title>Aide à projet arts de la rue et arts du cirque 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/aide-a-projet-arts-de-la-rue-et-arts-du-cirque-2013-idf</link>
      <description><![CDATA[Le jeu de données concerne les aides accordées en 2013 dans le cadre de l'aide à projet arts de la rue et arts du cirque.  Bénéficiaires  Peuvent être bénéficiaires de cette aide régionale les acteurs du champ des arts de la rue et du cirque et agissant pour le développement de la création, de la production et de la diffusion des œuvres dans l’espace public : compagnies, collectif...]]></description>
@@ -100,270 +364,6 @@
      <title>Bassins versants élémentaires</title>
      <link>https://www.data.gouv.fr/fr/dataset/bassins-versants-elementaires-2-idf</link>
      <description><![CDATA[L'AESN (Agence de l'Eau Seine Normandie), en partenariat avec l'IAU îdF, a fait numériser l'hydrographie de surface de la Région Ile de France à partir des cartes IGN au 1/25.000. Le jeu de données des bassins versants couvre la totalité du territoire de l'Île-de-France. Elle a été réalisée à partir des informations d'hydrographie préparées par l'Agence de l'Eau Seine...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Activités des médecins spécialistes et autres PSL en 2010</title>
-     <link>https://www.data.gouv.fr/fr/dataset/activites-des-medecins-specialistes-et-autres-psl-en-2010-idf</link>
-     <description><![CDATA[Démographie des professionnels de santé : activités des médecins (actes) en Île-de-France en 2010. PSL = Professionnels de santé libéraux ]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Dotation initiale de l’aide régionale à la gratuité des manuels scolaires pour les formations pré-bac en 2013-2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/dotation-initiale-de-l-aide-regionale-a-la-gratuite-des-manuels-scolaires-pour-les-formations-pr-idf</link>
-     <description><![CDATA[La Région accompagne la scolarité des lycéens en assurant depuis 2001 la gratuité des manuels scolaires. Dans le cadre des réformes engagées par le ministère de l’éducation nationale induisant le renouvellement complet des collections dès 2010, la Région a décidé de continuer à soutenir les familles dans le contexte de diminution du pouvoir d’achat et de crise économique.  Les...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Données communales sur la population d'Île-de-France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/donnees-communales-sur-la-population-d-ile-de-france-idf</link>
-     <description><![CDATA[Population communale de 1962 à 2011. (On y trouve également l'année 1946)  L'INSEE préconise d'utiliser jusqu'à 1990 la population sans double compte. En 1999 la population exhaustive. Entre 2006 et 2010 la population municipale. On peut comparer 1990 à 1999 et 2010. On peut également comparer 1990 à 1999 et 2007 mais on ne peut pas comparer 2006 à 2010. Avec la nouvelle méthode de...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Carte des points d'accueil police à Paris</title>
-     <link>https://www.data.gouv.fr/fr/dataset/carte-des-points-d-accueil-police-a-paris-idf</link>
-     <description><![CDATA[Liste des points d'accueil police géolocalisés pour Paris répertoriant par arrondissement les services, adresses, téléphones, horaires, conditions d'accessibilité, géolocalisation WGS84. ]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Communes d'Île-de-France labellisées Villes et Villages Fleuris</title>
-     <link>https://www.data.gouv.fr/fr/dataset/communes-d-ile-de-france-labellisees-villes-et-villages-fleuris-idf</link>
-     <description><![CDATA[Le Comité Régional du Tourisme est chargé de la coordination du concours régional des Villes et Villages Fleuris qui attribue un label de 1 à 4 fleurs. Le Conseil National des Villes &amp; Villages Fleuris a été créé pour inciter les communes à améliorer leur cadre de vie, préserver et valoriser leur patrimoine et espaces naturels, dans le but de favoriser l’accueil des touristes...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Arbres remarquables - 2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/arbres-remarquables-2014-idf</link>
-     <description><![CDATA[Cette couche de points permet de référencer les arbres remarquables dans le paysage. Cette donnée relevée par les techniciens à l'aide de GPS permet de faire un inventaire en vue d’une bonne connaissance de l’environnement et de la constitution de parcours pour le public. Légendes des colonnes :  *Nom Alias Type Description OBJECTID...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Découpage morphologique de l'Île-de-France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/decoupage-morphologique-de-l-ile-de-france-idf</link>
-     <description><![CDATA[Production propre à l'Institut, le découpage morphologique de 1999 est le fruit d'une méthodologie interne. Il comprend 7 secteurs morphologiques. 1- Le centre de l'agglomération de Paris : communes ou arrondissements de l'agglomération de Paris (agglomération principale de la Région Île-de-France) très urbanisées et très denses, répondant aux deux critères suivants - le taux...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Carte des pharmacies des Yvelines</title>
-     <link>https://www.data.gouv.fr/fr/dataset/carte-des-pharmacies-des-yvelines-idf</link>
-     <description><![CDATA[Liste des pharmacies yvelinoises, leurs coordonnées, adresse et géolocalisation. (Source : FINESS ; septembre 2013) Structure des données nofinessetNuméro FINESS établissement nofinessej Numéro FINESS entité juridique rsRaison sociale rslongueRaison sociale longue compldistribComplément de distribution numvoie Numéro de voie...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Aide au développement de la permanence artistique et culturelle 2007-2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/aide-au-developpement-de-la-permanence-artistique-et-culturelle-2007-2013-idf</link>
-     <description><![CDATA[Le jeu de données concerne l'aide au développement de la permanence artistique et culturelle. Bénéficiaires  Toute structure professionnelle de création ou de diffusion publique ou privée, gérante ou non d’un lieu (compagnies, équipes artistiques, lieux de diffusion, lieux intermédiaires…)  *Conditions d’éligibilité * Garantir l’indépendance de la direction artistique....]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Liste des points de contact du réseau postal d'Île-de-France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-points-de-contact-du-reseau-postal-d-ile-de-france-idf</link>
-     <description><![CDATA[Liste des points de contact du réseau postal d'Île-de-France (bureau de poste et agence postale), incluant l'adresse, les coordonnées de géolocalisation et les services associés (Distributeur de billets, affranchissement libre service, photocopieur, ...). Voir le fichier joint pour une description plus précise des champs. ]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Carte des pharmacies du Val-d'Oise</title>
-     <link>https://www.data.gouv.fr/fr/dataset/carte-des-pharmacies-du-val-d-oise-idf</link>
-     <description><![CDATA[Liste des pharmacies val-d'oisiennes, leurs coordonnées, adresse et géolocalisation. (Source : FINESS ; septembre 2013) Structure des données nofinessetNuméro FINESS établissement nofinessej Numéro FINESS entité juridique rsRaison sociale rslongueRaison sociale longue compldistribComplément de distribution numvoie Numéro de voie...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Fichier FANTOIR des voies et lieux-dits 2013 - Essonne</title>
-     <link>https://www.data.gouv.fr/fr/dataset/fichier-fantoir-des-voies-et-lieux-dits-2013-essonne-idf</link>
-     <description><![CDATA[Le fichier des voies et lieux-dits ou fichier FANTOIR recense par commune : les voies ; les lieux-dits ; les ensembles immobiliers ; les pseudo-voies. Il est constitué de l’ensemble des références topographiques qu’elles soient annulées ou actives. Cette extraction répertorie pour commune de L'Essonne le nom des lieux-dits et des voies, y...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Aide aux librairies indépendantes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/aide-aux-librairies-independantes-idf</link>
-     <description><![CDATA[L'aide régionale vise à accompagner les projets des librairies indépendantes dans le cadre : de la constitution ou du renforcement d’un fonds général et pour la création d’un fonds thématique ; du développement de la politique d’animation culturelle de la librairie. L’aide régionale est fixée à un taux maximum de 60 % de la dépense subventionnable HT,...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Action culturelle &#34;Musiques au Lycée&#34; 2011-2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/action-culturelle-musiques-au-lycee-2011-2013-idf</link>
-     <description><![CDATA[Le jeu de données concerne les aides accordées depuis 2011 dans le cadre du dispositif d'action culturelle "Musiques au lycée". Ce dispositif encourage les pratiques musicales amateurs dans le cadre du lycée. Il permet aussi d’informer les jeunes sur les métiers artistiques et techniques des musiques actuelles. Informations complémentaires sur le dispositif :  Bénéficiaires...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Correspondances Code INSEE - Code Postal</title>
-     <link>https://www.data.gouv.fr/fr/dataset/correspondances-code-insee-code-postal-idf</link>
-     <description><![CDATA[Correspondance entre les codes postaux et codes INSEE des communes franciliennes. Ce jeu de données intègre par ailleurs des données de référence sur les communes: Population Superficie Altitude moyenne Forme géographique Ce jeu de données a été constitué à partir des données de la base GEOFLA® mise à disposition par l'IGN (codes INSEE) ainsi...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Budget réalisé - 2012</title>
-     <link>https://www.data.gouv.fr/fr/dataset/budget-realise-2012-idf</link>
-     <description><![CDATA[Budget réalisé annuel de la région Île-de-France du niveau le plus global au niveau le plus fin. Le jeu comprend : le code secteur, le libellé secteur, le chapitre, la sous-fonction, le code fonctionnel, le programme, le type de contrat, le code action, le libellé action et le total affecté en euros. Pour plus d'informations : Budget des collectivités | Collectivités...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Budget primitif (BP) - 2012</title>
-     <link>https://www.data.gouv.fr/fr/dataset/budget-primitif-bp-2012-idf</link>
-     <description><![CDATA[Budget prévisionnel annuel de la région Île-de-France du niveau le plus global au niveau le plus fin. Le jeu comprend : le code secteur, le libellé secteur, le chapitre, la sous-fonction, le code fonctionnel, le programme, le type de contrat, le code action, le libellé action et le budget primitif en euros. Pour plus d'informations : - Budget des collectivités | Collectivités...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Base de données « Patrimoine gourmand » d'Île-de-France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/base-de-donnees-patrimoine-gourmand-d-ile-de-france-idf</link>
-     <description><![CDATA[L’ensemble de la recherche documentaire et bibliographique liée à l’étude sur le patrimoine gourmand d’Île-de-France, commandée par le service patrimoines et Inventaire, a abouti à l’identification de 3777 éléments de ce patrimoine à travers la région. Cet ensemble a été intégré dans une base de données. La base de données rassemble : les éléments provenant des dossiers de...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Les services aux particuliers par commune ou arrondissement (base permanente des équipements)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-services-aux-particuliers-par-commune-ou-arrondissement-base-permanente-des-equipements-idf</link>
-     <description><![CDATA[La base permanente des équipements (BPE), produite par l'INSEE, est destinée à fournir le niveau d'équipement et de services rendus par un territoire à la population. Ce jeu de données recouvre les domaines des services aux particuliers. Liste des variables Services publics Police ; Trésorerie ; Agence de proximité Pôle emploi ; Relais...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Carte des syndicats d'initiative et offices de tourisme</title>
-     <link>https://www.data.gouv.fr/fr/dataset/carte-des-syndicats-d-initiative-et-offices-de-tourisme-idf</link>
-     <description><![CDATA[Liste des syndicats d'initiative et offices de tourisme : département, raison sociale, adresse, téléphone, fax, e-mail, site internet, géolocalisation (WGS84) ]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Aides aux réseaux culturels franciliens 2008-2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/aides-aux-reseaux-culturels-franciliens-2008-2013-idf</link>
-     <description><![CDATA[Le jeu de données concerne les aides aux réseaux culturels franciliens de 2008 à 2013. Depuis 2005, les aides aux réseaux soutiennent le fonctionnement de structures professionnelles franciliennes, représentatives (notamment en nombre d’adhérents) d’une esthétique ou d’un secteur artistique ou culturel à l’échelle régionale, et qui permettent de mettre des moyens en commun. En...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Nombre de fonctions médicales et paramédicales par commune ou arrondissement (base permanente des équipements)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-fonctions-medicales-et-paramedicales-par-commune-ou-arrondissement-base-permanente-des-idf</link>
-     <description><![CDATA[La base permanente des équipements (BPE), produite par l'INSEE, est destinée à fournir le niveau d'équipement et de services rendus par un territoire à la population. Ce jeu de données dénombre les  fonctions médicales et paramédicales au niveau communal (arrondissement de Paris et commune). Liste des variables : Médecin omnipraticien ; Spécialiste en...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Les unités paysagères en Île-de-France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-unites-paysageres-en-ile-de-france-idf</link>
-     <description><![CDATA[La base de données des unités paysagères de la Région d’Île-de-France s’inscrit dans la lignée des travaux visant à identifier et décrire les paysages.  Une première version a été publiée sous le nom d’entités fonctionnelles et paysagères dans le Schéma directeur de la Région d’Île-de-France (Sdrif), adopté par délibération du conseil Régional le 25 septembre 2008. La base de...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Fichier FANTOIR des voies et lieux-dits 2013 - Hauts-de-Seine</title>
-     <link>https://www.data.gouv.fr/fr/dataset/fichier-fantoir-des-voies-et-lieux-dits-2013-hauts-de-seine-idf</link>
-     <description><![CDATA[Le fichier des voies et lieux-dits ou fichier FANTOIR recense par commune : les voies ; les lieux-dits ; les ensembles immobiliers ; les pseudo-voies. Il est constitué de l’ensemble des références topographiques qu’elles soient annulées ou actives. Cette extraction répertorie pour chaque commune des Hauts-de-Seine le nom des lieux-dits et des...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Élections municipales 2014 - résultats 2e tour (communes de 1000 hab. et plus)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-resultats-2e-tour-communes-de-1000-hab-et-plus-idf</link>
-     <description><![CDATA[Résultats des élections municipales 2014, tour 2, pour les communes franciliennes de 1000 habitants et plus (sous réserve de rectifications par le juge de l'élection) ]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Carte des pharmacies de Seine-Saint-Denis</title>
-     <link>https://www.data.gouv.fr/fr/dataset/carte-des-pharmacies-de-seine-saint-denis-idf</link>
-     <description><![CDATA[Liste des pharmacies séquano-dionysiennes, leurs coordonnées, adresse et géolocalisation. (Source : FINESS ; septembre 2013) Structure des données nofinessetNuméro FINESS établissement nofinessej Numéro FINESS entité juridique rsRaison sociale rslongueRaison sociale longue compldistribComplément de distribution numvoie Numéro de...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Fichier FANTOIR des voies et lieux-dits 2013 - Seine-Saint-Denis</title>
-     <link>https://www.data.gouv.fr/fr/dataset/fichier-fantoir-des-voies-et-lieux-dits-2013-seine-saint-denis-idf</link>
-     <description><![CDATA[Le fichier des voies et lieux-dits ou fichier FANTOIR recense par commune : les voies ; les lieux-dits ; les ensembles immobiliers ; les pseudo-voies. Il est constitué de l’ensemble des références topographiques qu’elles soient annulées ou actives. Cette extraction répertorie pour commune de Seine-Saint-Denis le nom des lieux-dits et des...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Zones d'Activités Economiques en Île-de-France (2013)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/zones-d-activites-economiques-en-ile-de-france-2013-idf</link>
-     <description><![CDATA[Zones d'Activités Economiques actives ou finies en Île-de-France. Elles répondent prioritairement à des entreprises qui recherchent une acquisition foncière pour développer leurs bâtiments.Cette couche comprend 3 catégories de ZAE : zones actives (en cours de commercialisation, avec terrains disponibles). zones finies (ou "terminées" c'est à dire sans réserves foncières)....]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Aide à la diffusion des éditeurs indépendants</title>
-     <link>https://www.data.gouv.fr/fr/dataset/aide-a-la-diffusion-des-editeurs-independants-idf</link>
-     <description><![CDATA[L'aide vise à accompagner les actions favorisant la diffusion des éditeurs indépendants, portées par des éditeurs, diffuseurs, associations, bibliothèques, etc. L’aide régionale est fixée à un taux maximum de 50 % de la dépense subventionnable HT, dans la limite d’un plafond de 15 000 €. Sont concernés les éditeurs indépendants franciliens professionnels, engagés dans une démarche...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Fichier FANTOIR des voies et lieux-dits 2013 - Île-de-France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/fichier-fantoir-des-voies-et-lieux-dits-2013-ile-de-france-idf</link>
-     <description><![CDATA[Le fichier des voies et lieux-dits ou fichier FANTOIR recense par commune : les voies ; les lieux-dits ; les ensembles immobiliers ; les pseudo-voies. Il est constitué de l’ensemble des références topographiques qu’elles soient annulées ou actives. Cette extraction répertorie pour commune d'Île-de-France le nom des lieux-dits et des voies, y...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Les lieux de diffusion du spectacle vivant en Seine-Saint-Denis</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-lieux-de-diffusion-du-spectacle-vivant-en-seine-saint-denis-idf</link>
-     <description><![CDATA[Ce jeu de données référence les lieux de diffusion régulière ou occasionnelle du spectacle vivant en Seine-Saint-Denis. Structure des données nom de l'établissement ; adresse ; e-mail ; téléphone ; fax ; site internet ; géolocalisation (WGS84). ]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Voyageurs montant en gare sur le réseau Transilien</title>
-     <link>https://www.data.gouv.fr/fr/dataset/voyageurs-montant-en-gare-sur-le-reseau-transilien-2-idf</link>
-     <description><![CDATA[Nombre de voyageurs montant par gare chaque jour (pour un jour de semaine en période scolaire) dans les trains des lignes SNCF Transilien, sous forme d'une fourchette de valeurs. Libellé de la gare : Libellé de la gare Code UIC : Code unique de la gare. Ce code correspond à celui utilisé dans les autres fichiers présentant des données sur les gares...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Voyageurs montant en gare sur le réseau Transilien</title>
-     <link>https://www.data.gouv.fr/fr/dataset/voyageurs-montant-en-gare-sur-le-reseau-transilien-2-idf</link>
-     <description><![CDATA[Nombre de voyageurs montant par gare chaque jour (pour un jour de semaine en période scolaire) dans les trains des lignes SNCF Transilien, sous forme d'une fourchette de valeurs. Libellé de la gare : Libellé de la gare Code UIC : Code unique de la gare. Ce code correspond à celui utilisé dans les autres fichiers présentant des données sur les gares...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Accessibilité des équipements de la Ville de Paris</title>
-     <link>https://www.data.gouv.fr/fr/dataset/accessibilite-des-equipements-de-la-ville-de-paris-idf</link>
-     <description><![CDATA[Ce jeu de données recense les équipements accessibles de la Ville de Paris. Il détaille : le type d'équipement le nom de l'équipement l'adresse complète le type de handicap Consultez la notice en pièce jointe, définissant les niveaux d'accessibilité de chaque équipement. ]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Objectif zéro pesticide en Île-de-France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/objectif-zero-pesticide-en-ile-de-france-idf</link>
-     <description><![CDATA[Les pesticides (biocide, désherbants, insecticides, fongicides…) figurent parmi les principales causes de perte de la biodiversité en Île-de-France. Si la responsabilité incombe en grande partie à l’agriculture intensive et la gestion des infrastructures de transports, les collectivités, les entreprises et les particuliers utilisent également ces produits en zone non agricole, ce...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Fichier FANTOIR des voies et lieux-dits 2013 - Val-de-Marne</title>
-     <link>https://www.data.gouv.fr/fr/dataset/fichier-fantoir-des-voies-et-lieux-dits-2013-val-de-marne-idf</link>
-     <description><![CDATA[Le fichier des voies et lieux-dits ou fichier FANTOIR recense par commune : les voies ; les lieux-dits ; les ensembles immobiliers ; les pseudo-voies. Il est constitué de l’ensemble des références topographiques qu’elles soient annulées ou actives. Cette extraction répertorie pour commune du Val-de-Marne le nom des lieux-dits et des voies, y...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Les lieux de diffusion du spectacle vivant à Paris</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-lieux-de-diffusion-du-spectacle-vivant-a-paris-idf</link>
-     <description><![CDATA[Ce jeu de données référence les lieux de diffusion régulière ou occasionnelle du spectacle vivant à Paris. Structure des données : nom de l'établissement ; adresse ; e-mail ; téléphone ; fax ; site internet ; géolocalisation (WGS84). ]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Carte des pharmacies de Seine-et-Marne</title>
-     <link>https://www.data.gouv.fr/fr/dataset/carte-des-pharmacies-de-seine-et-marne-idf</link>
-     <description><![CDATA[Liste des pharmacies seine-et-marnaises, leurs coordonnées, adresse et géolocalisation. (Source : FINESS ; septembre 2013) Structure des données nofinesset Numéro FINESS établissement nofinessejNuméro FINESS entité juridique rsRaison sociale rslongueRaison sociale longue compldistribComplément de distribution numvoieNuméro de voie...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Monuments inscrits ou classés d'Île-de-France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/monuments-inscrits-ou-classes-d-ile-de-france-idf</link>
-     <description><![CDATA[Ce jeu de données inventorie les monuments historiques protégés en Île-de-France. Remarque : ce jeu de données complète celui des ensembles monumentaux : "Ensembles monumentaux d'Île-de-France". Ces 2 jeux de données représentent la même chose. Ils sont Indissociables.  Version : 1 ]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Les marchés publics de travaux en 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-marches-publics-de-travaux-en-2013-idf</link>
-     <description><![CDATA[La liste des marchés publics de travaux conclus par la Région Île-de-France en 2013. Seuils des marchés, attributaires et leur code postal, date de notification et objet du marché. ]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Zones éligibles au Contrat Régional d'Exercice Sanitaire</title>
-     <link>https://www.data.gouv.fr/fr/dataset/zones-eligibles-au-contrat-regional-d-exercice-sanitaire-idf</link>
-     <description><![CDATA[Ce fichier présente la liste des communes classées comme déficitaires ou fragilisées au titre de la démographie médicale, selon le zonage établi par l'ARS. Définition du zonage à partir des données démographiques de la population francilienne (INSEE 2008) et des professionnels de santé (effectifs libéraux). Population : données 2008 Effectifs libéraux : données 2010 ]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Les équipements dans le domaine du tourisme et du transport (base permanente des équipements)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-equipements-dans-le-domaine-du-tourisme-et-du-transport-base-permanente-des-equipements-idf</link>
-     <description><![CDATA[La base permanente des équipements (BPE), produite par l'INSEE, est destinée à fournir le niveau d'équipement et de services rendus par un territoire à la population. Ce jeu de données dénombre les équipements dans le domaine du tourisme et du transport au niveau communal (arrondissement de Paris et commune). Liste des variables : Transports et déplacements...]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Ensembles monumentaux d'Île-de-France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/ensembles-monumentaux-d-ile-de-france-idf</link>
-     <description><![CDATA[Ce jeu de données inventorie les monuments historiques protégés en Île-de-France. Remarque : ce jeu de données complète celui des monuments : "Monuments inscrits ou classés d'Île-de-France". Ces 2 jeux de données représentent la même chose. Ils sont Indissociables. Version : 1 ]]></description>
-     <author>Région Île-de-France (certifié)</author>
-  </item>
-  <item>
-     <title>Réseau hydrographique principal simplifié d'Île-de-France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/reseau-hydrographique-principal-simplifie-d-ile-de-france-idf</link>
-     <description><![CDATA[Ce jeu de données représente le réseau hydrographique principal de la Région Île-de-France, simplifié par généralisation du tracé. L'AESN (Agence de l'Eau Seine Normandie), en partenariat avec l'IAU-ÎdF, a fait numériser l'hydrographie de surface de la Région Île-de-France. Ce jeu de données représente le réseau hydrologique linéaire d'Île-de-France en 2002.  Version : 1 ]]></description>
      <author>Région Île-de-France (certifié)</author>
   </item>
  </channel>
