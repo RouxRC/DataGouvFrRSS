@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 23 Apr 2014 17:30:02 +0200</pubDate>
+  <pubDate>Wed, 23 Apr 2014 17:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Productions des chambres régionales et territoriales des comptes, par chambre régionale et par type de production (2010-2013)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/productions-des-chambres-regionales-et-territoriales-des-comptes-par-chambre-regionale-et-par-type-d</link>
+     <description><![CDATA[Les chambres régionales et territoriales des comptes (CRTC) réalisent chaque année de nombreux travaux. Le présent jeu de données, qui retrace le nombre de productions de chacune des chambres régionales et territoriales de 2010 à 2013, se concentre sur sept types de productions : les avis rendus, notamment sur les budgets des collectivités ; les débets prononcés dans le cadre des...]]></description>
+     <author>Cour des comptes (certifié)</author>
+  </item>
   <item>
      <title>Jeux de données - Enseignement Supérieur et Recherche</title>
      <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-enseignement-superieur-et-recherche-mesr</link>
@@ -148,7 +154,7 @@
      <title>Liste des marchés conclus 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-marches-conclus-2013</link>
      <description><![CDATA[Liste des marchés conclus par l'État au cours de l'année 2013. ]]></description>
-     <author>citoyen</author>
+     <author>Ministère des finances et des comptes publics (certifié)</author>
   </item>
   <item>
      <title>Liste des ouvrages des bibliothèques en janvier 2009</title>
@@ -358,12 +364,6 @@
      <title>Résultats de l'élection municipale 2014 2ème tour</title>
      <link>https://www.data.gouv.fr/fr/dataset/resultats-de-l-election-municipale-2014-2eme-tour-prs</link>
      <description><![CDATA[Résultats du 2ème tour des élections Municipales de 2014 ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Références les plus réservées en 2011</title>
-     <link>https://www.data.gouv.fr/fr/dataset/references-les-plus-reservees-en-2011-prs</link>
-     <description><![CDATA[Les Références les plus réservées en 2011 par les usagers dans le catalogue des bibliothèques de prêt ]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
