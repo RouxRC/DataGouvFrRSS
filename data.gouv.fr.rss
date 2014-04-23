@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 23 Apr 2014 18:20:02 +0200</pubDate>
+  <pubDate>Wed, 23 Apr 2014 18:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Effectifs de la Cour des comptes, par type de grade ou d'affectation (2011-2013)</title>
@@ -15,7 +15,7 @@
   <item>
      <title>Productions des chambres régionales et territoriales des comptes, par chambre régionale et par type de production (2010-2013)</title>
      <link>https://www.data.gouv.fr/fr/dataset/productions-des-chambres-regionales-et-territoriales-des-comptes-par-chambre-regionale-et-par-type-d</link>
-     <description><![CDATA[Les chambres régionales et territoriales des comptes (CRTC) réalisent chaque année de nombreux travaux. Le présent jeu de données, qui retrace le nombre de productions de chacune des chambres régionales et territoriales de 2010 à 2013, se concentre sur sept types de productions : les avis rendus, notamment sur les budgets des collectivités ; les débets prononcés dans le cadre des...]]></description>
+     <description><![CDATA[Les chambres régionales et territoriales des comptes exercent à titre principal sur les collectivités territoriales et leurs établissements publics une triple compétence de jugement des comptes des comptables publics, d’examen de la gestion et de contrôle budgétaire. Elles ont aussi une mission d’évaluation des politiques publiques et des conditions de leur mise en œuvre au niveau local par...]]></description>
      <author>Cour des comptes (certifié)</author>
   </item>
   <item>
@@ -147,7 +147,7 @@
   <item>
      <title>Saisines des chambres régionales et territoriales des comptes, par année et type de saisine (2008-2013)</title>
      <link>https://www.data.gouv.fr/fr/dataset/saisines-des-chambres-regionales-et-territoriales-des-comptes-par-annee-et-type-de-saisine-2008-2013</link>
-     <description><![CDATA[Les chambres régionales et territoriales des comptes (CRTC) font l'objet, chaque année de saisines dans le cadre des compétences qui leur sont conférées par la loi. Le présent jeu de données retrace le nombre de saisines, par année et type de saisine, de 2008 à 2013. Les principaux motifs de saisine sont au nombre de six : les saisines en cas de budget non voté dans le délai légal (art. L....]]></description>
+     <description><![CDATA[Les chambres régionales et territoriales des comptes exercent à titre principal sur les collectivités territoriales et leurs établissements publics une triple compétence de jugement des comptes des comptables publics, d’examen de la gestion et de contrôle budgétaire. Elles ont aussi une mission d’évaluation des politiques publiques et des conditions de leur mise en œuvre au niveau local par...]]></description>
      <author>Cour des comptes (certifié)</author>
   </item>
   <item>
