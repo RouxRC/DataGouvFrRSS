@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 23 Apr 2014 19:10:02 +0200</pubDate>
+  <pubDate>Wed, 23 Apr 2014 19:20:03 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Cartographie de la fiscalité affectée, selon le périmètre retenu pour le rapport du Conseil des prélèvements obligatoires (2007-2013)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/cartographie-de-la-fiscalite-affectee-selon-le-perimetre-retenu-pour-le-rapport-du-conseil-des-prele</link>
+     <description><![CDATA[Héritier du Conseil des impôts, le Conseil des prélèvements obligatoire (CPO) est chargé depuis 2005 d’apprécier l’évolution et l’impact économique, social et budgétaire de l’ensemble des prélèvements obligatoires, ainsi que de formuler des recommandations sur toute question relative à ces prélèvements (source). Le Conseil des prélèvements obligatoires (CPO) a rendu public, le 4 juillet 2013,...]]></description>
+     <author>Cour des comptes (certifié)</author>
+  </item>
   <item>
      <title>Effectifs des chambres régionales et territoriales des comptes, par chambre et type d'affectation (2012-2013)</title>
      <link>https://www.data.gouv.fr/fr/dataset/effectifs-des-chambres-regionales-et-territoriales-des-comptes-par-chambre-et-type-d-affectation-201</link>
@@ -358,12 +364,6 @@
      <title>Murs et Clôtures</title>
      <link>https://www.data.gouv.fr/fr/dataset/murs-et-clotures-prs</link>
      <description><![CDATA[Données de type vecteur décrivant les murs en dur, les entrées de métro, les grilles ou clôtures. ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Relief naturel</title>
-     <link>https://www.data.gouv.fr/fr/dataset/relief-naturel-prs</link>
-     <description><![CDATA[Données de type vecteur décrivant crête ou pied de talus durs, sens d'écoulement,... Exemple(s) de réutilisation(s) des données : - Cartographie sur http://demo.3liz.fr/opendataparis ]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
