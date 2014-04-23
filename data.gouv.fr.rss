@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 23 Apr 2014 18:40:02 +0200</pubDate>
+  <pubDate>Wed, 23 Apr 2014 18:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Positions administratives des magistrats de chambres régionales et territoriales des comptes (2010-2013)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/positions-administratives-des-magistrats-de-chambres-regionales-et-territoriales-des-comptes-2010-20</link>
+     <description><![CDATA[Les carrières des magistrats de chambres régionales et territoriales des comptes peuvent les amener à changer de position administrative. Certains débutent comme personnel de contrôle en service en chambre, d'autres sont des fonctionnaires en détachement dans le corps des magistrats. Les magistrats issus de ce corps peuvent aussi être détachés ou mis à disposition auprès d'une autre...]]></description>
+     <author>Cour des comptes (certifié)</author>
+  </item>
   <item>
      <title>Nombre de magistrats des chambres régionales et territoriales des comptes (CRTC), par grade (2010-2013)</title>
      <link>https://www.data.gouv.fr/fr/dataset/nombre-de-magistrats-des-chambres-regionales-et-territoriales-des-comptes-crtc-par-grade-2010-2013</link>
@@ -358,12 +364,6 @@
      <title>Mobiliers de voies routières de type barriere</title>
      <link>https://www.data.gouv.fr/fr/dataset/mobiliers-de-voies-routieres-de-type-barriere-prs</link>
      <description><![CDATA[Données de type vecteur décrivant : barrières piétons, garde-corps, glissière, poteau ... ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Adresses des panneaux d'affichage des Conseils de Quartier</title>
-     <link>https://www.data.gouv.fr/fr/dataset/adresses-des-panneaux-d-affichage-des-conseils-de-quartier-prs</link>
-     <description><![CDATA[Liste des panneaux d'affichage des Conseils de Quartier. Le jeu de données précise: - Le type de panneau - L'adresse - Le conseil de quartier responsable du panneau - Les personnes à contacter Les lignes vides dans le jeu de données signifient qu'il n'y a pas de panneaux dans l'arrondissement en question. Consultez l'annuaire des coordinateurs des conseils de quartier :...]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
