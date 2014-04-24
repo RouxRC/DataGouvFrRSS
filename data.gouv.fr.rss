@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 24 Apr 2014 16:30:02 +0200</pubDate>
+  <pubDate>Thu, 24 Apr 2014 16:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>ESANE - Coopératives agroalimentaires</title>
+     <link>https://www.data.gouv.fr/fr/dataset/esane-cooperatives-agroalimentair-0</link>
+     <description><![CDATA[Caractéristiques comptables, financières et d’emploi des coopératives agroalimentaires, principales variables. Nombre d’unités légales, effectif salarié, concentration, indicateurs de performances économiques, indicateurs de performances environnementales, activité, charges, bilan, investissements. Source : ESANE - traitements Service de la Statistique et de la Prospective ]]></description>
+     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
+  </item>
+  <item>
+     <title>ESANE - Entreprises agroalimentaires</title>
+     <link>https://www.data.gouv.fr/fr/dataset/esane-entreprises-agroalimentaires</link>
+     <description><![CDATA[Caractéristiques comptables financières et d’emploi des entreprises et établissements agroalimentaires, principales variables. Nombre d’unités légales, effectif salarié, concentration, indicateurs de performance économique, indicateurs de performance environnementale, activité, soldes intermédiaires de gestion, comptes de résultat, bilans. Chiffres-clés et principaux résultats;Données...]]></description>
+     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
+  </item>
   <item>
      <title>Enquête nationale sur les structures des urgences hospitalières</title>
      <link>https://www.data.gouv.fr/fr/dataset/enquete-nationale-sur-les-structures-des-urgences-hospitalieres</link>
@@ -352,18 +364,6 @@
      <title>Liste des prénoms féminins en 2012</title>
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-prenoms-feminins-en-2012-prs</link>
      <description><![CDATA[Liste des prénoms déclarés à l'état-civil en 2012 ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Stations et espaces AutoLib de la métropole parisienne</title>
-     <link>https://www.data.gouv.fr/fr/dataset/stations-et-espaces-autolib-de-la-metropole-parisienne-prs</link>
-     <description><![CDATA[Ce jeu de données comprend:  l'Identifiant DSP le nom de la station le Code postal Ville Latitude &amp; Longitude le type de station l'emplacement les places Autolib'  les places "Recharge tiers" le nombre total de places ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Arrêtés municipaux d'insalubrité - 2010</title>
-     <link>https://www.data.gouv.fr/fr/dataset/arretes-municipaux-d-insalubrite-2010-prs</link>
-     <description><![CDATA[Arrêté municipaux d'insalubrité de mise en demeure à 1 mois ]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
