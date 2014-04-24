@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 24 Apr 2014 03:20:02 +0200</pubDate>
+  <pubDate>Thu, 24 Apr 2014 16:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Enquête nationale sur les structures des urgences hospitalières</title>
+     <link>https://www.data.gouv.fr/fr/dataset/enquete-nationale-sur-les-structures-des-urgences-hospitalieres</link>
+     <description><![CDATA[La DREES a inscrit à son programme d’études pour 2013 la réalisation d’une enquête nationale sur les urgences hospitalières. La précédente enquête nationale avait été conduite en 2002 et avait apporté, pour la première fois à l’échelle nationale, un descriptif démographique et médical des patients pris en charge dans ces structures. L’objectif sous-tendant cette enquête nationale initiale avait...]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
+  <item>
+     <title>Publications de la Cour des comptes, par type et date de publication (2011-2014, données 2014 partielles)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/publications-de-la-cour-des-comptes-par-type-et-date-de-publication-2011-2014-donnees-2014-partielle</link>
+     <description><![CDATA[La Cour des comptes a pour mission de s'assurer du bon emploi de l'argent public et d'en informer les citoyens (selon l'article 47-2 de la Constitution). Juridiction indépendante, la Cour des comptes se situe à équidistance du Parlement et du Gouvernement, qu’elle assiste l’un et l’autre. La Cour rend publics et met en ligne sur son site internet tous ses travaux (sauf exigence particulière...]]></description>
+     <author>Cour des comptes (certifié)</author>
+  </item>
   <item>
      <title>Cartographie de la fiscalité affectée, selon le périmètre retenu pour le rapport du Conseil des prélèvements obligatoires (2007-2013)</title>
      <link>https://www.data.gouv.fr/fr/dataset/cartographie-de-la-fiscalite-affectee-selon-le-perimetre-retenu-pour-le-rapport-du-conseil-des-prele</link>
@@ -352,18 +364,6 @@
      <title>Arrêtés municipaux d'insalubrité - 2010</title>
      <link>https://www.data.gouv.fr/fr/dataset/arretes-municipaux-d-insalubrite-2010-prs</link>
      <description><![CDATA[Arrêté municipaux d'insalubrité de mise en demeure à 1 mois ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Liste des marchés de travaux passés par le Département de Paris</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-marches-de-travaux-passes-par-le-departement-de-paris-prs</link>
-     <description><![CDATA[Le jeu de données comprend les marchés de travaux passés par le Département de Paris, de 2009 à 2013. Ce jeu de données comprend: l'année le n° national de marché le nom du titulaire le code postal l'objet du marché le montant la date de notif ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Murs et Clôtures</title>
-     <link>https://www.data.gouv.fr/fr/dataset/murs-et-clotures-prs</link>
-     <description><![CDATA[Données de type vecteur décrivant les murs en dur, les entrées de métro, les grilles ou clôtures. ]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
