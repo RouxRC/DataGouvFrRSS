@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 24 Apr 2014 16:50:02 +0200</pubDate>
+  <pubDate>Thu, 24 Apr 2014 17:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Technologies de l’information et de la communication - entreprises des IAA</title>
+     <link>https://www.data.gouv.fr/fr/dataset/technologies-de-l-information-et-de-la-communication-entreprises-des-iaa</link>
+     <description><![CDATA[Industries alimentaires et de fabrications de boissons, hors charcuterie artisanale et hors boulangerie et pâtisserie artisanale. Entreprises de 10 personnes occupées et plus Insee - TIC 2012, traitements SSP Compétences en TIC Connexions et utilisations d’internet Échange de messages automatiques inter et intra-entreprises Chaîne logistique d’approvisionnement Gestion de...]]></description>
+     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
+  </item>
   <item>
      <title>Innovation - Entreprises agroalimentaires</title>
      <link>https://www.data.gouv.fr/fr/dataset/innovation-entreprises-agroalimentaires</link>
@@ -358,12 +364,6 @@
      <title>Bornes et Arceaux de Stationnement à Paris</title>
      <link>https://www.data.gouv.fr/fr/dataset/bornes-et-arceaux-de-stationnement-a-paris-prs</link>
      <description><![CDATA[Données de type vecteur décrivant des bornes: à vélo, d'amarrage, rabattable, les épingles moto, arceaux pour véhicules... ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Zones de rattachement des bureaux de vote en 2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/zones-de-rattachement-des-bureaux-de-vote-en-2014-prs</link>
-     <description><![CDATA[Zones de rattachement des bureaux de vote en 2014 ]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
