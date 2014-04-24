@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 24 Apr 2014 02:30:02 +0200</pubDate>
+  <pubDate>Thu, 24 Apr 2014 03:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Cartographie de la fiscalité affectée, selon le périmètre retenu pour le rapport du Conseil des prélèvements obligatoires (2007-2013)</title>
@@ -128,7 +128,7 @@
   </item>
   <item>
      <title>Les moyens consacrés à la R&amp;D : Les entreprises par intensité technologique</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-moyens-consacres-a-la-r-d-les-entreprises-par-intensite-technologique-mesr</link>
+     <link>https://www.data.gouv.fr/fr/dataset/les-moyens-consacres-a-la-r-d-les-entreprises-par-intensite-technologique</link>
      <description><![CDATA[Ce jeu de données présente les moyens financiers et humains consacrés à la recherche et au développement dans les entreprises par zone géographique, année, intensité technologique et type de personnel. ]]></description>
      <author>Enseignement Supérieur et Recherche (certifié)</author>
   </item>
@@ -164,7 +164,7 @@
   </item>
   <item>
      <title>Liste des écoles doctorales accréditées</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-ecoles-doctorales-accreditees-mesr</link>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-ecoles-doctorales-accreditees</link>
      <description><![CDATA[Ce jeu de données présente la liste exhaustive de toutes les écoles doctorales françaises accréditées par le Ministère de l'Éducation nationale, de l'Enseignement supérieur et de la Recherche ]]></description>
      <author>Enseignement Supérieur et Recherche (certifié)</author>
   </item>
