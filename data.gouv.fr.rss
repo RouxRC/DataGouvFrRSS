@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 24 Apr 2014 17:50:02 +0200</pubDate>
+  <pubDate>Fri, 25 Apr 2014 00:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Ceci est un test</title>
+     <link>https://www.data.gouv.fr/fr/dataset/ceci-est-un-test</link>
+     <description><![CDATA[Ceci est une decritpion]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Enquête annuelle laitière</title>
      <link>https://www.data.gouv.fr/fr/dataset/enquete-annuelle-laitiere</link>
@@ -358,12 +364,6 @@
      <title>Liste des prénoms par année</title>
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-prenoms-par-annee-prs</link>
      <description><![CDATA[Liste des prénoms déclarés à l'état-civil par année Exemple(s) de réutilisation(s) des données : - Datavisualisations sur http://notjustbi.wordpress.com/2011/01/28/les-prenoms-des-petits-parisiens/ ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Zones de rattachement des bureaux de vote en 2012</title>
-     <link>https://www.data.gouv.fr/fr/dataset/zones-de-rattachement-des-bureaux-de-vote-en-2012-prs</link>
-     <description><![CDATA[Zones de rattachement des bureaux de vote en 2012 ]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
