@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 24 Apr 2014 16:40:02 +0200</pubDate>
+  <pubDate>Thu, 24 Apr 2014 16:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Innovation - Entreprises agroalimentaires</title>
+     <link>https://www.data.gouv.fr/fr/dataset/innovation-entreprises-agroalimentaires</link>
+     <description><![CDATA[Entreprises agroalimentaires de 10 salariés et plus Enquête Statistique publique, Insee - CIS2010, traitements SSP Caractéristiques des entreprises, l’innovation en produits, biens et services, les acteurs, l’innovation de procédé, les acteurs, sources d’information et de coopération, objectifs des innovations principales activités et dépenses d’innovation, soutien public, partenaires, freins...]]></description>
+     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
+  </item>
+  <item>
+     <title>Connaissance locale de l’appareil productif - Établissements agroalimentaires</title>
+     <link>https://www.data.gouv.fr/fr/dataset/connaissance-locale-de-l-appareil-productif-etablissements-agroalimentaires</link>
+     <description><![CDATA[Effectif salarié, effectif en équivalent temps, masse salariale par sexe et catégorie socioprofessionnelle Source : connaissance locale de l’appareil productif (CLAP) - Traitement Service de la Statistique et de la Prospective Champ : ensemble des établissements agroalimentaires hors artisanat commercial ]]></description>
+     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
+  </item>
   <item>
      <title>ESANE - Coopératives agroalimentaires</title>
      <link>https://www.data.gouv.fr/fr/dataset/esane-cooperatives-agroalimentair-0</link>
@@ -352,18 +364,6 @@
      <title>Zones de rattachement des bureaux de vote en 2014</title>
      <link>https://www.data.gouv.fr/fr/dataset/zones-de-rattachement-des-bureaux-de-vote-en-2014-prs</link>
      <description><![CDATA[Zones de rattachement des bureaux de vote en 2014 ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Liste des bureaux de vote : liste des points adresse</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-bureaux-de-vote-liste-des-points-adresse-prs</link>
-     <description><![CDATA[]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Liste des prénoms féminins en 2012</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-prenoms-feminins-en-2012-prs</link>
-     <description><![CDATA[Liste des prénoms déclarés à l'état-civil en 2012 ]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
