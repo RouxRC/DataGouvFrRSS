@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 24 Apr 2014 17:20:02 +0200</pubDate>
+  <pubDate>Thu, 24 Apr 2014 17:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Enquête annuelle laitière</title>
+     <link>https://www.data.gouv.fr/fr/dataset/enquete-annuelle-laitiere</link>
+     <description><![CDATA[Productions de l’industrie laitière, livraisons de lait, production vendue, collecte de lait biologique et fabrications, production de fromages..... ]]></description>
+     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
+  </item>
   <item>
      <title>Technologies de l’information et de la communication - entreprises des IAA</title>
      <link>https://www.data.gouv.fr/fr/dataset/technologies-de-l-information-et-de-la-communication-entreprises-des-iaa</link>
@@ -358,12 +364,6 @@
      <title>Zones de rattachement des bureaux de vote en 2012</title>
      <link>https://www.data.gouv.fr/fr/dataset/zones-de-rattachement-des-bureaux-de-vote-en-2012-prs</link>
      <description><![CDATA[Zones de rattachement des bureaux de vote en 2012 ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Bornes et Arceaux de Stationnement à Paris</title>
-     <link>https://www.data.gouv.fr/fr/dataset/bornes-et-arceaux-de-stationnement-a-paris-prs</link>
-     <description><![CDATA[Données de type vecteur décrivant des bornes: à vélo, d'amarrage, rabattable, les épingles moto, arceaux pour véhicules... ]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
