@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 23 Apr 2014 20:50:02 +0200</pubDate>
+  <pubDate>Thu, 24 Apr 2014 02:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Cartographie de la fiscalité affectée, selon le périmètre retenu pour le rapport du Conseil des prélèvements obligatoires (2007-2013)</title>
@@ -62,7 +62,7 @@
   </item>
   <item>
      <title>Institutions partenaires des pôles étudiants pour l'innovation, le transfert et l'entrepreneuriat (PEPITE)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/institutions-partenaires-des-poles-etudiants-pour-l-innovation-le-transfert-et-l-entrepreneuria-mesr</link>
+     <link>https://www.data.gouv.fr/fr/dataset/institutions-partenaires-des-poles-etudiants-pour-l-innovation-le-transfert-et-l-entrepreneuriat-pep</link>
      <description><![CDATA[Liste des institutions partenaires des pôles étudiants pour l'innovation, le transfert et l'entrepreneuriat (PEPITE) ]]></description>
      <author>Enseignement Supérieur et Recherche (certifié)</author>
   </item>
