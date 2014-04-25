@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 25 Apr 2014 17:10:02 +0200</pubDate>
+  <pubDate>Fri, 25 Apr 2014 17:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>DGDDI - Plafond autorisé d'emploi et Effectifs de référence</title>
+     <link>https://www.data.gouv.fr/fr/dataset/dgddi-plafond-autorise-d-emploi-et-effectifs-de-reference</link>
+     <description><![CDATA[DOUANE - La notion d'effectifs de référence constitue la cible à atteindre pour les effectifs d'un service dans une perspective de moyen terme. Le plafond autorisé d'emploi fixe le volume maximum d'emplois utilisable dans le cadre de l'année budgétaire. Source DataDouane: http://www.douane.gouv.fr/services/datadouane ]]></description>
+     <author>Ministère des finances et des comptes publics (certifié)</author>
+  </item>
   <item>
      <title>Statistiques par GHM</title>
      <link>https://www.data.gouv.fr/fr/dataset/statistiques-par-ghm</link>
@@ -358,12 +364,6 @@
      <title>Cheminement d'assainissement</title>
      <link>https://www.data.gouv.fr/fr/dataset/cheminement-d-assainissement-prs</link>
      <description><![CDATA[Données de type vecteur, décrivant la partie routière du réseau d'assainissement. ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Poteaux divers sur voie publique</title>
-     <link>https://www.data.gouv.fr/fr/dataset/poteaux-divers-sur-voie-publique-prs</link>
-     <description><![CDATA[Données de type vecteur, décrivant des poteaux divers sur voie publique ]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
