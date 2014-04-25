@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 25 Apr 2014 17:40:02 +0200</pubDate>
+  <pubDate>Fri, 25 Apr 2014 18:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Liste des maires au 25 avril 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-maires-au-25-avril-2014</link>
+     <description><![CDATA[Liste des maires à la suite des élections municipales de mars 2014, établie au 25 avril 2014. Certaines communes ne sont pas encore renseignées, la saisie des informations n'étant pas encore terminée. ]]></description>
+     <author>Ministère de l'Intérieur (certifié)</author>
+  </item>
+  <item>
+     <title>DGDDI - Marchés publics d'un montant supérieur à 20.000 euros hors taxes</title>
+     <link>https://www.data.gouv.fr/fr/dataset/dgddi-marches-publics-d-un-montant-superieur-a-20-000-euros-hors-taxes</link>
+     <description><![CDATA[DOUANE - Marchés publics pour les fournitures, les services et les travaux au sein des bureaux de la direction générale, des services déconcentrés et des services à compétence nationale. Source DataDouane : www.douane.gouv.fr/services/datadouane ]]></description>
+     <author>Ministère des finances et des comptes publics (certifié)</author>
+  </item>
   <item>
      <title>DGDDI - Plafond autorisé d'emploi et Effectifs de référence</title>
      <link>https://www.data.gouv.fr/fr/dataset/dgddi-plafond-autorise-d-emploi-et-effectifs-de-reference</link>
@@ -352,18 +364,6 @@
      <title>Distributeurs de préservatifs à Paris</title>
      <link>https://www.data.gouv.fr/fr/dataset/distributeurs-de-preservatifs-a-paris-prs</link>
      <description><![CDATA[Equipements municipaux qui hébergent un distributeur de préservatifs masculins à prix réduit (1€ les 5 préservatifs). Le jeu de données comprend l'adresse et les horaires d'ouverture des équipements. ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Liste des marchés de quartier à Paris</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-marches-de-quartier-a-paris-prs</link>
-     <description><![CDATA[Liste des marchés de quartier en 2012 avec : • Adresse du site • Jours et horaires d'ouverture (ils sont fixes) • Type du marché : alimentaires couverts,alimentaires découverts,fleurs,timbres,création,puces,biologique ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Cheminement d'assainissement</title>
-     <link>https://www.data.gouv.fr/fr/dataset/cheminement-d-assainissement-prs</link>
-     <description><![CDATA[Données de type vecteur, décrivant la partie routière du réseau d'assainissement. ]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
