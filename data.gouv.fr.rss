@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 25 Apr 2014 17:00:02 +0200</pubDate>
+  <pubDate>Fri, 25 Apr 2014 17:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Statistiques par GHM</title>
+     <link>https://www.data.gouv.fr/fr/dataset/statistiques-par-ghm</link>
+     <description><![CDATA[Ce lien permet, via un formulaire, d’obtenir pour tout GHM un ensemble de tableaux statistiques. Le formulaire permet, au moyen de menus déroulants, de définir une requête selon les critères suivants : l’année de recueil, le cas échéant la catégorie d’établissement, ou encore une région administrative française si la catégorie d’établissement sélectionnée est soit l’ensemble, ex/sous DGF ou...]]></description>
+     <author>Agence Technique de l'information sur l'Hospitalisation (ATIH) (certifié)</author>
+  </item>
   <item>
      <title>Présentation des bases</title>
      <link>https://www.data.gouv.fr/fr/dataset/presentation-des-bases</link>
@@ -358,12 +364,6 @@
      <title>Poteaux divers sur voie publique</title>
      <link>https://www.data.gouv.fr/fr/dataset/poteaux-divers-sur-voie-publique-prs</link>
      <description><![CDATA[Données de type vecteur, décrivant des poteaux divers sur voie publique ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Attractions foraines sur l'espace public en 2011</title>
-     <link>https://www.data.gouv.fr/fr/dataset/attractions-foraines-sur-l-espace-public-en-2011-prs</link>
-     <description><![CDATA[Manèges et jeux forains autorisés sur l'espace public parisien. Le jeu de données comprend la localisation du l'attraction, le type d'attraction et les horaires d'activité autorisés. A noter qu'il existe un autre jeu de donnée mis à jour. ]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
