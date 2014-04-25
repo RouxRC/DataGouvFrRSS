@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 25 Apr 2014 16:20:02 +0200</pubDate>
+  <pubDate>Fri, 25 Apr 2014 16:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Hospi Diag</title>
+     <link>https://www.data.gouv.fr/fr/dataset/hospi-di-0</link>
+     <description><![CDATA[Hospi Diag est un outil d’aide à la décision permettant de mesurer la performance d’un établissement de santé qui pratique de la médecine, de la chirurgie ou de l’obstétrique, en comparaison avec d’autres établissements de santé. Il permet d’identifier ses forces et ses faiblesses et donc ses gisements de performance dans 5 composantes : qualité des soins, pratiques professionnelles,...]]></description>
+     <author>Agence Nationale d'Appui à la Performance des établissements de santé et médico-sociaux (ANAP)</author>
+  </item>
   <item>
      <title>Statistiques régionales et départementales du commerce extérieur</title>
      <link>https://www.data.gouv.fr/fr/dataset/statistiques-regionales-et-departementales-du-commerce-exterieur</link>
@@ -358,12 +364,6 @@
      <title>Attractions foraines sur l'espace public en 2011</title>
      <link>https://www.data.gouv.fr/fr/dataset/attractions-foraines-sur-l-espace-public-en-2011-prs</link>
      <description><![CDATA[Manèges et jeux forains autorisés sur l'espace public parisien. Le jeu de données comprend la localisation du l'attraction, le type d'attraction et les horaires d'activité autorisés. A noter qu'il existe un autre jeu de donnée mis à jour. ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Liste des kiosques presse, théâtre et Loto</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-kiosques-presse-theatre-et-loto-2-prs</link>
-     <description><![CDATA[Liste des kiosques théatre, loto et presse sur l'espace public parisien. Le jeu de données comprend : - le type de kiosque - l'adresse du kiosque - certains horaires d'ouverture. A noter, Open Data Paris propose également un autre fichier comprenant uniquement les kiosques de presse mais plus précis sur les horaires d'ouverture. Exemples de réutilisations: - Kiosques à...]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
