@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 25 Apr 2014 15:40:02 +0200</pubDate>
+  <pubDate>Fri, 25 Apr 2014 15:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Statistiques nationales du commerce extérieur</title>
+     <link>https://www.data.gouv.fr/fr/dataset/statistiques-nationales-du-commerce-exterieur</link>
+     <description><![CDATA[DOUANE - Statistiques nationales du commerce extérieur sur les 13 derniers mois (Données Produits/Pays). L'information sur les échanges de marchandises est collectée sur la base de déclarations d'échanges de biens (DEB) pour les échanges avec les 27 autres États membres et des déclarations en douane (DAU) pour les échanges avec les autres pays (nommés pays tiers). Chaque mois, la collecte...]]></description>
+     <author>Ministère des finances et des comptes publics (certifié)</author>
+  </item>
   <item>
      <title>éventail des cas</title>
      <link>https://www.data.gouv.fr/fr/dataset/eventail-des-cas</link>
@@ -358,12 +364,6 @@
      <title>Trottoirs des rues de Paris</title>
      <link>https://www.data.gouv.fr/fr/dataset/trottoirs-des-rues-de-paris-prs</link>
      <description><![CDATA[Données de type vecteur décrivant les trottoirs parisiens. Exemple(s) de réutilisation(s) des données : - Cartographie sur http://demo.3liz.fr/opendataparis ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>les 1000 titres les plus empruntés de 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-1000-titres-les-plus-empruntes-de-2013-prs</link>
-     <description><![CDATA[Les 1000 références les plus empruntées en 2013 au sein des bibliothèques municipales de la ville de Paris. La mise de ce jeu de données est semestrielle. En pièce jointe, vous trouverez le même fichier au format xls contenant les liens vers les oeuvres. ]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
