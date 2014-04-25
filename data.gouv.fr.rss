@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 25 Apr 2014 16:50:02 +0200</pubDate>
+  <pubDate>Fri, 25 Apr 2014 17:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Présentation des bases</title>
+     <link>https://www.data.gouv.fr/fr/dataset/presentation-des-bases</link>
+     <description><![CDATA[ Cette section permet d’accéder à des statistiques générales ne portant pas sur le résultat du groupage des séjours ni les diagnostics et actes médicaux : le nombre de séjours par région administrative française est présenté en fonction du type de séjour, séjours non CM 24 (GHM J et T à compter de 2009) ni séances, séjours de la CM 24 (GHM J et T à compter de 2009) et séances de la classe d’âge...]]></description>
+     <author>Agence Technique de l'information sur l'Hospitalisation (ATIH) (certifié)</author>
+  </item>
   <item>
      <title>Hospi Diag</title>
      <link>https://www.data.gouv.fr/fr/dataset/hospi-di-0</link>
@@ -358,12 +364,6 @@
      <title>Attractions foraines sur l'espace public en 2011</title>
      <link>https://www.data.gouv.fr/fr/dataset/attractions-foraines-sur-l-espace-public-en-2011-prs</link>
      <description><![CDATA[Manèges et jeux forains autorisés sur l'espace public parisien. Le jeu de données comprend la localisation du l'attraction, le type d'attraction et les horaires d'activité autorisés. A noter qu'il existe un autre jeu de donnée mis à jour. ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Liste des kiosques presse, théâtre et Loto</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-kiosques-presse-theatre-et-loto-2-prs</link>
-     <description><![CDATA[Liste des kiosques théatre, loto et presse sur l'espace public parisien. Le jeu de données comprend : - le type de kiosque - l'adresse du kiosque - certains horaires d'ouverture. A noter, Open Data Paris propose également un autre fichier comprenant uniquement les kiosques de presse mais plus précis sur les horaires d'ouverture. Exemples de réutilisations: - Kiosques à...]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
