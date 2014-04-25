@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 25 Apr 2014 10:30:02 +0200</pubDate>
+  <pubDate>Fri, 25 Apr 2014 11:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Ceci est un test</title>
@@ -49,9 +49,9 @@
      <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
   </item>
   <item>
-     <title>Enquête nationale sur les structures des urgences hospitalières</title>
-     <link>https://www.data.gouv.fr/fr/dataset/enquete-nationale-sur-les-structures-des-urgences-hospitalieres</link>
-     <description><![CDATA[La DREES a inscrit à son programme d’études pour 2013 la réalisation d’une enquête nationale sur les urgences hospitalières. La précédente enquête nationale avait été conduite en 2002 et avait apporté, pour la première fois à l’échelle nationale, un descriptif démographique et médical des patients pris en charge dans ces structures. L’objectif sous-tendant cette enquête nationale initiale avait...]]></description>
+     <title>Enquête nationale sur les structures des urgences hospitalières, juin 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/enquete-nationale-sur-les-structures-des-urgences-hospitalieres-juin-2013</link>
+     <description><![CDATA[Cette enquête est destinée à décrire la genèse du recours des patients aux urgences hospitalières, les difficultés éventuelles rencontrées lors de leur prise en charge, la diversité des organisations sur l’ensemble du territoire. ]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
   <item>
