@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 25 Apr 2014 16:00:02 +0200</pubDate>
+  <pubDate>Fri, 25 Apr 2014 16:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Statistiques régionales et départementales du commerce extérieur</title>
+     <link>https://www.data.gouv.fr/fr/dataset/statistiques-regionales-et-departementales-du-commerce-exterieur</link>
+     <description><![CDATA[DOUANE - Statistiques régionales et départementales du commerce extérieur sur les 5 derniers trimestres (Données Produits/Pays). L'information sur les échanges de marchandises est collectée sur la base de déclarations d'échanges de biens (DEB) pour les échanges avec les 27 autres États membres et des déclarations en douane (DAU) pour les échanges avec les autres pays (nommés pays tiers)....]]></description>
+     <author>Ministère des finances et des comptes publics (certifié)</author>
+  </item>
   <item>
      <title>Hospi Diag</title>
      <link>https://www.data.gouv.fr/fr/dataset/hospi-diag</link>
@@ -358,12 +364,6 @@
      <title>Liste des kiosques presse, théâtre et Loto</title>
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-kiosques-presse-theatre-et-loto-2-prs</link>
      <description><![CDATA[Liste des kiosques théatre, loto et presse sur l'espace public parisien. Le jeu de données comprend : - le type de kiosque - l'adresse du kiosque - certains horaires d'ouverture. A noter, Open Data Paris propose également un autre fichier comprenant uniquement les kiosques de presse mais plus précis sur les horaires d'ouverture. Exemples de réutilisations: - Kiosques à...]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Les 1000 titres les plus empruntés de 2012</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-1000-titres-les-plus-empruntes-de-2012-prs</link>
-     <description><![CDATA[Les 1000 références les plus empruntées en 2012 au sein des bibliothèques municipales de la ville de Paris. ]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
