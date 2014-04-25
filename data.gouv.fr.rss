@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 25 Apr 2014 15:50:02 +0200</pubDate>
+  <pubDate>Fri, 25 Apr 2014 16:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Hospi Diag</title>
+     <link>https://www.data.gouv.fr/fr/dataset/hospi-diag</link>
+     <description><![CDATA[Hospi Diag est un outil d’aide à la décision permettant de mesurer la performance d’un établissement de santé qui pratique de la médecine, de la chirurgie ou de l’obstétrique, en comparaison avec d’autres établissements de santé. Il permet d’identifier ses forces et ses faiblesses et donc ses gisements de performance dans 5 composantes : qualité des soins, pratiques professionnelles,...]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Statistiques nationales du commerce extérieur</title>
      <link>https://www.data.gouv.fr/fr/dataset/statistiques-nationales-du-commerce-exterieur</link>
@@ -358,12 +364,6 @@
      <title>Les 1000 titres les plus empruntés de 2012</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-1000-titres-les-plus-empruntes-de-2012-prs</link>
      <description><![CDATA[Les 1000 références les plus empruntées en 2012 au sein des bibliothèques municipales de la ville de Paris. ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Trottoirs des rues de Paris</title>
-     <link>https://www.data.gouv.fr/fr/dataset/trottoirs-des-rues-de-paris-prs</link>
-     <description><![CDATA[Données de type vecteur décrivant les trottoirs parisiens. Exemple(s) de réutilisation(s) des données : - Cartographie sur http://demo.3liz.fr/opendataparis ]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
