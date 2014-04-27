@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 27 Apr 2014 12:50:02 +0200</pubDate>
+  <pubDate>Sun, 27 Apr 2014 23:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Liste des maires</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-maires</link>
+     <description><![CDATA[Liste des maires au 25/04/2014. Conversion en CSV du XLS de l'Intérieur avec mise en dates ISO 8601 et préfixes corrigés des codes départements et communes. Comme indiqué par le Ministère, cette liste n'est pas encore complète (35 886 maires présents). Des mises à jour sont donc à prévoir. La mention obligatoire d’attribution doit être « Licence ODbL © IdeesLibres.org 04/2014, Ministère de...]]></description>
+     <author>IdeesLibres.org</author>
+  </item>
   <item>
      <title>Projections démographiques Europe Inde Chine Brésil Russie</title>
      <link>https://www.data.gouv.fr/fr/dataset/projections-demographiques-europe-inde-chine-bresil-russie</link>
@@ -358,12 +364,6 @@
      <title>Parc de stationnement en sous sol</title>
      <link>https://www.data.gouv.fr/fr/dataset/parc-de-stationnement-en-sous-sol-prs</link>
      <description><![CDATA[Liste de tous les parcs de stationnement en sous-sol concédés à Paris. Le jeu de données comprend de nombreuses données : - Nom - Adresse - Caractéristiques et services du parc Nom , site internet et téléphone du délégataire Places pour les personnes à mobilité réduite Horaires Accès selon les véhicules Tarification selon le...]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Résultats de l'élection municipale 2014 1er tour</title>
-     <link>https://www.data.gouv.fr/fr/dataset/resultats-de-l-election-municipale-2014-1er-tour-prs</link>
-     <description><![CDATA[Résultats du 1er tour des élections Municipales de 2014 ]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
