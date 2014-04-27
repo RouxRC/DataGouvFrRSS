@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 27 Apr 2014 11:00:02 +0200</pubDate>
+  <pubDate>Sun, 27 Apr 2014 12:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Projections démographiques Europe Inde Chine Brésil Russie</title>
+     <link>https://www.data.gouv.fr/fr/dataset/projections-demographiques-europe-inde-chine-bresil-russie</link>
+     <description><![CDATA[Selon les Perspectives démographiques mondiales, révision de 2010 des Nations unies (ONU), la population mondiale a atteint 7,1 milliards d’habitants au 1er juillet 2012. L’Asie représentait la majeure partie de la population mondiale (un peu plus de 60 % en 2012), avec 4,25 milliards d’habitants, tandis que l’Afrique était le deuxième continent le plus peuplé, avec 1,07 milliard d’habitants,...]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Statistiques viti-vinicoles - Relevés annuels des stocks et des récoltes</title>
      <link>https://www.data.gouv.fr/fr/dataset/statistiques-viti-vinicoles-releves-annuels-des-stocks-et-des-recoltes</link>
@@ -358,12 +364,6 @@
      <title>Résultats de l'élection municipale 2014 1er tour</title>
      <link>https://www.data.gouv.fr/fr/dataset/resultats-de-l-election-municipale-2014-1er-tour-prs</link>
      <description><![CDATA[Résultats du 1er tour des élections Municipales de 2014 ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Liste des bureaux de vote : voies de Paris</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-bureaux-de-vote-voies-de-paris-prs</link>
-     <description><![CDATA[Résultats des élections, Présidentielles, Législatives, Municipales, Européennes et Régionales. Exemple(s) de réutilisation(s) des données : - Cartographie sur http://mounirsimon.com/dequelbord/ ]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
