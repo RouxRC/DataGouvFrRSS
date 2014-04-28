@@ -4,8 +4,44 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 28 Apr 2014 11:50:02 +0200</pubDate>
+  <pubDate>Mon, 28 Apr 2014 15:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Travaux de voirie à Digne-les-Bains depuis 2009</title>
+     <link>https://www.data.gouv.fr/fr/dataset/travaux-de-voirie-a-digne-les-bains-depuis-2009-op</link>
+     <description><![CDATA[Description des rénovations et des travaux de voirie sur la commune de Digne-les-Bains depuis 2009. ]]></description>
+     <author>Ville de Digne-les-Bains (certifié)</author>
+  </item>
+  <item>
+     <title>Aide administrative du pôle social de Digne-les-Bains depuis 2012</title>
+     <link>https://www.data.gouv.fr/fr/dataset/aide-administrative-du-pole-social-de-digne-les-bains-depuis-2012-op</link>
+     <description><![CDATA[Nombre de personnes aidées au niveau administratif par le pôle social du CCAS de Digne-les-Bains depuis 2012. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Statistiques 2013 de restauration scolaire à Digne-les-Bains</title>
+     <link>https://www.data.gouv.fr/fr/dataset/statistiques-2013-de-restauration-scolaire-a-digne-les-bains-op</link>
+     <description><![CDATA[Nombre de repas servis dans les écoles de Digne-les-Bains en 2013 et la quantité moyenne d'aliments achetés en kg. ]]></description>
+     <author>Ville de Digne-les-Bains (certifié)</author>
+  </item>
+  <item>
+     <title>Bâtiments communaux de Digne-les-Bains</title>
+     <link>https://www.data.gouv.fr/fr/dataset/batiments-communaux-de-digne-les-bains-op</link>
+     <description><![CDATA[Bâtiments appartenant à la Ville de Digne-les-Bains. ]]></description>
+     <author>Ville de Digne-les-Bains (certifié)</author>
+  </item>
+  <item>
+     <title>Marchés d'un montant supérieur à 20 000 EUR HT : année 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/marches-d-un-montant-superieur-a-20-000-eur-ht-annee-2013-op</link>
+     <description><![CDATA[Marchés publics de l'article 133 de la Région et de l'AREA-PACA d'un montant supérieur à 20 000 EUR HT pour l'année 2013. ]]></description>
+     <author>Région Provence-Alpes-Côte d'Azur (certifié)</author>
+  </item>
+  <item>
+     <title>Blog de LYC : actualités, décryptages au sujet de la cigarette électronique</title>
+     <link>https://www.data.gouv.fr/fr/dataset/blog-de-lyc-actualites-decryptages-au-sujet-de-la-cigarette-electronique</link>
+     <description><![CDATA[Informations, news, décryptages à propos du secteur d'activité de la cigarette électronique (législation, études, normes d'e-cigarettes, mods, e-liquides). ]]></description>
+     <author>LYC - Actualités et décryptages à propos de la cigarette électronique</author>
+  </item>
   <item>
      <title>Actualités, décryptages au sujet de la cigarette électronique ( LYC )</title>
      <link>https://www.data.gouv.fr/fr/dataset/actualites-decryptages-au-sujet-de-la-cigarette-electronique-lyc</link>
@@ -329,42 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/donnees-de-l-institut-de-veille-sanitaire-sur-la-surveillance-liee-au-syndrome-grippal</link>
      <description><![CDATA[Données recueillies auprès de l’InVS pendant la période de surveillance (le plus souvent, semaine 40 à semaine 15 de l’année suivante), en métropole, des cas graves admis en réanimation par saison et par région et des cas groupés d’infection respiratoire aiguë basse en collectivité de personnes âgées par saison. Le découpage en régions correspond au découpage en cellules de surveillance de...]]></description>
      <author>CELTIPHARM</author>
-  </item>
-  <item>
-     <title>Liste des marchés conclus 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-marches-conclus-2013</link>
-     <description><![CDATA[Liste des marchés conclus par l'État au cours de l'année 2013. ]]></description>
-     <author>Ministère des finances et des comptes publics (certifié)</author>
-  </item>
-  <item>
-     <title>Liste des ouvrages des bibliothèques en janvier 2009</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-ouvrages-des-bibliotheques-en-janvier-2009-prs</link>
-     <description><![CDATA[Liste des ouvrages (notice bibliographique et localisation) dans les bibliothèques parisiennes au 02/01/2009 ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Liste des marchés de fournitures passés par la Ville de Paris</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-marches-de-fournitures-passes-par-la-ville-de-paris-prs</link>
-     <description><![CDATA[Le jeu de données comprend les marchés de fournitures passés par la Ville de Paris, de 2009 à 2013. Ce jeu de données comprend: l'année le n° national de marché le nom du titulaire le code postal l'objet du marché le montant la date de notif ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Liste des marchés de travaux passés par la Ville de Paris</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-marches-de-travaux-passes-par-la-ville-de-paris-prs</link>
-     <description><![CDATA[Le jeu de données comprend les marchés des travaux passés par la Ville de Paris, de 2009 à 2013. Ce jeu de données comprend: l'année le n° national de marché le nom du titulaire le code postal l'objet du marché le montant la date de notif ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Les 1000 titres les plus recherchés en 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-1000-titres-les-plus-recherches-en-2013-prs</link>
-     <description><![CDATA[Les 1000 références les plus recherchées en 2013 au sein des bibliothèques municipales de la ville de Paris. La mise de ce jeu de données est semestrielle. En pièce jointe, vous trouverez le même fichier au format xls contenant les liens vers les oeuvres. ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Liste des marchés de fournitures passés par le Département de Paris</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-marches-de-fournitures-passes-par-le-departement-de-paris-prs</link>
-     <description><![CDATA[Le jeu de données comprend les marchés de fournitures passés passés le Département de Paris, de 2009 à 2013. Ce jeu de données précise: l'année le n° national de marché le nom du titulaire le code postal l'objet du marché le montant la date de notif ]]></description>
-     <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
 </rss>
