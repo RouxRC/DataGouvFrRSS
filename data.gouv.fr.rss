@@ -4,8 +4,50 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 28 Apr 2014 15:20:02 +0200</pubDate>
+  <pubDate>Mon, 28 Apr 2014 15:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Jeux de données - Ville d'Istres</title>
+     <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-ville-d-istres-op</link>
+     <description><![CDATA[Les jeux de données publiés par Ville d'Istres, collectés par data.gouv.fr sur la plateforme Open PACA ]]></description>
+     <author>Open PACA (certifié)</author>
+  </item>
+  <item>
+     <title>Panneaux publicitaires du SAN Ouest Provence</title>
+     <link>https://www.data.gouv.fr/fr/dataset/panneaux-publicitaires-du-san-ouest-provence-op</link>
+     <description><![CDATA[Localisation des panneaux publicitaires du SAN Ouest Provence sur son territoire. ]]></description>
+     <author>SAN Ouest Provence</author>
+  </item>
+  <item>
+     <title>Statistiques 2013 du Service Plus à Digne-les-Bains</title>
+     <link>https://www.data.gouv.fr/fr/dataset/statistiques-2013-du-service-plus-a-digne-les-bains-op</link>
+     <description><![CDATA[Bilan mensuel du nombre de repas livrés à domicile par Service Plus à Digne-les-Bains en 2013. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Activité de l'ERIC du pôle social de Digne-les-Bains depuis 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/activite-de-l-eric-du-pole-social-de-digne-les-bains-depuis-2010-op</link>
+     <description><![CDATA[Récapitulatif mensuel de la fréquentation de l'Espace Régional Internet Citoyen du pôle social de la ville de Digne-les-Bains depuis 2010. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Activité de la cuisine du pôle social de Digne-les-Bains depuis 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/activite-de-la-cuisine-du-pole-social-de-digne-les-bains-depuis-2010-op</link>
+     <description><![CDATA[Nombre de repas servis dans la cuisine du pôle social de la ville de Digne-les-Bains au cours des saisons 2010-2011, 2011-2012, 2012-2013. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Statistiques d'accueil du public au CCAS de Digne-les-Bains depuis 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/statistiques-d-accueil-du-public-au-ccas-de-digne-les-bains-depuis-2010-op</link>
+     <description><![CDATA[Bilan mensuel des demandes de renseignements à l'accueil du CCAS de Digne-les-Bains depuis 2010. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Elections municipales 2014 à Istres</title>
+     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-a-istres-op</link>
+     <description><![CDATA[Résultats complets des deux tours des élections municipales 2014 dans les 30 bureaux de vote d'Istres. ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Elections municipales 2014 à Digne-les-Bains</title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-a-digne-les-bains-op</link>
@@ -322,48 +364,6 @@
      <title>Écoles supérieures du professorat et de l'éducation : Implantations et parcours MEEF proposés</title>
      <link>https://www.data.gouv.fr/fr/dataset/ecoles-superieures-du-professorat-et-de-l-education-implantations-et-parcours-meef-proposes-mesr</link>
      <description><![CDATA[Ce jeu de données permet de localiser les implantations et l'offre de formation des Écoles supérieures du professorat et de l'éducation. ]]></description>
-     <author>Enseignement Supérieur et Recherche (certifié)</author>
-  </item>
-  <item>
-     <title>Contrats signés du programme-cadre de recherche et développement technologique (7ème PCRDT) de la Commission européenne</title>
-     <link>https://www.data.gouv.fr/fr/dataset/contrats-signes-du-programme-cadre-de-recherche-et-developpement-technologique-7eme-pcrdt-de-la-mesr</link>
-     <description><![CDATA[Ce jeu de données contient le nombre de contrats signés dans le cadre du 7ème PCRDT à la date du 21 février 2014. Données complémentaires dans Participations dans les contrats signés du programme-cadre recherche et développement technologique (7ème PCRDT) de la Commission européenne ]]></description>
-     <author>Enseignement Supérieur et Recherche (certifié)</author>
-  </item>
-  <item>
-     <title>Effectifs d’étudiants inscrits dans les établissements et les formations de l’enseignement supérieur</title>
-     <link>https://www.data.gouv.fr/fr/dataset/effectifs-d-etudiants-inscrits-dans-les-etablissements-et-les-formations-de-l-enseignement-superie-0</link>
-     <description><![CDATA[Ce jeu de données présente les effectifs d’étudiants inscrits dans les établissements et les formations de l’enseignement supérieur, recensés pour les années 2001-2002 à 2012-13 dans les systèmes d’information et enquêtes du ministère de l’Éducation nationale, de l’Enseignement supérieur et de la Recherche, des ministères en charge de l’Agriculture, de la Pêche, de la Culture, de...]]></description>
-     <author>Enseignement Supérieur et Recherche (certifié)</author>
-  </item>
-  <item>
-     <title>Structures de transfert et de valorisation</title>
-     <link>https://www.data.gouv.fr/fr/dataset/structures-de-transfert-et-de-valorisation-mesr</link>
-     <description><![CDATA[Ce jeu de données présente la liste exhaustive des incubateurs publics soutenus par le ministère de l'Education nationale, de l'Enseignement supérieur et de la Recherche, des plateformes technologiques (PFT), des centres de ressources technologiques (CRT), des centres de développement technologique (CDT), des sociétés d'accélération du transfert de technologies (SATT), des...]]></description>
-     <author>Enseignement Supérieur et Recherche (certifié)</author>
-  </item>
-  <item>
-     <title>Les moyens consacrés à la R&amp;D : Les administrations par type d'organisme</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-moyens-consacres-a-la-r-d-les-administrations-par-type-d-organisme-mesr</link>
-     <description><![CDATA[Ce jeu de données présente les moyens financiers et humains consacrés à la recherche et au développement des administrations par zone géographique, année, type d'organisme et type de personnel. ]]></description>
-     <author>Enseignement Supérieur et Recherche (certifié)</author>
-  </item>
-  <item>
-     <title>Les moyens consacrés à la R&amp;D : Les entreprises par taille</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-moyens-consacres-a-la-r-d-les-entreprises-par-taille-mesr</link>
-     <description><![CDATA[Ce jeu de données présente les moyens financiers et humains consacrés à la recherche et au développement dans les entreprises par zone géographique, année, taille et type de personnel. ]]></description>
-     <author>Enseignement Supérieur et Recherche (certifié)</author>
-  </item>
-  <item>
-     <title>Insertion professionnelle des diplômés de Master en universités et établissements assimilés</title>
-     <link>https://www.data.gouv.fr/fr/dataset/insertion-professionnelle-des-diplomes-de-master-en-universites-et-etablissements-assimil-0</link>
-     <description><![CDATA[Ces données sont basées sur les données collectées dans le cadre de l'opération nationale de collecte de données sur l’insertion professionnelle des diplômés de Master. Cette enquête a été menée en décembre 2012, 30 mois après l’obtention de leur diplôme, auprès de 47 500 diplômés de Master de la session 2010. Le taux d’insertion est défini comme étant le pourcentage de diplômés...]]></description>
-     <author>Enseignement Supérieur et Recherche (certifié)</author>
-  </item>
-  <item>
-     <title>Les moyens consacrés à la R&amp;D : Les entreprises par intensité technologique</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-moyens-consacres-a-la-r-d-les-entreprises-par-intensite-technologique</link>
-     <description><![CDATA[Ce jeu de données présente les moyens financiers et humains consacrés à la recherche et au développement dans les entreprises par zone géographique, année, intensité technologique et type de personnel. ]]></description>
      <author>Enseignement Supérieur et Recherche (certifié)</author>
   </item>
  </channel>
