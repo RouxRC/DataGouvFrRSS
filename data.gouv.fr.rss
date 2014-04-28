@@ -4,8 +4,62 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 28 Apr 2014 15:10:02 +0200</pubDate>
+  <pubDate>Mon, 28 Apr 2014 15:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Elections municipales 2014 à Digne-les-Bains</title>
+     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-a-digne-les-bains-op</link>
+     <description><![CDATA[Résultats complets des deux tours des élections municipales 2014 dans les 16 bureaux de vote de Digne-les-Bains. ]]></description>
+     <author>Ville de Digne-les-Bains (certifié)</author>
+  </item>
+  <item>
+     <title>Contrats de milieux</title>
+     <link>https://www.data.gouv.fr/fr/dataset/contrats-de-milieux-op</link>
+     <description><![CDATA[Les contrats de milieux (rivière, étang, delta) de la Région Provence-Alpes-Côte d'Azur sont des instruments d'intervention opérationnels des politiques partenariales dans le domaine de l'eau. Le contrat de milieu suit 4 phases : Emergence, Elaboration, Mise en oeuvre, Achevé. Contrairement au SAGE (Schéma d'Aménagement et de Gestion des Eaux), le contrat de milieu n'a pas de portée juridique...]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Budget du CCAS de Digne-les-Bains depuis 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/budget-du-ccas-de-digne-les-bains-depuis-2010-op</link>
+     <description><![CDATA[Budget du Centre Communal d'Action Sociale de la ville de Digne-les-Bains depuis 2010. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Activité du CCAS de Digne-les-Bains depuis 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/activite-du-ccas-de-digne-les-bains-depuis-2010-op</link>
+     <description><![CDATA[Aides sociales légales et facultatives délivrées par le CCAS de la ville de Digne-les-Bains depuis 2010. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Aide FSU du pôle social de Digne-les-Bains depuis 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/aide-fsu-du-pole-social-de-digne-les-bains-depuis-2010-op</link>
+     <description><![CDATA[Répartition et montant de l'aide Fond Social d'Urgence du pôle social de Digne-les-Bains depuis 2010. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Activité sanitaire du pôle social de Digne-les-Bains depuis 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/activite-sanitaire-du-pole-social-de-digne-les-bains-depuis-2010-op</link>
+     <description><![CDATA[Récapitulatif mensuel du nombre de douches prisent au pôle social de Digne-les-Bains par les personnes sans abris depuis 2010. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Aide RSA du CCAS de Digne-les-Bains depuis 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/aide-rsa-du-ccas-de-digne-les-bains-depuis-2010-op</link>
+     <description><![CDATA[Tableau récapitulatif du nombre de dossiers de Revenu de Solidarité Active suivis par le CCAS de la ville de Digne-les-Bains depuis 2010. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Activité de la laverie du pôle social de Digne-les-Bains depuis 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/activite-de-la-laverie-du-pole-social-de-digne-les-bains-depuis-2010-op</link>
+     <description><![CDATA[Récapitulatif mensuel de l'activité de la laverie du pôle social de Digne-les-Bains depuis 2010. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Consommation 2013 du parc automobile de la mairie de Digne-les-Bains</title>
+     <link>https://www.data.gouv.fr/fr/dataset/consommation-2013-du-parc-automobile-de-la-mairie-de-digne-les-bains-op</link>
+     <description><![CDATA[Consommation des véhicules communaux en 2013 de la Ville de Digne-les-Bains. ]]></description>
+     <author>Ville de Digne-les-Bains (certifié)</author>
+  </item>
   <item>
      <title>Travaux de voirie à Digne-les-Bains depuis 2009</title>
      <link>https://www.data.gouv.fr/fr/dataset/travaux-de-voirie-a-digne-les-bains-depuis-2009-op</link>
@@ -311,60 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/les-moyens-consacres-a-la-r-d-les-entreprises-par-intensite-technologique</link>
      <description><![CDATA[Ce jeu de données présente les moyens financiers et humains consacrés à la recherche et au développement dans les entreprises par zone géographique, année, intensité technologique et type de personnel. ]]></description>
      <author>Enseignement Supérieur et Recherche (certifié)</author>
-  </item>
-  <item>
-     <title>Les moyens consacrés à la R&amp;D : Les administrations et les entreprises</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-moyens-consacres-a-la-r-d-les-administrations-et-les-entreprises-mesr</link>
-     <description><![CDATA[Ce jeu de données présente les moyens financiers et humains consacrés à la recherche et au développement dans les administrations et les entreprises. Ces moyens sont ventilés par zone géographique, année, type d'organisme et type de personnel. ]]></description>
-     <author>Enseignement Supérieur et Recherche (certifié)</author>
-  </item>
-  <item>
-     <title>Les moyens consacrés à la R&amp;D : Les entreprises par branche d'activité</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-moyens-consacres-a-la-r-d-les-entreprises-par-branche-d-activite-mesr</link>
-     <description><![CDATA[Ce jeu de données présente les moyens financiers et humains consacrés à la recherche et au développement dans les entreprises par zone géographique, année, branche d'activité et type de personnel ]]></description>
-     <author>Enseignement Supérieur et Recherche (certifié)</author>
-  </item>
-  <item>
-     <title>Indicateurs des contrats du 7ème PCRDT par pays 2007-2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/indicateurs-des-contrats-du-7eme-pcrdt-par-pays-2007-2013-mesr</link>
-     <description><![CDATA[Indicateurs de participations, de contributions allouées, de nombre de projets, de coordinations de projets et poids international de chaque pays sur la période du FP7. ]]></description>
-     <author>Enseignement Supérieur et Recherche (certifié)</author>
-  </item>
-  <item>
-     <title>Les moyens consacrés à la R&amp;D : les EPST et les EPIC</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-moyens-consacres-a-la-r-d-les-epst-et-les-epic-mesr</link>
-     <description><![CDATA[Ce jeu de données présente les moyens financiers et humains consacrés à la recherche et au développement des EPST et des EPIC par région, année, type d'organisme et type de personnel. ]]></description>
-     <author>Enseignement Supérieur et Recherche (certifié)</author>
-  </item>
-  <item>
-     <title>Écoles supérieures du professorat et de l'éducation : Concours d'enseignement visés</title>
-     <link>https://www.data.gouv.fr/fr/dataset/ecoles-superieures-du-professorat-et-de-l-education-concours-d-enseignement-vises-mesr</link>
-     <description><![CDATA[Ce jeu de données permet d'identifier les implantations des Écoles supérieures du professorat et de l'éducation préparant aux concours d'enseignement selon le type de concours visé, la section et l'option. ]]></description>
-     <author>Enseignement Supérieur et Recherche (certifié)</author>
-  </item>
-  <item>
-     <title>Liste des écoles doctorales accréditées</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-ecoles-doctorales-accreditees</link>
-     <description><![CDATA[Ce jeu de données présente la liste exhaustive de toutes les écoles doctorales françaises accréditées par le Ministère de l'Éducation nationale, de l'Enseignement supérieur et de la Recherche ]]></description>
-     <author>Enseignement Supérieur et Recherche (certifié)</author>
-  </item>
-  <item>
-     <title>Les bénéficiaires de la prime d'excellence scientifique</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-beneficiaires-de-la-prime-d-excellence-scientifique-mesr</link>
-     <description><![CDATA[Ce jeu de données présente les effectifs des bénéficiaires de la prime d'excellence scientifique (ex prime d'encadrement doctoral et de recherche) par sexe, secteur CNU, corps et établissement. ]]></description>
-     <author>Enseignement Supérieur et Recherche (certifié)</author>
-  </item>
-  <item>
-     <title>Saisines des chambres régionales et territoriales des comptes, par année et type de saisine (2008-2013)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/saisines-des-chambres-regionales-et-territoriales-des-comptes-par-annee-et-type-de-saisine-2008-2013</link>
-     <description><![CDATA[Les chambres régionales et territoriales des comptes exercent à titre principal sur les collectivités territoriales et leurs établissements publics une triple compétence de jugement des comptes des comptables publics, d’examen de la gestion et de contrôle budgétaire. Elles ont aussi une mission d’évaluation des politiques publiques et des conditions de leur mise en œuvre au niveau local par...]]></description>
-     <author>Cour des comptes (certifié)</author>
-  </item>
-  <item>
-     <title>Données de l’Institut de Veille Sanitaire sur la surveillance liée au syndrome grippal</title>
-     <link>https://www.data.gouv.fr/fr/dataset/donnees-de-l-institut-de-veille-sanitaire-sur-la-surveillance-liee-au-syndrome-grippal</link>
-     <description><![CDATA[Données recueillies auprès de l’InVS pendant la période de surveillance (le plus souvent, semaine 40 à semaine 15 de l’année suivante), en métropole, des cas graves admis en réanimation par saison et par région et des cas groupés d’infection respiratoire aiguë basse en collectivité de personnes âgées par saison. Le découpage en régions correspond au découpage en cellules de surveillance de...]]></description>
-     <author>CELTIPHARM</author>
   </item>
  </channel>
 </rss>
