@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 28 Apr 2014 11:00:02 +0200</pubDate>
+  <pubDate>Mon, 28 Apr 2014 11:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Actualités, décryptages au sujet de la cigarette électronique ( LYC )</title>
+     <link>https://www.data.gouv.fr/fr/dataset/actualites-decryptages-au-sujet-de-la-cigarette-electronique-lyc</link>
+     <description><![CDATA[Abonnement aux informations à propos de la e-cigarette : le blog de LYC. ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Les élus municipaux de la Manche en 2014</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-elus-municipaux-de-la-manche-en-2014</link>
@@ -358,12 +364,6 @@
      <title>Liste des marchés de fournitures passés par le Département de Paris</title>
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-marches-de-fournitures-passes-par-le-departement-de-paris-prs</link>
      <description><![CDATA[Le jeu de données comprend les marchés de fournitures passés passés le Département de Paris, de 2009 à 2013. Ce jeu de données précise: l'année le n° national de marché le nom du titulaire le code postal l'objet du marché le montant la date de notif ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Résultats électoraux</title>
-     <link>https://www.data.gouv.fr/fr/dataset/resultats-electoraux-prs</link>
-     <description><![CDATA[Résultats des élections, Présidentielles, Législatives, Municipales, Européennes et Régionales de 2007 à 2014 par arrondissement, bureau et candidat ]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
