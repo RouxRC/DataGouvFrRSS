@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 28 Apr 2014 15:30:02 +0200</pubDate>
+  <pubDate>Mon, 28 Apr 2014 15:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Jeux de données - Ville de Digne-les-Bains - CCAS</title>
+     <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-ville-de-digne-les-bains-ccas-op</link>
+     <description><![CDATA[Les jeux de données publiés par Ville de Digne-les-Bains - CCAS, collectés par data.gouv.fr sur la plateforme Open PACA ]]></description>
+     <author>Open PACA (certifié)</author>
+  </item>
   <item>
      <title>Jeux de données - Ville d'Istres</title>
      <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-ville-d-istres-op</link>
@@ -358,12 +364,6 @@
      <title>Effectifs d'étudiants inscrits dans les établissements publics sous tutelle du ministère en charge de l’Enseignement supérieur et de la Recherche</title>
      <link>https://www.data.gouv.fr/fr/dataset/effectifs-d-etudiants-inscrits-dans-les-etablissements-publics-sous-tutelle-du-ministere-en-charge-d</link>
      <description><![CDATA[Ce jeu de données présente les effectifs d’étudiants inscrits dans les établissements publics d'enseignement supérieur sous tutelle du Ministère en charge de l'enseignement supérieur et de la recherche de 2006-2007 à 2012-2013. Les données sont tirées du système d'information sur le suivi de l'étudiant (SISE). Les inscriptions sont observées à la date du 15 janvier, sauf pour...]]></description>
-     <author>Enseignement Supérieur et Recherche (certifié)</author>
-  </item>
-  <item>
-     <title>Écoles supérieures du professorat et de l'éducation : Implantations et parcours MEEF proposés</title>
-     <link>https://www.data.gouv.fr/fr/dataset/ecoles-superieures-du-professorat-et-de-l-education-implantations-et-parcours-meef-proposes-mesr</link>
-     <description><![CDATA[Ce jeu de données permet de localiser les implantations et l'offre de formation des Écoles supérieures du professorat et de l'éducation. ]]></description>
      <author>Enseignement Supérieur et Recherche (certifié)</author>
   </item>
  </channel>
