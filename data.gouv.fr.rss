@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 29 Apr 2014 10:10:02 +0200</pubDate>
+  <pubDate>Tue, 29 Apr 2014 10:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Répartition des médecins par catégorie</title>
+     <link>https://www.data.gouv.fr/fr/dataset/repartition-des-medecins-par-categorie</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données RPPS de la Drees ]]></description>
+     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Répartition des médecins par sexe</title>
      <link>https://www.data.gouv.fr/fr/dataset/repartition-des-medecins-par-sexe</link>
@@ -358,12 +364,6 @@
      <title>Les membres de l'Institut universitaire de France</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-membres-de-l-institut-universitaire-de-france</link>
      <description><![CDATA[Ce jeu de données présente la liste des nouveaux membres actifs de l'Institut universitaire de France (IUF) par année d'intégration. ]]></description>
-     <author>Enseignement Supérieur et Recherche (certifié)</author>
-  </item>
-  <item>
-     <title>Écoles supérieures du professorat et de l'éducation : Parcours des masters Métiers de l’enseignement, de l’éducation et de la formation</title>
-     <link>https://www.data.gouv.fr/fr/dataset/ecoles-superieures-du-professorat-et-de-l-education-parcours-des-masters-metiers-de-l-enseignem-mesr</link>
-     <description><![CDATA[Ce jeu de données permet d'identifier les parcours des masters Métiers de l’enseignement, de l’éducation et de la formation proposées dans les implantations des Écoles supérieures du professorat et de l'éducation. ]]></description>
      <author>Enseignement Supérieur et Recherche (certifié)</author>
   </item>
  </channel>
