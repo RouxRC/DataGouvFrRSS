@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 28 Apr 2014 16:00:02 +0200</pubDate>
+  <pubDate>Tue, 29 Apr 2014 10:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Répartition des médecins par sexe</title>
+     <link>https://www.data.gouv.fr/fr/dataset/repartition-des-medecins-par-sexe</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données RPPS de la Drees ]]></description>
+     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Jeux de données - Ville de Digne-les-Bains - CCAS</title>
      <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-ville-de-digne-les-bains-ccas-op</link>
@@ -358,12 +364,6 @@
      <title>Écoles supérieures du professorat et de l'éducation : Parcours des masters Métiers de l’enseignement, de l’éducation et de la formation</title>
      <link>https://www.data.gouv.fr/fr/dataset/ecoles-superieures-du-professorat-et-de-l-education-parcours-des-masters-metiers-de-l-enseignem-mesr</link>
      <description><![CDATA[Ce jeu de données permet d'identifier les parcours des masters Métiers de l’enseignement, de l’éducation et de la formation proposées dans les implantations des Écoles supérieures du professorat et de l'éducation. ]]></description>
-     <author>Enseignement Supérieur et Recherche (certifié)</author>
-  </item>
-  <item>
-     <title>Effectifs d'étudiants inscrits dans les établissements publics sous tutelle du ministère en charge de l’Enseignement supérieur et de la Recherche</title>
-     <link>https://www.data.gouv.fr/fr/dataset/effectifs-d-etudiants-inscrits-dans-les-etablissements-publics-sous-tutelle-du-ministere-en-charge-d</link>
-     <description><![CDATA[Ce jeu de données présente les effectifs d’étudiants inscrits dans les établissements publics d'enseignement supérieur sous tutelle du Ministère en charge de l'enseignement supérieur et de la recherche de 2006-2007 à 2012-2013. Les données sont tirées du système d'information sur le suivi de l'étudiant (SISE). Les inscriptions sont observées à la date du 15 janvier, sauf pour...]]></description>
      <author>Enseignement Supérieur et Recherche (certifié)</author>
   </item>
  </channel>
