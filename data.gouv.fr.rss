@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 02 May 2014 11:30:02 +0200</pubDate>
+  <pubDate>Fri, 02 May 2014 11:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Densité des gynécologues et obstétriciens </title>
+     <link>https://www.data.gouv.fr/fr/dataset/densite-des-gynecologues-et-obstetriciens</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données RPPS de la Drees ]]></description>
+     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Cartographie des grandes villes françaises à l'échelle des bureaux de vote</title>
      <link>https://www.data.gouv.fr/fr/dataset/cartographie-des-grandes-villes-francaises-a-l-echelle-des-bureaux-de-vote</link>
@@ -358,12 +364,6 @@
      <title>Jeux de données - Enseignement Supérieur et Recherche</title>
      <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-enseignement-superieur-et-recherche-mesr</link>
      <description><![CDATA[Les jeux de données collectés par data.gouv.fr sur la plateforme Enseignement Supérieur et Recherche ]]></description>
-     <author>Enseignement Supérieur et Recherche (certifié)</author>
-  </item>
-  <item>
-     <title>Principaux établissements d'enseignement supérieur</title>
-     <link>https://www.data.gouv.fr/fr/dataset/principaux-etablissements-d-enseignement-superieur-mesr</link>
-     <description><![CDATA[Caractéristiques des principaux établissements d'enseignement supérieur. Situation au 1er janvier 2014. ]]></description>
      <author>Enseignement Supérieur et Recherche (certifié)</author>
   </item>
  </channel>
