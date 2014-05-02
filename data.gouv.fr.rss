@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 02 May 2014 11:40:02 +0200</pubDate>
+  <pubDate>Fri, 02 May 2014 11:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Consommations d’énergie dans les IAA et les scieries</title>
+     <link>https://www.data.gouv.fr/fr/dataset/consommations-d-energie-dans-les-iaa-et-les-scieries</link>
+     <description><![CDATA[Consommation, achats et autoproduction par type d’énergie (gaz, fioul, électricité, butane-propane,houille...), prix d’achat des combustibles. Résultats nationaux par région et secteur d’activité des entreprises des IAA et de sciage et rabotage de bois. ]]></description>
+     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
+  </item>
   <item>
      <title>Densité des gynécologues et obstétriciens </title>
      <link>https://www.data.gouv.fr/fr/dataset/densite-des-gynecologues-et-obstetriciens</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/productions-des-chambres-regionales-et-territoriales-des-comptes-par-chambre-regionale-et-par-type-d</link>
      <description><![CDATA[Les chambres régionales et territoriales des comptes exercent à titre principal sur les collectivités territoriales et leurs établissements publics une triple compétence de jugement des comptes des comptables publics, d’examen de la gestion et de contrôle budgétaire. Elles ont aussi une mission d’évaluation des politiques publiques et des conditions de leur mise en œuvre au niveau local par...]]></description>
      <author>Cour des comptes (certifié)</author>
-  </item>
-  <item>
-     <title>Jeux de données - Enseignement Supérieur et Recherche</title>
-     <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-enseignement-superieur-et-recherche-mesr</link>
-     <description><![CDATA[Les jeux de données collectés par data.gouv.fr sur la plateforme Enseignement Supérieur et Recherche ]]></description>
-     <author>Enseignement Supérieur et Recherche (certifié)</author>
   </item>
  </channel>
 </rss>
