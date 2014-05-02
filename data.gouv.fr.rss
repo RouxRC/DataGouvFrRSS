@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 01 May 2014 03:40:02 +0200</pubDate>
+  <pubDate>Fri, 02 May 2014 11:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Cartographie des grandes villes françaises à l'échelle des bureaux de vote</title>
+     <link>https://www.data.gouv.fr/fr/dataset/cartographie-des-grandes-villes-francaises-a-l-echelle-des-bureaux-de-vote</link>
+     <description><![CDATA[Le projet CARTELEC développe un « Système d’Information Géographique » (SIG) qui permet d’analyser les résultats des élections de 2007 (présidentielle et législatives), 2009 (européennes) et 2010 (régionales) au niveau des bureaux de vote pour la France métropolitaine. Grâce aux outils modernes de la cartographie assistée par ordinateur, les périmètres des bureaux de vote sont mis en relation,...]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Avis des consommateurs sur les e-liquides</title>
      <link>https://www.data.gouv.fr/fr/dataset/avis-des-consommateurs-sur-les-e-liquides</link>
@@ -358,12 +364,6 @@
      <title>Principaux établissements d'enseignement supérieur</title>
      <link>https://www.data.gouv.fr/fr/dataset/principaux-etablissements-d-enseignement-superieur-mesr</link>
      <description><![CDATA[Caractéristiques des principaux établissements d'enseignement supérieur. Situation au 1er janvier 2014. ]]></description>
-     <author>Enseignement Supérieur et Recherche (certifié)</author>
-  </item>
-  <item>
-     <title>Institutions partenaires des pôles étudiants pour l'innovation, le transfert et l'entrepreneuriat (PEPITE)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/institutions-partenaires-des-poles-etudiants-pour-l-innovation-le-transfert-et-l-entrepreneuriat-pep</link>
-     <description><![CDATA[Liste des institutions partenaires des pôles étudiants pour l'innovation, le transfert et l'entrepreneuriat (PEPITE) ]]></description>
      <author>Enseignement Supérieur et Recherche (certifié)</author>
   </item>
  </channel>
