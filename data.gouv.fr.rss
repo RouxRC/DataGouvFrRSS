@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 02 May 2014 11:50:02 +0200</pubDate>
+  <pubDate>Fri, 02 May 2014 12:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Enquête sur la production de déchets non dangereux dans l’industrie</title>
+     <link>https://www.data.gouv.fr/fr/dataset/enquete-sur-la-production-de-dechets-non-dangereux-dans-l-industrie</link>
+     <description><![CDATA[Production de déchets par les industries agroalimentaires selon la nature du déchet, l’activité économique, le lieu et le mode de traitement des déchets, la région ]]></description>
+     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
+  </item>
   <item>
      <title>Consommations d’énergie dans les IAA et les scieries</title>
      <link>https://www.data.gouv.fr/fr/dataset/consommations-d-energie-dans-les-iaa-et-les-scieries</link>
@@ -358,12 +364,6 @@
      <title>Effectifs de la Cour des comptes, par type de grade ou d'affectation (2011-2013)</title>
      <link>https://www.data.gouv.fr/fr/dataset/effectifs-de-la-cour-des-comptes-par-type-de-grade-ou-d-affectation-2011-2013</link>
      <description><![CDATA[Les juridictions financières comptent plus de 1800 professionnels. Ils sont dédiés au jugement des comptes des comptables publics, au contrôle du bon emploi des fonds publics et à l'évaluation des politiques publiques. Ils travaillent à la Cour des comptes à Paris, dans quinze sites interrégionaux et régionaux en métropole, ainsi que dans quatre sites ultramarins. Ces collaborateurs présentent...]]></description>
-     <author>Cour des comptes (certifié)</author>
-  </item>
-  <item>
-     <title>Productions des chambres régionales et territoriales des comptes, par chambre régionale et par type de production (2010-2013)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/productions-des-chambres-regionales-et-territoriales-des-comptes-par-chambre-regionale-et-par-type-d</link>
-     <description><![CDATA[Les chambres régionales et territoriales des comptes exercent à titre principal sur les collectivités territoriales et leurs établissements publics une triple compétence de jugement des comptes des comptables publics, d’examen de la gestion et de contrôle budgétaire. Elles ont aussi une mission d’évaluation des politiques publiques et des conditions de leur mise en œuvre au niveau local par...]]></description>
      <author>Cour des comptes (certifié)</author>
   </item>
  </channel>
