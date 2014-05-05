@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 05 May 2014 18:00:02 +0200</pubDate>
+  <pubDate>Mon, 05 May 2014 18:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Elections européennes 2014 - Fichier des listes et des candidats</title>
+     <link>https://www.data.gouv.fr/fr/dataset/elections-europeennes-2014-fichier-des-listes-et-des-candidats</link>
+     <description><![CDATA[Fichier des listes et des candidats aux élections européennes 2014 ]]></description>
+     <author>Ministère de l'Intérieur (certifié)</author>
+  </item>
   <item>
      <title>Bénéficiaires d'allocations pour personnes âgées dépendantes</title>
      <link>https://www.data.gouv.fr/fr/dataset/beneficiaires-d-allocations-pour-personnes-agees-dependantes</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/enquete-nationale-sur-les-structures-des-urgences-hospitalieres-juin-2013</link>
      <description><![CDATA[Cette enquête est destinée à décrire la genèse du recours des patients aux urgences hospitalières, les difficultés éventuelles rencontrées lors de leur prise en charge, la diversité des organisations sur l’ensemble du territoire. ]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Publications de la Cour des comptes, par type et date de publication (2011-2014, données 2014 partielles)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/publications-de-la-cour-des-comptes-par-type-et-date-de-publication-2011-2014-donnees-2014-partielle</link>
-     <description><![CDATA[La Cour des comptes a pour mission de s'assurer du bon emploi de l'argent public et d'en informer les citoyens (selon l'article 47-2 de la Constitution). Juridiction indépendante, la Cour des comptes se situe à équidistance du Parlement et du Gouvernement, qu’elle assiste l’un et l’autre. La Cour rend publics et met en ligne sur son site internet tous ses travaux (sauf exigence particulière...]]></description>
-     <author>Cour des comptes (certifié)</author>
   </item>
  </channel>
 </rss>
