@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 05 May 2014 16:30:02 +0200</pubDate>
+  <pubDate>Mon, 05 May 2014 18:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Bénéficiaires d'allocations pour personnes âgées dépendantes</title>
+     <link>https://www.data.gouv.fr/fr/dataset/beneficiaires-d-allocations-pour-personnes-agees-dependantes</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees ]]></description>
+     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Base de données des accidents corporels de la circulation</title>
      <link>https://www.data.gouv.fr/fr/dataset/base-de-donnees-des-accidents-corporels-de-la-circulation</link>
@@ -358,12 +364,6 @@
      <title>Publications de la Cour des comptes, par type et date de publication (2011-2014, données 2014 partielles)</title>
      <link>https://www.data.gouv.fr/fr/dataset/publications-de-la-cour-des-comptes-par-type-et-date-de-publication-2011-2014-donnees-2014-partielle</link>
      <description><![CDATA[La Cour des comptes a pour mission de s'assurer du bon emploi de l'argent public et d'en informer les citoyens (selon l'article 47-2 de la Constitution). Juridiction indépendante, la Cour des comptes se situe à équidistance du Parlement et du Gouvernement, qu’elle assiste l’un et l’autre. La Cour rend publics et met en ligne sur son site internet tous ses travaux (sauf exigence particulière...]]></description>
-     <author>Cour des comptes (certifié)</author>
-  </item>
-  <item>
-     <title>Cartographie de la fiscalité affectée, selon le périmètre retenu pour le rapport du Conseil des prélèvements obligatoires (2007-2013)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/cartographie-de-la-fiscalite-affectee-selon-le-perimetre-retenu-pour-le-rapport-du-conseil-des-prele</link>
-     <description><![CDATA[Héritier du Conseil des impôts, le Conseil des prélèvements obligatoire (CPO) est chargé depuis 2005 d’apprécier l’évolution et l’impact économique, social et budgétaire de l’ensemble des prélèvements obligatoires, ainsi que de formuler des recommandations sur toute question relative à ces prélèvements (source). Le Conseil des prélèvements obligatoires (CPO) a rendu public, le 4 juillet 2013,...]]></description>
      <author>Cour des comptes (certifié)</author>
   </item>
  </channel>
