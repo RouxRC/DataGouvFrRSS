@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 05 May 2014 14:00:02 +0200</pubDate>
+  <pubDate>Mon, 05 May 2014 14:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Fréquence des séjours selon codes diagnostics principaux ou actes classant</title>
+     <link>https://www.data.gouv.fr/fr/dataset/frequence-des-sejours-selon-codes-diagnostics-principaux-ou-actes-classa-0</link>
+     <description><![CDATA[L’objet est de présenter pour un code et une année, l’ensemble des GHM pour lesquels ce code, diagnostic principal ou acte médical classant, figure dans les résumés des séjours. Cette liste donne pour chaque GHM son numéro et libellé, la CMD correspondante, le nombre de séjours et séances, la durée moyenne de ces séjours (voir supra pour la durée de séjour des séances). La liste est présentée...]]></description>
+     <author>Agence Technique de l'information sur l'Hospitalisation (ATIH) (certifié)</author>
+  </item>
   <item>
      <title>FranceWebAsso La nouvelle société du savoir, l'apprentissage du partage des savoirs et des pouvoirs</title>
      <link>https://www.data.gouv.fr/fr/dataset/francewebasso-la-nouvelle-societe-du-savoir-l-apprentissage-du-partage-des-savoirs-et-des-pouvoirs</link>
@@ -358,12 +364,6 @@
      <title>Positions administratives des magistrats de chambres régionales et territoriales des comptes (2010-2013)</title>
      <link>https://www.data.gouv.fr/fr/dataset/positions-administratives-des-magistrats-de-chambres-regionales-et-territoriales-des-comptes-2010-20</link>
      <description><![CDATA[Les carrières des magistrats de chambres régionales et territoriales des comptes peuvent les amener à changer de position administrative. Certains débutent comme personnel de contrôle en service en chambre, d'autres sont des fonctionnaires en détachement dans le corps des magistrats. Les magistrats issus de ce corps peuvent aussi être détachés ou mis à disposition auprès d'une autre...]]></description>
-     <author>Cour des comptes (certifié)</author>
-  </item>
-  <item>
-     <title>Nombre de magistrats des chambres régionales et territoriales des comptes (CRTC), par grade (2010-2013)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-magistrats-des-chambres-regionales-et-territoriales-des-comptes-crtc-par-grade-2010-2013</link>
-     <description><![CDATA[Les chambres régionales et territoriales des comptes exercent à titre principal sur les collectivités territoriales et leurs établissements publics une triple compétence de jugement des comptes des comptables publics, d’examen de la gestion et de contrôle budgétaire. Elles ont aussi une mission d’évaluation des politiques publiques et des conditions de leur mise en œuvre au niveau local par...]]></description>
      <author>Cour des comptes (certifié)</author>
   </item>
  </channel>
