@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 04 May 2014 13:10:02 +0200</pubDate>
+  <pubDate>Mon, 05 May 2014 10:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>FranceWebAsso La nouvelle société du savoir, l'apprentissage du partage des savoirs et des pouvoirs</title>
+     <link>https://www.data.gouv.fr/fr/dataset/francewebasso-la-nouvelle-societe-du-savoir-l-apprentissage-du-partage-des-savoirs-et-des-pouvoirs</link>
+     <description><![CDATA[Un partage d'intelligence, de créativité et de sagesse pour ré-enchanter le monde ! "Une véritable fenêtre sur le savoir permettant d'enrichir nos connaissances" projet architectural majeur du 21ème siècle ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Enquête sur les signes officiels de la qualité et de l’origine</title>
      <link>https://www.data.gouv.fr/fr/dataset/enquete-sur-les-signes-officiels-de-la-qualite-et-de-l-origine</link>
@@ -358,12 +364,6 @@
      <title>Nombre de magistrats des chambres régionales et territoriales des comptes (CRTC), par grade (2010-2013)</title>
      <link>https://www.data.gouv.fr/fr/dataset/nombre-de-magistrats-des-chambres-regionales-et-territoriales-des-comptes-crtc-par-grade-2010-2013</link>
      <description><![CDATA[Les chambres régionales et territoriales des comptes exercent à titre principal sur les collectivités territoriales et leurs établissements publics une triple compétence de jugement des comptes des comptables publics, d’examen de la gestion et de contrôle budgétaire. Elles ont aussi une mission d’évaluation des politiques publiques et des conditions de leur mise en œuvre au niveau local par...]]></description>
-     <author>Cour des comptes (certifié)</author>
-  </item>
-  <item>
-     <title>Positions administratives des magistrats de la Cour des comptes (2010-2013)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/positions-administratives-des-magistrats-de-la-cour-des-comptes-2010-2013</link>
-     <description><![CDATA[Les carrières des magistrats à la Cour des comptes peuvent les amener à changer de position administrative. S'ils débutent nécessairement comme personnel de contrôle en service à la Cour, ils peuvent notamment être détachés ou mis à disposition auprès d'une autre administration. Certains magistrats sont détachés dans les fonctions de chef de juridiction en chambre régionale ou territoriale des...]]></description>
      <author>Cour des comptes (certifié)</author>
   </item>
  </channel>
