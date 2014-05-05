@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 05 May 2014 15:00:02 +0200</pubDate>
+  <pubDate>Mon, 05 May 2014 16:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Base de données des accidents corporels de la circulation</title>
+     <link>https://www.data.gouv.fr/fr/dataset/base-de-donnees-des-accidents-corporels-de-la-circulation</link>
+     <description><![CDATA[Lors de l'OpenDataCamp organisé par Etalab et Devoxx le 16 avril 2014. La base de données des accidents du Ministère de l'Intérieur concernant la période 2006-2011 a pu être reformatée (travail collectif) afin d'être importable dans un SGBD classique et mis à disposition en ressource du jeu de données initial. Le jeu données suivant en est une version enrichie avec les codes INSEE du Geofla de...]]></description>
+     <author>IdeesLibres.org</author>
+  </item>
   <item>
      <title>taux de réussite ETG / permis B des auto-écoles françaises</title>
      <link>https://www.data.gouv.fr/fr/dataset/taux-de-reussite-etg-permis-b-des-auto-ecoles-francaises</link>
@@ -358,12 +364,6 @@
      <title>Cartographie de la fiscalité affectée, selon le périmètre retenu pour le rapport du Conseil des prélèvements obligatoires (2007-2013)</title>
      <link>https://www.data.gouv.fr/fr/dataset/cartographie-de-la-fiscalite-affectee-selon-le-perimetre-retenu-pour-le-rapport-du-conseil-des-prele</link>
      <description><![CDATA[Héritier du Conseil des impôts, le Conseil des prélèvements obligatoire (CPO) est chargé depuis 2005 d’apprécier l’évolution et l’impact économique, social et budgétaire de l’ensemble des prélèvements obligatoires, ainsi que de formuler des recommandations sur toute question relative à ces prélèvements (source). Le Conseil des prélèvements obligatoires (CPO) a rendu public, le 4 juillet 2013,...]]></description>
-     <author>Cour des comptes (certifié)</author>
-  </item>
-  <item>
-     <title>Effectifs des chambres régionales et territoriales des comptes, par chambre et type d'affectation (2012-2013)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/effectifs-des-chambres-regionales-et-territoriales-des-comptes-par-chambre-et-type-d-affectation-201</link>
-     <description><![CDATA[Les juridictions financières comptent plus de 1800 professionnels. Ils sont dédiés au jugement des comptes des comptables publics, au contrôle du bon emploi des fonds publics et à l'évaluation des politiques publiques. Ils travaillent à la Cour des comptes à Paris, dans quinze sites interrégionaux et régionaux en métropole, ainsi que dans quatre sites ultramarins. Ces collaborateurs présentent...]]></description>
      <author>Cour des comptes (certifié)</author>
   </item>
  </channel>
