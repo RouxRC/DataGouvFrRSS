@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 06 May 2014 16:20:02 +0200</pubDate>
+  <pubDate>Tue, 06 May 2014 17:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Dépassements d'honoraires dans les cliniques privées</title>
+     <link>https://www.data.gouv.fr/fr/dataset/depassements-d-honoraires-dans-les-cliniques-privees</link>
+     <description><![CDATA[ L’objet est de présenter pour un acte ou une famille d’actes et une année, les dépassements d’honoraires dans les cliniques privées par territoire de santé ou région ou au niveau national. Les résultats sont calculés uniquement pour les actes classant et sont présentés dans le cas où ils concernent au moins 2 établissements et au moins 20 séjours ou actes. La requête se fait au moyen d’un...]]></description>
+     <author>Agence Technique de l'information sur l'Hospitalisation (ATIH) (certifié)</author>
+  </item>
   <item>
      <title>Dépenses pour protéger l’environnement dans les industries agroalimentaires</title>
      <link>https://www.data.gouv.fr/fr/dataset/depenses-pour-proteger-l-environnement-dans-les-industries-agroalimentaires</link>
@@ -358,12 +364,6 @@
      <title>Connaissance locale de l’appareil productif - Établissements agroalimentaires</title>
      <link>https://www.data.gouv.fr/fr/dataset/connaissance-locale-de-l-appareil-productif-etablissements-agroalimentaires</link>
      <description><![CDATA[Effectif salarié, effectif en équivalent temps, masse salariale par sexe et catégorie socioprofessionnelle Source : connaissance locale de l’appareil productif (CLAP) - Traitement Service de la Statistique et de la Prospective Champ : ensemble des établissements agroalimentaires hors artisanat commercial ]]></description>
-     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
-  </item>
-  <item>
-     <title>ESANE - Coopératives agroalimentaires</title>
-     <link>https://www.data.gouv.fr/fr/dataset/esane-cooperatives-agroalimentair-0</link>
-     <description><![CDATA[Caractéristiques comptables, financières et d’emploi des coopératives agroalimentaires, principales variables. Nombre d’unités légales, effectif salarié, concentration, indicateurs de performances économiques, indicateurs de performances environnementales, activité, charges, bilan, investissements. Source : ESANE - traitements Service de la Statistique et de la Prospective ]]></description>
      <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
   </item>
  </channel>
