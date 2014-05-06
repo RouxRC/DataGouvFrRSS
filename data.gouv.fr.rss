@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 06 May 2014 12:10:02 +0200</pubDate>
+  <pubDate>Tue, 06 May 2014 12:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Listes et candidats aux élections européennes</title>
@@ -19,8 +19,8 @@
      <author>Ministère de l'Intérieur (certifié)</author>
   </item>
   <item>
-     <title>Bénéficiaires d'allocations pour personnes âgées dépendantes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/beneficiaires-d-allocations-pour-personnes-agees-dependantes</link>
+     <title>Bénéficiaires de l'Allocation Personnalisée d'Autonomie (APA) pour personnes âgées dépendantes</title>
+     <link>https://www.data.gouv.fr/fr/dataset/beneficiaires-de-l-allocation-personnalisee-d-autonomie-apa-pour-personnes-agees-dependantes</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees ]]></description>
      <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
   </item>
