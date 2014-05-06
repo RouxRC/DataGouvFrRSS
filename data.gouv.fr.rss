@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 05 May 2014 18:20:02 +0200</pubDate>
+  <pubDate>Tue, 06 May 2014 12:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Listes et candidats aux élections européennes</title>
+     <link>https://www.data.gouv.fr/fr/dataset/listes-et-candidats-aux-elections-europeennes</link>
+     <description><![CDATA[Version CSV du fichier des listes et des candidats aux élections européennes 2014 du Ministère de l'Intérieur ]]></description>
+     <author>IdeesLibres.org</author>
+  </item>
   <item>
      <title>Elections européennes 2014 - Fichier des listes et des candidats</title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-europeennes-2014-fichier-des-listes-et-des-candidats</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/esane-entreprises-agroalimentaires</link>
      <description><![CDATA[Caractéristiques comptables financières et d’emploi des entreprises et établissements agroalimentaires, principales variables. Nombre d’unités légales, effectif salarié, concentration, indicateurs de performance économique, indicateurs de performance environnementale, activité, soldes intermédiaires de gestion, comptes de résultat, bilans. Chiffres-clés et principaux résultats;Données...]]></description>
      <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
-  </item>
-  <item>
-     <title>Enquête nationale sur les structures des urgences hospitalières, juin 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/enquete-nationale-sur-les-structures-des-urgences-hospitalieres-juin-2013</link>
-     <description><![CDATA[Cette enquête est destinée à décrire la genèse du recours des patients aux urgences hospitalières, les difficultés éventuelles rencontrées lors de leur prise en charge, la diversité des organisations sur l’ensemble du territoire. ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
 </rss>
