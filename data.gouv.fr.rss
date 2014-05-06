@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 06 May 2014 17:40:02 +0200</pubDate>
+  <pubDate>Tue, 06 May 2014 17:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Aide à la distribution de la presse quotidienne nationale </title>
+     <link>https://www.data.gouv.fr/fr/dataset/aide-a-la-distribution-de-la-presse-quotidienne-nationale</link>
+     <description><![CDATA[Aide à la distribution de la presse quotidienne nationale d'information politique et générale ("aides à la distribution" ]]></description>
+     <author>Ministère de la Culture et de la Communication (certifié)</author>
+  </item>
   <item>
      <title>Dépassements d'honoraires dans les cliniques privées</title>
      <link>https://www.data.gouv.fr/fr/dataset/depassements-d-honoraires-dans-les-cliniques-privees</link>
@@ -358,12 +364,6 @@
      <title>Innovation - Entreprises agroalimentaires</title>
      <link>https://www.data.gouv.fr/fr/dataset/innovation-entreprises-agroalimentaires</link>
      <description><![CDATA[Entreprises agroalimentaires de 10 salariés et plus Enquête Statistique publique, Insee - CIS2010, traitements SSP Caractéristiques des entreprises, l’innovation en produits, biens et services, les acteurs, l’innovation de procédé, les acteurs, sources d’information et de coopération, objectifs des innovations principales activités et dépenses d’innovation, soutien public, partenaires, freins...]]></description>
-     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
-  </item>
-  <item>
-     <title>Connaissance locale de l’appareil productif - Établissements agroalimentaires</title>
-     <link>https://www.data.gouv.fr/fr/dataset/connaissance-locale-de-l-appareil-productif-etablissements-agroalimentaires</link>
-     <description><![CDATA[Effectif salarié, effectif en équivalent temps, masse salariale par sexe et catégorie socioprofessionnelle Source : connaissance locale de l’appareil productif (CLAP) - Traitement Service de la Statistique et de la Prospective Champ : ensemble des établissements agroalimentaires hors artisanat commercial ]]></description>
      <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
   </item>
  </channel>
