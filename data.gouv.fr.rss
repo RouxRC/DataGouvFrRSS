@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 06 May 2014 13:10:02 +0200</pubDate>
+  <pubDate>Tue, 06 May 2014 15:20:03 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Dépenses pour protéger l’environnement dans les industries agroalimentaires</title>
+     <link>https://www.data.gouv.fr/fr/dataset/depenses-pour-proteger-l-environnement-dans-les-industries-agroalimentaires</link>
+     <description><![CDATA[Montants des investissements pour l’environnement, nombre d’établissements, domaine (eaux usées, déchets...), montants des études pour la protection de l’environnement, investissements dédiés selon l’activité ]]></description>
+     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
+  </item>
   <item>
      <title>Listes et candidats aux élections européennes</title>
      <link>https://www.data.gouv.fr/fr/dataset/listes-et-candidats-aux-elections-europeennes</link>
@@ -358,12 +364,6 @@
      <title>ESANE - Coopératives agroalimentaires</title>
      <link>https://www.data.gouv.fr/fr/dataset/esane-cooperatives-agroalimentair-0</link>
      <description><![CDATA[Caractéristiques comptables, financières et d’emploi des coopératives agroalimentaires, principales variables. Nombre d’unités légales, effectif salarié, concentration, indicateurs de performances économiques, indicateurs de performances environnementales, activité, charges, bilan, investissements. Source : ESANE - traitements Service de la Statistique et de la Prospective ]]></description>
-     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
-  </item>
-  <item>
-     <title>ESANE - Entreprises agroalimentaires</title>
-     <link>https://www.data.gouv.fr/fr/dataset/esane-entreprises-agroalimentaires</link>
-     <description><![CDATA[Caractéristiques comptables financières et d’emploi des entreprises et établissements agroalimentaires, principales variables. Nombre d’unités légales, effectif salarié, concentration, indicateurs de performance économique, indicateurs de performance environnementale, activité, soldes intermédiaires de gestion, comptes de résultat, bilans. Chiffres-clés et principaux résultats;Données...]]></description>
      <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
   </item>
  </channel>
