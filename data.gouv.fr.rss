@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 06 May 2014 18:10:02 +0200</pubDate>
+  <pubDate>Tue, 06 May 2014 19:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Aides à la presse - bonification du Fonds stratégique pour le développement de la presse (FSDP)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/aides-a-la-presse-bonification-du-fonds-strategique-pour-le-developpement-de-la-presse-fsdp</link>
+     <description><![CDATA[Montant des bonifications ]]></description>
+     <author>Ministère de la Culture et de la Communication (certifié)</author>
+  </item>
   <item>
      <title>Aide au portage de la presse</title>
      <link>https://www.data.gouv.fr/fr/dataset/aide-au-portage-de-la-presse</link>
@@ -358,12 +364,6 @@
      <title>Enquête annuelle laitière</title>
      <link>https://www.data.gouv.fr/fr/dataset/enquete-annuelle-laitiere</link>
      <description><![CDATA[Productions de l’industrie laitière, livraisons de lait, production vendue, collecte de lait biologique et fabrications, production de fromages..... ]]></description>
-     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
-  </item>
-  <item>
-     <title>Technologies de l’information et de la communication - entreprises des IAA</title>
-     <link>https://www.data.gouv.fr/fr/dataset/technologies-de-l-information-et-de-la-communication-entreprises-des-iaa</link>
-     <description><![CDATA[Industries alimentaires et de fabrications de boissons, hors charcuterie artisanale et hors boulangerie et pâtisserie artisanale. Entreprises de 10 personnes occupées et plus Insee - TIC 2012, traitements SSP Compétences en TIC Connexions et utilisations d’internet Échange de messages automatiques inter et intra-entreprises Chaîne logistique d’approvisionnement Gestion de...]]></description>
      <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
   </item>
  </channel>
