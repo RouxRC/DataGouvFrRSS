@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 06 May 2014 19:40:02 +0200</pubDate>
+  <pubDate>Wed, 07 May 2014 09:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Aides à la presse - bonification du Fonds stratégique pour le développement de la presse (FSDP)</title>
@@ -61,9 +61,9 @@
      <author>IdeesLibres.org</author>
   </item>
   <item>
-     <title>taux de réussite ETG / permis B des auto-écoles françaises</title>
-     <link>https://www.data.gouv.fr/fr/dataset/taux-de-reussite-etg-permis-b-des-auto-ecoles-francaises</link>
-     <description><![CDATA[Le fichier présente les taux de réussite des auto-écoles en France pour l'année 2012. Les auto-écoles avec moins de 10 présentations à l'examen du code de la route et / ou moins de 10 présentations a l'examen du permis B sont exlus du fichier. ]]></description>
+     <title>taux de réussite</title>
+     <link>https://www.data.gouv.fr/fr/dataset/taux-de-reussite</link>
+     <description><![CDATA[Le fichier présente ]]></description>
      <author>citoyen</author>
   </item>
   <item>
