@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 07 May 2014 09:30:02 +0200</pubDate>
+  <pubDate>Fri, 09 May 2014 12:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Taux de réussite des auto-écoles (France- 2012)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/taux-de-reussite-des-auto-ecoles-france-2012</link>
+     <description><![CDATA[Taux de réussite permis B et ETG des auto-écoles en France ( année 2012) ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Aides à la presse - bonification du Fonds stratégique pour le développement de la presse (FSDP)</title>
      <link>https://www.data.gouv.fr/fr/dataset/aides-a-la-presse-bonification-du-fonds-strategique-pour-le-developpement-de-la-presse-fsdp</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/ceci-est-un-test</link>
      <description><![CDATA[Ceci est une decritpion]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Enquête annuelle laitière</title>
-     <link>https://www.data.gouv.fr/fr/dataset/enquete-annuelle-laitiere</link>
-     <description><![CDATA[Productions de l’industrie laitière, livraisons de lait, production vendue, collecte de lait biologique et fabrications, production de fromages..... ]]></description>
-     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
   </item>
  </channel>
 </rss>
