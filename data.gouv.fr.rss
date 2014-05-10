@@ -4,14 +4,8 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 10 May 2014 20:00:02 +0200</pubDate>
+  <pubDate>Sat, 10 May 2014 20:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
-  <item>
-     <title>Répartition des médecins libéraux par catégorie et par âge</title>
-     <link>https://www.data.gouv.fr/fr/dataset/repartition-des-medecins-liberaux-par-categorie-et-par-age</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Snir ]]></description>
-     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
-  </item>
   <item>
      <title>Taux de réussite des auto-écoles (France- 2012)</title>
      <link>https://www.data.gouv.fr/fr/dataset/taux-de-reussite-des-auto-ecoles-france-2012</link>
@@ -364,6 +358,12 @@
      <title>Finance maroc</title>
      <link>https://www.data.gouv.fr/fr/dataset/finance-maroc</link>
      <description><![CDATA[Finance Maroc Description ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Ceci est un test</title>
+     <link>https://www.data.gouv.fr/fr/dataset/ceci-est-un-test</link>
+     <description><![CDATA[Ceci est une decritpion]]></description>
      <author>citoyen</author>
   </item>
  </channel>
