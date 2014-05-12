@@ -4,12 +4,12 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 12 May 2014 12:30:02 +0200</pubDate>
+  <pubDate>Mon, 12 May 2014 12:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>La démographie des médecins (RPPS)</title>
      <link>https://www.data.gouv.fr/fr/dataset/la-demographie-des-medecins-rpps</link>
-     <description><![CDATA[Depuis le 1er janvier 2012, les statistiques publiées par la DREES sur la démographie des médecins, sont élaborées à partir du Répertoire Partagé des Professionnels de Santé (RPPS) auquel tous les médecins sont tenus de s’inscrire. ]]></description>
+     <description><![CDATA[Au 1er janvier 2014, la base statistique du RPPS recense 219 834 médecins en activité, dont 214 594 en France métropolitaine. Par rapport au 1er janvier 2013, le nombre de médecins a augmenté de 0,7 % (218 296 médecins au 1er janvier 2013 en France et 213 227 en France métropolitaine). On enregistre sur la même période une légère hausse de la densité de l’ensemble des médecins (+0,2 %). ]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
   <item>
