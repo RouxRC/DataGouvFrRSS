@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 12 May 2014 12:00:02 +0200</pubDate>
+  <pubDate>Mon, 12 May 2014 12:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>La démographie des médecins (RPPS)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/la-demographie-des-medecins-rpps</link>
+     <description><![CDATA[Depuis le 1er janvier 2012, les statistiques publiées par la DREES sur la démographie des médecins, sont élaborées à partir du Répertoire Partagé des Professionnels de Santé (RPPS) auquel tous les médecins sont tenus de s’inscrire. ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
+  <item>
+     <title>Répartition des médecins libéraux par catégorie et par âge</title>
+     <link>https://www.data.gouv.fr/fr/dataset/repartition-des-medecins-liberaux-par-categorie-et-par-age</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Snir ]]></description>
+     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Taux de réussite des auto-écoles (France- 2012)</title>
      <link>https://www.data.gouv.fr/fr/dataset/taux-de-reussite-des-auto-ecoles-france-2012</link>
@@ -353,18 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/finance-maroc</link>
      <description><![CDATA[Finance Maroc Description ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Ceci est un test</title>
-     <link>https://www.data.gouv.fr/fr/dataset/ceci-est-un-test</link>
-     <description><![CDATA[Ceci est une decritpion]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Enquête annuelle laitière</title>
-     <link>https://www.data.gouv.fr/fr/dataset/enquete-annuelle-laitiere</link>
-     <description><![CDATA[Productions de l’industrie laitière, livraisons de lait, production vendue, collecte de lait biologique et fabrications, production de fromages..... ]]></description>
-     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
   </item>
  </channel>
 </rss>
