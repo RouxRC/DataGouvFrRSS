@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 12 May 2014 10:20:02 +0200</pubDate>
+  <pubDate>Mon, 12 May 2014 11:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Taux de réussite des auto-écoles (France- 2012)</title>
@@ -65,12 +65,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/base-de-donnees-des-accidents-corporels-de-la-circulation</link>
      <description><![CDATA[Lors de l'OpenDataCamp organisé par Etalab et Devoxx le 16 avril 2014. La base de données des accidents du Ministère de l'Intérieur concernant la période 2006-2011 a pu être reformatée (travail collectif) afin d'être importable dans un SGBD classique et mis à disposition en ressource du jeu de données initial. Le jeu données suivant en est une version enrichie avec les codes INSEE du Geofla de...]]></description>
      <author>IdeesLibres.org</author>
-  </item>
-  <item>
-     <title>taux de réussite</title>
-     <link>https://www.data.gouv.fr/fr/dataset/taux-de-reussite</link>
-     <description><![CDATA[Le fichier présente ]]></description>
-     <author>citoyen</author>
   </item>
   <item>
      <title>Fréquence des séjours selon codes diagnostics principaux ou actes classant</title>
@@ -365,6 +359,12 @@
      <link>https://www.data.gouv.fr/fr/dataset/ceci-est-un-test</link>
      <description><![CDATA[Ceci est une decritpion]]></description>
      <author>citoyen</author>
+  </item>
+  <item>
+     <title>Enquête annuelle laitière</title>
+     <link>https://www.data.gouv.fr/fr/dataset/enquete-annuelle-laitiere</link>
+     <description><![CDATA[Productions de l’industrie laitière, livraisons de lait, production vendue, collecte de lait biologique et fabrications, production de fromages..... ]]></description>
+     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
   </item>
  </channel>
 </rss>
