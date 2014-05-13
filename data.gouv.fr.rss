@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 13 May 2014 18:30:02 +0200</pubDate>
+  <pubDate>Tue, 13 May 2014 19:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Démographie des médecins au 1er janvier</title>
+     <link>https://www.data.gouv.fr/fr/dataset/demographie-des-medecins-au-1er-janvier</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données du répertoire Adeli de la Drees/Asip-Santé ]]></description>
+     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Données concernant l’allocation personnalisée d’autonomie (APA)</title>
      <link>https://www.data.gouv.fr/fr/dataset/donnees-concernant-l-allocation-personnalisee-d-autonomie-apa</link>
@@ -358,12 +364,6 @@
      <title>Statistiques par GHM</title>
      <link>https://www.data.gouv.fr/fr/dataset/statistiques-par-ghm</link>
      <description><![CDATA[Ce lien permet, via un formulaire, d’obtenir pour tout GHM un ensemble de tableaux statistiques. Le formulaire permet, au moyen de menus déroulants, de définir une requête selon les critères suivants : l’année de recueil, le cas échéant la catégorie d’établissement, ou encore une région administrative française si la catégorie d’établissement sélectionnée est soit l’ensemble, ex/sous DGF ou...]]></description>
-     <author>Agence Technique de l'information sur l'Hospitalisation (ATIH) (certifié)</author>
-  </item>
-  <item>
-     <title>Présentation des bases</title>
-     <link>https://www.data.gouv.fr/fr/dataset/presentation-des-bases</link>
-     <description><![CDATA[ Cette section permet d’accéder à des statistiques générales ne portant pas sur le résultat du groupage des séjours ni les diagnostics et actes médicaux : le nombre de séjours par région administrative française est présenté en fonction du type de séjour, séjours non CM 24 (GHM J et T à compter de 2009) ni séances, séjours de la CM 24 (GHM J et T à compter de 2009) et séances de la classe d’âge...]]></description>
      <author>Agence Technique de l'information sur l'Hospitalisation (ATIH) (certifié)</author>
   </item>
  </channel>
