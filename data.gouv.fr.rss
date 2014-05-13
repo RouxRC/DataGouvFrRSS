@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 12 May 2014 17:40:02 +0200</pubDate>
+  <pubDate>Tue, 13 May 2014 15:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Données disponibles sur la morbidité hospitalière</title>
+     <link>https://www.data.gouv.fr/fr/dataset/donnees-disponibles-sur-la-morbidite-hospitaliere</link>
+     <description><![CDATA[La morbidité d’une population se définit comme étant le « nombre de personnes malades ou le nombre de cas de maladies dans une population déterminée, à un moment donné ». ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>La densité des sages-femmes selon le mode d'exercice</title>
      <link>https://www.data.gouv.fr/fr/dataset/la-densite-des-sages-femmes-selon-le-mode-d-exercice</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/statistiques-nationales-du-commerce-exterieur</link>
      <description><![CDATA[DOUANE - Statistiques nationales du commerce extérieur sur les 13 derniers mois (Données Produits/Pays). L'information sur les échanges de marchandises est collectée sur la base de déclarations d'échanges de biens (DEB) pour les échanges avec les 27 autres États membres et des déclarations en douane (DAU) pour les échanges avec les autres pays (nommés pays tiers). Chaque mois, la collecte...]]></description>
      <author>Ministère des finances et des comptes publics (certifié)</author>
-  </item>
-  <item>
-     <title>Eventail des cas</title>
-     <link>https://www.data.gouv.fr/fr/dataset/eventail-des-cas</link>
-     <description><![CDATA[Cette présentation donne le nombre de séjours et séances pour l’ensemble des CMD ou GHM définis pour une année. Outre le numéro et libellé de chaque CMD ou GHM, figurent le nombre de séjour et séance, la durée moyenne de séjour correspondante (voir supra pour la durée de séjour des séances), l’âge moyen des malades, la proportion d’hommes, la proportion de séjours et séance se terminant par un...]]></description>
-     <author>Agence Technique de l'information sur l'Hospitalisation (ATIH) (certifié)</author>
   </item>
  </channel>
 </rss>
