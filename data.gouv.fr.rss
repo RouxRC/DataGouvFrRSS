@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 13 May 2014 17:30:02 +0200</pubDate>
+  <pubDate>Tue, 13 May 2014 17:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Effectif de médecins par catégorie</title>
+     <link>https://www.data.gouv.fr/fr/dataset/effectif-de-medecins-par-categorie</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données xxx xxxx ]]></description>
+     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Données concernant la protection maternelle et infantile (PMI)</title>
      <link>https://www.data.gouv.fr/fr/dataset/donnees-concernant-la-protection-maternelle-et-infantile-pmi</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/hospi-diag</link>
      <description><![CDATA[Hospi Diag est un outil d’aide à la décision permettant de mesurer la performance d’un établissement de santé qui pratique de la médecine, de la chirurgie ou de l’obstétrique, en comparaison avec d’autres établissements de santé. Il permet d’identifier ses forces et ses faiblesses et donc ses gisements de performance dans 5 composantes : qualité des soins, pratiques professionnelles,...]]></description>
      <author>Agence Nationale d'Appui à la Performance des établissements de santé et médico-sociaux (ANAP) (certifié)</author>
-  </item>
-  <item>
-     <title>Statistiques régionales et départementales du commerce extérieur</title>
-     <link>https://www.data.gouv.fr/fr/dataset/statistiques-regionales-et-departementales-du-commerce-exterieur</link>
-     <description><![CDATA[DOUANE - Statistiques régionales et départementales du commerce extérieur sur les 5 derniers trimestres (Données Produits/Pays). L'information sur les échanges de marchandises est collectée sur la base de déclarations d'échanges de biens (DEB) pour les échanges avec les 27 autres États membres et des déclarations en douane (DAU) pour les échanges avec les autres pays (nommés pays tiers)....]]></description>
-     <author>Ministère des finances et des comptes publics (certifié)</author>
   </item>
  </channel>
 </rss>
