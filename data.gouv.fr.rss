@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 13 May 2014 19:20:02 +0200</pubDate>
+  <pubDate>Tue, 13 May 2014 19:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Démographie des médecins au 1er janvier</title>
@@ -21,7 +21,7 @@
   <item>
      <title>Effectif de médecins par catégorie</title>
      <link>https://www.data.gouv.fr/fr/dataset/effectif-de-medecins-par-categorie</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données xxx xxxx ]]></description>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données RPPS de la Drees/Asip-Santé ]]></description>
      <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
   </item>
   <item>
