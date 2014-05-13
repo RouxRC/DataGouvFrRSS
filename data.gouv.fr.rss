@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 13 May 2014 17:10:02 +0200</pubDate>
+  <pubDate>Tue, 13 May 2014 17:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Données concernant la protection maternelle et infantile (PMI)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/donnees-concernant-la-protection-maternelle-et-infantile-pmi</link>
+     <description><![CDATA[Le service de protection maternelle et infantile (PMI) est un service départemental, placé sous l’autorité du président du conseil général et chargé d’assurer la protection sanitaire de la mère et de l’enfant. ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Données disponibles sur la morbidité hospitalière</title>
      <link>https://www.data.gouv.fr/fr/dataset/donnees-disponibles-sur-la-morbidite-hospitaliere</link>
@@ -358,12 +364,6 @@
      <title>Statistiques régionales et départementales du commerce extérieur</title>
      <link>https://www.data.gouv.fr/fr/dataset/statistiques-regionales-et-departementales-du-commerce-exterieur</link>
      <description><![CDATA[DOUANE - Statistiques régionales et départementales du commerce extérieur sur les 5 derniers trimestres (Données Produits/Pays). L'information sur les échanges de marchandises est collectée sur la base de déclarations d'échanges de biens (DEB) pour les échanges avec les 27 autres États membres et des déclarations en douane (DAU) pour les échanges avec les autres pays (nommés pays tiers)....]]></description>
-     <author>Ministère des finances et des comptes publics (certifié)</author>
-  </item>
-  <item>
-     <title>Statistiques nationales du commerce extérieur</title>
-     <link>https://www.data.gouv.fr/fr/dataset/statistiques-nationales-du-commerce-exterieur</link>
-     <description><![CDATA[DOUANE - Statistiques nationales du commerce extérieur sur les 13 derniers mois (Données Produits/Pays). L'information sur les échanges de marchandises est collectée sur la base de déclarations d'échanges de biens (DEB) pour les échanges avec les 27 autres États membres et des déclarations en douane (DAU) pour les échanges avec les autres pays (nommés pays tiers). Chaque mois, la collecte...]]></description>
      <author>Ministère des finances et des comptes publics (certifié)</author>
   </item>
  </channel>
