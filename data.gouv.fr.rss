@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 13 May 2014 17:40:02 +0200</pubDate>
+  <pubDate>Tue, 13 May 2014 18:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Données concernant l’allocation personnalisée d’autonomie (APA)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/donnees-concernant-l-allocation-personnalisee-d-autonomie-apa</link>
+     <description><![CDATA[Dans le cadre d’une enquête annuelle sur l’aide sociale, réalisée chaque année depuis 1984 auprès des conseils généraux, la DREES recueille des données sur les bénéficiaires et les dépenses d’APA. ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Effectif de médecins par catégorie</title>
      <link>https://www.data.gouv.fr/fr/dataset/effectif-de-medecins-par-categorie</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/presentation-des-bases</link>
      <description><![CDATA[ Cette section permet d’accéder à des statistiques générales ne portant pas sur le résultat du groupage des séjours ni les diagnostics et actes médicaux : le nombre de séjours par région administrative française est présenté en fonction du type de séjour, séjours non CM 24 (GHM J et T à compter de 2009) ni séances, séjours de la CM 24 (GHM J et T à compter de 2009) et séances de la classe d’âge...]]></description>
      <author>Agence Technique de l'information sur l'Hospitalisation (ATIH) (certifié)</author>
-  </item>
-  <item>
-     <title>Hospi Diag</title>
-     <link>https://www.data.gouv.fr/fr/dataset/hospi-diag</link>
-     <description><![CDATA[Hospi Diag est un outil d’aide à la décision permettant de mesurer la performance d’un établissement de santé qui pratique de la médecine, de la chirurgie ou de l’obstétrique, en comparaison avec d’autres établissements de santé. Il permet d’identifier ses forces et ses faiblesses et donc ses gisements de performance dans 5 composantes : qualité des soins, pratiques professionnelles,...]]></description>
-     <author>Agence Nationale d'Appui à la Performance des établissements de santé et médico-sociaux (ANAP) (certifié)</author>
   </item>
  </channel>
 </rss>
