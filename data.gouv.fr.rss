@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 14 May 2014 15:50:02 +0200</pubDate>
+  <pubDate>Wed, 14 May 2014 16:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Thématique: élections européennes 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/thematique-elections-europeennes-2014</link>
+     <description><![CDATA[Cette page présente une compilation par l'équipe de data.gouv.fr de ressources en lien avec les élections européennes du 25 mai 2014. Vous y trouverez notamment: le fichier des listes et candidats au scrutin de 2014, aux formats XLS et CSV, les résultats des élections européennes de 1994, 1999, 2004 et 2009, l'évolution du taux de participation dans les 27 pays de...]]></description>
+     <author>data.gouv.fr (certifié)</author>
+  </item>
   <item>
      <title>Densité des médecins au 1er janvier</title>
      <link>https://www.data.gouv.fr/fr/dataset/densite-des-medecins-au-1er-janvier</link>
@@ -358,12 +364,6 @@
      <title>DGDDI - Marchés publics d'un montant supérieur à 20.000 euros hors taxes</title>
      <link>https://www.data.gouv.fr/fr/dataset/dgddi-marches-publics-d-un-montant-superieur-a-20-000-euros-hors-taxes</link>
      <description><![CDATA[DOUANE - Marchés publics pour les fournitures, les services et les travaux au sein des bureaux de la direction générale, des services déconcentrés et des services à compétence nationale. Source DataDouane : www.douane.gouv.fr/services/datadouane ]]></description>
-     <author>Ministère des finances et des comptes publics (certifié)</author>
-  </item>
-  <item>
-     <title>DGDDI - Plafond autorisé d'emploi et Effectifs de référence</title>
-     <link>https://www.data.gouv.fr/fr/dataset/dgddi-plafond-autorise-d-emploi-et-effectifs-de-reference</link>
-     <description><![CDATA[DOUANE - La notion d'effectifs de référence constitue la cible à atteindre pour les effectifs d'un service dans une perspective de moyen terme. Le plafond autorisé d'emploi fixe le volume maximum d'emplois utilisable dans le cadre de l'année budgétaire. Source DataDouane: http://www.douane.gouv.fr/services/datadouane ]]></description>
      <author>Ministère des finances et des comptes publics (certifié)</author>
   </item>
  </channel>
