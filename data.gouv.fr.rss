@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 14 May 2014 16:50:02 +0200</pubDate>
+  <pubDate>Wed, 14 May 2014 17:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Données concernant la prestation de compensation du handicap (PCH) et de l’allocation compensatrice tierce personne (ACTP)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/donnees-concernant-la-prestation-de-compensation-du-handicap-pch-et-de-l-allocation-compensatrice-ti</link>
+     <description><![CDATA[Depuis 2006, dans le cadre des enquêtes annuelles et trimestrielles, la Drees recueille des données sur les bénéficiaires de la PCH et de l’ACTP. ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Thématique: élections européennes 2014</title>
      <link>https://www.data.gouv.fr/fr/dataset/thematique-elections-europeennes-2014</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-maires-au-25-avril-2014</link>
      <description><![CDATA[Liste des maires à la suite des élections municipales de mars 2014, établie au 25 avril 2014. Certaines communes ne sont pas encore renseignées, la saisie des informations n'étant pas encore terminée. ]]></description>
      <author>Ministère de l'Intérieur (certifié)</author>
-  </item>
-  <item>
-     <title>DGDDI - Marchés publics d'un montant supérieur à 20.000 euros hors taxes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/dgddi-marches-publics-d-un-montant-superieur-a-20-000-euros-hors-taxes</link>
-     <description><![CDATA[DOUANE - Marchés publics pour les fournitures, les services et les travaux au sein des bureaux de la direction générale, des services déconcentrés et des services à compétence nationale. Source DataDouane : www.douane.gouv.fr/services/datadouane ]]></description>
-     <author>Ministère des finances et des comptes publics (certifié)</author>
   </item>
  </channel>
 </rss>
