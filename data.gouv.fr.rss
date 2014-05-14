@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 13 May 2014 19:40:02 +0200</pubDate>
+  <pubDate>Wed, 14 May 2014 10:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Densité des médecins au 1er janvier</title>
+     <link>https://www.data.gouv.fr/fr/dataset/densite-des-medecins-au-1er-janvier</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Répertoire Adeli de la Drees/Asip-Santé ]]></description>
+     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Démographie des médecins au 1er janvier</title>
      <link>https://www.data.gouv.fr/fr/dataset/demographie-des-medecins-au-1er-janvier</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/dgddi-plafond-autorise-d-emploi-et-effectifs-de-reference</link>
      <description><![CDATA[DOUANE - La notion d'effectifs de référence constitue la cible à atteindre pour les effectifs d'un service dans une perspective de moyen terme. Le plafond autorisé d'emploi fixe le volume maximum d'emplois utilisable dans le cadre de l'année budgétaire. Source DataDouane: http://www.douane.gouv.fr/services/datadouane ]]></description>
      <author>Ministère des finances et des comptes publics (certifié)</author>
-  </item>
-  <item>
-     <title>Statistiques par GHM</title>
-     <link>https://www.data.gouv.fr/fr/dataset/statistiques-par-ghm</link>
-     <description><![CDATA[Ce lien permet, via un formulaire, d’obtenir pour tout GHM un ensemble de tableaux statistiques. Le formulaire permet, au moyen de menus déroulants, de définir une requête selon les critères suivants : l’année de recueil, le cas échéant la catégorie d’établissement, ou encore une région administrative française si la catégorie d’établissement sélectionnée est soit l’ensemble, ex/sous DGF ou...]]></description>
-     <author>Agence Technique de l'information sur l'Hospitalisation (ATIH) (certifié)</author>
   </item>
  </channel>
 </rss>
