@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 14 May 2014 18:10:02 +0200</pubDate>
+  <pubDate>Thu, 15 May 2014 16:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Barometre Inria 2011 - Les Français et le nouveau monde numerique</title>
+     <link>https://www.data.gouv.fr/fr/dataset/barometre-inria-2011-les-francais-et-le-nouveau-monde-numerique</link>
+     <description><![CDATA[Résultats de la première édition du baromètre Inria TNS-Sofres sur les Français et le numérique. 1200 personnes de 14 ans et plus ont été interrogées en face à face, dans toute la France, entre les 26 et le 31 août 2011. ]]></description>
+     <author>Inria</author>
+  </item>
   <item>
      <title>Données concernant la prestation de compensation du handicap (PCH) et de l’allocation compensatrice tierce personne (ACTP)</title>
      <link>https://www.data.gouv.fr/fr/dataset/donnees-concernant-la-prestation-de-compensation-du-handicap-pch-et-de-l-allocation-compensatrice-ti</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/statistiques-viti-vinicoles-releves-annuels-des-stocks-et-des-recoltes</link>
      <description><![CDATA[DOUANE - Superficie des vignes en production / AOC / Répartition Vin blanc- Vin rouge / Nombre de déclarations de récolte / etc Répartition des stocks par AOP (appellation d'origine protégée), IGP (indication géographique protégée), VSIG (vins sans indication géographique) Source DataDouane : retrouvez les statistiques viti-vinicoles mensuelles sur...]]></description>
      <author>Ministère des finances et des comptes publics (certifié)</author>
-  </item>
-  <item>
-     <title>Liste des maires au 25 avril 2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-maires-au-25-avril-2014</link>
-     <description><![CDATA[Liste des maires à la suite des élections municipales de mars 2014, établie au 25 avril 2014. Certaines communes ne sont pas encore renseignées, la saisie des informations n'étant pas encore terminée. ]]></description>
-     <author>Ministère de l'Intérieur (certifié)</author>
   </item>
  </channel>
 </rss>
