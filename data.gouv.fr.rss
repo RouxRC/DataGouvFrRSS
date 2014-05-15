@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 15 May 2014 16:10:02 +0200</pubDate>
+  <pubDate>Thu, 15 May 2014 17:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Photographies série « Monuments historiques » de 1851 à 1914</title>
+     <link>https://www.data.gouv.fr/fr/dataset/photographies-serie-monuments-historiques-de-1851-a-1914</link>
+     <description><![CDATA[Les 38 144 premières photographies du fonds Monument Historique de la Médiathèque de l’Architecture et du Patrimoine, inventoriées dans les sept premiers registres d’inventaire ; depuis la mission héliographique (1851) jusqu'en 1914. Notices textes et images issues de la base Mémoire. Le fonds MH comprend plus de 300 000 images et est en cours de numérisation. Les images en ligne sont des...]]></description>
+     <author>Ministère de la Culture et de la Communication (certifié)</author>
+  </item>
   <item>
      <title>Barometre Inria 2011 - Les Français et le nouveau monde numerique</title>
      <link>https://www.data.gouv.fr/fr/dataset/barometre-inria-2011-les-francais-et-le-nouveau-monde-numerique</link>
@@ -75,6 +81,12 @@
   <item>
      <title>Répartition des médecins libéraux par catégorie et par âge</title>
      <link>https://www.data.gouv.fr/fr/dataset/repartition-des-medecins-liberaux-par-categorie-et-par-age</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Snir ]]></description>
+     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+  </item>
+  <item>
+     <title>Répartition des professionnels paramédicaux libéraux par âge</title>
+     <link>https://www.data.gouv.fr/fr/dataset/repartition-des-professionnels-paramedicaux-liberaux-par-age</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Snir ]]></description>
      <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
   </item>
@@ -353,18 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-maires</link>
      <description><![CDATA[Liste des maires au 25/04/2014. Conversion en CSV du XLS de l'Intérieur avec mise en dates ISO 8601 et préfixes corrigés des codes départements et communes. Comme indiqué par le Ministère, cette liste n'est pas encore complète (35 886 maires présents). Des mises à jour sont donc à prévoir. La mention obligatoire d’attribution doit être « Licence ODbL © IdeesLibres.org 04/2014, Ministère de...]]></description>
      <author>IdeesLibres.org</author>
-  </item>
-  <item>
-     <title>Projections démographiques Europe Inde Chine Brésil Russie</title>
-     <link>https://www.data.gouv.fr/fr/dataset/projections-demographiques-europe-inde-chine-bresil-russie</link>
-     <description><![CDATA[Selon les Perspectives démographiques mondiales, révision de 2010 des Nations unies (ONU), la population mondiale a atteint 7,1 milliards d’habitants au 1er juillet 2012. L’Asie représentait la majeure partie de la population mondiale (un peu plus de 60 % en 2012), avec 4,25 milliards d’habitants, tandis que l’Afrique était le deuxième continent le plus peuplé, avec 1,07 milliard d’habitants,...]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Statistiques viti-vinicoles - Relevés annuels des stocks et des récoltes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/statistiques-viti-vinicoles-releves-annuels-des-stocks-et-des-recoltes</link>
-     <description><![CDATA[DOUANE - Superficie des vignes en production / AOC / Répartition Vin blanc- Vin rouge / Nombre de déclarations de récolte / etc Répartition des stocks par AOP (appellation d'origine protégée), IGP (indication géographique protégée), VSIG (vins sans indication géographique) Source DataDouane : retrouvez les statistiques viti-vinicoles mensuelles sur...]]></description>
-     <author>Ministère des finances et des comptes publics (certifié)</author>
   </item>
  </channel>
 </rss>
