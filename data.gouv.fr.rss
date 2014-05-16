@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 15 May 2014 17:00:02 +0200</pubDate>
+  <pubDate>Fri, 16 May 2014 15:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Servitudes d'Utilité Publiques EL5 visibilité sur les voies publiques </title>
+     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publiques-el5-visibilite-sur-les-voies-publiques</link>
+     <description><![CDATA[Servitude de visibilité sur les voies publiques - route et zone autour ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Photographies série « Monuments historiques » de 1851 à 1914</title>
      <link>https://www.data.gouv.fr/fr/dataset/photographies-serie-monuments-historiques-de-1851-a-1914</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/les-elus-municipaux-de-la-manche-en-2014</link>
      <description><![CDATA[Ce fichier contient la liste des élus municipaux du département de la Manche suite aux élections de 2014. Il est issu de https://www.data.gouv.fr/fr/dataset/les-elus-municipaux, enrichi avec les mentions maire et réelu maire ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Liste des maires</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-maires</link>
-     <description><![CDATA[Liste des maires au 25/04/2014. Conversion en CSV du XLS de l'Intérieur avec mise en dates ISO 8601 et préfixes corrigés des codes départements et communes. Comme indiqué par le Ministère, cette liste n'est pas encore complète (35 886 maires présents). Des mises à jour sont donc à prévoir. La mention obligatoire d’attribution doit être « Licence ODbL © IdeesLibres.org 04/2014, Ministère de...]]></description>
-     <author>IdeesLibres.org</author>
   </item>
  </channel>
 </rss>
