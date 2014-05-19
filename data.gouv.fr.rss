@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 16 May 2014 21:50:02 +0200</pubDate>
+  <pubDate>Mon, 19 May 2014 15:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Répartition de professionnels de santé hors médecins par sexe</title>
+     <link>https://www.data.gouv.fr/fr/dataset/repartition-de-professionnels-de-sante-hors-medecins-par-sexe</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données répertoire Adeli de la drees/Asip-Santé ]]></description>
+     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Consommation et production d’énergie dans les exploitations agricoles</title>
      <link>https://www.data.gouv.fr/fr/dataset/consommation-et-production-d-energie-dans-les-exploitations-agricoles</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/blog-de-lyc-actualites-decryptages-au-sujet-de-la-cigarette-electronique</link>
      <description><![CDATA[Informations, news, décryptages à propos du secteur d'activité de la cigarette électronique (législation, études, normes d'e-cigarettes, mods, e-liquides). ]]></description>
      <author>LYC - Actualités et décryptages à propos de la cigarette électronique</author>
-  </item>
-  <item>
-     <title>Actualités, décryptages au sujet de la cigarette électronique ( LYC )</title>
-     <link>https://www.data.gouv.fr/fr/dataset/actualites-decryptages-au-sujet-de-la-cigarette-electronique-lyc</link>
-     <description><![CDATA[Abonnement aux informations à propos de la e-cigarette : le blog de LYC. ]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
