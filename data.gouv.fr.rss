@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 20 May 2014 17:00:02 +0200</pubDate>
+  <pubDate>Tue, 20 May 2014 18:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Tableau général des élections législatives des 10 et 17 juin 2012</title>
+     <link>https://www.data.gouv.fr/fr/dataset/tableau-general-des-elections-legislatives-des-10-et-17-juin-2012</link>
+     <description><![CDATA[Données relatives aux comptes de campagne déposés par les candidats aux élections législatives des 10 et 17 juin 2012, au titre de l’article L. 52-12 alinéa 2 du Code électoral. ]]></description>
+     <author>Commission Nationale des Comptes de Campagne et des Financements Politiques (CNCCFP) (certifié)</author>
+  </item>
   <item>
      <title>Images du Palais-Royal </title>
      <link>https://www.data.gouv.fr/fr/dataset/images-du-palais-royal</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/batiments-communaux-de-digne-les-bains-op</link>
      <description><![CDATA[Bâtiments appartenant à la Ville de Digne-les-Bains. ]]></description>
      <author>Ville de Digne-les-Bains (certifié)</author>
-  </item>
-  <item>
-     <title>Marchés d'un montant supérieur à 20 000 EUR HT : année 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/marches-d-un-montant-superieur-a-20-000-eur-ht-annee-2013-op</link>
-     <description><![CDATA[Marchés publics de l'article 133 de la Région et de l'AREA-PACA d'un montant supérieur à 20 000 EUR HT pour l'année 2013. ]]></description>
-     <author>Région Provence-Alpes-Côte d'Azur (certifié)</author>
   </item>
  </channel>
 </rss>
