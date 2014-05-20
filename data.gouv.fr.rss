@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 19 May 2014 17:20:02 +0200</pubDate>
+  <pubDate>Tue, 20 May 2014 16:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Images du Palais-Royal </title>
+     <link>https://www.data.gouv.fr/fr/dataset/images-du-palais-royal</link>
+     <description><![CDATA[Notices du Palais-Royal : texte et image (série issue de la base Mémoire) ]]></description>
+     <author>Ministère de la Culture et de la Communication (certifié)</author>
+  </item>
   <item>
      <title>Répartition de professionnels de santé hors médecins par sexe</title>
      <link>https://www.data.gouv.fr/fr/dataset/repartition-de-professionnels-de-sante-hors-medecins-par-sexe</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/marches-d-un-montant-superieur-a-20-000-eur-ht-annee-2013-op</link>
      <description><![CDATA[Marchés publics de l'article 133 de la Région et de l'AREA-PACA d'un montant supérieur à 20 000 EUR HT pour l'année 2013. ]]></description>
      <author>Région Provence-Alpes-Côte d'Azur (certifié)</author>
-  </item>
-  <item>
-     <title>Blog de LYC : actualités, décryptages au sujet de la cigarette électronique</title>
-     <link>https://www.data.gouv.fr/fr/dataset/blog-de-lyc-actualites-decryptages-au-sujet-de-la-cigarette-electronique</link>
-     <description><![CDATA[Informations, news, décryptages à propos du secteur d'activité de la cigarette électronique (législation, études, normes d'e-cigarettes, mods, e-liquides). ]]></description>
-     <author>LYC - Actualités et décryptages à propos de la cigarette électronique</author>
   </item>
  </channel>
 </rss>
