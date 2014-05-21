@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 21 May 2014 15:00:02 +0200</pubDate>
+  <pubDate>Wed, 21 May 2014 15:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Base de données des entreprises </title>
+     <link>https://www.data.gouv.fr/fr/dataset/base-de-donnees-des-entreprises</link>
+     <description><![CDATA[Accéder à l'information sur plus de 60 millions d'entreprises : bilans financiers, documents administratifs et légaux, liens entre filiales, transactions financières, capital, dépôts de marque ... ]]></description>
+     <author>Open Corporates</author>
+  </item>
   <item>
      <title>E-liquides aux prétendues vertues thérapeutiques</title>
      <link>https://www.data.gouv.fr/fr/dataset/e-liquides-aux-pretendues-vertues-therapeutiques</link>
@@ -358,12 +364,6 @@
      <title>Consommation 2013 du parc automobile de la mairie de Digne-les-Bains</title>
      <link>https://www.data.gouv.fr/fr/dataset/consommation-2013-du-parc-automobile-de-la-mairie-de-digne-les-bains-op</link>
      <description><![CDATA[Consommation des véhicules communaux en 2013 de la Ville de Digne-les-Bains. ]]></description>
-     <author>Ville de Digne-les-Bains (certifié)</author>
-  </item>
-  <item>
-     <title>Travaux de voirie à Digne-les-Bains depuis 2009</title>
-     <link>https://www.data.gouv.fr/fr/dataset/travaux-de-voirie-a-digne-les-bains-depuis-2009-op</link>
-     <description><![CDATA[Description des rénovations et des travaux de voirie sur la commune de Digne-les-Bains depuis 2009. ]]></description>
      <author>Ville de Digne-les-Bains (certifié)</author>
   </item>
  </channel>
