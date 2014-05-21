@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 21 May 2014 16:20:07 +0200</pubDate>
+  <pubDate>Wed, 21 May 2014 18:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Base de données des entreprises </title>
@@ -21,7 +21,7 @@
   <item>
      <title>Base de données locales - Service-public.fr</title>
      <link>https://www.data.gouv.fr/fr/dataset/base-de-donnees-locales-service-public-fr</link>
-     <description><![CDATA[Ce jeu de données est une extraction CSV de la base de données locales V2 fournie à l'origine par les services du Premier Ministre en format XML et notamment utilisée par Service-public.fr et le Comarquage. Il contient 61 754 organismes publics géolocalisés plus ou moins précisément selon les régions avec entre autres leurs horaires, sites internet et compétences géographiques. La...]]></description>
+     <description><![CDATA[Ce jeu de données est une extraction CSV de la base de données locales V2 fournie à l'origine par les services du Premier Ministre en format XML et notamment utilisée par Service-public.fr et le Comarquage. Au 19 mai 2014, il contient 61 754 organismes publics géolocalisés plus ou moins précisément selon les régions avec entre autres leurs horaires, sites internet et compétences géographiques....]]></description>
      <author>IdeesLibres.org</author>
   </item>
   <item>
