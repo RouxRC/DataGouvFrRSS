@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 20 May 2014 20:40:02 +0200</pubDate>
+  <pubDate>Wed, 21 May 2014 11:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Répartition des médecins par mode d'exercice</title>
+     <link>https://www.data.gouv.fr/fr/dataset/repartition-des-medecins-par-mode-d-exercice</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données RPPS de la Drees/Asip-Santé ]]></description>
+     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Tableau général des élections législatives des 10 et 17 juin 2012</title>
      <link>https://www.data.gouv.fr/fr/dataset/tableau-general-des-elections-legislatives-des-10-et-17-juin-2012</link>
@@ -358,12 +364,6 @@
      <title>Statistiques 2013 de restauration scolaire à Digne-les-Bains</title>
      <link>https://www.data.gouv.fr/fr/dataset/statistiques-2013-de-restauration-scolaire-a-digne-les-bains-op</link>
      <description><![CDATA[Nombre de repas servis dans les écoles de Digne-les-Bains en 2013 et la quantité moyenne d'aliments achetés en kg. ]]></description>
-     <author>Ville de Digne-les-Bains (certifié)</author>
-  </item>
-  <item>
-     <title>Bâtiments communaux de Digne-les-Bains</title>
-     <link>https://www.data.gouv.fr/fr/dataset/batiments-communaux-de-digne-les-bains-op</link>
-     <description><![CDATA[Bâtiments appartenant à la Ville de Digne-les-Bains. ]]></description>
      <author>Ville de Digne-les-Bains (certifié)</author>
   </item>
  </channel>
