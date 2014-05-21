@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 21 May 2014 12:00:02 +0200</pubDate>
+  <pubDate>Wed, 21 May 2014 14:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>E-liquides aux prétendues vertues thérapeutiques</title>
+     <link>https://www.data.gouv.fr/fr/dataset/e-liquides-aux-pretendues-vertues-therapeutiques</link>
+     <description><![CDATA[Un bref listing des recharges liquides pour cigarettes électroniques disposant selon leurs fabricants et vendeurs de propriétés bienfaisantes. Listing disponible au format tableur, Open/LibreOffice et Excel. ]]></description>
+     <author>LYC - Actualités et décryptages à propos de la cigarette électronique</author>
+  </item>
+  <item>
+     <title>Base de données locales - Service-public.fr</title>
+     <link>https://www.data.gouv.fr/fr/dataset/base-de-donnees-locales-service-public-fr</link>
+     <description><![CDATA[Ce jeu de données est une extraction CSV de la base de données locales V2 fournie à l'origine par les services du Premier Ministre en format XML et notamment utilisée par Service-public.fr et le Comarquage. Il contient 61 754 organismes publics géolocalisés plus ou moins précisément selon les régions avec entre autres leurs horaires, sites internet et compétences géographiques. La...]]></description>
+     <author>IdeesLibres.org</author>
+  </item>
   <item>
      <title>Répartition des médecins par mode d'exercice</title>
      <link>https://www.data.gouv.fr/fr/dataset/repartition-des-medecins-par-mode-d-exercice</link>
@@ -352,18 +364,6 @@
      <title>Travaux de voirie à Digne-les-Bains depuis 2009</title>
      <link>https://www.data.gouv.fr/fr/dataset/travaux-de-voirie-a-digne-les-bains-depuis-2009-op</link>
      <description><![CDATA[Description des rénovations et des travaux de voirie sur la commune de Digne-les-Bains depuis 2009. ]]></description>
-     <author>Ville de Digne-les-Bains (certifié)</author>
-  </item>
-  <item>
-     <title>Aide administrative du pôle social de Digne-les-Bains depuis 2012</title>
-     <link>https://www.data.gouv.fr/fr/dataset/aide-administrative-du-pole-social-de-digne-les-bains-depuis-2012-op</link>
-     <description><![CDATA[Nombre de personnes aidées au niveau administratif par le pôle social du CCAS de Digne-les-Bains depuis 2012. ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Statistiques 2013 de restauration scolaire à Digne-les-Bains</title>
-     <link>https://www.data.gouv.fr/fr/dataset/statistiques-2013-de-restauration-scolaire-a-digne-les-bains-op</link>
-     <description><![CDATA[Nombre de repas servis dans les écoles de Digne-les-Bains en 2013 et la quantité moyenne d'aliments achetés en kg. ]]></description>
      <author>Ville de Digne-les-Bains (certifié)</author>
   </item>
  </channel>
