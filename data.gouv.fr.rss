@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 22 May 2014 11:20:02 +0200</pubDate>
+  <pubDate>Thu, 22 May 2014 14:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Tableau récapitulatif des prix 2013 des prothèses dentaires</title>
+     <link>https://www.data.gouv.fr/fr/dataset/tableau-recapitulatif-des-prix-2013-des-protheses-dentaires</link>
+     <description><![CDATA[L'implantologie dentaire est un domaine de compétence des chirurgiens dentistes en pleine expansion. Les prix des prothèses dentaires sont en honoraires libres chez les chirurgiens-dentistes. Il est donc conseillé de se renseigner sur ces tarifs avant d'engager des travaux de prothèses dentaires. ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Servitudes d'Utilité Publique EL11 relatives aux interdictions d'accès</title>
      <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-el11-relatives-aux-interdictions-d-acces</link>
@@ -358,12 +364,6 @@
      <title>Aide RSA du CCAS de Digne-les-Bains depuis 2010</title>
      <link>https://www.data.gouv.fr/fr/dataset/aide-rsa-du-ccas-de-digne-les-bains-depuis-2010-op</link>
      <description><![CDATA[Tableau récapitulatif du nombre de dossiers de Revenu de Solidarité Active suivis par le CCAS de la ville de Digne-les-Bains depuis 2010. ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Activité de la laverie du pôle social de Digne-les-Bains depuis 2010</title>
-     <link>https://www.data.gouv.fr/fr/dataset/activite-de-la-laverie-du-pole-social-de-digne-les-bains-depuis-2010-op</link>
-     <description><![CDATA[Récapitulatif mensuel de l'activité de la laverie du pôle social de Digne-les-Bains depuis 2010. ]]></description>
      <author>citoyen</author>
   </item>
  </channel>
