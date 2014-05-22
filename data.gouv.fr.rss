@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 22 May 2014 15:20:02 +0200</pubDate>
+  <pubDate>Thu, 22 May 2014 15:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Servitudes d'Utilité Publique I4 autour d'une ligne aérienne d'électricité</title>
+     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-i4-autour-d-une-ligne-aerienne-d-electricite</link>
+     <description><![CDATA[Servitude autour d'une ligne aérienne d'éléctricité. ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Servitudes d'Utilité Publique AC2 enceinte des sites inscrits et classés</title>
      <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-ac2-enceinte-des-sites-inscrits-et-classes</link>
@@ -358,12 +364,6 @@
      <title>Aide FSU du pôle social de Digne-les-Bains depuis 2010</title>
      <link>https://www.data.gouv.fr/fr/dataset/aide-fsu-du-pole-social-de-digne-les-bains-depuis-2010-op</link>
      <description><![CDATA[Répartition et montant de l'aide Fond Social d'Urgence du pôle social de Digne-les-Bains depuis 2010. ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Activité sanitaire du pôle social de Digne-les-Bains depuis 2010</title>
-     <link>https://www.data.gouv.fr/fr/dataset/activite-sanitaire-du-pole-social-de-digne-les-bains-depuis-2010-op</link>
-     <description><![CDATA[Récapitulatif mensuel du nombre de douches prisent au pôle social de Digne-les-Bains par les personnes sans abris depuis 2010. ]]></description>
      <author>citoyen</author>
   </item>
  </channel>
