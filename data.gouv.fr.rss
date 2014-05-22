@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 21 May 2014 18:10:02 +0200</pubDate>
+  <pubDate>Thu, 22 May 2014 11:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Servitudes d'Utilité Publique EL11 relatives aux interdictions d'accès</title>
+     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-el11-relatives-aux-interdictions-d-acces</link>
+     <description><![CDATA[Servitude relative aux interdictions d'accès grevant les propriétés limitrophes des routes express et des déviations d'agglomérations en application des articles 4 et 5 de la loi n° 69-7 du 3 janvier 1969 . Articles abrogés, voir les articles L. 151-3 et L. 152-1 du code de la voirie routière. ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Base de données des entreprises </title>
      <link>https://www.data.gouv.fr/fr/dataset/base-de-donnees-des-entreprises</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/activite-de-la-laverie-du-pole-social-de-digne-les-bains-depuis-2010-op</link>
      <description><![CDATA[Récapitulatif mensuel de l'activité de la laverie du pôle social de Digne-les-Bains depuis 2010. ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Consommation 2013 du parc automobile de la mairie de Digne-les-Bains</title>
-     <link>https://www.data.gouv.fr/fr/dataset/consommation-2013-du-parc-automobile-de-la-mairie-de-digne-les-bains-op</link>
-     <description><![CDATA[Consommation des véhicules communaux en 2013 de la Ville de Digne-les-Bains. ]]></description>
-     <author>Ville de Digne-les-Bains (certifié)</author>
   </item>
  </channel>
 </rss>
