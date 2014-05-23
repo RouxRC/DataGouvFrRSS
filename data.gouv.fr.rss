@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 23 May 2014 11:20:02 +0200</pubDate>
+  <pubDate>Fri, 23 May 2014 11:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Liste des sites des hotspots Louviers WiFi</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-sites-des-hotspots-louviers-wifi</link>
+     <description><![CDATA[Liste des sites municipaux disposant d'un hotspot Louviers WiFi permettant une connexion à Internet offerte. ]]></description>
+     <author>Mairie de Louviers</author>
+  </item>
   <item>
      <title>Servitudes d'Utilité Publique PM1 approbation d'un PPRN </title>
      <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-pm1-approbation-d-un-pprn</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-a-digne-les-bains-op</link>
      <description><![CDATA[Résultats complets des deux tours des élections municipales 2014 dans les 16 bureaux de vote de Digne-les-Bains. ]]></description>
      <author>Ville de Digne-les-Bains (certifié)</author>
-  </item>
-  <item>
-     <title>Contrats de milieux</title>
-     <link>https://www.data.gouv.fr/fr/dataset/contrats-de-milieux-op</link>
-     <description><![CDATA[Les contrats de milieux (rivière, étang, delta) de la Région Provence-Alpes-Côte d'Azur sont des instruments d'intervention opérationnels des politiques partenariales dans le domaine de l'eau. Le contrat de milieu suit 4 phases : Emergence, Elaboration, Mise en oeuvre, Achevé. Contrairement au SAGE (Schéma d'Aménagement et de Gestion des Eaux), le contrat de milieu n'a pas de portée juridique...]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
