@@ -4,8 +4,230 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 23 May 2014 12:00:02 +0200</pubDate>
+  <pubDate>Fri, 23 May 2014 12:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Commercialisation d'appartements neufs en Corse</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commercialisation-d-appartements-neufs-en-corse-cors</link>
+     <description><![CDATA[Commercialisation d'appartements neufs en Corse Source : SOeS, ECLN Traitement : Observatoire Economique Régional Le prix de vente en euro est le prix "à la réservation" ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>​Commercialisation de maisons individuelles neuves en Corse</title>
+     <link>https://www.data.gouv.fr/fr/dataset/commercialisation-de-maisons-individuelles-neuves-en-corse-cors</link>
+     <description><![CDATA[Commercialisation de maisons individuelles neuves en Corse Source : SOeS, ECLN Traitement : Observatoire Economique Régional Le prix de vente en euro est le prix "à la réservation" ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Recensements Agricoles par communes</title>
+     <link>https://www.data.gouv.fr/fr/dataset/recensements-agricoles-par-communes-cors</link>
+     <description><![CDATA[Recensements agricoles de 1988, 2000 et 2010 par commune. Champ : ensemble des exploitations (hors pacages collectifs). Source : Agreste Les données sont localisées au siège de l'exploitation. Exploitation agricole : unité économique qui participe à la production agricole, qui atteint une certaine dimension (1 hectare de superficie agricole utilisée ou 20 ares de cultures spécialisées...]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Demandeurs d'emploi en fin de mois (DEFM) par tranche d'âge - catégorie ABC - données CVS</title>
+     <link>https://www.data.gouv.fr/fr/dataset/demandeurs-d-emploi-en-fin-de-mois-defm-par-tranche-d-age-categorie-abc-donnees-cvs-cors</link>
+     <description><![CDATA[Demandeurs d'emploi en fin de mois (DEFM) par tranche d'âge - catégorie ABC - données CVS Type de données : Corrigées des Variations saisonnières (CVS) Catégorie ABC : ensemble des demandeurs d'emploi tenus de faire des actes positifs de recherche d'emploi Tranche jeune : moins de 25 ans Tranche senior : 50 ans ou plus Les données France métropolitaine sont en milliers Source : Pôle...]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Demandeurs d'emploi en fin de mois (DEFM) - catégorie ABC - données CVS</title>
+     <link>https://www.data.gouv.fr/fr/dataset/demandeurs-d-emploi-en-fin-de-mois-defm-categorie-abc-donnees-cvs-cors</link>
+     <description><![CDATA[Demandeurs d'emploi en fin de mois (DEFM) - catégorie ABC - données CVS Type de données : Corrigées des Variations saisonnières (CVS) Catégorie ABC : ensemble des demandeurs d'emploi tenus de faire des actes positifs de recherche d'emploi Les données France métropolitaine sont en milliers Source : Pôle emploi, Dares, Direccte - retraitement Pôle Prospectives et observation des...]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Les bénéficiaires de fin de trimestre du RSA selon la composante</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-beneficiaires-de-fin-de-trimestre-du-rsa-selon-la-composante-cors</link>
+     <description><![CDATA[Les bénéficiaires de fin de trimestre du RSA selon la composante. Source : Cnaf Traitement : Observatoire Economique Régional ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Liste des PAM en Corse</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-pam-en-corse-cors</link>
+     <description><![CDATA[Liste des PAM (Point d’Accès Multimédia) en Corse ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Essences dans les forêts</title>
+     <link>https://www.data.gouv.fr/fr/dataset/essences-dans-les-forets-cors</link>
+     <description><![CDATA[Essences présentes par forêt territoriale ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Marchés de services conclus par la CTC en 2012</title>
+     <link>https://www.data.gouv.fr/fr/dataset/marches-de-services-conclus-par-la-ctc-en-2012-cors</link>
+     <description><![CDATA[Liste des marchés de services et prestations intellectuelles conclus pour l'année 2012 par la Collectivité Territoriale de Corse ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Chiffres des transports</title>
+     <link>https://www.data.gouv.fr/fr/dataset/chiffres-des-transports-cors</link>
+     <description><![CDATA[Nombre de passagers par transport maritime et aérien ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Volumes Eau Brute</title>
+     <link>https://www.data.gouv.fr/fr/dataset/volumes-eau-brute-cors</link>
+     <description><![CDATA[Volume d'eau brute facturés par périmètre ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Situation financière de la Collectivité Territoriale de Corse - Investissement</title>
+     <link>https://www.data.gouv.fr/fr/dataset/situation-financiere-de-la-collectivite-territoriale-de-corse-investissement-cors</link>
+     <description><![CDATA[Situation financière de la Collectivité Territoriale de Corse - Investissement Population 2012 : 305 674 Habitants Population 2011 : 302 966 Habitants Population 2010 : 299 209 Habitants Population 2009 : 294 118 Habitants Population 2008 : 260 196 Habitants Source : http://www.collectivites-locales.gouv.fr/ ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Situation financière de la Collectivité Territoriale de Corse - Investissement</title>
+     <link>https://www.data.gouv.fr/fr/dataset/situation-financiere-de-la-collectivite-territoriale-de-corse-investissement-cors</link>
+     <description><![CDATA[Situation financière de la Collectivité Territoriale de Corse - Investissement Population 2012 : 305 674 Habitants Population 2011 : 302 966 Habitants Population 2010 : 299 209 Habitants Population 2009 : 294 118 Habitants Population 2008 : 260 196 Habitants Source : http://www.collectivites-locales.gouv.fr/ ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Budget 2012 par secteurs - Autorisations d’engagement (AE)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/budget-2012-par-secteurs-autorisations-d-engagement-ae-cors</link>
+     <description><![CDATA[Budget 2012 par secteurs - Autorisations d’engagement (AE) ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Hébergement Marchand - PÔLES TOURISTIQUES</title>
+     <link>https://www.data.gouv.fr/fr/dataset/hebergement-marchand-poles-touristiques-cors</link>
+     <description><![CDATA[Nombre de structures et lits proposés, par type. ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Nombre de bénéficiaires en fin de trimestre du RSA avec ou sans majoration pour isolement</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-beneficiaires-en-fin-de-trimestre-du-rsa-avec-ou-sans-majoration-pour-isolement-cors</link>
+     <description><![CDATA[Nombre de bénéficiaires en fin de trimestre du RSA avec ou sans majoration pour isolement. ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>​Encours des dépôts dans les agences bancaires</title>
+     <link>https://www.data.gouv.fr/fr/dataset/encours-des-depots-dans-les-agences-bancaires-cors</link>
+     <description><![CDATA[Encours des dépôts dans les agences bancaires Province : France Métropolitaine hors Ile-de-France Source : Banque de France Traitement : Observatoire Economique Régional Unité : Milliers de EUR ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Trafic mensuel de passagers dans les ports et aéroports corses (entrées + sorties)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/trafic-mensuel-de-passagers-dans-les-ports-et-aeroports-corses-entrees-sorties-cors</link>
+     <description><![CDATA[Trafic mensuel de passagers dans les ports et aéroports corses (entrées + sorties) Source: ORTC Traitement: Observatoire Economique Régional ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Utilisation de l'ENT en Corse</title>
+     <link>https://www.data.gouv.fr/fr/dataset/utilisation-de-l-ent-en-corse-cors</link>
+     <description><![CDATA[Utilisation de l'ENT en Corse depuis son ouverture ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Décharges brutes en Corse</title>
+     <link>https://www.data.gouv.fr/fr/dataset/decharges-brutes-en-corse-cors</link>
+     <description><![CDATA[Décharges brutes en Corse ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Réseau en Corse</title>
+     <link>https://www.data.gouv.fr/fr/dataset/reseau-en-corse-cors</link>
+     <description><![CDATA[Réseau en Corse ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Production de bois</title>
+     <link>https://www.data.gouv.fr/fr/dataset/production-de-bois-cors</link>
+     <description><![CDATA[Bilan annuel des récoltes (en m3/an) ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Synthèse Globale sur l'ENT</title>
+     <link>https://www.data.gouv.fr/fr/dataset/synthese-globale-sur-l-ent-cors</link>
+     <description><![CDATA[Synthèse globale de l'usage de l'ENT (espace numérique de travail) - Authentifications, comptes existants et aux d'utilisateurs actifs par mois ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>​Moyens de production electrique en Corse</title>
+     <link>https://www.data.gouv.fr/fr/dataset/moyens-de-production-electrique-en-corse-cors</link>
+     <description><![CDATA[Moyens de production electrique ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Demandeurs d'emploi en fin de mois (DEFM) par catégorie - données brutes</title>
+     <link>https://www.data.gouv.fr/fr/dataset/demandeurs-d-emploi-en-fin-de-mois-defm-par-categorie-donnees-brutes-cors</link>
+     <description><![CDATA[Demandeurs d'emploi en fin de mois (DEFM) par catégorie - données brutes Type de données : brutes Catégorie A : demandeurs d'emploi tenus de faire des actes positifs de recherche d'emploi, sans emploi Catégorie B : demandeurs d'emploi tenus de faire des actes positifs de recherche d'emploi, ayant exercé une activité réduite courte (ie, de 78 heures ou moins au cours du mois)...]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Marchés de services conclus par la CTC en 2011</title>
+     <link>https://www.data.gouv.fr/fr/dataset/marches-de-services-conclus-par-la-ctc-en-2011-cors</link>
+     <description><![CDATA[Liste des marchés de services conclus pour l'année 2012 par la Collectivité Territoriale de Corse ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Production de raisin, production de vins, jus et moûts</title>
+     <link>https://www.data.gouv.fr/fr/dataset/production-de-raisin-production-de-vins-jus-et-mouts-cors</link>
+     <description><![CDATA[Production de raisin, production de vins, jus et moûts en Corse de 2009 à 2012. Source : Agreste ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Situation financière de la Collectivité Territoriale de Corse - Endettement</title>
+     <link>https://www.data.gouv.fr/fr/dataset/situation-financiere-de-la-collectivite-territoriale-de-corse-endettement-cors</link>
+     <description><![CDATA[Situation financière de la Collectivité Territoriale de Corse - Endettement Population 2012 : 305 674 Habitants Population 2011 : 302 966 Habitants Population 2010 : 299 209 Habitants Population 2009 : 294 118 Habitants Population 2008 : 260 196 Habitants Source : http://www.collectivites-locales.gouv.fr/ ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Logements autorisés par type en Corse</title>
+     <link>https://www.data.gouv.fr/fr/dataset/logements-autorises-par-type-en-corse-cors</link>
+     <description><![CDATA[Logements autorisés par type en Corse (en date de prise en compte) Sources : MEEDDM/CGDD/SOeS Traitement : Observatoire Economique Régional Unité : nombre de logements ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Convention additionnelle relative au plan de développement de la langue corse (2007-2013) - Contribution financière de la Corse</title>
+     <link>https://www.data.gouv.fr/fr/dataset/convention-additionnelle-relative-au-plan-de-developpement-de-la-langue-corse-2007-2013-contrib-cors</link>
+     <description><![CDATA[Contribution financière commune de la Collectivité territoriale de Corse pour la mise en œuvre de la convention relative au plan de développement de la langue corse (2007-2013) ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Hôtellerie : Durée moyenne de séjour</title>
+     <link>https://www.data.gouv.fr/fr/dataset/hotellerie-duree-moyenne-de-sejour-cors</link>
+     <description><![CDATA[Hôtellerie : Durée moyenne de séjour . Données mensuelles 2010/2013 ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>​Inflation Nielsen à un an</title>
+     <link>https://www.data.gouv.fr/fr/dataset/inflation-nielsen-a-un-an-cors</link>
+     <description><![CDATA[Inflation Nielsen à un an (Inflation calculée sur un panier de 98 biens de consommation courante en grande surface) Source : Indicateur "Nielsen - LSA" Traitement : Observatoire Economique Régional Unité : % ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Marchés de travaux conclus par la CTC en 2012</title>
+     <link>https://www.data.gouv.fr/fr/dataset/marches-de-travaux-conclus-par-la-ctc-en-2012-cors</link>
+     <description><![CDATA[Liste des marchés de travaux conclus pour l'année 2012 par la Collectivité Territoriale de Corse ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Budget 2012 par secteurs - Autorisations de programme (AP)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/budget-2012-par-secteurs-autorisations-de-programme-ap-cors</link>
+     <description><![CDATA[Budget 2012 par secteurs - Autorisations de programme (AP) ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Hôtellerie : Taux d'occupation</title>
+     <link>https://www.data.gouv.fr/fr/dataset/hotellerie-taux-d-occupation-cors</link>
+     <description><![CDATA[Hôtellerie : Taux d'occupation mensuels - Période 2010/2013 ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
+  <item>
+     <title>Liste des bureaux de vote Elections Européennes 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-bureaux-de-vote-elections-europeennes-2014</link>
+     <description><![CDATA[Liste des 8 bureaux de votes ouverts à Louviers lors des élections Européennes du dimanche 25 mai 2014. Les 8 bureaux de vote seront ouverts de 8h à 18h. ]]></description>
+     <author>Mairie de Louviers</author>
+  </item>
+  <item>
+     <title>Liste des bureaux de vote Elections Européennes 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-bureaux-de-vote-elections-europeennes-2014</link>
+     <description><![CDATA[Liste des 8 bureaux de votes ouverts à Louviers lors des élections Européennes du dimanche 25 mai 2014. Les 8 bureaux de vote seront ouverts de 8h à 18h. ]]></description>
+     <author>Mairie de Louviers</author>
+  </item>
   <item>
      <title>Pratiques culturales sur les grandes cultures et prairies</title>
      <link>https://www.data.gouv.fr/fr/dataset/pratiques-culturales-sur-les-grandes-cultures-et-prairies</link>
@@ -143,228 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/densite-des-medecins-au-1er-janvier</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Répertoire Adeli de la Drees/Asip-Santé ]]></description>
      <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Démographie des médecins au 1er janvier</title>
-     <link>https://www.data.gouv.fr/fr/dataset/demographie-des-medecins-au-1er-janvier</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données du répertoire Adeli de la Drees/Asip-Santé ]]></description>
-     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Données concernant l’allocation personnalisée d’autonomie (APA)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/donnees-concernant-l-allocation-personnalisee-d-autonomie-apa</link>
-     <description><![CDATA[Dans le cadre d’une enquête annuelle sur l’aide sociale, réalisée chaque année depuis 1984 auprès des conseils généraux, la DREES recueille des données sur les bénéficiaires et les dépenses d’APA. ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Effectif de médecins par catégorie</title>
-     <link>https://www.data.gouv.fr/fr/dataset/effectif-de-medecins-par-categorie</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données RPPS de la Drees/Asip-Santé ]]></description>
-     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Données concernant la protection maternelle et infantile (PMI)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/donnees-concernant-la-protection-maternelle-et-infantile-pmi</link>
-     <description><![CDATA[Le service de protection maternelle et infantile (PMI) est un service départemental, placé sous l’autorité du président du conseil général et chargé d’assurer la protection sanitaire de la mère et de l’enfant. ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Données disponibles sur la morbidité hospitalière</title>
-     <link>https://www.data.gouv.fr/fr/dataset/donnees-disponibles-sur-la-morbidite-hospitaliere</link>
-     <description><![CDATA[La morbidité d’une population se définit comme étant le « nombre de personnes malades ou le nombre de cas de maladies dans une population déterminée, à un moment donné ». ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>La densité des sages-femmes selon le mode d'exercice</title>
-     <link>https://www.data.gouv.fr/fr/dataset/la-densite-des-sages-femmes-selon-le-mode-d-exercice</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees/Asip-Santé, répertoire partagé des professionnels de santé (RPPS) ]]></description>
-     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>La démographie des médecins (RPPS)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/la-demographie-des-medecins-rpps</link>
-     <description><![CDATA[Au 1er janvier 2014, la base statistique du RPPS recense 219 834 médecins en activité, dont 214 594 en France métropolitaine. Par rapport au 1er janvier 2013, le nombre de médecins a augmenté de 0,7 % (218 296 médecins au 1er janvier 2013 en France et 213 227 en France métropolitaine). On enregistre sur la même période une légère hausse de la densité de l’ensemble des médecins (+0,2 %). ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Répartition des médecins libéraux par catégorie et par âge</title>
-     <link>https://www.data.gouv.fr/fr/dataset/repartition-des-medecins-liberaux-par-categorie-et-par-age</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Snir ]]></description>
-     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Répartition des professionnels paramédicaux libéraux par âge</title>
-     <link>https://www.data.gouv.fr/fr/dataset/repartition-des-professionnels-paramedicaux-liberaux-par-age</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Snir ]]></description>
-     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Taux de réussite des auto-écoles (France- 2012)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/taux-de-reussite-des-auto-ecoles-france-2012</link>
-     <description><![CDATA[Taux de réussite permis B et ETG des auto-écoles en France ( année 2012) ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Aides à la presse - bonification du Fonds stratégique pour le développement de la presse (FSDP)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/aides-a-la-presse-bonification-du-fonds-strategique-pour-le-developpement-de-la-presse-fsdp</link>
-     <description><![CDATA[Montant des bonifications ]]></description>
-     <author>Ministère de la Culture et de la Communication (certifié)</author>
-  </item>
-  <item>
-     <title>Aide au portage de la presse</title>
-     <link>https://www.data.gouv.fr/fr/dataset/aide-au-portage-de-la-presse</link>
-     <description><![CDATA[Aide au portage de la presse (décret n° 98-1009 du 6 novembre 1998) ]]></description>
-     <author>Ministère de la Culture et de la Communication (certifié)</author>
-  </item>
-  <item>
-     <title>Aide à la distribution de la presse quotidienne nationale </title>
-     <link>https://www.data.gouv.fr/fr/dataset/aide-a-la-distribution-de-la-presse-quotidienne-nationale</link>
-     <description><![CDATA[Aide à la distribution de la presse quotidienne nationale d'information politique et générale ("aides à la distribution" ]]></description>
-     <author>Ministère de la Culture et de la Communication (certifié)</author>
-  </item>
-  <item>
-     <title>Dépassements d'honoraires dans les cliniques privées</title>
-     <link>https://www.data.gouv.fr/fr/dataset/depassements-d-honoraires-dans-les-cliniques-privees</link>
-     <description><![CDATA[ L’objet est de présenter pour un acte ou une famille d’actes et une année, les dépassements d’honoraires dans les cliniques privées par territoire de santé ou région ou au niveau national. Les résultats sont calculés uniquement pour les actes classant et sont présentés dans le cas où ils concernent au moins 2 établissements et au moins 20 séjours ou actes. La requête se fait au moyen d’un...]]></description>
-     <author>Agence Technique de l'information sur l'Hospitalisation (ATIH) (certifié)</author>
-  </item>
-  <item>
-     <title>Dépenses pour protéger l’environnement dans les industries agroalimentaires</title>
-     <link>https://www.data.gouv.fr/fr/dataset/depenses-pour-proteger-l-environnement-dans-les-industries-agroalimentaires</link>
-     <description><![CDATA[Montants des investissements pour l’environnement, nombre d’établissements, domaine (eaux usées, déchets...), montants des études pour la protection de l’environnement, investissements dédiés selon l’activité ]]></description>
-     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
-  </item>
-  <item>
-     <title>Listes et candidats aux élections européennes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/listes-et-candidats-aux-elections-europeennes</link>
-     <description><![CDATA[Version CSV du fichier des listes et des candidats aux élections européennes 2014 du Ministère de l'Intérieur ]]></description>
-     <author>IdeesLibres.org</author>
-  </item>
-  <item>
-     <title>Elections européennes 2014 - Fichier des listes et des candidats</title>
-     <link>https://www.data.gouv.fr/fr/dataset/elections-europeennes-2014-fichier-des-listes-et-des-candidats</link>
-     <description><![CDATA[Fichier des listes et des candidats aux élections européennes 2014 ]]></description>
-     <author>Ministère de l'Intérieur (certifié)</author>
-  </item>
-  <item>
-     <title>Bénéficiaires de l'Allocation Personnalisée d'Autonomie (APA) pour personnes âgées dépendantes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/beneficiaires-de-l-allocation-personnalisee-d-autonomie-apa-pour-personnes-agees-dependantes</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees ]]></description>
-     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Base de données des accidents corporels de la circulation</title>
-     <link>https://www.data.gouv.fr/fr/dataset/base-de-donnees-des-accidents-corporels-de-la-circulation</link>
-     <description><![CDATA[Lors de l'OpenDataCamp organisé par Etalab et Devoxx le 16 avril 2014. La base de données des accidents du Ministère de l'Intérieur concernant la période 2006-2011 a pu être reformatée (travail collectif) afin d'être importable dans un SGBD classique et mis à disposition en ressource du jeu de données initial. Le jeu données suivant en est une version enrichie avec les codes INSEE du Geofla de...]]></description>
-     <author>IdeesLibres.org</author>
-  </item>
-  <item>
-     <title>Fréquence des séjours selon codes diagnostics principaux ou actes classant</title>
-     <link>https://www.data.gouv.fr/fr/dataset/frequence-des-sejours-selon-codes-diagnostics-principaux-ou-actes-classa-0</link>
-     <description><![CDATA[L’objet est de présenter pour un code et une année, l’ensemble des GHM pour lesquels ce code, diagnostic principal ou acte médical classant, figure dans les résumés des séjours. Cette liste donne pour chaque GHM son numéro et libellé, la CMD correspondante, le nombre de séjours et séances, la durée moyenne de ces séjours (voir supra pour la durée de séjour des séances). La liste est présentée...]]></description>
-     <author>Agence Technique de l'information sur l'Hospitalisation (ATIH) (certifié)</author>
-  </item>
-  <item>
-     <title>FranceWebAsso La nouvelle société du savoir, l'apprentissage du partage des savoirs et des pouvoirs</title>
-     <link>https://www.data.gouv.fr/fr/dataset/francewebasso-la-nouvelle-societe-du-savoir-l-apprentissage-du-partage-des-savoirs-et-des-pouvoirs</link>
-     <description><![CDATA[Un partage d'intelligence, de créativité et de sagesse pour ré-enchanter le monde ! "Une véritable fenêtre sur le savoir permettant d'enrichir nos connaissances" projet architectural majeur du 21ème siècle ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Enquête sur les signes officiels de la qualité et de l’origine</title>
-     <link>https://www.data.gouv.fr/fr/dataset/enquete-sur-les-signes-officiels-de-la-qualite-et-de-l-origine</link>
-     <description><![CDATA[Nombre de gestionnaires, nombre de signes officiels gérés, production en quantité et en valeur, chiffre d’affaires, volumes, pourcentage des ventes par destination et par circuit de distribution ]]></description>
-     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
-  </item>
-  <item>
-     <title>Enquête sur la production de déchets non dangereux dans l’industrie</title>
-     <link>https://www.data.gouv.fr/fr/dataset/enquete-sur-la-production-de-dechets-non-dangereux-dans-l-industrie</link>
-     <description><![CDATA[Production de déchets par les industries agroalimentaires selon la nature du déchet, l’activité économique, le lieu et le mode de traitement des déchets, la région ]]></description>
-     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
-  </item>
-  <item>
-     <title>Consommations d’énergie dans les IAA et les scieries</title>
-     <link>https://www.data.gouv.fr/fr/dataset/consommations-d-energie-dans-les-iaa-et-les-scieries</link>
-     <description><![CDATA[Consommation, achats et autoproduction par type d’énergie (gaz, fioul, électricité, butane-propane,houille...), prix d’achat des combustibles. Résultats nationaux par région et secteur d’activité des entreprises des IAA et de sciage et rabotage de bois. ]]></description>
-     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
-  </item>
-  <item>
-     <title>Densité des gynécologues et obstétriciens </title>
-     <link>https://www.data.gouv.fr/fr/dataset/densite-des-gynecologues-et-obstetriciens</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees/Asip-Santé, répertoire partagé des professionnels de santé (RPPS) ]]></description>
-     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Cartographie des grandes villes françaises à l'échelle des bureaux de vote</title>
-     <link>https://www.data.gouv.fr/fr/dataset/cartographie-des-grandes-villes-francaises-a-l-echelle-des-bureaux-de-vote</link>
-     <description><![CDATA[Le projet CARTELEC développe un « Système d’Information Géographique » (SIG) qui permet d’analyser les résultats des élections de 2007 (présidentielle et législatives), 2009 (européennes) et 2010 (régionales) au niveau des bureaux de vote pour la France métropolitaine. Grâce aux outils modernes de la cartographie assistée par ordinateur, les périmètres des bureaux de vote sont mis en relation,...]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Avis des consommateurs sur les e-liquides</title>
-     <link>https://www.data.gouv.fr/fr/dataset/avis-des-consommateurs-sur-les-e-liquides</link>
-     <description><![CDATA[Les e-liquides sont des produits destinés à l'usage de vaporisateurs personnels et entrent dans le cadre des méthodes de réduction des risques pour le fumeur. Fabriqués en majorité en Europe et aux États-Unis, leur complexité gustative et leur variété peuvent rendre le choix du consommateur parfois difficile. Afin de permettre aux vapoteurs (utilisateurs de vaporisateur) de s'aiguiller dans...]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Répartition des médecins par catégorie</title>
-     <link>https://www.data.gouv.fr/fr/dataset/repartition-des-medecins-par-categorie</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees/Asip-Santé, répertoire partagé des professionnels de santé (RPPS) ]]></description>
-     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Répartition des médecins par sexe</title>
-     <link>https://www.data.gouv.fr/fr/dataset/repartition-des-medecins-par-sexe</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees/Asip-Santé, répertoire partagé des professionnels de santé (RPPS) ]]></description>
-     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Jeux de données - Ville de Digne-les-Bains - CCAS</title>
-     <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-ville-de-digne-les-bains-ccas-op</link>
-     <description><![CDATA[Les jeux de données publiés par Ville de Digne-les-Bains - CCAS, collectés par data.gouv.fr sur la plateforme Open PACA ]]></description>
-     <author>Open PACA (certifié)</author>
-  </item>
-  <item>
-     <title>Jeux de données - Ville d'Istres</title>
-     <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-ville-d-istres-op</link>
-     <description><![CDATA[Les jeux de données publiés par Ville d'Istres, collectés par data.gouv.fr sur la plateforme Open PACA ]]></description>
-     <author>Open PACA (certifié)</author>
-  </item>
-  <item>
-     <title>Panneaux publicitaires du SAN Ouest Provence</title>
-     <link>https://www.data.gouv.fr/fr/dataset/panneaux-publicitaires-du-san-ouest-provence-op</link>
-     <description><![CDATA[Localisation des panneaux publicitaires du SAN Ouest Provence sur son territoire. ]]></description>
-     <author>SAN Ouest Provence</author>
-  </item>
-  <item>
-     <title>Statistiques 2013 du Service Plus à Digne-les-Bains</title>
-     <link>https://www.data.gouv.fr/fr/dataset/statistiques-2013-du-service-plus-a-digne-les-bains-op</link>
-     <description><![CDATA[Bilan mensuel du nombre de repas livrés à domicile par Service Plus à Digne-les-Bains en 2013. ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Activité de l'ERIC du pôle social de Digne-les-Bains depuis 2010</title>
-     <link>https://www.data.gouv.fr/fr/dataset/activite-de-l-eric-du-pole-social-de-digne-les-bains-depuis-2010-op</link>
-     <description><![CDATA[Récapitulatif mensuel de la fréquentation de l'Espace Régional Internet Citoyen du pôle social de la ville de Digne-les-Bains depuis 2010. ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Activité de la cuisine du pôle social de Digne-les-Bains depuis 2010</title>
-     <link>https://www.data.gouv.fr/fr/dataset/activite-de-la-cuisine-du-pole-social-de-digne-les-bains-depuis-2010-op</link>
-     <description><![CDATA[Nombre de repas servis dans la cuisine du pôle social de la ville de Digne-les-Bains au cours des saisons 2010-2011, 2011-2012, 2012-2013. ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Statistiques d'accueil du public au CCAS de Digne-les-Bains depuis 2010</title>
-     <link>https://www.data.gouv.fr/fr/dataset/statistiques-d-accueil-du-public-au-ccas-de-digne-les-bains-depuis-2010-op</link>
-     <description><![CDATA[Bilan mensuel des demandes de renseignements à l'accueil du CCAS de Digne-les-Bains depuis 2010. ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Elections municipales 2014 à Istres</title>
-     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-a-istres-op</link>
-     <description><![CDATA[Résultats complets des deux tours des élections municipales 2014 dans les 30 bureaux de vote d'Istres. ]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
