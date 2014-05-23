@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 22 May 2014 16:30:02 +0200</pubDate>
+  <pubDate>Fri, 23 May 2014 11:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Servitudes d'Utilité Publique PM1 approbation d'un PPRN </title>
+     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-pm1-approbation-d-un-pprn</link>
+     <description><![CDATA[Servitude découlant de l'approbation d'un PPRN. Report des zones sur lesquelles la servitude du fait d'un PPRN. ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Servitudes d'Utilité Publique PM3 PPRT destinées à limiter les effets d'accidents dans les installations classées </title>
      <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-pm3-pprt-destinees-a-limiter-les-effets-d-accidents-dans-les-installat</link>
@@ -358,12 +364,6 @@
      <title>Contrats de milieux</title>
      <link>https://www.data.gouv.fr/fr/dataset/contrats-de-milieux-op</link>
      <description><![CDATA[Les contrats de milieux (rivière, étang, delta) de la Région Provence-Alpes-Côte d'Azur sont des instruments d'intervention opérationnels des politiques partenariales dans le domaine de l'eau. Le contrat de milieu suit 4 phases : Emergence, Elaboration, Mise en oeuvre, Achevé. Contrairement au SAGE (Schéma d'Aménagement et de Gestion des Eaux), le contrat de milieu n'a pas de portée juridique...]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Budget du CCAS de Digne-les-Bains depuis 2010</title>
-     <link>https://www.data.gouv.fr/fr/dataset/budget-du-ccas-de-digne-les-bains-depuis-2010-op</link>
-     <description><![CDATA[Budget du Centre Communal d'Action Sociale de la ville de Digne-les-Bains depuis 2010. ]]></description>
      <author>citoyen</author>
   </item>
  </channel>
