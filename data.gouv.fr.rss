@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 23 May 2014 11:50:02 +0200</pubDate>
+  <pubDate>Fri, 23 May 2014 12:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Pratiques culturales sur les grandes cultures et prairies</title>
+     <link>https://www.data.gouv.fr/fr/dataset/pratiques-culturales-sur-les-grandes-cultures-et-prairies</link>
+     <description><![CDATA[Rendements et objectifs de rendement, teneur moyenne en protéines, parts des surfaces implantées avec une culture intermédiaire, mode de destruction des cultures (mécanique, chimique, autre), origine des semences, doses de semis, modes de tri, traitement des semences, modes d’implantation des cultures (labour, non labour, semis direct), désherbage mécanique, fertilisation...]]></description>
+     <author>Ministère de l'Agriculture, de l'Agroalimentaire et de la Forêt (certifié)</author>
+  </item>
   <item>
      <title>Liste des sites des hotspots Louviers WiFi</title>
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-sites-des-hotspots-louviers-wifi</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-a-istres-op</link>
      <description><![CDATA[Résultats complets des deux tours des élections municipales 2014 dans les 30 bureaux de vote d'Istres. ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Elections municipales 2014 à Digne-les-Bains</title>
-     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-a-digne-les-bains-op</link>
-     <description><![CDATA[Résultats complets des deux tours des élections municipales 2014 dans les 16 bureaux de vote de Digne-les-Bains. ]]></description>
-     <author>Ville de Digne-les-Bains (certifié)</author>
   </item>
  </channel>
 </rss>
