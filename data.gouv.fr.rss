@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 23 May 2014 13:20:02 +0200</pubDate>
+  <pubDate>Fri, 23 May 2014 20:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Jeux de données - Collectivité Territoriale de Corse</title>
+     <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-collectivite-territoriale-de-corse-cors</link>
+     <description><![CDATA[Les jeux de données collectés par data.gouv.fr sur la plateforme Collectivité Territoriale de Corse ]]></description>
+     <author>Collectivité Territoriale de Corse (certifié)</author>
+  </item>
   <item>
      <title>Les immatriculations de véhicules neufs par type de véhicules</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-immatriculations-de-vehicules-neufs-par-type-de-vehicules-cors</link>
@@ -358,12 +364,6 @@
      <title>​Les réserves de chasse en Corse</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-reserves-de-chasse-en-corse-cors</link>
      <description><![CDATA[Les réserves de chasse en Corse ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
-  </item>
-  <item>
-     <title>Commercialisation d'appartements neufs en Corse</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commercialisation-d-appartements-neufs-en-corse-cors</link>
-     <description><![CDATA[Commercialisation d'appartements neufs en Corse Source : SOeS, ECLN Traitement : Observatoire Economique Régional Le prix de vente en euro est le prix "à la réservation" ]]></description>
      <author>Collectivité Territoriale de Corse (certifié)</author>
   </item>
  </channel>
