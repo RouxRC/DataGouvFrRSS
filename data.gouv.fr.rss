@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 24 May 2014 15:30:02 +0200</pubDate>
+  <pubDate>Sat, 24 May 2014 17:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Base d'Adresses Nationale Ouverte - BANO</title>
@@ -15,7 +15,7 @@
   <item>
      <title>Résultats des élections européennes 2014</title>
      <link>https://www.data.gouv.fr/fr/dataset/resultats-des-elections-europeennes-2014</link>
-     <description><![CDATA[Le Parlement européen publiera en temps réel les résultats des élections européennes pour l'ensemble des 27 pays, à partir du dimanche 25 mai à 23h (heure de Paris). ]]></description>
+     <description><![CDATA[Le Parlement européen publiera en temps réel les résultats des élections européennes pour l'ensemble des 28 pays, à partir du dimanche 25 mai à 23h (heure de Paris). ]]></description>
      <author>Parlement européen (certifié)</author>
   </item>
   <item>
