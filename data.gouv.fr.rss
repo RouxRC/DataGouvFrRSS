@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 23 May 2014 21:00:02 +0200</pubDate>
+  <pubDate>Sat, 24 May 2014 09:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Résultats des élections européennes 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/resultats-des-elections-europeennes-2014</link>
+     <description><![CDATA[Le Parlement européen publiera en temps réel les résultats des élections européennes pour l'ensemble des 27 pays, à partir du dimanche 25 mai à 23h (heure de Paris). ]]></description>
+     <author>Parlement européen (certifié)</author>
+  </item>
   <item>
      <title>Jeux de données - Collectivité Territoriale de Corse</title>
      <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-collectivite-territoriale-de-corse-cors</link>
@@ -358,12 +364,6 @@
      <title>Marchés de fournitures conclus par la CTC en 2012</title>
      <link>https://www.data.gouv.fr/fr/dataset/marches-de-fournitures-conclus-par-la-ctc-en-2012-cors</link>
      <description><![CDATA[Liste des marchés de fournitures conclus pour l'année 2012 par la Collectivité Territoriale de Corse ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
-  </item>
-  <item>
-     <title>​Les réserves de chasse en Corse</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-reserves-de-chasse-en-corse-cors</link>
-     <description><![CDATA[Les réserves de chasse en Corse ]]></description>
      <author>Collectivité Territoriale de Corse (certifié)</author>
   </item>
  </channel>
