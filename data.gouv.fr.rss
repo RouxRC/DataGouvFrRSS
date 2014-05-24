@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 24 May 2014 09:50:02 +0200</pubDate>
+  <pubDate>Sat, 24 May 2014 15:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Base d'Adresses Nationale Ouverte - BANO</title>
+     <link>https://www.data.gouv.fr/fr/dataset/base-d-adresses-nationale-ouverte-bano</link>
+     <description><![CDATA[Ce jeu de données provient du projet de Base d'Adresses Nationale Ouverte initié par OpenStreetMap France. Pour plus de renseignements sur ce projet : http://openstreetmap.fr/blogs/cquest/bano-banco Origine des données BANO est une base de données composite, constituée à partir de différentes sources: OpenStreetMap données disponibles en opendata données adresses...]]></description>
+     <author>OpenStreetMap</author>
+  </item>
   <item>
      <title>Résultats des élections européennes 2014</title>
      <link>https://www.data.gouv.fr/fr/dataset/resultats-des-elections-europeennes-2014</link>
@@ -358,12 +364,6 @@
      <title>Logements commencés par type en Corse</title>
      <link>https://www.data.gouv.fr/fr/dataset/logements-commences-par-type-en-corse-cors</link>
      <description><![CDATA[Logements commencés par type en Corse (en date de prise en compte) Sources: MEEDDM/CGDD/SOeS Traitement : Observatoire Economique Régional Unité : nombre de logements ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
-  </item>
-  <item>
-     <title>Marchés de fournitures conclus par la CTC en 2012</title>
-     <link>https://www.data.gouv.fr/fr/dataset/marches-de-fournitures-conclus-par-la-ctc-en-2012-cors</link>
-     <description><![CDATA[Liste des marchés de fournitures conclus pour l'année 2012 par la Collectivité Territoriale de Corse ]]></description>
      <author>Collectivité Territoriale de Corse (certifié)</author>
   </item>
  </channel>
