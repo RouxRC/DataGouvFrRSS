@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 26 May 2014 16:10:02 +0200</pubDate>
+  <pubDate>Mon, 26 May 2014 16:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Servitudes d'Utilité Publique AR3 dépots de munitions </title>
+     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-ar3-depots-de-munitions</link>
+     <description><![CDATA[Zone et polygone d'isolement autour des magasins et établissements servant à la conservation, à la manipulation ou à la fabrication des poudres, munitions, artifices ou explosifs. ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Elections européennes 2014 - Résultats</title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-europeennes-2014-resulta-1</link>
@@ -358,12 +364,6 @@
      <title>Les immatriculations d'entreprises au Registre du Commerce et des Sociétés en Corse</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-immatriculations-d-entreprises-au-registre-du-commerce-et-des-societes-en-corse-cors</link>
      <description><![CDATA[Les immatriculations d'entreprises au Registre du Commerce et des Sociétés en Corse Source : Centre National des Greffiers des Tribunaux de Commerce Traitement : Observatoire Economique Régional ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
-  </item>
-  <item>
-     <title>Marchés de travaux conclus par la CTC en 2011</title>
-     <link>https://www.data.gouv.fr/fr/dataset/marches-de-travaux-conclus-par-la-ctc-en-2011-cors</link>
-     <description><![CDATA[Liste des marchés de travaux conclus pour l'année 2011 par la Collectivité Territoriale de Corse ]]></description>
      <author>Collectivité Territoriale de Corse (certifié)</author>
   </item>
  </channel>
