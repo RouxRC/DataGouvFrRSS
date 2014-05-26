@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 26 May 2014 14:50:02 +0200</pubDate>
+  <pubDate>Mon, 26 May 2014 15:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Elections européennes 2014 - Résultats</title>
+     <link>https://www.data.gouv.fr/fr/dataset/elections-europeennes-2014-resulta-0</link>
+     <description><![CDATA[Résultats des élections européennes 2014, France entière, par circonscriptions européennes, régions, départements, circonscriptions législatives, cantons et liste des élus. Ces résultats sont ceux parvenus lors de la soirée électorale. Les résultats officiels seront proclamés par la commission nationale de recensement des votes, jeudi 29 mai 2014. ]]></description>
+     <author>Ministère de l'Intérieur (certifié)</author>
+  </item>
   <item>
      <title>Jeux de données - SNCF</title>
      <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-sncf-sncf</link>
@@ -358,12 +364,6 @@
      <title>Encours de crédits dans les agences bancaires</title>
      <link>https://www.data.gouv.fr/fr/dataset/encours-de-credits-dans-les-agences-bancaires-cors</link>
      <description><![CDATA[Encours de crédits dans les agences bancaires Province : France Métropolitaine hors Ile-de-France Source : Banque de France Traitement : Observatoire Economique Régional Unité : milliers d'euros ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
-  </item>
-  <item>
-     <title>Structures Labellisées SPO 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/structures-labellisees-spo-2013-cors</link>
-     <description><![CDATA[Structures labellisées SPO par territoire en 2013 ]]></description>
      <author>Collectivité Territoriale de Corse (certifié)</author>
   </item>
  </channel>
