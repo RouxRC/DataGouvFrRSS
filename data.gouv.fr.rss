@@ -4,8 +4,110 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 24 May 2014 17:50:02 +0200</pubDate>
+  <pubDate>Mon, 26 May 2014 10:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Régularité TGV à l'arrivée</title>
+     <link>https://www.data.gouv.fr/fr/dataset/regularite-tgv-a-l-arrivee-sncf</link>
+     <description><![CDATA[Régularité des TGV à l'arrivée de mars 2012 à mars 2014. Est considéré comme en retard : un train arrivant 5 minutes après l'heure prévue pour un trajet de moins de 1h30. un train affichant plus de 10 minutes de retard pour un trajet d'une durée de 1h30 à 3 heures. un train enregistrant un retard de plus de 15 minutes au delà de 3 heures de voyage....]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Entrées et sorties des gares des lignes C et L du réseau Transilien</title>
+     <link>https://www.data.gouv.fr/fr/dataset/entrees-et-sorties-des-gares-des-lignes-c-et-l-du-reseau-transilien-sncf</link>
+     <description><![CDATA[Adresses et coordonnées des entrées et sorties des gares Transilien des lignes C et L. Ligne : Ligne passant dans la gare (C ou L) Nom de la gare : Libellé de la gare Adresse gare : Le n°, la voie, le code postal et la ville sont fournis dans cette zone Code UIC : Code unique de la gare. Ce code correspond à celui utilisé dans les autres...]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Voyageurs montant en gare sur le réseau Transilien</title>
+     <link>https://www.data.gouv.fr/fr/dataset/voyageurs-montant-en-gare-sur-le-reseau-transilien-sncf</link>
+     <description><![CDATA[Nombre de voyageurs montant par gare chaque jour (pour un jour de semaine en période scolaire) dans les trains des lignes SNCF Transilien, sous forme d'une fourchette de valeurs. Libellé de la gare : Libellé de la gare Code UIC : Code unique de la gare. Ce code correspond à celui utilisé dans les autres fichiers présentant des données sur les gares...]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>API micro-services Intercités</title>
+     <link>https://www.data.gouv.fr/fr/dataset/api-micro-services-intercites-sncf</link>
+     <description><![CDATA[Accès à l'offre théorique de TER et Intercités (horaires, lignes, dessertes des trains). La procédure d'accès est décrite dans la note explicative associée. Adresse de l'API : http://ms.api.ter-sncf.com/ Vous avez des questions ou des remarques sur ces données ? Rendez-vous sur le forum SNCF Open Data. ]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Paniers fraîcheur dans les gares du réseau Transilien</title>
+     <link>https://www.data.gouv.fr/fr/dataset/paniers-fraicheur-dans-les-gares-du-reseau-transilien-sncf</link>
+     <description><![CDATA[Distribution de "paniers fraîcheurs" dans les gares du réseau Transilien. Dans les gares disposant du service, des maraîchers locaux vendent leurs produits directement sur les quais une fois par semaine de 16h30 à 19h00. Ce fichier présente le jour de présence des paniers fraîcheur pour chaque gare : Nom de la gare : Libellé de la gare Code UIC : Code unique de la...]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Tarifs des abonnements en Ile-de-France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/tarifs-des-abonnements-en-ile-de-france-sncf</link>
+     <description><![CDATA[Tarifs des différentes cartes et titres d'abonnements existants, selon les zones Navigo couvertes, à la date du 1er janvier 2013. Intitulé du titre de transport : Intitulé du titre de transport, avec éventuellement mention de la durée de validité et du type de possesseur (adulte / enfant) « 1-2 » ….. : Tarifs correspondant au titre, pour l’intervalle de zones présent en...]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Horaires des lignes Intercités</title>
+     <link>https://www.data.gouv.fr/fr/dataset/horaires-des-lignes-intercites-sncf</link>
+     <description><![CDATA[Horaires des lignes Intercités au format GTFS. Ces horaires sont les horaires théoriques mis à jour tous les deux mois. Télécharger l'export GTFS des horaires Intercités valable du 15/05/2014 au 15/07/2014. Vous avez des questions ou des remarques sur ces données ? Rendez-vous sur le forum SNCF Open Data. ]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Horaires des lignes TER</title>
+     <link>https://www.data.gouv.fr/fr/dataset/horaires-des-lignes-ter-sncf</link>
+     <description><![CDATA[Horaires des lignes TER au format GTFS. Ces horaires sont les horaires théoriques mis à jour tous les deux mois. Télécharger l'export des horaires TER valables du 15/05/2014 au 15/07/2014 Vous avez des questions ou des remarques sur ces données ? Rendez-vous sur le forum SNCF Open Data. ]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>​API micro-services TER</title>
+     <link>https://www.data.gouv.fr/fr/dataset/api-micro-services-ter-sncf</link>
+     <description><![CDATA[Accès à l'offre théorique de TER et Intercités (horaires, lignes, dessertes des trains). La procédure d'accès est décrite dans la note explicative associée. Adresse de l'API : http://ms.api.ter-sncf.com/ Vous avez des questions ou des remarques sur ces données ? Rendez-vous sur le forum SNCF Open Data. ]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Équipements d'accessibilité des gares du réseau Transilien</title>
+     <link>https://www.data.gouv.fr/fr/dataset/equipements-d-accessibilite-des-gares-du-reseau-transilien-sncf</link>
+     <description><![CDATA[Equipements d'accessibilité qui sont proposés dans les gares desservies par Transilien. Sont notamment listés tous les équipements dédiés à l’accessibilité (guichets adaptés PMR, boucles magnétiques, portillons élargis,…) ainsi que les ascenseurs et escaliers mécaniques. La description des équipements est également accessible. Vous avez des questions ou des remarques sur ces données ?...]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Nombre de bornes d'appel par gare Transilien</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-bornes-d-appel-par-gare-transilien-sncf</link>
+     <description><![CDATA[Nombre de bornes d'appel d'urgence présentes pour chaque gare. Nom de la gare : Libellé de la gare Code UIC : Code unique de la gare. Ce code correspond à celui utilisé dans les autres fichiers présentant des données sur les gares Nombre de Bornes d’appels : Nombre de bornes d’appels d’urgence de la gare Vous avez des questions ou des remarques sur...]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Lignes par gare sur le réseau Transilien</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lignes-par-gare-sur-le-reseau-transilien-sncf</link>
+     <description><![CDATA[Points d'arrêt desservis par Transilien et liste des lignes qui les desservent. Vous avez des questions ou des remarques sur ces données ? Rendez-vous sur le forum SNCF Open Data. ]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>API Prochains départs des gares Transilien</title>
+     <link>https://www.data.gouv.fr/fr/dataset/api-prochains-departs-des-gares-transilien-sncf</link>
+     <description><![CDATA[API donnant accès aux prochains départs pour une gare donnée du réseau SNCF Transilien. Le nombre d'appels est actuellement limité à 20 appels/minutes. Pour obtenir des identifiants d'accès à l'API, merci de faire votre demande par mail. Adresse de l'API : http://api.transilien.com Vous avez des questions ou des remarques sur ces données ? Rendez-vous sur le forum SNCF Open Data. ]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Codes couleur des lignes Transilien</title>
+     <link>https://www.data.gouv.fr/fr/dataset/codes-couleur-des-lignes-transilien-sncf</link>
+     <description><![CDATA[Codes couleurs des lignes Transilien, RER et train inclus. Code RVB Code hexadécimal Vous avez des questions ou des remarques sur ces données ? Rendez-vous sur le forum SNCF Open Data. ]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>API micro-services Transilien</title>
+     <link>https://www.data.gouv.fr/fr/dataset/api-micro-services-transilien-sncf</link>
+     <description><![CDATA[Accès à l'offre théorique de Transilien (horaires, lignes, dessertes des trains) ou permet de retrouver les gares proches d'un point à partir de ses coordonnées géographiques. La procédure d'accès est décrite dans la note explicative associée. Exemple d'appel (cf. documentation complète) : Recherche de lignes commerciales passant par les arrêts Angerville et Etampes ET...]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Gares et points d'arrêt du réseau Transilien</title>
+     <link>https://www.data.gouv.fr/fr/dataset/gares-et-points-d-arret-du-reseau-transilien-sncf</link>
+     <description><![CDATA[Liste des 508 gares et points d'arrêts du réseau Transilien. Ce jeu de données intègre également les points d'arrêts des lignes de bus régulières (extrémités de la ligne C ou P par exemple), à l'exception des arrêts Noctilien. Les informations sont issues de plusieurs sources correspondant à des besoins différents, ce qui explique l’existence de plusieurs libellés pour un même...]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Etablissements scolaires de la ville de Louviers</title>
+     <link>https://www.data.gouv.fr/fr/dataset/etablissements-scolaires-de-la-ville-de-louviers</link>
+     <description><![CDATA[Listes, coordonnées et localisation des établissements scolaires de la ville de Louviers 8 Écoles maternelles 7 Écoles maternelles 4 Collèges 2 Lycées 1 Institut Médico-Pédagogique ]]></description>
+     <author>Mairie de Louviers (certifié)</author>
+  </item>
   <item>
      <title>Base d'Adresses Nationale Ouverte - BANO</title>
      <link>https://www.data.gouv.fr/fr/dataset/base-d-adresses-nationale-ouverte-bano</link>
@@ -262,108 +364,6 @@
      <title>Nombre de visiteurs aux journées du patrimoine</title>
      <link>https://www.data.gouv.fr/fr/dataset/nombre-de-visiteurs-aux-journees-du-patrimoine-cors</link>
      <description><![CDATA[Nombre de visiteurs au musée de la Corse pendant les journées du patrimoine, par année ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
-  </item>
-  <item>
-     <title>Cheptels selon la taille du troupeau par commune</title>
-     <link>https://www.data.gouv.fr/fr/dataset/cheptels-selon-la-taille-du-troupeau-par-commune-cors</link>
-     <description><![CDATA[Cheptels selon la taille du troupeau par commune. Champ des exploitations : Ensemble des exploitations (hors pacages collectifs). Source : Recensement agricole 2000 et 2010 Agreste Exploitation agricole : unité économique qui participe à la production agricole, qui atteint une certaine dimension (1 hectare de superficie agricole utilisée ou 20 ares de cultures spécialisées ou 1...]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
-  </item>
-  <item>
-     <title>Demandeurs d'emploi de longue durée (DELD) inscrits depuis un an ou plus à Pôle emploi - catégorie ABC - données brutes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/demandeurs-d-emploi-de-longue-duree-deld-inscrits-depuis-un-an-ou-plus-a-pole-emploi-categorie-cors</link>
-     <description><![CDATA[Demandeurs d'emploi de longue durée (DELD) inscrits depuis un an ou plus à Pôle emploi - catégorie ABC - données brutes Type de données : brutes Catégorie ABC : ensemble des demandeurs d'emploi tenus de faire des actes positifs de recherche d'emploi Les données France métropolitaine sont en milliers Source : Pôle emploi, Dares, Direccte - retraitement Pôle Prospectives et...]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
-  </item>
-  <item>
-     <title>Statistiques d'usage de l'ENT en Corse - Authentifications mensuelles</title>
-     <link>https://www.data.gouv.fr/fr/dataset/statistiques-d-usage-de-l-ent-en-corse-authentifications-mensuelles-cors</link>
-     <description><![CDATA[Statistiques d'usage de l'ENT (espace numérique de travail) en Corse - Authentifications mensuelles par établissement ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
-  </item>
-  <item>
-     <title>Nombre de visiteurs au musée de la Corse</title>
-     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-visiteurs-au-musee-de-la-corse-cors</link>
-     <description><![CDATA[Nombre de visiteurs au musée de la Corse par mois/année ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
-  </item>
-  <item>
-     <title>Demandeurs d'emploi en fin de mois (DEFM) par sexe - catégorie A - données brutes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/demandeurs-d-emploi-en-fin-de-mois-defm-par-sexe-categorie-a-donnees-brutes-cors</link>
-     <description><![CDATA[Demandeurs d'emploi en fin de mois (DEFM) par sexe - catégorie A - données brutes Type de données : brutes Catégorie A : demandeurs d'emploi tenus de faire des actes positifs de recherche d'emploi, sans emploi Les données France métropolitaine sont en milliers Source : Pôle emploi, Dares, Direccte - retraitement Pôle Prospectives et observation des mutations économiques du...]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
-  </item>
-  <item>
-     <title>Budget 2013 par secteurs - Autorisations d’engagement (AE)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/budget-2013-par-secteurs-autorisations-d-engagement-ae-cors</link>
-     <description><![CDATA[Budget 2013 par secteurs - Autorisations d’engagement (AE) ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
-  </item>
-  <item>
-     <title>Budget 2013 par secteurs - Autorisations de programme (AP)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/budget-2013-par-secteurs-autorisations-de-programme-ap-cors</link>
-     <description><![CDATA[Budget 2013 par secteurs - Autorisations de programme (AP) ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
-  </item>
-  <item>
-     <title>Transport Maritime</title>
-     <link>https://www.data.gouv.fr/fr/dataset/transport-maritime-cors</link>
-     <description><![CDATA[Ventilation des passagers par port ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
-  </item>
-  <item>
-     <title>Surface des forêts</title>
-     <link>https://www.data.gouv.fr/fr/dataset/surface-des-forets-cors</link>
-     <description><![CDATA[Surface cadastrale de chaque communes de situation par forêt territoriale ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
-  </item>
-  <item>
-     <title>Demandeurs d'emploi enregistrées (DEE) et demandeurs d'emploi sorties (DES) - catégorie ABC - données brutes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/demandeurs-d-emploi-enregistrees-dee-et-demandeurs-d-emploi-sorties-des-categorie-abc-donnees-b-cors</link>
-     <description><![CDATA[Demandeurs d'emploi enregistrées (DEE) et demandeurs d'emploi sorties (DES) - catégorie ABC - données brutes Type de données : brutes Catégorie ABC : ensemble des demandeurs d'emploi tenus de faire des actes positifs de recherche d'emploi Les données France métropolitaine sont en milliers Source : Pôle emploi, Dares, Direccte - retraitement Pôle Prospectives et observation des...]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
-  </item>
-  <item>
-     <title>Forêts en Corse</title>
-     <link>https://www.data.gouv.fr/fr/dataset/forets-en-corse-cors</link>
-     <description><![CDATA[Forêts en Corse. Ces forêts relèvent du régime forestier et sont gérées par l'Office national des forêts (ONF). Source : ONF ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
-  </item>
-  <item>
-     <title>Demandeurs d'emploi en fin de mois (DEFM) par tranche d'âge - catégorie A - données brutes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/demandeurs-d-emploi-en-fin-de-mois-defm-par-tranche-d-age-categorie-a-donnees-brutes-cors</link>
-     <description><![CDATA[Demandeurs d'emploi en fin de mois (DEFM) par tranche d'âge - catégorie A - données brutes Type de données : brutes Catégorie A : demandeurs d'emploi tenus de faire des actes positifs de recherche d'emploi, sans emploi Tranche jeune : moins de 25 ans Tranche adulte : entre 25 et 49 ans Tranche senior : 50 ans ou plus Les données France métropolitaine sont en milliers Source : Pôle...]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
-  </item>
-  <item>
-     <title>Transport de marchandises Roll exprimé en mètres linéaires (national)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/transport-de-marchandises-roll-exprime-en-metres-lineaires-national-cors</link>
-     <description><![CDATA[Transport de marchandises Roll exprimé en mètres linéaires (national) Source : ORTC Périodicité: mensuelle Traitement : Observatoire Economique Régional ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
-  </item>
-  <item>
-     <title>Les jugements de procédures collectives par type</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-jugements-de-procedures-collectives-par-type-cors</link>
-     <description><![CDATA[Les jugements de procédures collectives par type. La sauvegarde : L’entreprise n’est pas en état de cessation de paiements, mais ne peut surmonter seule ses difficultés. Le tribunal va mettre en place un plan de sauvegarde facilitant la réorganisation de l’entreprise. Le redressement judiciaire : L’entreprise est en état de cessation de paiements et n’est plus en mesure de payer...]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
-  </item>
-  <item>
-     <title>Prix moyens mensuels des carburants</title>
-     <link>https://www.data.gouv.fr/fr/dataset/prix-moyens-mensuels-des-carburants-cors</link>
-     <description><![CDATA[Prix moyens mensuels des carburants relevés dans les stations corses et de Métropole hors Corse (SP95, Gazole) par département en €/L Source: www.prix-carburants.gouv.fr,DGEC Relevés: Observatoire Economique Régional ( à partir janvier 2013) / Direccte Corse, Pôle C (jusqu'à décembre 2012) Traitement : Observatoire Economique Régional ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
-  </item>
-  <item>
-     <title>Statistiques d'usage de l'ENT en Corse - Taux d'utilisateurs actifs</title>
-     <link>https://www.data.gouv.fr/fr/dataset/statistiques-d-usage-de-l-ent-en-corse-taux-d-utilisateurs-actifs-cors</link>
-     <description><![CDATA[Statistiques d'usage de l'ENT (espace numérique de travail) en Corse - Taux d'utilisateurs actifs mensuels par établissement. Comptes utilisés : au moins une connexion dans le mois. Comptes existants :tous les comptes non desactivés. ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
-  </item>
-  <item>
-     <title>Logements commencés par type en Corse</title>
-     <link>https://www.data.gouv.fr/fr/dataset/logements-commences-par-type-en-corse-cors</link>
-     <description><![CDATA[Logements commencés par type en Corse (en date de prise en compte) Sources: MEEDDM/CGDD/SOeS Traitement : Observatoire Economique Régional Unité : nombre de logements ]]></description>
      <author>Collectivité Territoriale de Corse (certifié)</author>
   </item>
  </channel>
