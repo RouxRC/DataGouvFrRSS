@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 26 May 2014 10:20:02 +0200</pubDate>
+  <pubDate>Mon, 26 May 2014 14:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Jeux de données - SNCF</title>
+     <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-sncf-sncf</link>
+     <description><![CDATA[Les jeux de données collectés par data.gouv.fr sur la plateforme SNCF ]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
   <item>
      <title>Régularité TGV à l'arrivée</title>
      <link>https://www.data.gouv.fr/fr/dataset/regularite-tgv-a-l-arrivee-sncf</link>
@@ -117,7 +123,7 @@
   <item>
      <title>Résultats des élections européennes 2014</title>
      <link>https://www.data.gouv.fr/fr/dataset/resultats-des-elections-europeennes-2014</link>
-     <description><![CDATA[Le Parlement européen publiera en temps réel les résultats des élections européennes pour l'ensemble des 28 pays, à partir du dimanche 25 mai à 23h (heure de Paris). ]]></description>
+     <description><![CDATA[Le Parlement européen publie les résultats des élections européennes pour l'ensemble des 28 pays. ]]></description>
      <author>Parlement européen (certifié)</author>
   </item>
   <item>
@@ -358,12 +364,6 @@
      <title>Structures Labellisées SPO 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/structures-labellisees-spo-2013-cors</link>
      <description><![CDATA[Structures labellisées SPO par territoire en 2013 ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
-  </item>
-  <item>
-     <title>Nombre de visiteurs aux journées du patrimoine</title>
-     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-visiteurs-aux-journees-du-patrimoine-cors</link>
-     <description><![CDATA[Nombre de visiteurs au musée de la Corse pendant les journées du patrimoine, par année ]]></description>
      <author>Collectivité Territoriale de Corse (certifié)</author>
   </item>
  </channel>
