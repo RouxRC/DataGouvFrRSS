@@ -4,8 +4,32 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 26 May 2014 17:50:02 +0200</pubDate>
+  <pubDate>Mon, 26 May 2014 19:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Décision modificative n° 3</title>
+     <link>https://www.data.gouv.fr/fr/dataset/decision-modificative-n-3-oise</link>
+     <description><![CDATA[Délibérations relatives à la décision modificative n° 3 de 2013 ]]></description>
+     <author>Conseil général de l'Oise (certifié)</author>
+  </item>
+  <item>
+     <title>Rapports d'activités du Conseil général</title>
+     <link>https://www.data.gouv.fr/fr/dataset/rapports-d-activites-du-conseil-general-oise</link>
+     <description><![CDATA[Le rapport d'activités établit un bilan des politiques départementales (2011 et 2012) ]]></description>
+     <author>Conseil général de l'Oise (certifié)</author>
+  </item>
+  <item>
+     <title>Analyse des évolutions sociologiques, des conduites et représentations de l'Oise</title>
+     <link>https://www.data.gouv.fr/fr/dataset/analyse-des-evolutions-sociologiques-des-conduites-et-representations-de-l-oise-oise</link>
+     <description><![CDATA[Analyse des évolutions sociologiques, des conduites et représentations du département de l'Oise à partir des études quantitatives sur les actions et les politiques publiques départementales ]]></description>
+     <author>Conseil général de l'Oise (certifié)</author>
+  </item>
+  <item>
+     <title>Jeux de données - Angers Loire Métropole</title>
+     <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-angers-loire-metropole-alm</link>
+     <description><![CDATA[Les jeux de données collectés par data.gouv.fr sur la plateforme Angers Loire Métropole ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Collecte des ordures ménagères - Angers Loire Métropole</title>
      <link>https://www.data.gouv.fr/fr/dataset/collecte-des-ordures-menageres-angers-loire-metropole-alm</link>
@@ -340,30 +364,6 @@
      <title>Maquette du compte administratif Assainissement 2011</title>
      <link>https://www.data.gouv.fr/fr/dataset/maquette-du-compte-administratif-assainissement-2011-alm</link>
      <description><![CDATA[Le jeu contient la maquette du compte administratif (assainissement) 2011 du budget principal d'Angers Loire Métropole. Le compte administratif, voté annuellement, retrace l'exécution du budget en dépenses et en recettes. ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Horaires de passage théorique du réseau Irigo</title>
-     <link>https://www.data.gouv.fr/fr/dataset/horaires-de-passage-theorique-du-reseau-irigo-alm</link>
-     <description><![CDATA[La liste des heures de passage, arrêt, stations, direction et jour du réseau bus et tram Irigo sur le territoire d'Angers Loire Métropole La liste des arrêts, horaires et parcours du réseau Irigo Bus+Tram au format GTFS sont valables pour la période allant du 28 mars au 8 avril 2014. GTFS, kézako: https://developers.google.com/transit/gtfs/ ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Âge des conduites du réseau d'eau potable</title>
-     <link>https://www.data.gouv.fr/fr/dataset/age-des-conduites-du-reseau-d-eau-potable-alm</link>
-     <description><![CDATA[Nombre de kilomètres de conduite d'eau posée par année (depuis 1950) ANNEE DE POSE année de pose, SOM somme des longueurs de conduite posées par an ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Maquette du budget primitif Aéroport 2012</title>
-     <link>https://www.data.gouv.fr/fr/dataset/maquette-du-budget-primitif-aeroport-2012-alm</link>
-     <description><![CDATA[Le jeu contient la maquette budget primitif (aéroport) 2012 du budget principal de la Communauté Urbaine d'Angers Loire Métropole. Le budget primitif, voté annuellement, constitue la prévision des dépenses et des recettes pour l'année. ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Nombre de décès de 2008 à 2012 par commune</title>
-     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-deces-de-2008-a-2012-par-commune-alm</link>
-     <description><![CDATA[Décès domiciliés à la commune de résidence 2008 : Décès domiciliés à la commune de résidence en 2008 ; 2009 : Décès domiciliés à la commune de résidence en 2009 ; 2010 : Décès domiciliés à la commune de résidence en 2010 ; 2011 : Décès domiciliés à la commune de résidence en 2011 ; 2012 : Décès domiciliés à la commune de résidence en 2012 ]]></description>
      <author>citoyen</author>
   </item>
  </channel>
