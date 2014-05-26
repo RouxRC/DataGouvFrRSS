@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 26 May 2014 19:30:02 +0200</pubDate>
+  <pubDate>Mon, 26 May 2014 22:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Routes départementales - Grands projets 2013-2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/routes-departementales-grands-projets-2013-2014-oise</link>
+     <description><![CDATA[Déclinaisons opérationnelles du PDMD (Plan départemental de mobilité durable) relatives aux grands projets routiers (2013-2014). Plans des déviations en cours et à venir ]]></description>
+     <author>Conseil général de l'Oise (certifié)</author>
+  </item>
   <item>
      <title>Décision modificative n° 3</title>
      <link>https://www.data.gouv.fr/fr/dataset/decision-modificative-n-3-oise</link>
@@ -358,12 +364,6 @@
      <title>Hébergements collectifs à Angers Loire Métropole</title>
      <link>https://www.data.gouv.fr/fr/dataset/hebergements-collectifs-a-angers-loire-metropole-alm</link>
      <description><![CDATA[Liste des hébergements collectifs sur le territoire d'Angers Loire Métropole. Ce fichier contient les informations de géolocalisation de chaque entrée. ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Maquette du compte administratif Assainissement 2011</title>
-     <link>https://www.data.gouv.fr/fr/dataset/maquette-du-compte-administratif-assainissement-2011-alm</link>
-     <description><![CDATA[Le jeu contient la maquette du compte administratif (assainissement) 2011 du budget principal d'Angers Loire Métropole. Le compte administratif, voté annuellement, retrace l'exécution du budget en dépenses et en recettes. ]]></description>
      <author>citoyen</author>
   </item>
  </channel>
