@@ -4,367 +4,367 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 26 May 2014 16:20:02 +0200</pubDate>
+  <pubDate>Mon, 26 May 2014 17:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
-     <title>Servitudes d'Utilité Publique AR3 dépots de munitions </title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-ar3-depots-de-munitions</link>
-     <description><![CDATA[Zone et polygone d'isolement autour des magasins et établissements servant à la conservation, à la manipulation ou à la fabrication des poudres, munitions, artifices ou explosifs. ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+     <title>Collecte des ordures ménagères - Angers Loire Métropole</title>
+     <link>https://www.data.gouv.fr/fr/dataset/collecte-des-ordures-menageres-angers-loire-metropole-alm</link>
+     <description><![CDATA[Circuits, horaires et jours de collecte des ordures ménagères et du tri sur les communes d'Angers Loire Métropole (en dehors d'Angers) ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Elections européennes 2014 - Résultats</title>
-     <link>https://www.data.gouv.fr/fr/dataset/elections-europeennes-2014-resulta-1</link>
-     <description><![CDATA[Résultats des élections européennes 2014, France entière, par communes. Ces résultats sont ceux parvenus lors de la soirée électorale. Les résultats officiels seront proclamés par la commission nationale de recensement des votes, jeudi 29 mai 2014. ]]></description>
-     <author>Ministère de l'Intérieur (certifié)</author>
+     <title>Hébergements locatifs à Angers Loire Métropole</title>
+     <link>https://www.data.gouv.fr/fr/dataset/hebergements-locatifs-a-angers-loire-metropole-alm</link>
+     <description><![CDATA[Liste des hébergements locatifs sur le territoire d'Angers Loire Métropole. Ce fichier contient les informations de géolocalisation de chaque entrée. ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Elections européennes 2014 - Résultats</title>
-     <link>https://www.data.gouv.fr/fr/dataset/elections-europeennes-2014-resulta-0</link>
-     <description><![CDATA[Résultats des élections européennes 2014, France entière, par circonscriptions européennes, régions, départements, circonscriptions législatives, cantons et liste des élus. Ces résultats sont ceux parvenus lors de la soirée électorale. Les résultats officiels seront proclamés par la commission nationale de recensement des votes, jeudi 29 mai 2014. ]]></description>
-     <author>Ministère de l'Intérieur (certifié)</author>
+     <title>Patrimoine - Patrimoine ALM</title>
+     <link>https://www.data.gouv.fr/fr/dataset/patrimoine-patrimoine-alm-alm</link>
+     <description><![CDATA[]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Jeux de données - SNCF</title>
-     <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-sncf-sncf</link>
-     <description><![CDATA[Les jeux de données collectés par data.gouv.fr sur la plateforme SNCF ]]></description>
-     <author>SNCF (certifié)</author>
+     <title>Liste des bâtiments du patrimoine ALM</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-batiments-du-patrimoine-alm-alm</link>
+     <description><![CDATA[Liste des bâtiments du patrimoine d'Angers Loire Métropole ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Régularité TGV à l'arrivée</title>
-     <link>https://www.data.gouv.fr/fr/dataset/regularite-tgv-a-l-arrivee-sncf</link>
-     <description><![CDATA[Régularité des TGV à l'arrivée de mars 2012 à mars 2014. Est considéré comme en retard : un train arrivant 5 minutes après l'heure prévue pour un trajet de moins de 1h30. un train affichant plus de 10 minutes de retard pour un trajet d'une durée de 1h30 à 3 heures. un train enregistrant un retard de plus de 15 minutes au delà de 3 heures de voyage....]]></description>
-     <author>SNCF (certifié)</author>
+     <title>Lieux de visites à Angers Loire Métropole</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lieux-de-visites-a-angers-loire-metropole-alm</link>
+     <description><![CDATA[Liste des lieux de visite sur le territoire d'Angers Loire Métropole. Ce fichier contient les informations de géolocalisation de chaque entrée. ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Entrées et sorties des gares des lignes C et L du réseau Transilien</title>
-     <link>https://www.data.gouv.fr/fr/dataset/entrees-et-sorties-des-gares-des-lignes-c-et-l-du-reseau-transilien-sncf</link>
-     <description><![CDATA[Adresses et coordonnées des entrées et sorties des gares Transilien des lignes C et L. Ligne : Ligne passant dans la gare (C ou L) Nom de la gare : Libellé de la gare Adresse gare : Le n°, la voie, le code postal et la ville sont fournis dans cette zone Code UIC : Code unique de la gare. Ce code correspond à celui utilisé dans les autres...]]></description>
-     <author>SNCF (certifié)</author>
+     <title>Population d'Angers Loire Métropole selon la catégorie socioprofessionnelle</title>
+     <link>https://www.data.gouv.fr/fr/dataset/population-d-angers-loire-metropole-selon-la-categorie-socioprofessionnelle-alm</link>
+     <description><![CDATA[Population âgée de 15 ans et plus selon la catégorie socioprofessionnelle entre 1999 et 2010 par commune C99_POP15P_CS1 : Population âgée de 15 ans et plus d'agriculteurs et exploitants en 1999 ; C99_POP15P_CS2 : Population âgée de 15 ans et plus d'artisans, de commerçants et chefs d'entreprises en 1999 ; C99_POP15P_CS3 : Population âgée de 15 ans et plus de cadres et de professions...]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Voyageurs montant en gare sur le réseau Transilien</title>
-     <link>https://www.data.gouv.fr/fr/dataset/voyageurs-montant-en-gare-sur-le-reseau-transilien-sncf</link>
-     <description><![CDATA[Nombre de voyageurs montant par gare chaque jour (pour un jour de semaine en période scolaire) dans les trains des lignes SNCF Transilien, sous forme d'une fourchette de valeurs. Libellé de la gare : Libellé de la gare Code UIC : Code unique de la gare. Ce code correspond à celui utilisé dans les autres fichiers présentant des données sur les gares...]]></description>
-     <author>SNCF (certifié)</author>
+     <title>Maquette du compte administratif Eau 2011</title>
+     <link>https://www.data.gouv.fr/fr/dataset/maquette-du-compte-administratif-eau-2011-alm</link>
+     <description><![CDATA[Le jeu contient la maquette du compte administratif (eau) 2011 du budget principal d'Angers Loire Métropole. Le compte administratif, voté annuellement, retrace l'exécution du budget en dépenses et en recettes. ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>API micro-services Intercités</title>
-     <link>https://www.data.gouv.fr/fr/dataset/api-micro-services-intercites-sncf</link>
-     <description><![CDATA[Accès à l'offre théorique de TER et Intercités (horaires, lignes, dessertes des trains). La procédure d'accès est décrite dans la note explicative associée. Adresse de l'API : http://ms.api.ter-sncf.com/ Vous avez des questions ou des remarques sur ces données ? Rendez-vous sur le forum SNCF Open Data. ]]></description>
-     <author>SNCF (certifié)</author>
+     <title>Localisation des toilettes publics à Angers</title>
+     <link>https://www.data.gouv.fr/fr/dataset/localisation-des-toilettes-publics-a-angers-alm</link>
+     <description><![CDATA[Localisation des Sanitaires et Urinoirs Publics de la Ville d'Angers. dernière mise-à-jour de la donnée au 19/09/12 ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Paniers fraîcheur dans les gares du réseau Transilien</title>
-     <link>https://www.data.gouv.fr/fr/dataset/paniers-fraicheur-dans-les-gares-du-reseau-transilien-sncf</link>
-     <description><![CDATA[Distribution de "paniers fraîcheurs" dans les gares du réseau Transilien. Dans les gares disposant du service, des maraîchers locaux vendent leurs produits directement sur les quais une fois par semaine de 16h30 à 19h00. Ce fichier présente le jour de présence des paniers fraîcheur pour chaque gare : Nom de la gare : Libellé de la gare Code UIC : Code unique de la...]]></description>
-     <author>SNCF (certifié)</author>
+     <title>Nombre de résidences principales par type en 1999 et 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-residences-principales-par-type-en-1999-et-2010-alm</link>
+     <description><![CDATA[Nombre de résidences principales selon le type en 1999 et en 2010 par commune d'Angers Loire Métropole P99_RPAPPART : nombre de résidences principales de type appartement en 1999 ; P99_RPMAISON : nombre de résidences principales de type maison en 1999 ; P10_RPAPPART : nombre de résidences principales de type appartement en 2010 ; P10_RPMAISON : nombre de résidences principales de type maison...]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Tarifs des abonnements en Ile-de-France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/tarifs-des-abonnements-en-ile-de-france-sncf</link>
-     <description><![CDATA[Tarifs des différentes cartes et titres d'abonnements existants, selon les zones Navigo couvertes, à la date du 1er janvier 2013. Intitulé du titre de transport : Intitulé du titre de transport, avec éventuellement mention de la durée de validité et du type de possesseur (adulte / enfant) « 1-2 » ….. : Tarifs correspondant au titre, pour l’intervalle de zones présent en...]]></description>
-     <author>SNCF (certifié)</author>
+     <title>Population active d'Angers Loire Métropole en 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/population-active-d-angers-loire-metropole-en-2010-alm</link>
+     <description><![CDATA[Population active au lieu de résidence par commune d'Angers Loire Métropole par âge et par sexe en 2010. P10_FACT1524 : population active de sexe féminin au lieu de résidence entre 15 et 24 ans en 2010 ; P10_FACT2554 : population active de sexe féminin au lieu de résidence entre 25 et 54 ans en 2010 ; P10_FACT5564 ; population active de sexe féminin au lieu de résidence entre 55 et 64 ans en...]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Horaires des lignes Intercités</title>
-     <link>https://www.data.gouv.fr/fr/dataset/horaires-des-lignes-intercites-sncf</link>
-     <description><![CDATA[Horaires des lignes Intercités au format GTFS. Ces horaires sont les horaires théoriques mis à jour tous les deux mois. Télécharger l'export GTFS des horaires Intercités valable du 15/05/2014 au 15/07/2014. Vous avez des questions ou des remarques sur ces données ? Rendez-vous sur le forum SNCF Open Data. ]]></description>
-     <author>SNCF (certifié)</author>
+     <title>Patrimoine - Patrimoine Vendu</title>
+     <link>https://www.data.gouv.fr/fr/dataset/patrimoine-patrimoine-vendu-alm</link>
+     <description><![CDATA[]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Horaires des lignes TER</title>
-     <link>https://www.data.gouv.fr/fr/dataset/horaires-des-lignes-ter-sncf</link>
-     <description><![CDATA[Horaires des lignes TER au format GTFS. Ces horaires sont les horaires théoriques mis à jour tous les deux mois. Télécharger l'export des horaires TER valables du 15/05/2014 au 15/07/2014 Vous avez des questions ou des remarques sur ces données ? Rendez-vous sur le forum SNCF Open Data. ]]></description>
-     <author>SNCF (certifié)</author>
+     <title>Patrimoine - ERP Communaux</title>
+     <link>https://www.data.gouv.fr/fr/dataset/patrimoine-erp-communaux-alm</link>
+     <description><![CDATA[]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>​API micro-services TER</title>
-     <link>https://www.data.gouv.fr/fr/dataset/api-micro-services-ter-sncf</link>
-     <description><![CDATA[Accès à l'offre théorique de TER et Intercités (horaires, lignes, dessertes des trains). La procédure d'accès est décrite dans la note explicative associée. Adresse de l'API : http://ms.api.ter-sncf.com/ Vous avez des questions ou des remarques sur ces données ? Rendez-vous sur le forum SNCF Open Data. ]]></description>
-     <author>SNCF (certifié)</author>
+     <title>Maquette du budget primitif Déchets 2012</title>
+     <link>https://www.data.gouv.fr/fr/dataset/maquette-du-budget-primitif-dechets-2012-alm</link>
+     <description><![CDATA[Le jeu contient la maquette du budget primitif (déchets) 2012 du budget principal de la Communauté Urbaine d'Angers Loire Métropole. Le budget primitif, voté annuellement, constitue la prévision des dépenses et des recettes pour l'année. ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Équipements d'accessibilité des gares du réseau Transilien</title>
-     <link>https://www.data.gouv.fr/fr/dataset/equipements-d-accessibilite-des-gares-du-reseau-transilien-sncf</link>
-     <description><![CDATA[Equipements d'accessibilité qui sont proposés dans les gares desservies par Transilien. Sont notamment listés tous les équipements dédiés à l’accessibilité (guichets adaptés PMR, boucles magnétiques, portillons élargis,…) ainsi que les ascenseurs et escaliers mécaniques. La description des équipements est également accessible. Vous avez des questions ou des remarques sur ces données ?...]]></description>
-     <author>SNCF (certifié)</author>
+     <title>Patrimoine - Communes ALM</title>
+     <link>https://www.data.gouv.fr/fr/dataset/patrimoine-communes-alm-alm</link>
+     <description><![CDATA[]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Nombre de bornes d'appel par gare Transilien</title>
-     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-bornes-d-appel-par-gare-transilien-sncf</link>
-     <description><![CDATA[Nombre de bornes d'appel d'urgence présentes pour chaque gare. Nom de la gare : Libellé de la gare Code UIC : Code unique de la gare. Ce code correspond à celui utilisé dans les autres fichiers présentant des données sur les gares Nombre de Bornes d’appels : Nombre de bornes d’appels d’urgence de la gare Vous avez des questions ou des remarques sur...]]></description>
-     <author>SNCF (certifié)</author>
+     <title>Solde naturel de 2008 à 2012 par commune</title>
+     <link>https://www.data.gouv.fr/fr/dataset/solde-naturel-de-2008-a-2012-par-commune-alm</link>
+     <description><![CDATA[Solde naturel par an et par commune d'Angers Loire Métropole 2008 : Solde naturel par an et par commune en 2008 ; 2009 : Solde naturel par an et par commune en 2009 ; 2010 : Solde naturel par an et par commune en 2010 ; 2011 : Solde naturel par an et par commune en 2011 ; 2012 : Solde naturel par an et par commune en 2012 ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Lignes par gare sur le réseau Transilien</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lignes-par-gare-sur-le-reseau-transilien-sncf</link>
-     <description><![CDATA[Points d'arrêt desservis par Transilien et liste des lignes qui les desservent. Vous avez des questions ou des remarques sur ces données ? Rendez-vous sur le forum SNCF Open Data. ]]></description>
-     <author>SNCF (certifié)</author>
+     <title>Population par commune en 1990, 1999 et 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/population-par-commune-en-1990-1999-et-2010-alm</link>
+     <description><![CDATA[Nombre d'habitants par commune d'Angers Loire Métropole. D90_POP : nombre d'habitants par commune en 1990 ; P99_POP : nombre d'habitants par commune en 1999 ; P10_POP nombre d'habitants par commune en 2010 ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>API Prochains départs des gares Transilien</title>
-     <link>https://www.data.gouv.fr/fr/dataset/api-prochains-departs-des-gares-transilien-sncf</link>
-     <description><![CDATA[API donnant accès aux prochains départs pour une gare donnée du réseau SNCF Transilien. Le nombre d'appels est actuellement limité à 20 appels/minutes. Pour obtenir des identifiants d'accès à l'API, merci de faire votre demande par mail. Adresse de l'API : http://api.transilien.com Vous avez des questions ou des remarques sur ces données ? Rendez-vous sur le forum SNCF Open Data. ]]></description>
-     <author>SNCF (certifié)</author>
+     <title>Patrimoine - Inventaire Patrimoine GIMA</title>
+     <link>https://www.data.gouv.fr/fr/dataset/patrimoine-inventaire-patrimoine-gima-alm</link>
+     <description><![CDATA[]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Codes couleur des lignes Transilien</title>
-     <link>https://www.data.gouv.fr/fr/dataset/codes-couleur-des-lignes-transilien-sncf</link>
-     <description><![CDATA[Codes couleurs des lignes Transilien, RER et train inclus. Code RVB Code hexadécimal Vous avez des questions ou des remarques sur ces données ? Rendez-vous sur le forum SNCF Open Data. ]]></description>
-     <author>SNCF (certifié)</author>
+     <title>Station de dépollution des eaux usées</title>
+     <link>https://www.data.gouv.fr/fr/dataset/station-de-depollution-des-eaux-usees-alm</link>
+     <description><![CDATA[Localisation des stations de traitement des eaux usées ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>API micro-services Transilien</title>
-     <link>https://www.data.gouv.fr/fr/dataset/api-micro-services-transilien-sncf</link>
-     <description><![CDATA[Accès à l'offre théorique de Transilien (horaires, lignes, dessertes des trains) ou permet de retrouver les gares proches d'un point à partir de ses coordonnées géographiques. La procédure d'accès est décrite dans la note explicative associée. Exemple d'appel (cf. documentation complète) : Recherche de lignes commerciales passant par les arrêts Angerville et Etampes ET...]]></description>
-     <author>SNCF (certifié)</author>
+     <title>Nomenclature des déchets</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nomenclature-des-dechets-alm</link>
+     <description><![CDATA[Liste des déchets classés par leur caractère (ordures ménagères-tri-verre) dernière mise-à-jour de la donnée au 09/12 ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Gares et points d'arrêt du réseau Transilien</title>
-     <link>https://www.data.gouv.fr/fr/dataset/gares-et-points-d-arret-du-reseau-transilien-sncf</link>
-     <description><![CDATA[Liste des 508 gares et points d'arrêts du réseau Transilien. Ce jeu de données intègre également les points d'arrêts des lignes de bus régulières (extrémités de la ligne C ou P par exemple), à l'exception des arrêts Noctilien. Les informations sont issues de plusieurs sources correspondant à des besoins différents, ce qui explique l’existence de plusieurs libellés pour un même...]]></description>
-     <author>SNCF (certifié)</author>
+     <title>Nombre de résidences principales par type d’occupation en 1999 et 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-residences-principales-par-type-d-occupation-en-1999-et-2010-alm</link>
+     <description><![CDATA[Nombre de résidences principales selon le statut d'occupation en 1999 et en 2010 par commune d'Angers Loire Métropole. P99_RP_PROP : nombre de résidences principales occupées par des propriétaires occupants en 1999 ; P99_RP_LOCPRIV : nombre de résidences principales occupées par des locataires du parc privé en 1999 ; P99_RP_LOCHLMV : nombre de résidences principales occupées par des locataires...]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Etablissements scolaires de la ville de Louviers</title>
-     <link>https://www.data.gouv.fr/fr/dataset/etablissements-scolaires-de-la-ville-de-louviers</link>
-     <description><![CDATA[Listes, coordonnées et localisation des établissements scolaires de la ville de Louviers 8 Écoles maternelles 7 Écoles maternelles 4 Collèges 2 Lycées 1 Institut Médico-Pédagogique ]]></description>
-     <author>Mairie de Louviers (certifié)</author>
+     <title>Zonage du réseau des eaux usées</title>
+     <link>https://www.data.gouv.fr/fr/dataset/zonage-du-reseau-des-eaux-usees-alm</link>
+     <description><![CDATA[Indication géographique du type d'assainissement (collectif / non collectif) zone géographique où le raccordement au réseau de traitement des eaux usées est possible ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Base d'Adresses Nationale Ouverte - BANO</title>
-     <link>https://www.data.gouv.fr/fr/dataset/base-d-adresses-nationale-ouverte-bano</link>
-     <description><![CDATA[Ce jeu de données provient du projet de Base d'Adresses Nationale Ouverte initié par OpenStreetMap France. Pour plus de renseignements sur ce projet : http://openstreetmap.fr/blogs/cquest/bano-banco Origine des données BANO est une base de données composite, constituée à partir de différentes sources: OpenStreetMap données disponibles en opendata données adresses...]]></description>
-     <author>OpenStreetMap</author>
+     <title>Nombre de résidences principales selon le nombre de pièces en 1999 et 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-residences-principales-selon-le-nombre-de-pieces-en-1999-et-2010-alm</link>
+     <description><![CDATA[Nombre de résidences principales selon la taille en 1999 et en 2010 par commune d'Angers Loire Métropole. P99_RP_1P : Nombre de résidences principales d'une pièce en 1999 ; P99_RP_2P : Nombre de résidences principales de 2 pièces en 1999 ; P99_RP_3P : Nombre de résidences principales de 3 pièces en 1999 ; P99_RP_4P : Nombre de résidences principales de 4 pièces en 1999 ; P99_RP_5PP : Nombre...]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Résultats des élections européennes 2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/resultats-des-elections-europeennes-2014</link>
-     <description><![CDATA[Le Parlement européen publie les résultats des élections européennes pour l'ensemble des 28 pays. ]]></description>
-     <author>Parlement européen (certifié)</author>
+     <title>Maquette du budget primitif Transport 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/maquette-du-budget-primitif-transport-2013-alm</link>
+     <description><![CDATA[Le jeu contient la maquette du budget primitif (transport) 2012 du budget principal de la Communauté Urbaine d'Angers Loire Métropole. Le budget primitif, voté annuellement, constitue la prévision des dépenses et des recettes pour l'année. ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Jeux de données - Collectivité Territoriale de Corse</title>
-     <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-collectivite-territoriale-de-corse-cors</link>
-     <description><![CDATA[Les jeux de données collectés par data.gouv.fr sur la plateforme Collectivité Territoriale de Corse ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Nombre de naissances de 2008 à 2012 par commune</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-naissances-de-2008-a-2012-par-commune-alm</link>
+     <description><![CDATA[Naissances domiciliées à la commune de résidence 2008 : naissances domiciliées à la commune de résidence en 2008 ; 2009 : naissances domiciliées à la commune de résidence en 2009 ; 2010 : naissances domiciliées à la commune de résidence en 2010 ; 2011 : naissances domiciliées à la commune de résidence en 2011 ; 2012 : naissances domiciliées à la commune de résidence en 2012 ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Les immatriculations de véhicules neufs par type de véhicules</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-immatriculations-de-vehicules-neufs-par-type-de-vehicules-cors</link>
-     <description><![CDATA[Les immatriculations de véhicules neufs par type de véhicules Véhicules utilitaires légers : camionnettes et véhicules automoteurs spécialisés &lt;= 3,5 t de PTAC (poids total en charge) Poids lourds : camions, véhicules automoteurs spécialisés &gt; 3,5 t de PTAC (poids total en charge)et tracteurs routiers Transports en commun : autobus et autocars Source : SOeS Traitement :...]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Hôtels d'Angers Loire Métropole.</title>
+     <link>https://www.data.gouv.fr/fr/dataset/hotels-d-angers-loire-metropole-alm</link>
+     <description><![CDATA[Liste des hôtels sur le territoire d'Angers Loire Métropole Ce fichier contient les informations de géolocalisation de chaque entrée. ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Offres d'emploi enregistrées par Pôle emploi (OEE) - données brutes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/offres-d-emploi-enregistrees-par-pole-emploi-oee-donnees-brutes-cors</link>
-     <description><![CDATA[Offres d'emploi enregistrées par Pôle emploi (OEE) - données brutes Type de données : brutes Les données France métropolitaine sont en milliers Source : Pôle emploi, Dares, Direccte - retraitement Pôle Prospectives et observation des mutations économiques du CARIF-OREF Fréquence : mensuelle ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Population d'Angers Loire Métropole par tranches d'âge</title>
+     <link>https://www.data.gouv.fr/fr/dataset/population-d-angers-loire-metropole-par-tranches-d-age-alm</link>
+     <description><![CDATA[Nombre d'habitants par classes d'âges en 1999 et 2010 par commune P99_POP0014 : nombre d'habitants âgé entre 0 et 14 ans en 1999 ; P99_POP1529 : nombre d'habitants âgé entre 15 et 29 ans en 1999 ; P99_POP3044 : nombre d'habitants âgé entre 30 et 44 ans en 1999 ; P99_POP4559 : nombre d'habitants âgé entre 45 et 59 ans en 1999 ; P99_POP6074 : nombre d'habitants âgé entre 60 et 74 ans en 1999 ;...]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Bilan financier (forêt)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/bilan-financier-foret-cors</link>
-     <description><![CDATA[Bilan financier (moyenne annuelle) par forêt territoriale ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Chambres d'hôtes d'Angers Loire Métropole</title>
+     <link>https://www.data.gouv.fr/fr/dataset/chambres-d-hotes-d-angers-loire-metropole-alm</link>
+     <description><![CDATA[Liste des chambres d'hôtes sur le territoire d'Angers Loire Métropole Ce fichier contient les informations de géolocalisation de chaque entrée. ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>​Commercialisation d'appartements neufs en France Métropolitaine</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commercialisation-d-appartements-neufs-en-france-metropolitaine-cors</link>
-     <description><![CDATA[Commercialisation d'appartements neufs en France Métropolitaine Source : SOeS, ECLN Traitement : Observatoire Economique Régional Le prix de vente en euro est le prix "à la réservation" ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Borne Incendie</title>
+     <link>https://www.data.gouv.fr/fr/dataset/borne-incendie-alm</link>
+     <description><![CDATA[Localisation des bornes et poteaux incendie ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Emplacement des EPLE en Corse</title>
-     <link>https://www.data.gouv.fr/fr/dataset/emplacement-des-eple-en-corse-cors</link>
-     <description><![CDATA[Emplacement des EPLE (établissements publics locaux d'enseignment) en Corse ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Âge des conduites du réseau d'eaux usées</title>
+     <link>https://www.data.gouv.fr/fr/dataset/age-des-conduites-du-reseau-d-eaux-usees-alm</link>
+     <description><![CDATA[Nombre de kilomètres de conduite d'eau posée par année (depuis 1950) ANNEE DE POSE année de pose, SOM somme des longueurs de conduite posées par an ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Commercialisation de maisons individuelles neuves en France Métropolitaine</title>
-     <link>https://www.data.gouv.fr/fr/dataset/commercialisation-de-maisons-individuelles-neuves-en-france-metropolitaine-cors</link>
-     <description><![CDATA[Commercialisation de maisons individuelles neuves en France Métropolitaine Source : SOeS, ECLN Traitement : Observatoire Economique Régional Le prix de vente en euro est le prix "à la réservation" ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Limite des quartiers de la Ville d'Angers</title>
+     <link>https://www.data.gouv.fr/fr/dataset/limite-des-quartiers-de-la-ville-d-angers-alm</link>
+     <description><![CDATA[Découpage administratif des conseils de quartier de la Ville d'Angers. Le territoire est divisé en dix quartiers: Les Hauts de Saint Aubin, Monplaisir, Saint Serge / Ney / Chalouère, Deux-Croix / Banchaix, Madelaine / Saint-Léonard / Justices, Centre-Ville / La Fayette, La Roseraie, Lac de Maine, Belle-Beille, Doutre / Saint-Jacques. ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>​Situation financière de la Collectivité Territoriale de Corse - Fonctionnement</title>
-     <link>https://www.data.gouv.fr/fr/dataset/situation-financiere-de-la-collectivite-territoriale-de-corse-fonctionnement-cors</link>
-     <description><![CDATA[Situation financière de la Collectivité Territoriale de Corse - Fonctionnement Population 2012 : 305 674 Habitants Population 2011 : 302 966 Habitants Population 2010 : 299 209 Habitants Population 2009 : 294 118 Habitants Population 2008 : 260 196 Habitants Source : http://www.collectivites-locales.gouv.fr/ ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Bilan Carbone d'Angers Loire Métropole 2008</title>
+     <link>https://www.data.gouv.fr/fr/dataset/bilan-carbone-d-angers-loire-metropole-2008-alm</link>
+     <description><![CDATA[Présentation des conclusions du Bilan Carbone d'Angers Loire Métropole publié en décembre 2008. Bilan des émissions de gaz à effet de serre, Bilan Carbone ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Cultures par commune</title>
-     <link>https://www.data.gouv.fr/fr/dataset/cultures-par-commune-cors</link>
-     <description><![CDATA[Cultures par commune. Champ des exploitations : Ensemble des exploitations (hors pacages collectifs) Source : Recensement agricole 2000 et 2010 Agreste Exploitation agricole : unité économique qui participe à la production agricole, qui atteint une certaine dimension (1 hectare de superficie agricole utilisée ou 20 ares de cultures spécialisées ou 1 vache ou 6 brebis-mères ou...]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Points d'apport volontaire à Angers Loire Métropole</title>
+     <link>https://www.data.gouv.fr/fr/dataset/points-d-apport-volontaire-a-angers-loire-metropole-alm</link>
+     <description><![CDATA[Liste des points d'apport volontaire du verre, des ordures ménagères et du tri sur le territoire d'Angers Loire Métropole les données au format KML des points d'apport volontaire sont mises à disposition à titre expérimental ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Nombre d'établissements par catégorie</title>
-     <link>https://www.data.gouv.fr/fr/dataset/nombre-d-etablissements-par-categorie-cors</link>
-     <description><![CDATA[Nombre d'établissements par catégorie ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Maquette du compte administratif Aéroport 2011</title>
+     <link>https://www.data.gouv.fr/fr/dataset/maquette-du-compte-administratif-aeroport-2011-alm</link>
+     <description><![CDATA[Le jeu contient la maquette du compte administratif (aéroport) 2011 du budget principal d'Angers Loire Métropole. Le compte administratif, voté annuellement, retrace l'exécution du budget en dépenses et en recettes. Le compte administratif, voté annuellement, retrace l'exécution du budget en dépenses et en recettes. ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Convention additionnelle relative au plan de développement de la langue corse (2007-2013) - Consommation de la CTC</title>
-     <link>https://www.data.gouv.fr/fr/dataset/convention-additionnelle-relative-au-plan-de-developpement-de-la-langue-corse-2007-2013-consomm-cors</link>
-     <description><![CDATA[Convention additionnelle relative au plan de développement de la langue corse (2007-2013) - Détail consommation de la CTC ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Patrimoine - Liste des bâtiments du patrimoine (Partie 2)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/patrimoine-liste-des-batiments-du-patrimoine-partie-2-alm</link>
+     <description><![CDATA[]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Marchés de fournitures conclus par la CTC en 2011</title>
-     <link>https://www.data.gouv.fr/fr/dataset/marches-de-fournitures-conclus-par-la-ctc-en-2011-cors</link>
-     <description><![CDATA[Liste des marchés de fournitures conclus pour l'année 2011 par la Collectivité Territoriale de Corse ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Patrimoine - Inventaire Equipement</title>
+     <link>https://www.data.gouv.fr/fr/dataset/patrimoine-inventaire-equipement-alm</link>
+     <description><![CDATA[]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>​Situation financière de la Collectivité Territoriale de Corse - Fiscalité</title>
-     <link>https://www.data.gouv.fr/fr/dataset/situation-financiere-de-la-collectivite-territoriale-de-corse-fiscalite-cors</link>
-     <description><![CDATA[Situation financière de la Collectivité Territoriale de Corse - Fiscalité Population 2012 : 305 674 Habitants Population 2011 : 302 966 Habitants Population 2010 : 299 209 Habitants Population 2009 : 294 118 Habitants Population 2008 : 260 196 Habitants Source : http://www.collectivites-locales.gouv.fr/ ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Limite des communes d'Angers Loire Métropole</title>
+     <link>https://www.data.gouv.fr/fr/dataset/limite-des-communes-d-angers-loire-metropole-alm</link>
+     <description><![CDATA[Limite de territoire des trente-trois communes d'Angers Loire Métropole. ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Champs photovoltaiques en Corse</title>
-     <link>https://www.data.gouv.fr/fr/dataset/champs-photovoltaiques-en-corse-cors</link>
-     <description><![CDATA[Champs photovoltaiques en Corse ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Correspondance code INSEE-code postal des communes d'ALM</title>
+     <link>https://www.data.gouv.fr/fr/dataset/correspondance-code-insee-code-postal-des-communes-d-alm-alm</link>
+     <description><![CDATA[Correspondance des code INSEE et codes postaux des communes d'Angers Loire Métropole ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Nombre de bénéficiaires de fin de trimestre d'une aide au logement selon le type</title>
-     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-beneficiaires-de-fin-de-trimestre-d-une-aide-au-logement-selon-le-type-cors</link>
-     <description><![CDATA[Nombre de bénéficiaires de fin de trimestre d'une aide au logement selon le type ALF : allocation de logement familiale ALS : allocation de logement sociale APL : aide personnalisée au logement Source : Cnaf Traitement : Observatoire Economique Régional ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Maquette du compte administratif Transport 2011</title>
+     <link>https://www.data.gouv.fr/fr/dataset/maquette-du-compte-administratif-transport-2011-alm</link>
+     <description><![CDATA[Le jeu contient la maquette du compte administratif (transport) 2011 du budget principal d'Angers Loire Métropole. Le compte administratif, voté annuellement, retrace l'exécution du budget en dépenses et en recettes. ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>HÉBERGEMENT MARCHAND - REGION CORSE</title>
-     <link>https://www.data.gouv.fr/fr/dataset/hebergement-marchand-region-corse-cors</link>
-     <description><![CDATA[Nombre de structures, unités et lits, par type. ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Synthèse du Bilan Carbone d'Angers Loire Métropole</title>
+     <link>https://www.data.gouv.fr/fr/dataset/synthese-du-bilan-carbone-d-angers-loire-metropole-alm</link>
+     <description><![CDATA[Synthèse du Bilan Carbone d'Angers Loire Métropole publié en décembre 2008. Bilan des émissions de gaz à effet de serre, Bilan Carbone ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Fréquentation du musée de la Corse par public</title>
-     <link>https://www.data.gouv.fr/fr/dataset/frequentation-du-musee-de-la-corse-par-public-cors</link>
-     <description><![CDATA[Fréquentation du musée de la Corse par type de public de 2002 à 2013 ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Maquette Principale du Compte Administratif 2011</title>
+     <link>https://www.data.gouv.fr/fr/dataset/maquette-principale-du-compte-administratif-2011-alm</link>
+     <description><![CDATA[Le jeu contient la maquette principale compte administratif 2011 du budget principal d'Angers Loire Métropole. Le compte administratif, voté annuellement, retrace l'exécution du budget en dépenses et en recettes. ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Tri sélectif en 2012</title>
-     <link>https://www.data.gouv.fr/fr/dataset/tri-selectif-en-2012-cors</link>
-     <description><![CDATA[Tri sélectif en Corse en 2012 ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Patrimoine - Lieux Dits</title>
+     <link>https://www.data.gouv.fr/fr/dataset/patrimoine-lieux-dits-alm</link>
+     <description><![CDATA[]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>​Les mouvements du répertoire des métiers de Corse-du-Sud</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-mouvements-du-repertoire-des-metiers-de-corse-du-sud-cors</link>
-     <description><![CDATA[Les mouvements du répertoire des métiers de Corse-du-Sud 2011-2013 La date prise en compte est la date de décision (non la date d'effet) Source : CMA2A Traitement: Observatoire Economique Régional ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Observatoire de la flore sauvage à Angers</title>
+     <link>https://www.data.gouv.fr/fr/dataset/observatoire-de-la-flore-sauvage-a-angers-alm</link>
+     <description><![CDATA[Extraction de la Base Flora Data de Tela Botanica pour le territoire de la Ville d'Angers à propos fichier au format KML &gt; ne sont contenus que les entrées offrant une géolocalisation en bonne due et forme &gt; soit 1831 entrées sur les 2139 enregistrées au format .cvs et .xls Observation participative de la flore sauvage par le muséum de Sciences naturelles de la Ville d'Angers et le...]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>​Les radiations d'entreprises au Registre du Commerce et des Sociétés en Corse</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-radiations-d-entreprises-au-registre-du-commerce-et-des-societes-en-corse-cors</link>
-     <description><![CDATA[Les radiations d'entreprises au Registre du Commerce et des Sociétés en Corse Source : Centre National des Greffiers des Tribunaux de Commerce Traitement : Observatoire Economique Régional ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Emplois au lieu de travail par secteur d'activités en 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/emplois-au-lieu-de-travail-par-secteur-d-activites-en-2010-alm</link>
+     <description><![CDATA[Nombre d'emplois au lieu de travail selon le secteur d'activité en 2010 par commune d'Angers Loire Métropole C10_EMPLT_AGRI : emplois au lieu de travail dans le secteur agricole en 2010 ; C10_EMPLT_INDUST : emplois au lieu de travail dans le secteur industriel en 2010 ; C10_EMPLT_CONST : emplois au lieu de travail dans le secteur de la construction en 2010 ; C10_EMPLT_CTS : emplois au lieu de...]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Barrages en Corse</title>
-     <link>https://www.data.gouv.fr/fr/dataset/barrages-en-corse-cors</link>
-     <description><![CDATA[Barrages en Corse ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Maquette du budget primitif Eau 2012</title>
+     <link>https://www.data.gouv.fr/fr/dataset/maquette-du-budget-primitif-eau-2012-alm</link>
+     <description><![CDATA[Le jeu contient la maquette du budget primitif (eau) 2012 du budget principal de la Communauté Urbaine d'Angers Loire Métropole. Le budget primitif, voté annuellement, constitue la prévision des dépenses et des recettes pour l'année. ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>​Offres d'emploi enregistrées par Pôle emploi (OEE) - données CVS</title>
-     <link>https://www.data.gouv.fr/fr/dataset/offres-d-emploi-enregistrees-par-pole-emploi-oee-donnees-cvs-cors</link>
-     <description><![CDATA[Offres d'emploi enregistrées par Pôle emploi (OEE) - données CVS Type de données : Corrigées des Variations saisonnières (CVS) Source : Pôle emploi, Dares, Direccte - retraitement Pôle Prospectives et observation des mutations économiques du CARIF-OREF Fréquence : mensuelle ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Collecte des ordures ménagères - Ville d'Angers</title>
+     <link>https://www.data.gouv.fr/fr/dataset/collecte-des-ordures-menageres-ville-d-angers-alm</link>
+     <description><![CDATA[Circuits, horaires et jours de collecte des ordures ménagères et du tri sur la Ville d'Angers ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Demandeurs d'emploi en fin de mois (DEFM) par sexe - catégorie ABC - données brutes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/demandeurs-d-emploi-en-fin-de-mois-defm-par-sexe-categorie-abc-donnees-brutes-cors</link>
-     <description><![CDATA[Demandeurs d'emploi en fin de mois (DEFM) par sexe - catégorie ABC - données brutes Type de données : brutes Catégorie ABC : ensemble des demandeurs d'emploi tenus de faire des actes positifs de recherche d'emploi Les données France métropolitaine sont en milliers Source : Pôle emploi, Dares, Direccte - retraitement Pôle Prospectives et observation des mutations économiques du...]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Taille moyenne des ménages d'Angers Loire Métropole</title>
+     <link>https://www.data.gouv.fr/fr/dataset/taille-moyenne-des-menages-d-angers-loire-metropole-alm</link>
+     <description><![CDATA[Nombre moyen de personnes par ménage en 1999 et en 2010, commune par commune d'ALM. P99_TMM : nombre moyen de personnes par ménage en 1999 ; P10_TMM : nombre moyen de personnes par ménage en 2010 ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Transport de Fret maritime (trafic national et italien) exprimé en tonnes net</title>
-     <link>https://www.data.gouv.fr/fr/dataset/transport-de-fret-maritime-trafic-national-et-italien-exprime-en-tonnes-net-cors</link>
-     <description><![CDATA[Transport de Fret maritime (trafic national et italien) exprimé en tonnes net Source : ORTC traitement : Observatoire Economique Régional Périodicité mensuelle ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Borne de puisage client</title>
+     <link>https://www.data.gouv.fr/fr/dataset/borne-de-puisage-client-alm</link>
+     <description><![CDATA[Localisation des bornes d'eau servant à l'approvisionnement ponctuel des professionnels ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Transport Aerien</title>
-     <link>https://www.data.gouv.fr/fr/dataset/transport-aerien-cors</link>
-     <description><![CDATA[Ventilation des passagers dans les principaux aéroports ND: non disponible ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Réseau de collecte des eaux usées</title>
+     <link>https://www.data.gouv.fr/fr/dataset/reseau-de-collecte-des-eaux-usees-alm</link>
+     <description><![CDATA[Description du réseau de collecte des eaux usées ECOUNORM écoulement normalDIAMETRE diamètre du collecteurMATERIAU Matériau du collecteurLONGUEUR LongueurZAMONT Altitude amontZAVAL Altitude avalDATEPOSE Date de pose du collecteurEXPLOIT Exploitant du collecteur ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Collecte du verre en 2012</title>
-     <link>https://www.data.gouv.fr/fr/dataset/collecte-du-verre-en-2012-cors</link>
-     <description><![CDATA[Collecte du verre en Corse en 2012 ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Nombre de ménages selon le type en 1999 et 2010 par commune</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-menages-selon-le-type-en-1999-et-2010-par-commune-alm</link>
+     <description><![CDATA[Type de ménage par commune d'Angers Loire Métropole en 1999 et en 2010 C99_MENPSEUL : nombre de ménages d'une seule personne en 1999 ; C99_MENCOUPSENF : nombre de ménages de couple sans enfant en 1999 ; C99_MENFAMMONO : nombre de ménages de familles monoparentales en 1999 ; C99_MENCOUPAENF : nombre de ménages de couple avec enfant(s) en 1999 ; C99_MENSFAM : nombre de ménages autres en 1999 ;...]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Hébergement Marchand - Poids territoire</title>
-     <link>https://www.data.gouv.fr/fr/dataset/hebergement-marchand-poids-territoire-cors</link>
-     <description><![CDATA[Poids des territoires par rapport au total régional. ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Evolution de la croissance démographique entre 1999 et 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/evolution-de-la-croissance-demographique-entre-1999-et-2010-alm</link>
+     <description><![CDATA[Croissance démographique, contribution des soldes naturel et migratoire d'Angers Loire Métropole TX_VAR99_10_MOY_AN : croissance démographique moyenne annuelle par communes entre 1999 et 2010 ; TX_SOLDE_NATUREL99_10 : contribution du solde naturel à la croissance démographique entre 1999 et 2010 par commune ; TX_SOLDE_MIGRATOIRE99_10 : contribution du solde migratoire à la croissance...]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Hôtellerie : Nuitées</title>
-     <link>https://www.data.gouv.fr/fr/dataset/hotellerie-nuitees-cors</link>
-     <description><![CDATA[Hôtellerie : Nuitées françaises et étrangères mensuelles - Données 2010/2013 ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Patrimoine - Liste des bâtiments du patrimoine (Partie 3)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/patrimoine-liste-des-batiments-du-patrimoine-partie-3-alm</link>
+     <description><![CDATA[]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Actions de professionnalisation du CARIF 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/actions-de-professionnalisation-du-carif-2013-cors</link>
-     <description><![CDATA[Nombre de sessions 2013 prévues et réalisées au 31/07/2013 et nombre de personnes formées en 2013: prévues et réalisées au 31/07/2013 CARIF : Centre d’Animation, de Ressources et d’Information sur la Formation ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Restaurants d'Angers Loire Métropole</title>
+     <link>https://www.data.gouv.fr/fr/dataset/restaurants-d-angers-loire-metropole-alm</link>
+     <description><![CDATA[liste des restaurants sur le territoire d'Angers Loire Métropole. ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Elus municipaux 2014 en Corse</title>
-     <link>https://www.data.gouv.fr/fr/dataset/elus-municipaux-2014-en-corse-cors</link>
-     <description><![CDATA[Resultats des élections municipales de 2014 en Corse, tour 1 et 2. ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Maquette du compte administratif Déchets 2011</title>
+     <link>https://www.data.gouv.fr/fr/dataset/maquette-du-compte-administratif-dechets-2011-alm</link>
+     <description><![CDATA[Le jeu contient la maquette du compte administratif (déchets) 2011 du budget principal d'Angers Loire Métropole. Le compte administratif, voté annuellement, retrace l'exécution du budget en dépenses et en recettes. ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Allocataires CAF</title>
-     <link>https://www.data.gouv.fr/fr/dataset/allocataires-caf-cors</link>
-     <description><![CDATA[Répartition des allocataires de fin de trimestre selon la structure du foyer Source : Cnaf Traitement : Observatoire Economique Régional ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Réseau d'eau potable par niveau de pression</title>
+     <link>https://www.data.gouv.fr/fr/dataset/reseau-d-eau-potable-par-niveau-de-pression-alm</link>
+     <description><![CDATA[Zone de distribution de l'eau potable selon le niveau piézométrique ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Marchés de prestations intellectuelles conclus par la CTC en 2011</title>
-     <link>https://www.data.gouv.fr/fr/dataset/marches-de-prestations-intellectuelles-conclus-par-la-ctc-en-2011-cors</link>
-     <description><![CDATA[Liste des marchés de prestations intellectuelles conclus pour l'année 2012 par la Collectivité Territoriale de Corse ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Hébergements collectifs à Angers Loire Métropole</title>
+     <link>https://www.data.gouv.fr/fr/dataset/hebergements-collectifs-a-angers-loire-metropole-alm</link>
+     <description><![CDATA[Liste des hébergements collectifs sur le territoire d'Angers Loire Métropole. Ce fichier contient les informations de géolocalisation de chaque entrée. ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Transport de marchandises spécialisées (trafics national et italien) en tonnes net (entrées+sortie)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/transport-de-marchandises-specialisees-trafics-national-et-italien-en-tonnes-net-entrees-sortie-cors</link>
-     <description><![CDATA[Transport de marchandises spécialisées (trafics national et italien) en tonnes net (entrées+sortie) Source : ORTC Traitement : Observatoire Economique Régional Périodicité mensuelle ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Maquette du compte administratif Assainissement 2011</title>
+     <link>https://www.data.gouv.fr/fr/dataset/maquette-du-compte-administratif-assainissement-2011-alm</link>
+     <description><![CDATA[Le jeu contient la maquette du compte administratif (assainissement) 2011 du budget principal d'Angers Loire Métropole. Le compte administratif, voté annuellement, retrace l'exécution du budget en dépenses et en recettes. ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>MAET - Nombre de contrats</title>
-     <link>https://www.data.gouv.fr/fr/dataset/maet-nombre-de-contrats-cors</link>
-     <description><![CDATA[Mesures Agro-Environnementales Territorialisées (MAET) - Nombre de contrats par commune ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Horaires de passage théorique du réseau Irigo</title>
+     <link>https://www.data.gouv.fr/fr/dataset/horaires-de-passage-theorique-du-reseau-irigo-alm</link>
+     <description><![CDATA[La liste des heures de passage, arrêt, stations, direction et jour du réseau bus et tram Irigo sur le territoire d'Angers Loire Métropole La liste des arrêts, horaires et parcours du réseau Irigo Bus+Tram au format GTFS sont valables pour la période allant du 28 mars au 8 avril 2014. GTFS, kézako: https://developers.google.com/transit/gtfs/ ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Fréquentation du musée de la Corse par origine</title>
-     <link>https://www.data.gouv.fr/fr/dataset/frequentation-du-musee-de-la-corse-par-origine-cors</link>
-     <description><![CDATA[Fréquentation du musée de la Corse par origine de 2002 à 2013 ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Âge des conduites du réseau d'eau potable</title>
+     <link>https://www.data.gouv.fr/fr/dataset/age-des-conduites-du-reseau-d-eau-potable-alm</link>
+     <description><![CDATA[Nombre de kilomètres de conduite d'eau posée par année (depuis 1950) ANNEE DE POSE année de pose, SOM somme des longueurs de conduite posées par an ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>​Demandeurs d'emploi en fin de mois (DEFM) par tranche d'âge - catégorie ABC - données brutes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/demandeurs-d-emploi-en-fin-de-mois-defm-par-tranche-d-age-categorie-abc-donnees-brutes-cors</link>
-     <description><![CDATA[Demandeurs d'emploi en fin de mois (DEFM) par tranche d'âge - catégorie ABC - données brutes Type de données : brutes Catégorie ABC : ensemble des demandeurs d'emploi tenus de faire des actes positifs de recherche d'emploi Tranche jeune : moins de 25 ans Tranche adulte : entre 25 et 49 ans Tranche senior : 50 ans ou plus Les données France métropolitaine sont en milliers Source :...]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Maquette du budget primitif Aéroport 2012</title>
+     <link>https://www.data.gouv.fr/fr/dataset/maquette-du-budget-primitif-aeroport-2012-alm</link>
+     <description><![CDATA[Le jeu contient la maquette budget primitif (aéroport) 2012 du budget principal de la Communauté Urbaine d'Angers Loire Métropole. Le budget primitif, voté annuellement, constitue la prévision des dépenses et des recettes pour l'année. ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
-     <title>Les immatriculations d'entreprises au Registre du Commerce et des Sociétés en Corse</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-immatriculations-d-entreprises-au-registre-du-commerce-et-des-societes-en-corse-cors</link>
-     <description><![CDATA[Les immatriculations d'entreprises au Registre du Commerce et des Sociétés en Corse Source : Centre National des Greffiers des Tribunaux de Commerce Traitement : Observatoire Economique Régional ]]></description>
-     <author>Collectivité Territoriale de Corse (certifié)</author>
+     <title>Nombre de décès de 2008 à 2012 par commune</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-deces-de-2008-a-2012-par-commune-alm</link>
+     <description><![CDATA[Décès domiciliés à la commune de résidence 2008 : Décès domiciliés à la commune de résidence en 2008 ; 2009 : Décès domiciliés à la commune de résidence en 2009 ; 2010 : Décès domiciliés à la commune de résidence en 2010 ; 2011 : Décès domiciliés à la commune de résidence en 2011 ; 2012 : Décès domiciliés à la commune de résidence en 2012 ]]></description>
+     <author>citoyen</author>
   </item>
  </channel>
 </rss>
