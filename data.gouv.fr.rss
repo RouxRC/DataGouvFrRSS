@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 27 May 2014 15:00:03 +0200</pubDate>
+  <pubDate>Tue, 27 May 2014 16:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Elections Européennes 2014 - Résultats à Nogent-sur-Marne par bureau</title>
+     <link>https://www.data.gouv.fr/fr/dataset/elections-europeennes-2014-resultats-a-nogent-sur-marne-par-bureau</link>
+     <description><![CDATA[Ce jeu de données contient les résultats obtenus par chaque liste dans chacun des bureaux de vote composant la commune de Nogent-sur-Marne. ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Routes départementales - Grands projets 2013-2014</title>
      <link>https://www.data.gouv.fr/fr/dataset/routes-departementales-grands-projets-2013-2014-oise</link>
@@ -358,12 +364,6 @@
      <title>Réseau d'eau potable par niveau de pression</title>
      <link>https://www.data.gouv.fr/fr/dataset/reseau-d-eau-potable-par-niveau-de-pression-alm</link>
      <description><![CDATA[Zone de distribution de l'eau potable selon le niveau piézométrique ]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Hébergements collectifs à Angers Loire Métropole</title>
-     <link>https://www.data.gouv.fr/fr/dataset/hebergements-collectifs-a-angers-loire-metropole-alm</link>
-     <description><![CDATA[Liste des hébergements collectifs sur le territoire d'Angers Loire Métropole. Ce fichier contient les informations de géolocalisation de chaque entrée. ]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
