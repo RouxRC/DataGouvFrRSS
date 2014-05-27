@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 27 May 2014 17:30:03 +0200</pubDate>
+  <pubDate>Tue, 27 May 2014 17:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Crimes et délits constatés par la police nationale en 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/crimes-et-delits-constates-par-la-police-nationale-en-2013</link>
+     <description><![CDATA[Les données des faits constatés sont fournies sous forme de tables comprenant en lignes les 107 index d'infractions de l'état statistique 4001 et en colonnes les départements et collectivités d'outre-mer. Il s'agit des faits enregistrés par l'ensemble des services de la police nationale localisés au lieu de leur enregistrement. ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Servitudes d'Utilité Publique PT1 protection des centres de réception radioélectrique contre les perturbations électromagnétiques</title>
      <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-pt1-protection-des-centres-de-reception-radioelectrique-contre-les-per</link>
@@ -358,12 +364,6 @@
      <title>Restaurants d'Angers Loire Métropole</title>
      <link>https://www.data.gouv.fr/fr/dataset/restaurants-d-angers-loire-metropole-alm</link>
      <description><![CDATA[liste des restaurants sur le territoire d'Angers Loire Métropole. ]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Maquette du compte administratif Déchets 2011</title>
-     <link>https://www.data.gouv.fr/fr/dataset/maquette-du-compte-administratif-dechets-2011-alm</link>
-     <description><![CDATA[Le jeu contient la maquette du compte administratif (déchets) 2011 du budget principal d'Angers Loire Métropole. Le compte administratif, voté annuellement, retrace l'exécution du budget en dépenses et en recettes. ]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
