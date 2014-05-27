@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 27 May 2014 17:40:02 +0200</pubDate>
+  <pubDate>Tue, 27 May 2014 17:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Crimes et délits enregistrés par la police nationale</title>
+     <link>https://www.data.gouv.fr/fr/dataset/crimes-et-delits-enregistres-par-la-police-nationale</link>
+     <description><![CDATA[Les données des faits constatés sont fournies sous forme de tables comprenant en lignes les 107 index d'infractions de l'état statistique 4001 et en colonnes les départements et collectivités d'outre-mer. Il s'agit des faits enregistrés par l'ensemble des services de la police nationale localisés au lieu de leur enregistrement. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Les crimes et délits enregistrés par la police nationale</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-crimes-et-delits-enregistres-par-la-police-nationale</link>
+     <description><![CDATA[Les données des faits constatés sont fournies sous forme de tables comprenant en lignes les 107 index d'infractions de l'état statistique 4001 et en colonnes les départements et collectivités d'outre-mer. Il s'agit des faits enregistrés par l'ensemble des services de la police nationale localisés au lieu de leur enregistrement, y compris dans les collectivités d'outre-mer. ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Crimes et délits constatés par la police nationale en 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/crimes-et-delits-constates-par-la-police-nationale-en-2013</link>
@@ -352,18 +364,6 @@
      <title>Evolution de la croissance démographique entre 1999 et 2010</title>
      <link>https://www.data.gouv.fr/fr/dataset/evolution-de-la-croissance-demographique-entre-1999-et-2010-alm</link>
      <description><![CDATA[Croissance démographique, contribution des soldes naturel et migratoire d'Angers Loire Métropole TX_VAR99_10_MOY_AN : croissance démographique moyenne annuelle par communes entre 1999 et 2010 ; TX_SOLDE_NATUREL99_10 : contribution du solde naturel à la croissance démographique entre 1999 et 2010 par commune ; TX_SOLDE_MIGRATOIRE99_10 : contribution du solde migratoire à la croissance...]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Patrimoine - Liste des bâtiments du patrimoine (Partie 3)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/patrimoine-liste-des-batiments-du-patrimoine-partie-3-alm</link>
-     <description><![CDATA[]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Restaurants d'Angers Loire Métropole</title>
-     <link>https://www.data.gouv.fr/fr/dataset/restaurants-d-angers-loire-metropole-alm</link>
-     <description><![CDATA[liste des restaurants sur le territoire d'Angers Loire Métropole. ]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
