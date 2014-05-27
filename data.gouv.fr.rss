@@ -4,7 +4,367 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 27 May 2014 14:31:04 +0200</pubDate>
+  <pubDate>Tue, 27 May 2014 15:00:03 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Routes départementales - Grands projets 2013-2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/routes-departementales-grands-projets-2013-2014-oise</link>
+     <description><![CDATA[Déclinaisons opérationnelles du PDMD (Plan départemental de mobilité durable) relatives aux grands projets routiers (2013-2014). Plans des déviations en cours et à venir ]]></description>
+     <author>Conseil général de l'Oise (certifié)</author>
+  </item>
+  <item>
+     <title>Décision modificative n° 3</title>
+     <link>https://www.data.gouv.fr/fr/dataset/decision-modificative-n-3-oise</link>
+     <description><![CDATA[Délibérations relatives à la décision modificative n° 3 de 2013 ]]></description>
+     <author>Conseil général de l'Oise (certifié)</author>
+  </item>
+  <item>
+     <title>Rapports d'activités du Conseil général</title>
+     <link>https://www.data.gouv.fr/fr/dataset/rapports-d-activites-du-conseil-general-oise</link>
+     <description><![CDATA[Le rapport d'activités établit un bilan des politiques départementales (2011 et 2012) ]]></description>
+     <author>Conseil général de l'Oise (certifié)</author>
+  </item>
+  <item>
+     <title>Analyse des évolutions sociologiques, des conduites et représentations de l'Oise</title>
+     <link>https://www.data.gouv.fr/fr/dataset/analyse-des-evolutions-sociologiques-des-conduites-et-representations-de-l-oise-oise</link>
+     <description><![CDATA[Analyse des évolutions sociologiques, des conduites et représentations du département de l'Oise à partir des études quantitatives sur les actions et les politiques publiques départementales ]]></description>
+     <author>Conseil général de l'Oise (certifié)</author>
+  </item>
+  <item>
+     <title>Jeux de données - Angers Loire Métropole</title>
+     <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-angers-loire-metropole-alm</link>
+     <description><![CDATA[Les jeux de données collectés par data.gouv.fr sur la plateforme Angers Loire Métropole ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Collecte des ordures ménagères - Angers Loire Métropole</title>
+     <link>https://www.data.gouv.fr/fr/dataset/collecte-des-ordures-menageres-angers-loire-metropole-alm</link>
+     <description><![CDATA[Circuits, horaires et jours de collecte des ordures ménagères et du tri sur les communes d'Angers Loire Métropole (en dehors d'Angers) ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Hébergements locatifs à Angers Loire Métropole</title>
+     <link>https://www.data.gouv.fr/fr/dataset/hebergements-locatifs-a-angers-loire-metropole-alm</link>
+     <description><![CDATA[Liste des hébergements locatifs sur le territoire d'Angers Loire Métropole. Ce fichier contient les informations de géolocalisation de chaque entrée. ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Patrimoine - Patrimoine ALM</title>
+     <link>https://www.data.gouv.fr/fr/dataset/patrimoine-patrimoine-alm-alm</link>
+     <description><![CDATA[]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Liste des bâtiments du patrimoine ALM</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-batiments-du-patrimoine-alm-alm</link>
+     <description><![CDATA[Liste des bâtiments du patrimoine d'Angers Loire Métropole ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Lieux de visites à Angers Loire Métropole</title>
+     <link>https://www.data.gouv.fr/fr/dataset/lieux-de-visites-a-angers-loire-metropole-alm</link>
+     <description><![CDATA[Liste des lieux de visite sur le territoire d'Angers Loire Métropole. Ce fichier contient les informations de géolocalisation de chaque entrée. ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Population d'Angers Loire Métropole selon la catégorie socioprofessionnelle</title>
+     <link>https://www.data.gouv.fr/fr/dataset/population-d-angers-loire-metropole-selon-la-categorie-socioprofessionnelle-alm</link>
+     <description><![CDATA[Population âgée de 15 ans et plus selon la catégorie socioprofessionnelle entre 1999 et 2010 par commune C99_POP15P_CS1 : Population âgée de 15 ans et plus d'agriculteurs et exploitants en 1999 ; C99_POP15P_CS2 : Population âgée de 15 ans et plus d'artisans, de commerçants et chefs d'entreprises en 1999 ; C99_POP15P_CS3 : Population âgée de 15 ans et plus de cadres et de professions...]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Maquette du compte administratif Eau 2011</title>
+     <link>https://www.data.gouv.fr/fr/dataset/maquette-du-compte-administratif-eau-2011-alm</link>
+     <description><![CDATA[Le jeu contient la maquette du compte administratif (eau) 2011 du budget principal d'Angers Loire Métropole. Le compte administratif, voté annuellement, retrace l'exécution du budget en dépenses et en recettes. ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Localisation des toilettes publics à Angers</title>
+     <link>https://www.data.gouv.fr/fr/dataset/localisation-des-toilettes-publics-a-angers-alm</link>
+     <description><![CDATA[Localisation des Sanitaires et Urinoirs Publics de la Ville d'Angers. dernière mise-à-jour de la donnée au 19/09/12 ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Nombre de résidences principales par type en 1999 et 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-residences-principales-par-type-en-1999-et-2010-alm</link>
+     <description><![CDATA[Nombre de résidences principales selon le type en 1999 et en 2010 par commune d'Angers Loire Métropole P99_RPAPPART : nombre de résidences principales de type appartement en 1999 ; P99_RPMAISON : nombre de résidences principales de type maison en 1999 ; P10_RPAPPART : nombre de résidences principales de type appartement en 2010 ; P10_RPMAISON : nombre de résidences principales de type maison...]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Population active d'Angers Loire Métropole en 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/population-active-d-angers-loire-metropole-en-2010-alm</link>
+     <description><![CDATA[Population active au lieu de résidence par commune d'Angers Loire Métropole par âge et par sexe en 2010. P10_FACT1524 : population active de sexe féminin au lieu de résidence entre 15 et 24 ans en 2010 ; P10_FACT2554 : population active de sexe féminin au lieu de résidence entre 25 et 54 ans en 2010 ; P10_FACT5564 ; population active de sexe féminin au lieu de résidence entre 55 et 64 ans en...]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Patrimoine - Patrimoine Vendu</title>
+     <link>https://www.data.gouv.fr/fr/dataset/patrimoine-patrimoine-vendu-alm</link>
+     <description><![CDATA[]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Patrimoine - ERP Communaux</title>
+     <link>https://www.data.gouv.fr/fr/dataset/patrimoine-erp-communaux-alm</link>
+     <description><![CDATA[]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Maquette du budget primitif Déchets 2012</title>
+     <link>https://www.data.gouv.fr/fr/dataset/maquette-du-budget-primitif-dechets-2012-alm</link>
+     <description><![CDATA[Le jeu contient la maquette du budget primitif (déchets) 2012 du budget principal de la Communauté Urbaine d'Angers Loire Métropole. Le budget primitif, voté annuellement, constitue la prévision des dépenses et des recettes pour l'année. ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Patrimoine - Communes ALM</title>
+     <link>https://www.data.gouv.fr/fr/dataset/patrimoine-communes-alm-alm</link>
+     <description><![CDATA[]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Solde naturel de 2008 à 2012 par commune</title>
+     <link>https://www.data.gouv.fr/fr/dataset/solde-naturel-de-2008-a-2012-par-commune-alm</link>
+     <description><![CDATA[Solde naturel par an et par commune d'Angers Loire Métropole 2008 : Solde naturel par an et par commune en 2008 ; 2009 : Solde naturel par an et par commune en 2009 ; 2010 : Solde naturel par an et par commune en 2010 ; 2011 : Solde naturel par an et par commune en 2011 ; 2012 : Solde naturel par an et par commune en 2012 ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Population par commune en 1990, 1999 et 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/population-par-commune-en-1990-1999-et-2010-alm</link>
+     <description><![CDATA[Nombre d'habitants par commune d'Angers Loire Métropole. D90_POP : nombre d'habitants par commune en 1990 ; P99_POP : nombre d'habitants par commune en 1999 ; P10_POP nombre d'habitants par commune en 2010 ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Patrimoine - Inventaire Patrimoine GIMA</title>
+     <link>https://www.data.gouv.fr/fr/dataset/patrimoine-inventaire-patrimoine-gima-alm</link>
+     <description><![CDATA[]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Station de dépollution des eaux usées</title>
+     <link>https://www.data.gouv.fr/fr/dataset/station-de-depollution-des-eaux-usees-alm</link>
+     <description><![CDATA[Localisation des stations de traitement des eaux usées ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Nomenclature des déchets</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nomenclature-des-dechets-alm</link>
+     <description><![CDATA[Liste des déchets classés par leur caractère (ordures ménagères-tri-verre) dernière mise-à-jour de la donnée au 09/12 ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Nombre de résidences principales par type d’occupation en 1999 et 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-residences-principales-par-type-d-occupation-en-1999-et-2010-alm</link>
+     <description><![CDATA[Nombre de résidences principales selon le statut d'occupation en 1999 et en 2010 par commune d'Angers Loire Métropole. P99_RP_PROP : nombre de résidences principales occupées par des propriétaires occupants en 1999 ; P99_RP_LOCPRIV : nombre de résidences principales occupées par des locataires du parc privé en 1999 ; P99_RP_LOCHLMV : nombre de résidences principales occupées par des locataires...]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Zonage du réseau des eaux usées</title>
+     <link>https://www.data.gouv.fr/fr/dataset/zonage-du-reseau-des-eaux-usees-alm</link>
+     <description><![CDATA[Indication géographique du type d'assainissement (collectif / non collectif) zone géographique où le raccordement au réseau de traitement des eaux usées est possible ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Nombre de résidences principales selon le nombre de pièces en 1999 et 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-residences-principales-selon-le-nombre-de-pieces-en-1999-et-2010-alm</link>
+     <description><![CDATA[Nombre de résidences principales selon la taille en 1999 et en 2010 par commune d'Angers Loire Métropole. P99_RP_1P : Nombre de résidences principales d'une pièce en 1999 ; P99_RP_2P : Nombre de résidences principales de 2 pièces en 1999 ; P99_RP_3P : Nombre de résidences principales de 3 pièces en 1999 ; P99_RP_4P : Nombre de résidences principales de 4 pièces en 1999 ; P99_RP_5PP : Nombre...]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Maquette du budget primitif Transport 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/maquette-du-budget-primitif-transport-2013-alm</link>
+     <description><![CDATA[Le jeu contient la maquette du budget primitif (transport) 2012 du budget principal de la Communauté Urbaine d'Angers Loire Métropole. Le budget primitif, voté annuellement, constitue la prévision des dépenses et des recettes pour l'année. ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Nombre de naissances de 2008 à 2012 par commune</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-naissances-de-2008-a-2012-par-commune-alm</link>
+     <description><![CDATA[Naissances domiciliées à la commune de résidence 2008 : naissances domiciliées à la commune de résidence en 2008 ; 2009 : naissances domiciliées à la commune de résidence en 2009 ; 2010 : naissances domiciliées à la commune de résidence en 2010 ; 2011 : naissances domiciliées à la commune de résidence en 2011 ; 2012 : naissances domiciliées à la commune de résidence en 2012 ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Hôtels d'Angers Loire Métropole.</title>
+     <link>https://www.data.gouv.fr/fr/dataset/hotels-d-angers-loire-metropole-alm</link>
+     <description><![CDATA[Liste des hôtels sur le territoire d'Angers Loire Métropole Ce fichier contient les informations de géolocalisation de chaque entrée. ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Population d'Angers Loire Métropole par tranches d'âge</title>
+     <link>https://www.data.gouv.fr/fr/dataset/population-d-angers-loire-metropole-par-tranches-d-age-alm</link>
+     <description><![CDATA[Nombre d'habitants par classes d'âges en 1999 et 2010 par commune P99_POP0014 : nombre d'habitants âgé entre 0 et 14 ans en 1999 ; P99_POP1529 : nombre d'habitants âgé entre 15 et 29 ans en 1999 ; P99_POP3044 : nombre d'habitants âgé entre 30 et 44 ans en 1999 ; P99_POP4559 : nombre d'habitants âgé entre 45 et 59 ans en 1999 ; P99_POP6074 : nombre d'habitants âgé entre 60 et 74 ans en 1999 ;...]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Chambres d'hôtes d'Angers Loire Métropole</title>
+     <link>https://www.data.gouv.fr/fr/dataset/chambres-d-hotes-d-angers-loire-metropole-alm</link>
+     <description><![CDATA[Liste des chambres d'hôtes sur le territoire d'Angers Loire Métropole Ce fichier contient les informations de géolocalisation de chaque entrée. ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Borne Incendie</title>
+     <link>https://www.data.gouv.fr/fr/dataset/borne-incendie-alm</link>
+     <description><![CDATA[Localisation des bornes et poteaux incendie ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Âge des conduites du réseau d'eaux usées</title>
+     <link>https://www.data.gouv.fr/fr/dataset/age-des-conduites-du-reseau-d-eaux-usees-alm</link>
+     <description><![CDATA[Nombre de kilomètres de conduite d'eau posée par année (depuis 1950) ANNEE DE POSE année de pose, SOM somme des longueurs de conduite posées par an ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Limite des quartiers de la Ville d'Angers</title>
+     <link>https://www.data.gouv.fr/fr/dataset/limite-des-quartiers-de-la-ville-d-angers-alm</link>
+     <description><![CDATA[Découpage administratif des conseils de quartier de la Ville d'Angers. Le territoire est divisé en dix quartiers: Les Hauts de Saint Aubin, Monplaisir, Saint Serge / Ney / Chalouère, Deux-Croix / Banchaix, Madelaine / Saint-Léonard / Justices, Centre-Ville / La Fayette, La Roseraie, Lac de Maine, Belle-Beille, Doutre / Saint-Jacques. ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Bilan Carbone d'Angers Loire Métropole 2008</title>
+     <link>https://www.data.gouv.fr/fr/dataset/bilan-carbone-d-angers-loire-metropole-2008-alm</link>
+     <description><![CDATA[Présentation des conclusions du Bilan Carbone d'Angers Loire Métropole publié en décembre 2008. Bilan des émissions de gaz à effet de serre, Bilan Carbone ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Points d'apport volontaire à Angers Loire Métropole</title>
+     <link>https://www.data.gouv.fr/fr/dataset/points-d-apport-volontaire-a-angers-loire-metropole-alm</link>
+     <description><![CDATA[Liste des points d'apport volontaire du verre, des ordures ménagères et du tri sur le territoire d'Angers Loire Métropole les données au format KML des points d'apport volontaire sont mises à disposition à titre expérimental ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Maquette du compte administratif Aéroport 2011</title>
+     <link>https://www.data.gouv.fr/fr/dataset/maquette-du-compte-administratif-aeroport-2011-alm</link>
+     <description><![CDATA[Le jeu contient la maquette du compte administratif (aéroport) 2011 du budget principal d'Angers Loire Métropole. Le compte administratif, voté annuellement, retrace l'exécution du budget en dépenses et en recettes. Le compte administratif, voté annuellement, retrace l'exécution du budget en dépenses et en recettes. ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Patrimoine - Liste des bâtiments du patrimoine (Partie 2)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/patrimoine-liste-des-batiments-du-patrimoine-partie-2-alm</link>
+     <description><![CDATA[]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Patrimoine - Inventaire Equipement</title>
+     <link>https://www.data.gouv.fr/fr/dataset/patrimoine-inventaire-equipement-alm</link>
+     <description><![CDATA[]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Limite des communes d'Angers Loire Métropole</title>
+     <link>https://www.data.gouv.fr/fr/dataset/limite-des-communes-d-angers-loire-metropole-alm</link>
+     <description><![CDATA[Limite de territoire des trente-trois communes d'Angers Loire Métropole. ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Correspondance code INSEE-code postal des communes d'ALM</title>
+     <link>https://www.data.gouv.fr/fr/dataset/correspondance-code-insee-code-postal-des-communes-d-alm-alm</link>
+     <description><![CDATA[Correspondance des code INSEE et codes postaux des communes d'Angers Loire Métropole ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Maquette du compte administratif Transport 2011</title>
+     <link>https://www.data.gouv.fr/fr/dataset/maquette-du-compte-administratif-transport-2011-alm</link>
+     <description><![CDATA[Le jeu contient la maquette du compte administratif (transport) 2011 du budget principal d'Angers Loire Métropole. Le compte administratif, voté annuellement, retrace l'exécution du budget en dépenses et en recettes. ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Synthèse du Bilan Carbone d'Angers Loire Métropole</title>
+     <link>https://www.data.gouv.fr/fr/dataset/synthese-du-bilan-carbone-d-angers-loire-metropole-alm</link>
+     <description><![CDATA[Synthèse du Bilan Carbone d'Angers Loire Métropole publié en décembre 2008. Bilan des émissions de gaz à effet de serre, Bilan Carbone ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Maquette Principale du Compte Administratif 2011</title>
+     <link>https://www.data.gouv.fr/fr/dataset/maquette-principale-du-compte-administratif-2011-alm</link>
+     <description><![CDATA[Le jeu contient la maquette principale compte administratif 2011 du budget principal d'Angers Loire Métropole. Le compte administratif, voté annuellement, retrace l'exécution du budget en dépenses et en recettes. ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Patrimoine - Lieux Dits</title>
+     <link>https://www.data.gouv.fr/fr/dataset/patrimoine-lieux-dits-alm</link>
+     <description><![CDATA[]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Observatoire de la flore sauvage à Angers</title>
+     <link>https://www.data.gouv.fr/fr/dataset/observatoire-de-la-flore-sauvage-a-angers-alm</link>
+     <description><![CDATA[Extraction de la Base Flora Data de Tela Botanica pour le territoire de la Ville d'Angers à propos fichier au format KML &gt; ne sont contenus que les entrées offrant une géolocalisation en bonne due et forme &gt; soit 1831 entrées sur les 2139 enregistrées au format .cvs et .xls Observation participative de la flore sauvage par le muséum de Sciences naturelles de la Ville d'Angers et le...]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Emplois au lieu de travail par secteur d'activités en 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/emplois-au-lieu-de-travail-par-secteur-d-activites-en-2010-alm</link>
+     <description><![CDATA[Nombre d'emplois au lieu de travail selon le secteur d'activité en 2010 par commune d'Angers Loire Métropole C10_EMPLT_AGRI : emplois au lieu de travail dans le secteur agricole en 2010 ; C10_EMPLT_INDUST : emplois au lieu de travail dans le secteur industriel en 2010 ; C10_EMPLT_CONST : emplois au lieu de travail dans le secteur de la construction en 2010 ; C10_EMPLT_CTS : emplois au lieu de...]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Maquette du budget primitif Eau 2012</title>
+     <link>https://www.data.gouv.fr/fr/dataset/maquette-du-budget-primitif-eau-2012-alm</link>
+     <description><![CDATA[Le jeu contient la maquette du budget primitif (eau) 2012 du budget principal de la Communauté Urbaine d'Angers Loire Métropole. Le budget primitif, voté annuellement, constitue la prévision des dépenses et des recettes pour l'année. ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Collecte des ordures ménagères - Ville d'Angers</title>
+     <link>https://www.data.gouv.fr/fr/dataset/collecte-des-ordures-menageres-ville-d-angers-alm</link>
+     <description><![CDATA[Circuits, horaires et jours de collecte des ordures ménagères et du tri sur la Ville d'Angers ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Taille moyenne des ménages d'Angers Loire Métropole</title>
+     <link>https://www.data.gouv.fr/fr/dataset/taille-moyenne-des-menages-d-angers-loire-metropole-alm</link>
+     <description><![CDATA[Nombre moyen de personnes par ménage en 1999 et en 2010, commune par commune d'ALM. P99_TMM : nombre moyen de personnes par ménage en 1999 ; P10_TMM : nombre moyen de personnes par ménage en 2010 ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Borne de puisage client</title>
+     <link>https://www.data.gouv.fr/fr/dataset/borne-de-puisage-client-alm</link>
+     <description><![CDATA[Localisation des bornes d'eau servant à l'approvisionnement ponctuel des professionnels ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Réseau de collecte des eaux usées</title>
+     <link>https://www.data.gouv.fr/fr/dataset/reseau-de-collecte-des-eaux-usees-alm</link>
+     <description><![CDATA[Description du réseau de collecte des eaux usées ECOUNORM écoulement normalDIAMETRE diamètre du collecteurMATERIAU Matériau du collecteurLONGUEUR LongueurZAMONT Altitude amontZAVAL Altitude avalDATEPOSE Date de pose du collecteurEXPLOIT Exploitant du collecteur ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Nombre de ménages selon le type en 1999 et 2010 par commune</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-menages-selon-le-type-en-1999-et-2010-par-commune-alm</link>
+     <description><![CDATA[Type de ménage par commune d'Angers Loire Métropole en 1999 et en 2010 C99_MENPSEUL : nombre de ménages d'une seule personne en 1999 ; C99_MENCOUPSENF : nombre de ménages de couple sans enfant en 1999 ; C99_MENFAMMONO : nombre de ménages de familles monoparentales en 1999 ; C99_MENCOUPAENF : nombre de ménages de couple avec enfant(s) en 1999 ; C99_MENSFAM : nombre de ménages autres en 1999 ;...]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Evolution de la croissance démographique entre 1999 et 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/evolution-de-la-croissance-demographique-entre-1999-et-2010-alm</link>
+     <description><![CDATA[Croissance démographique, contribution des soldes naturel et migratoire d'Angers Loire Métropole TX_VAR99_10_MOY_AN : croissance démographique moyenne annuelle par communes entre 1999 et 2010 ; TX_SOLDE_NATUREL99_10 : contribution du solde naturel à la croissance démographique entre 1999 et 2010 par commune ; TX_SOLDE_MIGRATOIRE99_10 : contribution du solde migratoire à la croissance...]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Patrimoine - Liste des bâtiments du patrimoine (Partie 3)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/patrimoine-liste-des-batiments-du-patrimoine-partie-3-alm</link>
+     <description><![CDATA[]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Restaurants d'Angers Loire Métropole</title>
+     <link>https://www.data.gouv.fr/fr/dataset/restaurants-d-angers-loire-metropole-alm</link>
+     <description><![CDATA[liste des restaurants sur le territoire d'Angers Loire Métropole. ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Maquette du compte administratif Déchets 2011</title>
+     <link>https://www.data.gouv.fr/fr/dataset/maquette-du-compte-administratif-dechets-2011-alm</link>
+     <description><![CDATA[Le jeu contient la maquette du compte administratif (déchets) 2011 du budget principal d'Angers Loire Métropole. Le compte administratif, voté annuellement, retrace l'exécution du budget en dépenses et en recettes. ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Réseau d'eau potable par niveau de pression</title>
+     <link>https://www.data.gouv.fr/fr/dataset/reseau-d-eau-potable-par-niveau-de-pression-alm</link>
+     <description><![CDATA[Zone de distribution de l'eau potable selon le niveau piézométrique ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Hébergements collectifs à Angers Loire Métropole</title>
+     <link>https://www.data.gouv.fr/fr/dataset/hebergements-collectifs-a-angers-loire-metropole-alm</link>
+     <description><![CDATA[Liste des hébergements collectifs sur le territoire d'Angers Loire Métropole. Ce fichier contient les informations de géolocalisation de chaque entrée. ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
  </channel>
 </rss>
