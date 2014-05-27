@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 27 May 2014 18:10:02 +0200</pubDate>
+  <pubDate>Tue, 27 May 2014 18:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les dépenses de prévention collective</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-depenses-de-prevention-collective</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees, Comptes de la Santé ]]></description>
+     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Les crimes et délits enregistrés par la police nationale</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-crimes-et-delits-enregistres-par-la-police-nationa-0</link>
@@ -358,12 +364,6 @@
      <title>Réseau de collecte des eaux usées</title>
      <link>https://www.data.gouv.fr/fr/dataset/reseau-de-collecte-des-eaux-usees-alm</link>
      <description><![CDATA[Description du réseau de collecte des eaux usées ECOUNORM écoulement normalDIAMETRE diamètre du collecteurMATERIAU Matériau du collecteurLONGUEUR LongueurZAMONT Altitude amontZAVAL Altitude avalDATEPOSE Date de pose du collecteurEXPLOIT Exploitant du collecteur ]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Nombre de ménages selon le type en 1999 et 2010 par commune</title>
-     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-menages-selon-le-type-en-1999-et-2010-par-commune-alm</link>
-     <description><![CDATA[Type de ménage par commune d'Angers Loire Métropole en 1999 et en 2010 C99_MENPSEUL : nombre de ménages d'une seule personne en 1999 ; C99_MENCOUPSENF : nombre de ménages de couple sans enfant en 1999 ; C99_MENFAMMONO : nombre de ménages de familles monoparentales en 1999 ; C99_MENCOUPAENF : nombre de ménages de couple avec enfant(s) en 1999 ; C99_MENSFAM : nombre de ménages autres en 1999 ;...]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
