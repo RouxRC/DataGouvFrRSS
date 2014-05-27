@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 27 May 2014 18:30:02 +0200</pubDate>
+  <pubDate>Tue, 27 May 2014 18:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Collections d'interactions plantes/pollinisateurs du Suivi Photographique des Insectes Pollinisateurs</title>
+     <link>https://www.data.gouv.fr/fr/dataset/collections-d-interactions-plantes-pollinisateurs-du-suivi-photographique-des-insectes-pollinisateur</link>
+     <description><![CDATA[Le Suivi Photographique des Insectes Pollinisateurs (SPIPOLL) est un programme de sciences participatives de Vigie-Nature co-animé par le Muséum National d'Histoire Naturelle et l'Office pour les insectes et leur environnement. Chacun peut participer en prenant en photo pendant un temps déterminé (20mn minimum) tous les types d'insectes visitant une fleur. Cette collection de photos est...]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Les dépenses de prévention collective</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-depenses-de-prevention-collective</link>
@@ -358,12 +364,6 @@
      <title>Nombre de ménages selon le type en 1999 et 2010 par commune</title>
      <link>https://www.data.gouv.fr/fr/dataset/nombre-de-menages-selon-le-type-en-1999-et-2010-par-commune-alm</link>
      <description><![CDATA[Type de ménage par commune d'Angers Loire Métropole en 1999 et en 2010 C99_MENPSEUL : nombre de ménages d'une seule personne en 1999 ; C99_MENCOUPSENF : nombre de ménages de couple sans enfant en 1999 ; C99_MENFAMMONO : nombre de ménages de familles monoparentales en 1999 ; C99_MENCOUPAENF : nombre de ménages de couple avec enfant(s) en 1999 ; C99_MENSFAM : nombre de ménages autres en 1999 ;...]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Evolution de la croissance démographique entre 1999 et 2010</title>
-     <link>https://www.data.gouv.fr/fr/dataset/evolution-de-la-croissance-demographique-entre-1999-et-2010-alm</link>
-     <description><![CDATA[Croissance démographique, contribution des soldes naturel et migratoire d'Angers Loire Métropole TX_VAR99_10_MOY_AN : croissance démographique moyenne annuelle par communes entre 1999 et 2010 ; TX_SOLDE_NATUREL99_10 : contribution du solde naturel à la croissance démographique entre 1999 et 2010 par commune ; TX_SOLDE_MIGRATOIRE99_10 : contribution du solde migratoire à la croissance...]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
