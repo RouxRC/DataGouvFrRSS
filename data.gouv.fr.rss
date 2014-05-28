@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 28 May 2014 16:20:02 +0200</pubDate>
+  <pubDate>Wed, 28 May 2014 17:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Servitudes d'Utilité Publique AR6 ouvrages militaires terrestres </title>
+     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-ar6-ouvrages-militaires-terrestres</link>
+     <description><![CDATA[Ouvrages militaires terrestres - Servitudes relatives aux abords des champs de tir ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
+  <item>
+     <title>Publicité annuelle des marchés conclus</title>
+     <link>https://www.data.gouv.fr/fr/dataset/publicite-annuelle-des-marches-conclus</link>
+     <description><![CDATA[ Au premier trimestre de chaque année, les acheteurs doivent publier la liste des marchés de fournitures, services ou travaux conclus l'année précédente (art. 133 du Code des marchés publics). À compter du 1er janvier 2012, les modalités de recensement annuel des marchés doivent répondre aux nouvelles dispositions fixées par l'arrêté du 21 juillet 2011. Un nombre de tranches réduit...]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Servitudes d'Utilité Publique PT2 protection des centres radioélectriques d'émission et de réception contre les obstacles </title>
      <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-pt2-protection-des-centres-radioelectriques-d-emission-et-de-reception</link>
@@ -352,18 +364,6 @@
      <title>Observatoire de la flore sauvage à Angers</title>
      <link>https://www.data.gouv.fr/fr/dataset/observatoire-de-la-flore-sauvage-a-angers-alm</link>
      <description><![CDATA[Extraction de la Base Flora Data de Tela Botanica pour le territoire de la Ville d'Angers à propos fichier au format KML &gt; ne sont contenus que les entrées offrant une géolocalisation en bonne due et forme &gt; soit 1831 entrées sur les 2139 enregistrées au format .cvs et .xls Observation participative de la flore sauvage par le muséum de Sciences naturelles de la Ville d'Angers et le...]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Emplois au lieu de travail par secteur d'activités en 2010</title>
-     <link>https://www.data.gouv.fr/fr/dataset/emplois-au-lieu-de-travail-par-secteur-d-activites-en-2010-alm</link>
-     <description><![CDATA[Nombre d'emplois au lieu de travail selon le secteur d'activité en 2010 par commune d'Angers Loire Métropole C10_EMPLT_AGRI : emplois au lieu de travail dans le secteur agricole en 2010 ; C10_EMPLT_INDUST : emplois au lieu de travail dans le secteur industriel en 2010 ; C10_EMPLT_CONST : emplois au lieu de travail dans le secteur de la construction en 2010 ; C10_EMPLT_CTS : emplois au lieu de...]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Maquette du budget primitif Eau 2012</title>
-     <link>https://www.data.gouv.fr/fr/dataset/maquette-du-budget-primitif-eau-2012-alm</link>
-     <description><![CDATA[Le jeu contient la maquette du budget primitif (eau) 2012 du budget principal de la Communauté Urbaine d'Angers Loire Métropole. Le budget primitif, voté annuellement, constitue la prévision des dépenses et des recettes pour l'année. ]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
