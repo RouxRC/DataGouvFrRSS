@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 28 May 2014 11:30:02 +0200</pubDate>
+  <pubDate>Wed, 28 May 2014 11:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les crimes et délits enregistrés par la police nationale</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-crimes-et-delits-enregistres-par-la-police-nationa-1</link>
+     <description><![CDATA[Les données des faits constatés sont fournies sous forme de tables comprenant en lignes les 107 index d'infractions de l'état statistique 4001 et en colonnes les départements et collectivités d'outre-mer. Il s'agit des faits enregistrés par l'ensemble des services de la police nationale localisés au lieu de leur enregistrement. ]]></description>
+     <author>Observatoire national de la délinquance et des réponses pénales (ondrp) (certifié)</author>
+  </item>
   <item>
      <title>Les crimes et délits enregistrés par la police nationale</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-crimes-et-delits-enregistres-par-la-police-nationale</link>
@@ -358,12 +364,6 @@
      <title>Taille moyenne des ménages d'Angers Loire Métropole</title>
      <link>https://www.data.gouv.fr/fr/dataset/taille-moyenne-des-menages-d-angers-loire-metropole-alm</link>
      <description><![CDATA[Nombre moyen de personnes par ménage en 1999 et en 2010, commune par commune d'ALM. P99_TMM : nombre moyen de personnes par ménage en 1999 ; P10_TMM : nombre moyen de personnes par ménage en 2010 ]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Borne de puisage client</title>
-     <link>https://www.data.gouv.fr/fr/dataset/borne-de-puisage-client-alm</link>
-     <description><![CDATA[Localisation des bornes d'eau servant à l'approvisionnement ponctuel des professionnels ]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
