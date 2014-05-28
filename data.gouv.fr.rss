@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 28 May 2014 15:40:02 +0200</pubDate>
+  <pubDate>Wed, 28 May 2014 16:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Servitudes d'Utilité Publique PT2 protection des centres radioélectriques d'émission et de réception contre les obstacles </title>
+     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-pt2-protection-des-centres-radioelectriques-d-emission-et-de-reception</link>
+     <description><![CDATA[Servitude de protection des centres radioélectriques d'émission et de réception contre les obstacles - Centre d'emission et de réception et Zones de dégagement. ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Les crimes et délits enregistrés par la gendarmerie nationale</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-crimes-et-delits-enregistres-par-la-gendarmerie-nationa-0</link>
@@ -358,12 +364,6 @@
      <title>Maquette du budget primitif Eau 2012</title>
      <link>https://www.data.gouv.fr/fr/dataset/maquette-du-budget-primitif-eau-2012-alm</link>
      <description><![CDATA[Le jeu contient la maquette du budget primitif (eau) 2012 du budget principal de la Communauté Urbaine d'Angers Loire Métropole. Le budget primitif, voté annuellement, constitue la prévision des dépenses et des recettes pour l'année. ]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Collecte des ordures ménagères - Ville d'Angers</title>
-     <link>https://www.data.gouv.fr/fr/dataset/collecte-des-ordures-menageres-ville-d-angers-alm</link>
-     <description><![CDATA[Circuits, horaires et jours de collecte des ordures ménagères et du tri sur la Ville d'Angers ]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
