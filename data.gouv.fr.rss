@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 29 May 2014 18:10:02 +0200</pubDate>
+  <pubDate>Fri, 30 May 2014 10:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Résultats des élections européennes de 2014 par commune</title>
+     <link>https://www.data.gouv.fr/fr/dataset/resultats-des-elections-europeennes-de-2014-par-commune</link>
+     <description><![CDATA[Ce jeu de données a été élaboré à partir des résultats diffusés par le ministère de l'intérieur. Les résultats ont été sommés par étiquette politique et sont directement utilisables. ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Publicité annuelle des marchés conclus en 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/publicite-annuelle-des-marches-conclus-en-20-0</link>
@@ -358,12 +364,6 @@
      <title>Maquette Principale du Compte Administratif 2011</title>
      <link>https://www.data.gouv.fr/fr/dataset/maquette-principale-du-compte-administratif-2011-alm</link>
      <description><![CDATA[Le jeu contient la maquette principale compte administratif 2011 du budget principal d'Angers Loire Métropole. Le compte administratif, voté annuellement, retrace l'exécution du budget en dépenses et en recettes. ]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Patrimoine - Lieux Dits</title>
-     <link>https://www.data.gouv.fr/fr/dataset/patrimoine-lieux-dits-alm</link>
-     <description><![CDATA[]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
