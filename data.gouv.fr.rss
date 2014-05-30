@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 30 May 2014 10:30:02 +0200</pubDate>
+  <pubDate>Fri, 30 May 2014 10:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Elections européennes 2014 - Résultats par communes</title>
+     <link>https://www.data.gouv.fr/fr/dataset/elections-europeennes-2014-resultats-par-communes</link>
+     <description><![CDATA[Résultats des élections européennes 2014 par communes, proclamés par la commission nationale de recensement des votes ]]></description>
+     <author>Ministère de l'Intérieur (certifié)</author>
+  </item>
   <item>
      <title>Résultats des élections européennes de 2014 par commune</title>
      <link>https://www.data.gouv.fr/fr/dataset/resultats-des-elections-europeennes-de-2014-par-commune</link>
@@ -358,12 +364,6 @@
      <title>Synthèse du Bilan Carbone d'Angers Loire Métropole</title>
      <link>https://www.data.gouv.fr/fr/dataset/synthese-du-bilan-carbone-d-angers-loire-metropole-alm</link>
      <description><![CDATA[Synthèse du Bilan Carbone d'Angers Loire Métropole publié en décembre 2008. Bilan des émissions de gaz à effet de serre, Bilan Carbone ]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Maquette Principale du Compte Administratif 2011</title>
-     <link>https://www.data.gouv.fr/fr/dataset/maquette-principale-du-compte-administratif-2011-alm</link>
-     <description><![CDATA[Le jeu contient la maquette principale compte administratif 2011 du budget principal d'Angers Loire Métropole. Le compte administratif, voté annuellement, retrace l'exécution du budget en dépenses et en recettes. ]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
