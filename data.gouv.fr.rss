@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 30 May 2014 12:40:02 +0200</pubDate>
+  <pubDate>Fri, 30 May 2014 14:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Exécution 2013 du budget de l'Etat en CP et AE </title>
+     <link>https://www.data.gouv.fr/fr/dataset/execution-2013-du-budget-de-l-etat-en-cp-et-ae</link>
+     <description><![CDATA[Données d'exécution des Autorisations d'Engagement (AE) et des Crédits de Paiement (CP) du Budget de l'Etat (budget général, comptes d'affectation spéciale et comptes de concours financiers) telles que présentées dans les rapports annuels de performances (RAP) annexés au projet de loi de règlement (PLR) 2013. Ce jeu de données est composé de 5 fichiers au format CSV suivant la nomenclature en...]]></description>
+     <author>Ministère des finances et des comptes publics (certifié)</author>
+  </item>
   <item>
      <title>Elections européennes 2014 - Résultats</title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-europeennes-2014-resulta-2</link>
@@ -358,12 +364,6 @@
      <title>Correspondance code INSEE-code postal des communes d'ALM</title>
      <link>https://www.data.gouv.fr/fr/dataset/correspondance-code-insee-code-postal-des-communes-d-alm-alm</link>
      <description><![CDATA[Correspondance des code INSEE et codes postaux des communes d'Angers Loire Métropole ]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Maquette du compte administratif Transport 2011</title>
-     <link>https://www.data.gouv.fr/fr/dataset/maquette-du-compte-administratif-transport-2011-alm</link>
-     <description><![CDATA[Le jeu contient la maquette du compte administratif (transport) 2011 du budget principal d'Angers Loire Métropole. Le compte administratif, voté annuellement, retrace l'exécution du budget en dépenses et en recettes. ]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
