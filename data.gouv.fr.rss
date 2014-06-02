@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 02 Jun 2014 15:10:03 +0200</pubDate>
+  <pubDate>Mon, 02 Jun 2014 16:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Subventions municipales de la ville de Nogent-sur-Marne aux association en 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/subventions-municipales-de-la-ville-de-nogent-sur-marne-aux-association-en-2014</link>
+     <description><![CDATA[Ce jeu de données reprend les subventions accordées par la ville de Nogent-sur-Marne aux associations pour l'année 2014 telles que votées lors du conseil municipal du 17 avril 2014. ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Trafic annuel entrant par station (2013)</title>
      <link>https://www.data.gouv.fr/fr/dataset/trafic-annuel-entrant-par-station-2013-ratp</link>
@@ -358,12 +364,6 @@
      <title>Limite des communes d'Angers Loire Métropole</title>
      <link>https://www.data.gouv.fr/fr/dataset/limite-des-communes-d-angers-loire-metropole-alm</link>
      <description><![CDATA[Limite de territoire des trente-trois communes d'Angers Loire Métropole. ]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Correspondance code INSEE-code postal des communes d'ALM</title>
-     <link>https://www.data.gouv.fr/fr/dataset/correspondance-code-insee-code-postal-des-communes-d-alm-alm</link>
-     <description><![CDATA[Correspondance des code INSEE et codes postaux des communes d'Angers Loire Métropole ]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
