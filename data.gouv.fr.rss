@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 02 Jun 2014 14:20:02 +0200</pubDate>
+  <pubDate>Mon, 02 Jun 2014 15:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Trafic annuel entrant par station (2013)</title>
@@ -34,12 +34,6 @@
      <title>Résultats des élections européennes de 2014 par commune</title>
      <link>https://www.data.gouv.fr/fr/dataset/resultats-des-elections-europeennes-de-2014-par-commune</link>
      <description><![CDATA[Ce jeu de données a été élaboré à partir des résultats diffusés par le ministère de l'intérieur. Les résultats ont été sommés par étiquette politique et sont directement utilisables. ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Publicité annuelle des marchés conclus en 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/publicite-annuelle-des-marches-conclus-en-20-0</link>
-     <description><![CDATA[ Maîtrise d'œuvre pour la construction d'un espace de baignade au camping Marché attribué à Atelier KPDP (73000) le 05/12/2013 Création d’un réseau d’eaux pluviales sous le chemin des Galles Marché attribué à VTM COUTURIER (73170) le 18/12/2013 Travaux de voirie 2013 Marché attribué à EIFFAGE TRAVAUX PUBLICS (73420) le 03/06/2013 Agrandissement des garages...]]></description>
      <author>citoyen</author>
   </item>
   <item>
@@ -364,6 +358,12 @@
      <title>Limite des communes d'Angers Loire Métropole</title>
      <link>https://www.data.gouv.fr/fr/dataset/limite-des-communes-d-angers-loire-metropole-alm</link>
      <description><![CDATA[Limite de territoire des trente-trois communes d'Angers Loire Métropole. ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Correspondance code INSEE-code postal des communes d'ALM</title>
+     <link>https://www.data.gouv.fr/fr/dataset/correspondance-code-insee-code-postal-des-communes-d-alm-alm</link>
+     <description><![CDATA[Correspondance des code INSEE et codes postaux des communes d'Angers Loire Métropole ]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
