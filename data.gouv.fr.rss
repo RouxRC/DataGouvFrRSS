@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 02 Jun 2014 16:10:02 +0200</pubDate>
+  <pubDate>Mon, 02 Jun 2014 16:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Servitudes d'Utilité Publique PM2 Installations classées </title>
+     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-pm2-installations-classees</link>
+     <description><![CDATA[Installations classées - Servitudes résultant des périmètres délimités autour des installations classées implantées sur un site nouveau. ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Subventions municipales de la ville de Nogent-sur-Marne aux association en 2014</title>
      <link>https://www.data.gouv.fr/fr/dataset/subventions-municipales-de-la-ville-de-nogent-sur-marne-aux-association-en-2014</link>
@@ -358,12 +364,6 @@
      <title>Patrimoine - Inventaire Equipement</title>
      <link>https://www.data.gouv.fr/fr/dataset/patrimoine-inventaire-equipement-alm</link>
      <description><![CDATA[]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Limite des communes d'Angers Loire Métropole</title>
-     <link>https://www.data.gouv.fr/fr/dataset/limite-des-communes-d-angers-loire-metropole-alm</link>
-     <description><![CDATA[Limite de territoire des trente-trois communes d'Angers Loire Métropole. ]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
