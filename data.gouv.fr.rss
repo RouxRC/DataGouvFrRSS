@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 03 Jun 2014 16:00:02 +0200</pubDate>
+  <pubDate>Tue, 03 Jun 2014 16:20:03 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Servitudes d'Utilité Publique A6 Ecoulement des eaux nuisibles </title>
+     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-a6-ecoulement-des-eaux-nuisibles</link>
+     <description><![CDATA[Ecoulement des eaux nuisibles - Servitudes d'écoulement des eaux nuisibles attachées aux travaux d'assainissement des terres par le drainage. ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Projet de redécoupages des régions</title>
      <link>https://www.data.gouv.fr/fr/dataset/projet-de-redecoupages-des-regions</link>
@@ -358,12 +364,6 @@
      <title>Bilan Carbone d'Angers Loire Métropole 2008</title>
      <link>https://www.data.gouv.fr/fr/dataset/bilan-carbone-d-angers-loire-metropole-2008-alm</link>
      <description><![CDATA[Présentation des conclusions du Bilan Carbone d'Angers Loire Métropole publié en décembre 2008. Bilan des émissions de gaz à effet de serre, Bilan Carbone ]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Points d'apport volontaire à Angers Loire Métropole</title>
-     <link>https://www.data.gouv.fr/fr/dataset/points-d-apport-volontaire-a-angers-loire-metropole-alm</link>
-     <description><![CDATA[Liste des points d'apport volontaire du verre, des ordures ménagères et du tri sur le territoire d'Angers Loire Métropole les données au format KML des points d'apport volontaire sont mises à disposition à titre expérimental ]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
