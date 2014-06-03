@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 03 Jun 2014 13:10:02 +0200</pubDate>
+  <pubDate>Tue, 03 Jun 2014 16:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Projet de redécoupages des régions</title>
+     <link>https://www.data.gouv.fr/fr/dataset/projet-de-redecoupages-des-regions</link>
+     <description><![CDATA[Projet de refonte des régions proposé le 2 juin 2014. Exports du découpage administratif français au niveau régional (contours des régions) issu d'OpenStreetMap produit dans sa grande majorité à partir du cadastre. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont sous licence ODbL qui impose un partage à l'identique et la mention...]]></description>
+     <author>OpenStreetMap</author>
+  </item>
   <item>
      <title>Enquête auprès des établissements d’hébergement pour personnes âgées (EHPA)</title>
      <link>https://www.data.gouv.fr/fr/dataset/enquete-aupres-des-etablissements-d-hebergement-pour-personnes-agees-ehpa</link>
@@ -358,12 +364,6 @@
      <title>Points d'apport volontaire à Angers Loire Métropole</title>
      <link>https://www.data.gouv.fr/fr/dataset/points-d-apport-volontaire-a-angers-loire-metropole-alm</link>
      <description><![CDATA[Liste des points d'apport volontaire du verre, des ordures ménagères et du tri sur le territoire d'Angers Loire Métropole les données au format KML des points d'apport volontaire sont mises à disposition à titre expérimental ]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Maquette du compte administratif Aéroport 2011</title>
-     <link>https://www.data.gouv.fr/fr/dataset/maquette-du-compte-administratif-aeroport-2011-alm</link>
-     <description><![CDATA[Le jeu contient la maquette du compte administratif (aéroport) 2011 du budget principal d'Angers Loire Métropole. Le compte administratif, voté annuellement, retrace l'exécution du budget en dépenses et en recettes. Le compte administratif, voté annuellement, retrace l'exécution du budget en dépenses et en recettes. ]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
