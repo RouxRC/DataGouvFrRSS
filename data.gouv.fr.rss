@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 03 Jun 2014 12:00:03 +0200</pubDate>
+  <pubDate>Tue, 03 Jun 2014 13:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Enquête auprès des établissements d’hébergement pour personnes âgées (EHPA)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/enquete-aupres-des-etablissements-d-hebergement-pour-personnes-agees-ehpa</link>
+     <description><![CDATA[L’enquête EHPA apporte des informations sur l’activité des établissements hébergeant des personnes âgées, ainsi que sur le personnel qui y travaille et les personnes âgées qui y résident. ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Servitudes d'Utilité Publique I1 Hydrocarbures liquides </title>
      <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-i1-hydrocarbures-liquides</link>
@@ -358,12 +364,6 @@
      <title>Maquette du compte administratif Aéroport 2011</title>
      <link>https://www.data.gouv.fr/fr/dataset/maquette-du-compte-administratif-aeroport-2011-alm</link>
      <description><![CDATA[Le jeu contient la maquette du compte administratif (aéroport) 2011 du budget principal d'Angers Loire Métropole. Le compte administratif, voté annuellement, retrace l'exécution du budget en dépenses et en recettes. Le compte administratif, voté annuellement, retrace l'exécution du budget en dépenses et en recettes. ]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Patrimoine - Liste des bâtiments du patrimoine (Partie 2)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/patrimoine-liste-des-batiments-du-patrimoine-partie-2-alm</link>
-     <description><![CDATA[]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
