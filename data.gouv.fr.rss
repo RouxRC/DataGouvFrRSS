@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 04 Jun 2014 15:50:02 +0200</pubDate>
+  <pubDate>Wed, 04 Jun 2014 16:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Servitudes d'Utilité Publique PT3 réseaux de télécommunication </title>
@@ -41,6 +41,12 @@
      <link>https://www.data.gouv.fr/fr/dataset/enquete-aupres-des-etablissements-d-hebergement-pour-personnes-agees-ehpa</link>
      <description><![CDATA[L’enquête EHPA apporte des informations sur l’activité des établissements hébergeant des personnes âgées, ainsi que sur le personnel qui y travaille et les personnes âgées qui y résident. ]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
+  <item>
+     <title>Zone Urbaine Sensible</title>
+     <link>https://www.data.gouv.fr/fr/dataset/zone-urbaine-sensib-0</link>
+     <description><![CDATA[Limites géographiques des zones urbaines sensibles de la ville de Saint-Quentin. Lien vers la ressource : http://saint-quentin-numerique.fr/Zone-Urbaine-Sensible ]]></description>
+     <author>Saint Quentin (Aisne) (certifié)</author>
   </item>
   <item>
      <title>Servitudes d'Utilité Publique I1 Hydrocarbures liquides </title>
@@ -358,12 +364,6 @@
      <title>Population d'Angers Loire Métropole par tranches d'âge</title>
      <link>https://www.data.gouv.fr/fr/dataset/population-d-angers-loire-metropole-par-tranches-d-age-alm</link>
      <description><![CDATA[Nombre d'habitants par classes d'âges en 1999 et 2010 par commune P99_POP0014 : nombre d'habitants âgé entre 0 et 14 ans en 1999 ; P99_POP1529 : nombre d'habitants âgé entre 15 et 29 ans en 1999 ; P99_POP3044 : nombre d'habitants âgé entre 30 et 44 ans en 1999 ; P99_POP4559 : nombre d'habitants âgé entre 45 et 59 ans en 1999 ; P99_POP6074 : nombre d'habitants âgé entre 60 et 74 ans en 1999 ;...]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Chambres d'hôtes d'Angers Loire Métropole</title>
-     <link>https://www.data.gouv.fr/fr/dataset/chambres-d-hotes-d-angers-loire-metropole-alm</link>
-     <description><![CDATA[Liste des chambres d'hôtes sur le territoire d'Angers Loire Métropole Ce fichier contient les informations de géolocalisation de chaque entrée. ]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
