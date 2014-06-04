@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 04 Jun 2014 14:50:03 +0200</pubDate>
+  <pubDate>Wed, 04 Jun 2014 15:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Servitudes d'Utilité Publique PT3 réseaux de télécommunication </title>
+     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-pt3-reseaux-de-telecommunication</link>
+     <description><![CDATA[Servitude attachée aux réseaux de télécommunications instituée en application des articles L. 45-1 et L. 48 du code des postes et des communications électroniques. ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Les condamnations (statistiques à partir du casier judiciaire national)</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-condamnations-statistiques-a-partir-du-casier-judiciaire-national</link>
@@ -358,12 +364,6 @@
      <title>Chambres d'hôtes d'Angers Loire Métropole</title>
      <link>https://www.data.gouv.fr/fr/dataset/chambres-d-hotes-d-angers-loire-metropole-alm</link>
      <description><![CDATA[Liste des chambres d'hôtes sur le territoire d'Angers Loire Métropole Ce fichier contient les informations de géolocalisation de chaque entrée. ]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Borne Incendie</title>
-     <link>https://www.data.gouv.fr/fr/dataset/borne-incendie-alm</link>
-     <description><![CDATA[Localisation des bornes et poteaux incendie ]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
