@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 04 Jun 2014 11:30:02 +0200</pubDate>
+  <pubDate>Wed, 04 Jun 2014 14:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Atlas statistique du projet de redécoupage des régions</title>
+     <link>https://www.data.gouv.fr/fr/dataset/atlas-statistique-du-projet-de-redecoupage-des-regions</link>
+     <description><![CDATA[Découvrez le projet de redécoupage des régions françaises au moyen de cartes thématiques autour de la population du logement de l'emploi et du PIB. ]]></description>
+     <author>Emc3 / Géoclip</author>
+  </item>
   <item>
      <title>Servitudes d'Utilité Publique A6 Ecoulement des eaux nuisibles </title>
      <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-a6-ecoulement-des-eaux-nuisibles</link>
@@ -358,12 +364,6 @@
      <title>Âge des conduites du réseau d'eaux usées</title>
      <link>https://www.data.gouv.fr/fr/dataset/age-des-conduites-du-reseau-d-eaux-usees-alm</link>
      <description><![CDATA[Nombre de kilomètres de conduite d'eau posée par année (depuis 1950) ANNEE DE POSE année de pose, SOM somme des longueurs de conduite posées par an ]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Limite des quartiers de la Ville d'Angers</title>
-     <link>https://www.data.gouv.fr/fr/dataset/limite-des-quartiers-de-la-ville-d-angers-alm</link>
-     <description><![CDATA[Découpage administratif des conseils de quartier de la Ville d'Angers. Le territoire est divisé en dix quartiers: Les Hauts de Saint Aubin, Monplaisir, Saint Serge / Ney / Chalouère, Deux-Croix / Banchaix, Madelaine / Saint-Léonard / Justices, Centre-Ville / La Fayette, La Roseraie, Lac de Maine, Belle-Beille, Doutre / Saint-Jacques. ]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
