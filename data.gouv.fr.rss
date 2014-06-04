@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 04 Jun 2014 10:20:02 +0200</pubDate>
+  <pubDate>Wed, 04 Jun 2014 11:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Servitudes d'Utilité Publique A6 Ecoulement des eaux nuisibles </title>
@@ -137,6 +137,12 @@
      <link>https://www.data.gouv.fr/fr/dataset/crimes-et-delits-constates-par-la-police-nationale-en-2013</link>
      <description><![CDATA[Les données des faits constatés sont fournies sous forme de tables comprenant en lignes les 107 index d'infractions de l'état statistique 4001 et en colonnes les départements et collectivités d'outre-mer. Il s'agit des faits enregistrés par l'ensemble des services de la police nationale localisés au lieu de leur enregistrement. ]]></description>
      <author>Observatoire national de la délinquance et des réponses pénales (ondrp) (certifié)</author>
+  </item>
+  <item>
+     <title>Hébergements touristiques</title>
+     <link>https://www.data.gouv.fr/fr/dataset/hebergements-touristiques</link>
+     <description><![CDATA[Description : Emplacement des hébergements touristiques de la ville de Saint-Quentin selon la catégorie (hôtel ; chambre d’hôte ; gîte et meublé ; camping). Ce listing comprend uniquement les hébergements qui sont référencés par l’Office de Tourisme. Lien de la ressource : http://www.saint-quentin-numerique.fr/Hebergements-touristiques ]]></description>
+     <author>Saint Quentin (Aisne) (certifié)</author>
   </item>
   <item>
      <title>Servitudes d'Utilité Publique PT1 protection des centres de réception radioélectrique contre les perturbations électromagnétiques</title>
@@ -358,12 +364,6 @@
      <title>Limite des quartiers de la Ville d'Angers</title>
      <link>https://www.data.gouv.fr/fr/dataset/limite-des-quartiers-de-la-ville-d-angers-alm</link>
      <description><![CDATA[Découpage administratif des conseils de quartier de la Ville d'Angers. Le territoire est divisé en dix quartiers: Les Hauts de Saint Aubin, Monplaisir, Saint Serge / Ney / Chalouère, Deux-Croix / Banchaix, Madelaine / Saint-Léonard / Justices, Centre-Ville / La Fayette, La Roseraie, Lac de Maine, Belle-Beille, Doutre / Saint-Jacques. ]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Bilan Carbone d'Angers Loire Métropole 2008</title>
-     <link>https://www.data.gouv.fr/fr/dataset/bilan-carbone-d-angers-loire-metropole-2008-alm</link>
-     <description><![CDATA[Présentation des conclusions du Bilan Carbone d'Angers Loire Métropole publié en décembre 2008. Bilan des émissions de gaz à effet de serre, Bilan Carbone ]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
