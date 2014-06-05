@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 05 Jun 2014 10:30:02 +0200</pubDate>
+  <pubDate>Thu, 05 Jun 2014 11:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Offrelégale.fr : liste et description des plateformes publiées, juin 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/offrelegale-fr-liste-et-description-des-plateformes-publiees-juin-2014</link>
+     <description><![CDATA[Données descriptives des plateformes publiées sur offrelegale.fr, site qui recense les offres culturelles labellisées Hadopi ou pouvant être regardées comme étant légales. ]]></description>
+     <author>Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (HADOPI) (certifié)</author>
+  </item>
   <item>
      <title>Servitudes d'Utilité Publique T4 Relation aeriennes - Balisage </title>
      <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-t4-relation-aeriennes-balisage</link>
@@ -358,12 +364,6 @@
      <title>Nombre de naissances de 2008 à 2012 par commune</title>
      <link>https://www.data.gouv.fr/fr/dataset/nombre-de-naissances-de-2008-a-2012-par-commune-alm</link>
      <description><![CDATA[Naissances domiciliées à la commune de résidence 2008 : naissances domiciliées à la commune de résidence en 2008 ; 2009 : naissances domiciliées à la commune de résidence en 2009 ; 2010 : naissances domiciliées à la commune de résidence en 2010 ; 2011 : naissances domiciliées à la commune de résidence en 2011 ; 2012 : naissances domiciliées à la commune de résidence en 2012 ]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Hôtels d'Angers Loire Métropole.</title>
-     <link>https://www.data.gouv.fr/fr/dataset/hotels-d-angers-loire-metropole-alm</link>
-     <description><![CDATA[Liste des hôtels sur le territoire d'Angers Loire Métropole Ce fichier contient les informations de géolocalisation de chaque entrée. ]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
