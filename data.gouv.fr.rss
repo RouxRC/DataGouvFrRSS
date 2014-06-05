@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 04 Jun 2014 16:30:02 +0200</pubDate>
+  <pubDate>Thu, 05 Jun 2014 09:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Servitudes d'Utilité Publique PT3 réseaux de télécommunication </title>
@@ -44,7 +44,7 @@
   </item>
   <item>
      <title>Zone Urbaine Sensible</title>
-     <link>https://www.data.gouv.fr/fr/dataset/zone-urbaine-sensib-0</link>
+     <link>https://www.data.gouv.fr/fr/dataset/zone-urbaine-sensible</link>
      <description><![CDATA[Limites géographiques des zones urbaines sensibles de la ville de Saint-Quentin. Lien vers la ressource : http://saint-quentin-numerique.fr/Zone-Urbaine-Sensible ]]></description>
      <author>Saint Quentin (Aisne) (certifié)</author>
   </item>
