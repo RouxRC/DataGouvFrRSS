@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 05 Jun 2014 12:30:02 +0200</pubDate>
+  <pubDate>Thu, 05 Jun 2014 15:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Subventions 2010 versées aux associations à Dijon (Bourgogne-Côte d'Or-21-F)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/subventions-2010-versees-aux-associations-a-dijon-bourgogne-cote-d-or-21-f</link>
+     <description><![CDATA[Nom de la personne morale de droit public : Conseil Général de la Côte d'Or Subventions versées aux associations de droit français et aux fondations reconnues d'utilité publique année 2010 Adresse de la personne morale de droit public : 1 Rue Joseph Tissot 21035 Dijon cedex N° SIREN de la personne morale de droit public Numéro de SIREN Raison Sociale Autre numéro...]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Baromètre de l'offre légale de biens culturels dématérialisés - janvier 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/barometre-de-l-offre-legale-de-biens-culturels-dematerialises-janvier-2013</link>
@@ -358,12 +364,6 @@
      <title>Nombre de résidences principales selon le nombre de pièces en 1999 et 2010</title>
      <link>https://www.data.gouv.fr/fr/dataset/nombre-de-residences-principales-selon-le-nombre-de-pieces-en-1999-et-2010-alm</link>
      <description><![CDATA[Nombre de résidences principales selon la taille en 1999 et en 2010 par commune d'Angers Loire Métropole. P99_RP_1P : Nombre de résidences principales d'une pièce en 1999 ; P99_RP_2P : Nombre de résidences principales de 2 pièces en 1999 ; P99_RP_3P : Nombre de résidences principales de 3 pièces en 1999 ; P99_RP_4P : Nombre de résidences principales de 4 pièces en 1999 ; P99_RP_5PP : Nombre...]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Maquette du budget primitif Transport 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/maquette-du-budget-primitif-transport-2013-alm</link>
-     <description><![CDATA[Le jeu contient la maquette du budget primitif (transport) 2012 du budget principal de la Communauté Urbaine d'Angers Loire Métropole. Le budget primitif, voté annuellement, constitue la prévision des dépenses et des recettes pour l'année. ]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
