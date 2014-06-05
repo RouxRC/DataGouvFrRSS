@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 05 Jun 2014 09:40:02 +0200</pubDate>
+  <pubDate>Thu, 05 Jun 2014 10:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Servitudes d'Utilité Publique T4 Relation aeriennes - Balisage </title>
+     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-t4-relation-aeriennes-balisage</link>
+     <description><![CDATA[Relations aériennes - Servitudes aéronautiques - Servitudes de balisage (aérodromes civils et militaires). ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Servitudes d'Utilité Publique PT3 réseaux de télécommunication </title>
      <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-pt3-reseaux-de-telecommunication</link>
@@ -358,12 +364,6 @@
      <title>Hôtels d'Angers Loire Métropole.</title>
      <link>https://www.data.gouv.fr/fr/dataset/hotels-d-angers-loire-metropole-alm</link>
      <description><![CDATA[Liste des hôtels sur le territoire d'Angers Loire Métropole Ce fichier contient les informations de géolocalisation de chaque entrée. ]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Population d'Angers Loire Métropole par tranches d'âge</title>
-     <link>https://www.data.gouv.fr/fr/dataset/population-d-angers-loire-metropole-par-tranches-d-age-alm</link>
-     <description><![CDATA[Nombre d'habitants par classes d'âges en 1999 et 2010 par commune P99_POP0014 : nombre d'habitants âgé entre 0 et 14 ans en 1999 ; P99_POP1529 : nombre d'habitants âgé entre 15 et 29 ans en 1999 ; P99_POP3044 : nombre d'habitants âgé entre 30 et 44 ans en 1999 ; P99_POP4559 : nombre d'habitants âgé entre 45 et 59 ans en 1999 ; P99_POP6074 : nombre d'habitants âgé entre 60 et 74 ans en 1999 ;...]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
