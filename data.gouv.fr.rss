@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 10 Jun 2014 14:20:02 +0200</pubDate>
+  <pubDate>Tue, 10 Jun 2014 18:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Excambia</title>
+     <link>https://www.data.gouv.fr/fr/dataset/excambia</link>
+     <description><![CDATA[Excambia, créée en 2012, est une organisation récompensée à deux reprises par le concours national d’aide à la création d’entreprises de technologies innovantes du Ministère de l’enseignement supérieur et de la recherche en partenariat avec BPIFrance dans la catégorie « émergence» et «création-développement ». La mission principale d’Excambia est de développer, grâce à un moteur de recherche de...]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Servitudes d'Utilité Publique A5 Canalisations d'eau et d'assainissement </title>
      <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-a5-canalisations-d-eau-et-d-assainissement</link>
@@ -358,12 +364,6 @@
      <title>Nombre de résidences principales par type d’occupation en 1999 et 2010</title>
      <link>https://www.data.gouv.fr/fr/dataset/nombre-de-residences-principales-par-type-d-occupation-en-1999-et-2010-alm</link>
      <description><![CDATA[Nombre de résidences principales selon le statut d'occupation en 1999 et en 2010 par commune d'Angers Loire Métropole. P99_RP_PROP : nombre de résidences principales occupées par des propriétaires occupants en 1999 ; P99_RP_LOCPRIV : nombre de résidences principales occupées par des locataires du parc privé en 1999 ; P99_RP_LOCHLMV : nombre de résidences principales occupées par des locataires...]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Zonage du réseau des eaux usées</title>
-     <link>https://www.data.gouv.fr/fr/dataset/zonage-du-reseau-des-eaux-usees-alm</link>
-     <description><![CDATA[Indication géographique du type d'assainissement (collectif / non collectif) zone géographique où le raccordement au réseau de traitement des eaux usées est possible ]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
