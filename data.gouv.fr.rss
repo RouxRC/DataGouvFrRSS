@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 10 Jun 2014 08:30:02 +0200</pubDate>
+  <pubDate>Tue, 10 Jun 2014 10:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Servitudes d'Utilité Publique A5 Canalisations d'eau et d'assainissement </title>
+     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-a5-canalisations-d-eau-et-d-assainissement</link>
+     <description><![CDATA[Servitudes pour la pose des canalisations publiques d'eau potable et d'assainissement. ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Subventions 2010 versées aux associations à Dijon (Bourgogne-Côte d'Or-21-F)</title>
      <link>https://www.data.gouv.fr/fr/dataset/subventions-2010-versees-aux-associations-a-dijon-bourgogne-cote-d-or-21-f</link>
@@ -358,12 +364,6 @@
      <title>Zonage du réseau des eaux usées</title>
      <link>https://www.data.gouv.fr/fr/dataset/zonage-du-reseau-des-eaux-usees-alm</link>
      <description><![CDATA[Indication géographique du type d'assainissement (collectif / non collectif) zone géographique où le raccordement au réseau de traitement des eaux usées est possible ]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Nombre de résidences principales selon le nombre de pièces en 1999 et 2010</title>
-     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-residences-principales-selon-le-nombre-de-pieces-en-1999-et-2010-alm</link>
-     <description><![CDATA[Nombre de résidences principales selon la taille en 1999 et en 2010 par commune d'Angers Loire Métropole. P99_RP_1P : Nombre de résidences principales d'une pièce en 1999 ; P99_RP_2P : Nombre de résidences principales de 2 pièces en 1999 ; P99_RP_3P : Nombre de résidences principales de 3 pièces en 1999 ; P99_RP_4P : Nombre de résidences principales de 4 pièces en 1999 ; P99_RP_5PP : Nombre...]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
