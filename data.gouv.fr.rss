@@ -4,80 +4,8 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 07 Jun 2014 11:10:02 +0200</pubDate>
+  <pubDate>Tue, 10 Jun 2014 08:20:01 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
-  <item>
-     <title>Subventions 2010 versées aux associations à Dijon (Bourgogne-Côte d'Or-21-F)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/subventions-2010-versees-aux-associations-a-dijon-bourgogne-cote-d-or-21-f</link>
-     <description><![CDATA[Nom de la personne morale de droit public : Conseil Général de la Côte d'Or Subventions versées aux associations de droit français et aux fondations reconnues d'utilité publique année 2010 Adresse de la personne morale de droit public : 1 Rue Joseph Tissot 21035 Dijon cedex N° SIREN de la personne morale de droit public Numéro de SIREN Raison Sociale Autre numéro...]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Baromètre de l'offre légale de biens culturels dématérialisés - janvier 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/barometre-de-l-offre-legale-de-biens-culturels-dematerialises-janvier-2013</link>
-     <description><![CDATA[Etude quantitative ad-hoc et en ligne menée par l’institut Harris Interactive pour le compte de l'Hadopi auprès d’un échantillon national représentatif de 1500 internautes âgés de 15 ans et plus. Son objectif est d’évaluer la perception qu’ont les internautes de l’offre légale sur des critères simples (prix, choix etc.), et d’aboutir, à partir de ces critères, à un indice d’attractivité de...]]></description>
-     <author>Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (HADOPI) (certifié)</author>
-  </item>
-  <item>
-     <title>Offrelégale.fr : liste et description des plateformes publiées, juin 2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/offrelegale-fr-liste-et-description-des-plateformes-publiees-juin-2014</link>
-     <description><![CDATA[Données descriptives des plateformes publiées sur offrelegale.fr, site qui recense les offres culturelles labellisées Hadopi ou pouvant être regardées comme étant légales. ]]></description>
-     <author>Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (HADOPI) (certifié)</author>
-  </item>
-  <item>
-     <title>Servitudes d'Utilité Publique T4 Relation aeriennes - Balisage </title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-t4-relation-aeriennes-balisage</link>
-     <description><![CDATA[Relations aériennes - Servitudes aéronautiques - Servitudes de balisage (aérodromes civils et militaires). ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
-  </item>
-  <item>
-     <title>Servitudes d'Utilité Publique PT3 réseaux de télécommunication </title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-pt3-reseaux-de-telecommunication</link>
-     <description><![CDATA[Servitude attachée aux réseaux de télécommunications instituée en application des articles L. 45-1 et L. 48 du code des postes et des communications électroniques. ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
-  </item>
-  <item>
-     <title>Les condamnations (statistiques à partir du casier judiciaire national)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-condamnations-statistiques-a-partir-du-casier-judiciaire-national</link>
-     <description><![CDATA[Les données sur les condamnations sont issues du casier judiciaire national qui est une source riche d’informations. Son exploitation permet de décrire les condamnations par nature d’infraction, de peine mais également de fournir des renseignements démographiques sur le profil condamnés. L’étude des condamnations ne donne pas une image complète de la réponse judiciaire à la délinquance. En...]]></description>
-     <author>Ministère de la Justice (certifié)</author>
-  </item>
-  <item>
-     <title>Atlas statistique du projet de redécoupage des régions</title>
-     <link>https://www.data.gouv.fr/fr/dataset/atlas-statistique-du-projet-de-redecoupage-des-regions</link>
-     <description><![CDATA[Découvrez le projet de redécoupage des régions françaises au moyen de cartes thématiques autour de la population du logement de l'emploi et du PIB. ]]></description>
-     <author>Emc3 / Géoclip</author>
-  </item>
-  <item>
-     <title>Servitudes d'Utilité Publique A6 Ecoulement des eaux nuisibles </title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-a6-ecoulement-des-eaux-nuisibles</link>
-     <description><![CDATA[Ecoulement des eaux nuisibles - Servitudes d'écoulement des eaux nuisibles attachées aux travaux d'assainissement des terres par le drainage. ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
-  </item>
-  <item>
-     <title>Projet de redécoupages des régions</title>
-     <link>https://www.data.gouv.fr/fr/dataset/projet-de-redecoupages-des-regions</link>
-     <description><![CDATA[Projet de refonte des régions proposé le 2 juin 2014. Exports du découpage administratif français au niveau régional (contours des régions) issu d'OpenStreetMap produit dans sa grande majorité à partir du cadastre. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont sous licence ODbL qui impose un partage à l'identique et la mention...]]></description>
-     <author>OpenStreetMap</author>
-  </item>
-  <item>
-     <title>Enquête auprès des établissements d’hébergement pour personnes âgées (EHPA)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/enquete-aupres-des-etablissements-d-hebergement-pour-personnes-agees-ehpa</link>
-     <description><![CDATA[L’enquête EHPA apporte des informations sur l’activité des établissements hébergeant des personnes âgées, ainsi que sur le personnel qui y travaille et les personnes âgées qui y résident. ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Zone Urbaine Sensible</title>
-     <link>https://www.data.gouv.fr/fr/dataset/zone-urbaine-sensible</link>
-     <description><![CDATA[Limites géographiques des zones urbaines sensibles de la ville de Saint-Quentin. Lien vers la ressource : http://saint-quentin-numerique.fr/Zone-Urbaine-Sensible ]]></description>
-     <author>Saint Quentin (Aisne) (certifié)</author>
-  </item>
-  <item>
-     <title>Servitudes d'Utilité Publique I1 Hydrocarbures liquides </title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-i1-hydrocarbures-liquides</link>
-     <description><![CDATA[Hydrocarbures liquides - Servitudes concernant des hydrocarbures liquides ou liquéfiés sous pression. ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
-  </item>
   <item>
      <title>Servitudes d'Utilité Publique PM2 Installations classées </title>
      <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-pm2-installations-classees</link>
