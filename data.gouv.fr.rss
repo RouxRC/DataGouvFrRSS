@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 10 Jun 2014 18:30:02 +0200</pubDate>
+  <pubDate>Wed, 11 Jun 2014 17:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Résultats des élections dans la 9e circonscription de Seine-Saint-Denis (Les Lilas)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/resultats-des-elections-dans-la-9e-circonscription-de-seine-saint-denis-les-lilas</link>
+     <description><![CDATA[Elections présidentielles, régionales, européennes, législatives et référendum Source : Centre de données socio-politiques (Science-Po) ]]></description>
+     <author>Les Lilas (certifié)</author>
+  </item>
   <item>
      <title>Excambia</title>
      <link>https://www.data.gouv.fr/fr/dataset/excambia</link>
@@ -358,12 +364,6 @@
      <title>Nomenclature des déchets</title>
      <link>https://www.data.gouv.fr/fr/dataset/nomenclature-des-dechets-alm</link>
      <description><![CDATA[Liste des déchets classés par leur caractère (ordures ménagères-tri-verre) dernière mise-à-jour de la donnée au 09/12 ]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Nombre de résidences principales par type d’occupation en 1999 et 2010</title>
-     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-residences-principales-par-type-d-occupation-en-1999-et-2010-alm</link>
-     <description><![CDATA[Nombre de résidences principales selon le statut d'occupation en 1999 et en 2010 par commune d'Angers Loire Métropole. P99_RP_PROP : nombre de résidences principales occupées par des propriétaires occupants en 1999 ; P99_RP_LOCPRIV : nombre de résidences principales occupées par des locataires du parc privé en 1999 ; P99_RP_LOCHLMV : nombre de résidences principales occupées par des locataires...]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
