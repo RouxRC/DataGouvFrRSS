@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 12 Jun 2014 11:50:02 +0200</pubDate>
+  <pubDate>Thu, 12 Jun 2014 12:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Données de réflectivité et lames d'eau radar sur la zone Grand Molène sur un mois</title>
+     <link>https://www.data.gouv.fr/fr/dataset/donnees-de-reflectivite-et-lames-d-eau-radar-sur-la-zone-grand-molene-sur-un-mois</link>
+     <description><![CDATA[Données à fréquence 5 minutes de réflectivité et lames d'eau radar, pour le mois de janvier 2014, sur la zone 47°N-49°N, 2°W-6°W. Jeu de données mis à disposition pour l'opération Archipel Molène. ]]></description>
+     <author>Météo-France (certifié)</author>
+  </item>
   <item>
      <title>Données horaires des 55 stations terrestres de la zone Large Molène sur un mois</title>
      <link>https://www.data.gouv.fr/fr/dataset/donnees-horaires-des-55-stations-terrestres-de-la-zone-large-molene-sur-un-mois</link>
@@ -358,12 +364,6 @@
      <title>Solde naturel de 2008 à 2012 par commune</title>
      <link>https://www.data.gouv.fr/fr/dataset/solde-naturel-de-2008-a-2012-par-commune-alm</link>
      <description><![CDATA[Solde naturel par an et par commune d'Angers Loire Métropole 2008 : Solde naturel par an et par commune en 2008 ; 2009 : Solde naturel par an et par commune en 2009 ; 2010 : Solde naturel par an et par commune en 2010 ; 2011 : Solde naturel par an et par commune en 2011 ; 2012 : Solde naturel par an et par commune en 2012 ]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Population par commune en 1990, 1999 et 2010</title>
-     <link>https://www.data.gouv.fr/fr/dataset/population-par-commune-en-1990-1999-et-2010-alm</link>
-     <description><![CDATA[Nombre d'habitants par commune d'Angers Loire Métropole. D90_POP : nombre d'habitants par commune en 1990 ; P99_POP : nombre d'habitants par commune en 1999 ; P10_POP nombre d'habitants par commune en 2010 ]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
