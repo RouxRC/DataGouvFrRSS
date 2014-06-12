@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 11 Jun 2014 17:20:02 +0200</pubDate>
+  <pubDate>Thu, 12 Jun 2014 11:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Playlist Radio NRJ 09-2012/10-2012 &amp; 07-2012/08-2012</title>
+     <link>https://www.data.gouv.fr/fr/dataset/playlist-radio-nrj-09-2012-10-2012-07-2012-08-2012</link>
+     <description><![CDATA[Web scraping de cette page pendant un mois sur deux périodes différentes http://www.nrj.fr/radio-510/titres-diffuses-512/titresdiffuses/ ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Résultats des élections dans la 9e circonscription de Seine-Saint-Denis (Les Lilas)</title>
      <link>https://www.data.gouv.fr/fr/dataset/resultats-des-elections-dans-la-9e-circonscription-de-seine-saint-denis-les-lilas</link>
@@ -358,12 +364,6 @@
      <title>Station de dépollution des eaux usées</title>
      <link>https://www.data.gouv.fr/fr/dataset/station-de-depollution-des-eaux-usees-alm</link>
      <description><![CDATA[Localisation des stations de traitement des eaux usées ]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Nomenclature des déchets</title>
-     <link>https://www.data.gouv.fr/fr/dataset/nomenclature-des-dechets-alm</link>
-     <description><![CDATA[Liste des déchets classés par leur caractère (ordures ménagères-tri-verre) dernière mise-à-jour de la donnée au 09/12 ]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
