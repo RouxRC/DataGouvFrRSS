@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 12 Jun 2014 11:10:02 +0200</pubDate>
+  <pubDate>Thu, 12 Jun 2014 11:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Normales du mois de janvier pour les stations météorologiques terrestres de la zone Grand Molène</title>
+     <link>https://www.data.gouv.fr/fr/dataset/normales-du-mois-de-janvier-pour-les-stations-meteorologiques-terrestres-de-la-zone-grand-molene</link>
+     <description><![CDATA[Normales pour le mois de janvier, pour 55 stations terrestres de type Radome de Météo-France. Jeu de données mis à disposition pour l'opération Archipel Molène, sur la zone élargie autour de Molène entre 47°N à 49°N et 2°W à 6°W Période statistique La plus longue disponible selon les stations (entre 10 et 30 ans). ]]></description>
+     <author>Météo-France (certifié)</author>
+  </item>
   <item>
      <title>Playlist Radio NRJ 09-2012/10-2012 &amp; 07-2012/08-2012</title>
      <link>https://www.data.gouv.fr/fr/dataset/playlist-radio-nrj-09-2012-10-2012-07-2012-08-2012</link>
@@ -358,12 +364,6 @@
      <title>Patrimoine - Inventaire Patrimoine GIMA</title>
      <link>https://www.data.gouv.fr/fr/dataset/patrimoine-inventaire-patrimoine-gima-alm</link>
      <description><![CDATA[]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Station de dépollution des eaux usées</title>
-     <link>https://www.data.gouv.fr/fr/dataset/station-de-depollution-des-eaux-usees-alm</link>
-     <description><![CDATA[Localisation des stations de traitement des eaux usées ]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
