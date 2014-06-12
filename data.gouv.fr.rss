@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 12 Jun 2014 13:10:03 +0200</pubDate>
+  <pubDate>Thu, 12 Jun 2014 16:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Liste des jeux de données pour le hackathon Archipel Molène #1</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-jeux-de-donnees-pour-le-hackathon-archipel-molene-1</link>
+     <description><![CDATA[La première édition du hackathon Archipel Molène est organisée du 27 au 30 juin prochain par la Cantine numérique brestoise avec le soutien de Brest Métropole Océane, Technopôle Brest Iroise, Télécom Bretagne, la mission Etalab, le Service Hydrographique et Océanographique de la Marine (SHOM), Météo France, IGN, Open Street Map, Cityzen Data, Les Fabriques du Ponant, Association Tiriad … La...]]></description>
+     <author>Archipel Molène</author>
+  </item>
+  <item>
+     <title>Prévisions du modèle de chimie-transport MOCAGE sur la zone Large Molène pour un mois</title>
+     <link>https://www.data.gouv.fr/fr/dataset/previsions-du-modele-de-chimie-transport-mocage-sur-la-zone-large-molene-pour-un-mois</link>
+     <description><![CDATA[Données de prévisions horaires puis tri-horaires du modèle de chimie-transport MOCAGE - Qualité de l'Air, sur la zone 470N-49°N, 20W-5°W, pour les 31 runs de 12hUTC du mois de janvier 014. Ce jeu de données est mis à disposition pour l'opération Archipel Molène. La résolution horizontale sur la zone retenue est de 10km. ]]></description>
+     <author>Météo-France (certifié)</author>
+  </item>
   <item>
      <title>Prévisions du modèle AROME sur la zone Large Molène pour un mois</title>
      <link>https://www.data.gouv.fr/fr/dataset/previsions-du-modele-arome-sur-la-zone-large-molene-pour-un-mois</link>
@@ -351,18 +363,6 @@
   <item>
      <title>Patrimoine - ERP Communaux</title>
      <link>https://www.data.gouv.fr/fr/dataset/patrimoine-erp-communaux-alm</link>
-     <description><![CDATA[]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Maquette du budget primitif Déchets 2012</title>
-     <link>https://www.data.gouv.fr/fr/dataset/maquette-du-budget-primitif-dechets-2012-alm</link>
-     <description><![CDATA[Le jeu contient la maquette du budget primitif (déchets) 2012 du budget principal de la Communauté Urbaine d'Angers Loire Métropole. Le budget primitif, voté annuellement, constitue la prévision des dépenses et des recettes pour l'année. ]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Patrimoine - Communes ALM</title>
-     <link>https://www.data.gouv.fr/fr/dataset/patrimoine-communes-alm-alm</link>
      <description><![CDATA[]]></description>
      <author>Angers Loire Métropole</author>
   </item>
