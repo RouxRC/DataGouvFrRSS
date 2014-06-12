@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 12 Jun 2014 11:20:02 +0200</pubDate>
+  <pubDate>Thu, 12 Jun 2014 11:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Données horaires des 55 stations terrestres de la zone Large Molène sur un mois</title>
+     <link>https://www.data.gouv.fr/fr/dataset/donnees-horaires-des-55-stations-terrestres-de-la-zone-large-molene-sur-un-mois</link>
+     <description><![CDATA[Données horaires du jeu de données mis à disposition pour l'opération Archipel Molène des 55 stations terrestres de type Radome sur la zone entre 47°N et 49°N et 2°W et 6°W, pour le mois de janvier 2014. ]]></description>
+     <author>Météo-France (certifié)</author>
+  </item>
   <item>
      <title>Normales du mois de janvier pour les stations météorologiques terrestres de la zone Grand Molène</title>
      <link>https://www.data.gouv.fr/fr/dataset/normales-du-mois-de-janvier-pour-les-stations-meteorologiques-terrestres-de-la-zone-grand-molene</link>
@@ -358,12 +364,6 @@
      <title>Population par commune en 1990, 1999 et 2010</title>
      <link>https://www.data.gouv.fr/fr/dataset/population-par-commune-en-1990-1999-et-2010-alm</link>
      <description><![CDATA[Nombre d'habitants par commune d'Angers Loire Métropole. D90_POP : nombre d'habitants par commune en 1990 ; P99_POP : nombre d'habitants par commune en 1999 ; P10_POP nombre d'habitants par commune en 2010 ]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Patrimoine - Inventaire Patrimoine GIMA</title>
-     <link>https://www.data.gouv.fr/fr/dataset/patrimoine-inventaire-patrimoine-gima-alm</link>
-     <description><![CDATA[]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
