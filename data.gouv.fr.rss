@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 13 Jun 2014 14:10:02 +0200</pubDate>
+  <pubDate>Fri, 13 Jun 2014 14:20:08 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Nouveaux cas de maladies à déclaration obligatoire</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nouveaux-cas-de-maladies-a-declaration-obligatoire</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données InVs ]]></description>
+     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Accueil de l'enfance et la jeunesse handicapées</title>
      <link>https://www.data.gouv.fr/fr/dataset/accueil-de-l-enfance-et-la-jeunesse-handicapees</link>
@@ -358,12 +364,6 @@
      <title>Nombre de résidences principales par type en 1999 et 2010</title>
      <link>https://www.data.gouv.fr/fr/dataset/nombre-de-residences-principales-par-type-en-1999-et-2010-alm</link>
      <description><![CDATA[Nombre de résidences principales selon le type en 1999 et en 2010 par commune d'Angers Loire Métropole P99_RPAPPART : nombre de résidences principales de type appartement en 1999 ; P99_RPMAISON : nombre de résidences principales de type maison en 1999 ; P10_RPAPPART : nombre de résidences principales de type appartement en 2010 ; P10_RPMAISON : nombre de résidences principales de type maison...]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Population active d'Angers Loire Métropole en 2010</title>
-     <link>https://www.data.gouv.fr/fr/dataset/population-active-d-angers-loire-metropole-en-2010-alm</link>
-     <description><![CDATA[Population active au lieu de résidence par commune d'Angers Loire Métropole par âge et par sexe en 2010. P10_FACT1524 : population active de sexe féminin au lieu de résidence entre 15 et 24 ans en 2010 ; P10_FACT2554 : population active de sexe féminin au lieu de résidence entre 25 et 54 ans en 2010 ; P10_FACT5564 ; population active de sexe féminin au lieu de résidence entre 55 et 64 ans en...]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
