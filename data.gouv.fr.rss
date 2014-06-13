@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 13 Jun 2014 15:30:02 +0200</pubDate>
+  <pubDate>Fri, 13 Jun 2014 19:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Données satellites sur la zone Large Molène sur un mois</title>
+     <link>https://www.data.gouv.fr/fr/dataset/donnees-satellites-sur-la-zone-large-molene-sur-un-mois</link>
+     <description><![CDATA[Données satellites Météosat (Canal visible Haute Résolution HRV, Canal Infra-Rouge IR, Composition Colorée CC et Classification Nuageuse CN) sur la zone Large Molène entre 47°N-49°N, 2°W-6°W pour le mois de janvier 2014. Ce jeu de données est mis à disposition dans le cadre de l'opération Archipel Molène. Le pas de temps est de 15 minutes. La résolution au point sous satellite est de 1 km pour...]]></description>
+     <author>Météo-France (certifié)</author>
+  </item>
   <item>
      <title>Analyses du modèle de surcotes sur la zone Large Molène pour un mois</title>
      <link>https://www.data.gouv.fr/fr/dataset/analyses-du-modele-de-surcotes-sur-la-zone-large-molene-pour-un-mois</link>
@@ -358,12 +364,6 @@
      <title>Population d'Angers Loire Métropole selon la catégorie socioprofessionnelle</title>
      <link>https://www.data.gouv.fr/fr/dataset/population-d-angers-loire-metropole-selon-la-categorie-socioprofessionnelle-alm</link>
      <description><![CDATA[Population âgée de 15 ans et plus selon la catégorie socioprofessionnelle entre 1999 et 2010 par commune C99_POP15P_CS1 : Population âgée de 15 ans et plus d'agriculteurs et exploitants en 1999 ; C99_POP15P_CS2 : Population âgée de 15 ans et plus d'artisans, de commerçants et chefs d'entreprises en 1999 ; C99_POP15P_CS3 : Population âgée de 15 ans et plus de cadres et de professions...]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Maquette du compte administratif Eau 2011</title>
-     <link>https://www.data.gouv.fr/fr/dataset/maquette-du-compte-administratif-eau-2011-alm</link>
-     <description><![CDATA[Le jeu contient la maquette du compte administratif (eau) 2011 du budget principal d'Angers Loire Métropole. Le compte administratif, voté annuellement, retrace l'exécution du budget en dépenses et en recettes. ]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
