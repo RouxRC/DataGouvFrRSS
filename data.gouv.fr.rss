@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 12 Jun 2014 17:10:02 +0200</pubDate>
+  <pubDate>Fri, 13 Jun 2014 11:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Accueil de l'enfance et la jeunesse handicapées</title>
+     <link>https://www.data.gouv.fr/fr/dataset/accueil-de-l-enfance-et-la-jeunesse-handicapees</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Statiss ]]></description>
+     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Liste des jeux de données pour le hackathon Archipel Molène #1</title>
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-jeux-de-donnees-pour-le-hackathon-archipel-molene-1</link>
@@ -357,12 +363,6 @@
   <item>
      <title>Patrimoine - Patrimoine Vendu</title>
      <link>https://www.data.gouv.fr/fr/dataset/patrimoine-patrimoine-vendu-alm</link>
-     <description><![CDATA[]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Patrimoine - ERP Communaux</title>
-     <link>https://www.data.gouv.fr/fr/dataset/patrimoine-erp-communaux-alm</link>
      <description><![CDATA[]]></description>
      <author>Angers Loire Métropole</author>
   </item>
