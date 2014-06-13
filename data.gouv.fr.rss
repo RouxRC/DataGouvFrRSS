@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 13 Jun 2014 14:30:02 +0200</pubDate>
+  <pubDate>Fri, 13 Jun 2014 15:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Analyses du modèle de surcotes sur la zone Large Molène pour un mois</title>
+     <link>https://www.data.gouv.fr/fr/dataset/analyses-du-modele-de-surcotes-sur-la-zone-large-molene-pour-un-mois</link>
+     <description><![CDATA[Analyses horaires du modèle de surcotes sur la zone Large Molène entre 47°N-49°N, 2°W-6°W, pour les 31 jours du mois de janvier 2014. Ce jeu de données est mis à disposition dans le cadre de l'opération Archipel Molène. ]]></description>
+     <author>Météo-France (certifié)</author>
+  </item>
   <item>
      <title>Prévisions du modèle de vagues MFWAM sur la zone Large Molène pour un mois</title>
      <link>https://www.data.gouv.fr/fr/dataset/previsions-du-modele-de-vagues-mfwam-sur-la-zone-large-molene-pour-un-mois</link>
@@ -358,12 +364,6 @@
      <title>Maquette du compte administratif Eau 2011</title>
      <link>https://www.data.gouv.fr/fr/dataset/maquette-du-compte-administratif-eau-2011-alm</link>
      <description><![CDATA[Le jeu contient la maquette du compte administratif (eau) 2011 du budget principal d'Angers Loire Métropole. Le compte administratif, voté annuellement, retrace l'exécution du budget en dépenses et en recettes. ]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Localisation des toilettes publics à Angers</title>
-     <link>https://www.data.gouv.fr/fr/dataset/localisation-des-toilettes-publics-a-angers-alm</link>
-     <description><![CDATA[Localisation des Sanitaires et Urinoirs Publics de la Ville d'Angers. dernière mise-à-jour de la donnée au 19/09/12 ]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
