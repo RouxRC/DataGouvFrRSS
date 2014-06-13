@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 13 Jun 2014 11:50:02 +0200</pubDate>
+  <pubDate>Fri, 13 Jun 2014 14:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Accueil de l'enfance et la jeunesse handicapées</title>
@@ -21,7 +21,7 @@
   <item>
      <title>Prévisions du modèle de chimie-transport MOCAGE sur la zone Large Molène pour un mois</title>
      <link>https://www.data.gouv.fr/fr/dataset/previsions-du-modele-de-chimie-transport-mocage-sur-la-zone-large-molene-pour-un-mois</link>
-     <description><![CDATA[Données de prévisions horaires puis tri-horaires du modèle de chimie-transport MOCAGE - Qualité de l'Air, sur la zone 470N-49°N, 20W-5°W, pour les 31 runs de 12hUTC du mois de janvier 014. Ce jeu de données est mis à disposition pour l'opération Archipel Molène. La résolution horizontale sur la zone retenue est de 10km. ]]></description>
+     <description><![CDATA[Données de prévisions horaires puis tri-horaires du modèle de chimie-transport MOCAGE - Qualité de l'Air, sur la zone 47°N-49°N, 2°W-5°W, pour les 31 runs de 12hUTC du mois de janvier 014. Ce jeu de données est mis à disposition pour l'opération Archipel Molène. La résolution horizontale sur la zone retenue est de 10km. ]]></description>
      <author>Météo-France (certifié)</author>
   </item>
   <item>
