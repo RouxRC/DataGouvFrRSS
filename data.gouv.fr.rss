@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 13 Jun 2014 14:00:02 +0200</pubDate>
+  <pubDate>Fri, 13 Jun 2014 14:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Accueil de l'enfance et la jeunesse handicapées</title>
@@ -19,15 +19,21 @@
      <author>Archipel Molène</author>
   </item>
   <item>
+     <title>Prévisions d'ensemble du modèle météorologique global ARPEGE sur la zone Large Molène pour un mois</title>
+     <link>https://www.data.gouv.fr/fr/dataset/previsions-d-ensemble-du-modele-meteorologique-global-arpege-sur-la-zone-large-molene-pour-un-mois</link>
+     <description><![CDATA[Prévisions d'ensemble (35 membres) du modèle météorologique global ARPEGE sur la zone 47°N-49°N, 2°W-6°W, pour les 31 runs de 18h UTC du mois de janvier 2014, à résolution horizontale de 25 km. Ce jeu de données est mis à disposition pour l'opération Archipel Molène. ]]></description>
+     <author>Météo-France (certifié)</author>
+  </item>
+  <item>
      <title>Prévisions du modèle de chimie-transport MOCAGE sur la zone Large Molène pour un mois</title>
      <link>https://www.data.gouv.fr/fr/dataset/previsions-du-modele-de-chimie-transport-mocage-sur-la-zone-large-molene-pour-un-mois</link>
      <description><![CDATA[Données de prévisions horaires puis tri-horaires du modèle de chimie-transport MOCAGE - Qualité de l'Air, sur la zone 47°N-49°N, 2°W-5°W, pour les 31 runs de 12hUTC du mois de janvier 014. Ce jeu de données est mis à disposition pour l'opération Archipel Molène. La résolution horizontale sur la zone retenue est de 10km. ]]></description>
      <author>Météo-France (certifié)</author>
   </item>
   <item>
-     <title>Prévisions du modèle AROME sur la zone Large Molène pour un mois</title>
-     <link>https://www.data.gouv.fr/fr/dataset/previsions-du-modele-arome-sur-la-zone-large-molene-pour-un-mois</link>
-     <description><![CDATA[Données de prévisions horaires du modèle AROME, à 2.5 km de résolution horizontale, sur la zone Large Molène entre 47°N-49°N/2°W-6°W, pour les 31 runs de 00h00 UTC du mois de janvier 2014 jusqu'à 30 heures d'échéance. Jeu de données mis à disposition pour l'opération Archipel Molène. ]]></description>
+     <title>Prévisions du modèle météorologique AROME sur la zone Large Molène pour un mois</title>
+     <link>https://www.data.gouv.fr/fr/dataset/previsions-du-modele-meteorologique-arome-sur-la-zone-large-molene-pour-un-mois</link>
+     <description><![CDATA[Données de prévisions horaires du modèle météorologique à aire limitée AROME, à 2.5 km de résolution horizontale, sur la zone Large Molène entre 47°N-49°N/2°W-6°W, pour les 31 runs de 00h00 UTC du mois de janvier 2014 jusqu'à 30 heures d'échéance. Jeu de données mis à disposition pour l'opération Archipel Molène. ]]></description>
      <author>Météo-France (certifié)</author>
   </item>
   <item>
@@ -358,12 +364,6 @@
      <title>Population active d'Angers Loire Métropole en 2010</title>
      <link>https://www.data.gouv.fr/fr/dataset/population-active-d-angers-loire-metropole-en-2010-alm</link>
      <description><![CDATA[Population active au lieu de résidence par commune d'Angers Loire Métropole par âge et par sexe en 2010. P10_FACT1524 : population active de sexe féminin au lieu de résidence entre 15 et 24 ans en 2010 ; P10_FACT2554 : population active de sexe féminin au lieu de résidence entre 25 et 54 ans en 2010 ; P10_FACT5564 ; population active de sexe féminin au lieu de résidence entre 55 et 64 ans en...]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Patrimoine - Patrimoine Vendu</title>
-     <link>https://www.data.gouv.fr/fr/dataset/patrimoine-patrimoine-vendu-alm</link>
-     <description><![CDATA[]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
