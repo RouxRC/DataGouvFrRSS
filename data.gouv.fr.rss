@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 13 Jun 2014 14:20:08 +0200</pubDate>
+  <pubDate>Fri, 13 Jun 2014 14:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Prévisions du modèle de vagues MFWAM sur la zone Large Molène pour un mois</title>
+     <link>https://www.data.gouv.fr/fr/dataset/previsions-du-modele-de-vagues-mfwam-sur-la-zone-large-molene-pour-un-mois</link>
+     <description><![CDATA[Prévisions du modèle global de vagues MFWAM sur la zone Marge Molène entre 47°N-49°N, 2°W-6°W, pour les 31 runs de 00hUTC du mois de janvier 2014. Jeu de données mis à disposition dans le cadre de l'opération Archipel Molène. Ce modèle, couplé avec le modèle atmosphérique ARPEGE, a une résolution horizontale de 10km. ]]></description>
+     <author>Météo-France (certifié)</author>
+  </item>
   <item>
      <title>Nouveaux cas de maladies à déclaration obligatoire</title>
      <link>https://www.data.gouv.fr/fr/dataset/nouveaux-cas-de-maladies-a-declaration-obligatoire</link>
@@ -358,12 +364,6 @@
      <title>Localisation des toilettes publics à Angers</title>
      <link>https://www.data.gouv.fr/fr/dataset/localisation-des-toilettes-publics-a-angers-alm</link>
      <description><![CDATA[Localisation des Sanitaires et Urinoirs Publics de la Ville d'Angers. dernière mise-à-jour de la donnée au 19/09/12 ]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Nombre de résidences principales par type en 1999 et 2010</title>
-     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-residences-principales-par-type-en-1999-et-2010-alm</link>
-     <description><![CDATA[Nombre de résidences principales selon le type en 1999 et en 2010 par commune d'Angers Loire Métropole P99_RPAPPART : nombre de résidences principales de type appartement en 1999 ; P99_RPMAISON : nombre de résidences principales de type maison en 1999 ; P10_RPAPPART : nombre de résidences principales de type appartement en 2010 ; P10_RPMAISON : nombre de résidences principales de type maison...]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
