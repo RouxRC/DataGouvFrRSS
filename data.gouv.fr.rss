@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 13 Jun 2014 15:20:02 +0200</pubDate>
+  <pubDate>Fri, 13 Jun 2014 15:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Analyses du modèle de surcotes sur la zone Large Molène pour un mois</title>
@@ -55,8 +55,8 @@
      <author>Météo-France (certifié)</author>
   </item>
   <item>
-     <title>Données de réflectivité et lames d'eau radar sur la zone Grand Molène sur un mois</title>
-     <link>https://www.data.gouv.fr/fr/dataset/donnees-de-reflectivite-et-lames-d-eau-radar-sur-la-zone-grand-molene-sur-un-mois</link>
+     <title>Données de réflectivité et lames d'eau radar sur la zone Large Molène sur un mois</title>
+     <link>https://www.data.gouv.fr/fr/dataset/donnees-de-reflectivite-et-lames-d-eau-radar-sur-la-zone-large-molene-sur-un-mois</link>
      <description><![CDATA[Données à fréquence 5 minutes de réflectivité et lames d'eau radar, pour le mois de janvier 2014, sur la zone 47°N-49°N, 2°W-6°W. Jeu de données mis à disposition pour l'opération Archipel Molène. ]]></description>
      <author>Météo-France (certifié)</author>
   </item>
@@ -67,8 +67,8 @@
      <author>Météo-France (certifié)</author>
   </item>
   <item>
-     <title>Normales du mois de janvier pour les stations météorologiques terrestres de la zone Grand Molène</title>
-     <link>https://www.data.gouv.fr/fr/dataset/normales-du-mois-de-janvier-pour-les-stations-meteorologiques-terrestres-de-la-zone-grand-molene</link>
+     <title>Normales du mois de janvier pour les stations météorologiques terrestres de la zone Large Molène</title>
+     <link>https://www.data.gouv.fr/fr/dataset/normales-du-mois-de-janvier-pour-les-stations-meteorologiques-terrestres-de-la-zone-large-molene</link>
      <description><![CDATA[Normales pour le mois de janvier, pour 55 stations terrestres de type Radome de Météo-France. Jeu de données mis à disposition pour l'opération Archipel Molène, sur la zone élargie autour de Molène entre 47°N à 49°N et 2°W à 6°W Période statistique La plus longue disponible selon les stations (entre 10 et 30 ans). ]]></description>
      <author>Météo-France (certifié)</author>
   </item>
