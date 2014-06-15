@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 13 Jun 2014 19:10:03 +0200</pubDate>
+  <pubDate>Sun, 15 Jun 2014 19:00:03 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Projections climatiques sur la zone Large Molène sur un mois</title>
+     <link>https://www.data.gouv.fr/fr/dataset/projections-climatiques-sur-la-zone-large-molene-sur-un-mois</link>
+     <description><![CDATA[Données de simulations Aladin de Météo-France, du projet SCAMPEI, sur la zone 47°N-49°N, 2°W-6°W, pour le mois de janvier. Période de référence 1961-1990, 3 scénarios climatiques (A2, A1B et B1) pour le futur proche (années 2030, soit la période 2021-2050) et le futur lointain (années 2080 soit la période 2071-2100). Ce jeu de données a été extrait spécifiquement du portail DRIAS...]]></description>
+     <author>Météo-France (certifié)</author>
+  </item>
   <item>
      <title>Données satellites sur la zone Large Molène sur un mois</title>
      <link>https://www.data.gouv.fr/fr/dataset/donnees-satellites-sur-la-zone-large-molene-sur-un-mois</link>
@@ -184,7 +190,7 @@
      <title>Subventions municipales de la ville de Nogent-sur-Marne aux associations en 2014</title>
      <link>https://www.data.gouv.fr/fr/dataset/subventions-municipales-de-la-ville-de-nogent-sur-marne-aux-associations-en-2014</link>
      <description><![CDATA[Ce jeu de données reprend les subventions accordées par la ville de Nogent-sur-Marne aux associations pour l'année 2014 telles que votées lors du conseil municipal du 17 avril 2014. ]]></description>
-     <author>citoyen</author>
+     <author>ACTION - Association Citoyenne pour la Transparence et l'Initiative Populaire à Nogent-sur-Marne</author>
   </item>
   <item>
      <title>Trafic annuel entrant par station (2013)</title>
@@ -298,7 +304,7 @@
      <title>Elections Européennes 2014 - Résultats à Nogent-sur-Marne par bureau</title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-europeennes-2014-resultats-a-nogent-sur-marne-par-bureau</link>
      <description><![CDATA[Ce jeu de données contient les résultats obtenus par chaque liste dans chacun des bureaux de vote composant la commune de Nogent-sur-Marne. ]]></description>
-     <author>citoyen</author>
+     <author>ACTION - Association Citoyenne pour la Transparence et l'Initiative Populaire à Nogent-sur-Marne</author>
   </item>
   <item>
      <title>Routes départementales - Grands projets 2013-2014</title>
@@ -358,12 +364,6 @@
      <title>Lieux de visites à Angers Loire Métropole</title>
      <link>https://www.data.gouv.fr/fr/dataset/lieux-de-visites-a-angers-loire-metropole-alm</link>
      <description><![CDATA[Liste des lieux de visite sur le territoire d'Angers Loire Métropole. Ce fichier contient les informations de géolocalisation de chaque entrée. ]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Population d'Angers Loire Métropole selon la catégorie socioprofessionnelle</title>
-     <link>https://www.data.gouv.fr/fr/dataset/population-d-angers-loire-metropole-selon-la-categorie-socioprofessionnelle-alm</link>
-     <description><![CDATA[Population âgée de 15 ans et plus selon la catégorie socioprofessionnelle entre 1999 et 2010 par commune C99_POP15P_CS1 : Population âgée de 15 ans et plus d'agriculteurs et exploitants en 1999 ; C99_POP15P_CS2 : Population âgée de 15 ans et plus d'artisans, de commerçants et chefs d'entreprises en 1999 ; C99_POP15P_CS3 : Population âgée de 15 ans et plus de cadres et de professions...]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
