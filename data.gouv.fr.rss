@@ -4,19 +4,13 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 16 Jun 2014 18:50:02 +0200</pubDate>
+  <pubDate>Mon, 16 Jun 2014 20:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Subventions municipales de la ville de Nogent-sur-Marne aux associations en 2012</title>
      <link>https://www.data.gouv.fr/fr/dataset/subventions-municipales-de-la-ville-de-nogent-sur-marne-aux-associations-en-2012</link>
      <description><![CDATA[Ce jeu de données reprend les subventions accordées par la ville de Nogent-sur-Marne aux associations pour l'année 2012 telles que votées lors du conseil municipal. ]]></description>
      <author>ACTION - Association Citoyenne pour la Transparence et l'Initiative Populaire à Nogent-sur-Marne</author>
-  </item>
-  <item>
-     <title>Le blog de LYC : actualités, décryptages au sujet de la cigarette électronique </title>
-     <link>https://www.data.gouv.fr/fr/dataset/le-blog-de-lyc-actualites-decryptages-au-sujet-de-la-cigarette-electronique</link>
-     <description><![CDATA[Informations, news, décryptages à propos du secteur d'activité de la cigarette électronique (législation, études, normes d'e-cigarettes, mods, e-liquides). ]]></description>
-     <author>Le blog de Lyc : news de la cigarette électronique</author>
   </item>
   <item>
      <title>Analyses des eaux souterraines en Poitou-Charentes (Nitrates)</title>
@@ -364,6 +358,12 @@
      <title>Jeux de données - Angers Loire Métropole</title>
      <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-angers-loire-metropole-alm</link>
      <description><![CDATA[Les jeux de données collectés par data.gouv.fr sur la plateforme Angers Loire Métropole ]]></description>
+     <author>Angers Loire Métropole</author>
+  </item>
+  <item>
+     <title>Collecte des ordures ménagères - Angers Loire Métropole</title>
+     <link>https://www.data.gouv.fr/fr/dataset/collecte-des-ordures-menageres-angers-loire-metropole-alm</link>
+     <description><![CDATA[Circuits, horaires et jours de collecte des ordures ménagères et du tri sur les communes d'Angers Loire Métropole (en dehors d'Angers) ]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
