@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 16 Jun 2014 12:10:02 +0200</pubDate>
+  <pubDate>Mon, 16 Jun 2014 12:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Etat des subventions versées</title>
+     <link>https://www.data.gouv.fr/fr/dataset/etat-des-subventions-versees</link>
+     <description><![CDATA[Liste des subventions versées par le Département du Cantal aux associations et fondations reconnues d'utilité publique ]]></description>
+     <author>Conseil Général du Cantal (certifié)</author>
+  </item>
   <item>
      <title>Subventions municipales de la ville de Nogent-sur-Marne aux associations en 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/subventions-municipales-de-la-ville-de-nogent-sur-marne-aux-associations-en-2013</link>
@@ -358,12 +364,6 @@
      <title>Patrimoine - Patrimoine ALM</title>
      <link>https://www.data.gouv.fr/fr/dataset/patrimoine-patrimoine-alm-alm</link>
      <description><![CDATA[]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Liste des bâtiments du patrimoine ALM</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-batiments-du-patrimoine-alm-alm</link>
-     <description><![CDATA[Liste des bâtiments du patrimoine d'Angers Loire Métropole ]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
