@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 16 Jun 2014 14:40:02 +0200</pubDate>
+  <pubDate>Mon, 16 Jun 2014 18:40:03 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Le blog de LYC : actualités, décryptages au sujet de la cigarette électronique </title>
+     <link>https://www.data.gouv.fr/fr/dataset/le-blog-de-lyc-actualites-decryptages-au-sujet-de-la-cigarette-electronique</link>
+     <description><![CDATA[Informations, news, décryptages à propos du secteur d'activité de la cigarette électronique (législation, études, normes d'e-cigarettes, mods, e-liquides). ]]></description>
+     <author>Le blog de Lyc : news de la cigarette électronique</author>
+  </item>
   <item>
      <title>Analyses des eaux souterraines en Poitou-Charentes (Nitrates)</title>
      <link>https://www.data.gouv.fr/fr/dataset/analyses-des-eaux-souterraines-en-poitou-charentes-nitrates</link>
@@ -358,12 +364,6 @@
      <title>Collecte des ordures ménagères - Angers Loire Métropole</title>
      <link>https://www.data.gouv.fr/fr/dataset/collecte-des-ordures-menageres-angers-loire-metropole-alm</link>
      <description><![CDATA[Circuits, horaires et jours de collecte des ordures ménagères et du tri sur les communes d'Angers Loire Métropole (en dehors d'Angers) ]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Hébergements locatifs à Angers Loire Métropole</title>
-     <link>https://www.data.gouv.fr/fr/dataset/hebergements-locatifs-a-angers-loire-metropole-alm</link>
-     <description><![CDATA[Liste des hébergements locatifs sur le territoire d'Angers Loire Métropole. Ce fichier contient les informations de géolocalisation de chaque entrée. ]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
