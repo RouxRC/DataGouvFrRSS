@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 16 Jun 2014 10:10:02 +0200</pubDate>
+  <pubDate>Mon, 16 Jun 2014 12:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Subventions municipales de la ville de Nogent-sur-Marne aux associations en 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/subventions-municipales-de-la-ville-de-nogent-sur-marne-aux-associations-en-2013</link>
+     <description><![CDATA[Ce jeu de données reprend les subventions accordées par la ville de Nogent-sur-Marne aux associations pour l'année 2013 telles que votées lors du conseil municipal. ]]></description>
+     <author>ACTION - Association Citoyenne pour la Transparence et l'Initiative Populaire à Nogent-sur-Marne</author>
+  </item>
   <item>
      <title>Projections climatiques sur la zone Large Molène sur un mois</title>
      <link>https://www.data.gouv.fr/fr/dataset/projections-climatiques-sur-la-zone-large-molene-sur-un-mois</link>
@@ -358,12 +364,6 @@
      <title>Liste des bâtiments du patrimoine ALM</title>
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-batiments-du-patrimoine-alm-alm</link>
      <description><![CDATA[Liste des bâtiments du patrimoine d'Angers Loire Métropole ]]></description>
-     <author>Angers Loire Métropole</author>
-  </item>
-  <item>
-     <title>Lieux de visites à Angers Loire Métropole</title>
-     <link>https://www.data.gouv.fr/fr/dataset/lieux-de-visites-a-angers-loire-metropole-alm</link>
-     <description><![CDATA[Liste des lieux de visite sur le territoire d'Angers Loire Métropole. Ce fichier contient les informations de géolocalisation de chaque entrée. ]]></description>
      <author>Angers Loire Métropole</author>
   </item>
  </channel>
