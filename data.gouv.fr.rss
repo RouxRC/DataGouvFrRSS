@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 17 Jun 2014 18:40:02 +0200</pubDate>
+  <pubDate>Tue, 17 Jun 2014 20:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Liste des maires au 17 juin 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-maires-au-17-juin-2014</link>
+     <description><![CDATA[Liste des maires au 17 juin 2014 (mises à jour effectuées par les préfectures) ]]></description>
+     <author>Ministère de l'Intérieur (certifié)</author>
+  </item>
   <item>
      <title>Clé Geoportail réservée aux participants de l'opération Archipel Molène</title>
      <link>https://www.data.gouv.fr/fr/dataset/cle-geoportail-reservee-aux-participants-de-l-operation-archipel-molene</link>
@@ -358,12 +364,6 @@
      <title>Décision modificative n° 3</title>
      <link>https://www.data.gouv.fr/fr/dataset/decision-modificative-n-3-oise</link>
      <description><![CDATA[Délibérations relatives à la décision modificative n° 3 de 2013 ]]></description>
-     <author>Conseil général de l'Oise (certifié)</author>
-  </item>
-  <item>
-     <title>Rapports d'activités du Conseil général</title>
-     <link>https://www.data.gouv.fr/fr/dataset/rapports-d-activites-du-conseil-general-oise</link>
-     <description><![CDATA[Le rapport d'activités établit un bilan des politiques départementales (2011 et 2012) ]]></description>
      <author>Conseil général de l'Oise (certifié)</author>
   </item>
  </channel>
