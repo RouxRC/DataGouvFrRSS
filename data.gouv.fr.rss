@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 17 Jun 2014 13:00:02 +0200</pubDate>
+  <pubDate>Tue, 17 Jun 2014 15:20:03 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Clé Geoportail réservée aux participants de l'opération Archipel Molène</title>
@@ -23,6 +23,12 @@
      <link>https://www.data.gouv.fr/fr/dataset/subventions-municipales-de-la-ville-de-nogent-sur-marne-aux-associations-en-2012</link>
      <description><![CDATA[Ce jeu de données reprend les subventions accordées par la ville de Nogent-sur-Marne aux associations pour l'année 2012 telles que votées lors du conseil municipal. ]]></description>
      <author>ACTION - Association Citoyenne pour la Transparence et l'Initiative Populaire à Nogent-sur-Marne</author>
+  </item>
+  <item>
+     <title> Liste des collectivités territoriales utilisant la verbalisation électronique en France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-collectivites-territoriales-utilisant-la-verbalisation-electronique-en-france</link>
+     <description><![CDATA[Le fichier recense les services verbalisateurs des collectivités territoriales françaises utilisant la verbalisation électronique. Le fichier contient notamment : - Le nom de la collectivité territoriale et son département de rattachement ; - Le nom du service verbalisateur ; - La date de démarrage de la verbalisation électronique ; - Le matériel de verbalisation électronique...]]></description>
+     <author>Ministère de l'Intérieur (certifié)</author>
   </item>
   <item>
      <title>Analyses des eaux souterraines en Poitou-Charentes (Nitrates)</title>
@@ -358,12 +364,6 @@
      <title>Rapports d'activités du Conseil général</title>
      <link>https://www.data.gouv.fr/fr/dataset/rapports-d-activites-du-conseil-general-oise</link>
      <description><![CDATA[Le rapport d'activités établit un bilan des politiques départementales (2011 et 2012) ]]></description>
-     <author>Conseil général de l'Oise (certifié)</author>
-  </item>
-  <item>
-     <title>Analyse des évolutions sociologiques, des conduites et représentations de l'Oise</title>
-     <link>https://www.data.gouv.fr/fr/dataset/analyse-des-evolutions-sociologiques-des-conduites-et-representations-de-l-oise-oise</link>
-     <description><![CDATA[Analyse des évolutions sociologiques, des conduites et représentations du département de l'Oise à partir des études quantitatives sur les actions et les politiques publiques départementales ]]></description>
      <author>Conseil général de l'Oise (certifié)</author>
   </item>
  </channel>
