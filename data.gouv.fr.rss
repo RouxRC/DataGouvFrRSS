@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 17 Jun 2014 11:40:02 +0200</pubDate>
+  <pubDate>Tue, 17 Jun 2014 13:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Clé Geoportail réservée aux participants de l'opération Archipel Molène</title>
+     <link>https://www.data.gouv.fr/fr/dataset/cle-geoportail-reservee-aux-participants-de-l-operation-archipel-molene</link>
+     <description><![CDATA[Dans le cadre de l'opération Archipel Molène, l'IGN met à disposition une clé Geoportail. Cette clé permet d'accéder aux ressources WMTS, WMS, WFS, OpenLS et d'alticodage du Géoportail, dans le cadre de la licence de développement de l'API Géoportail. Afin de permettre une utilisation sans contrainte de contexte ou d'application, la clé est dépourvue de sécurité d'authentification, dès votre...]]></description>
+     <author>Institut National de l'Information Géographique et Forestière (certifié)</author>
+  </item>
   <item>
      <title>Panneaux d'affichage libre à Nogent-sur-Marne</title>
      <link>https://www.data.gouv.fr/fr/dataset/panneaux-d-affichage-libre-a-nogent-sur-marne</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/analyse-des-evolutions-sociologiques-des-conduites-et-representations-de-l-oise-oise</link>
      <description><![CDATA[Analyse des évolutions sociologiques, des conduites et représentations du département de l'Oise à partir des études quantitatives sur les actions et les politiques publiques départementales ]]></description>
      <author>Conseil général de l'Oise (certifié)</author>
-  </item>
-  <item>
-     <title>Jeux de données - Angers Loire Métropole</title>
-     <link>https://www.data.gouv.fr/fr/dataset/jeux-de-donnees-angers-loire-metropole-alm</link>
-     <description><![CDATA[Les jeux de données collectés par data.gouv.fr sur la plateforme Angers Loire Métropole ]]></description>
-     <author>Angers Loire Métropole</author>
   </item>
  </channel>
 </rss>
