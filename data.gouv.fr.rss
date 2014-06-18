@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 18 Jun 2014 11:40:02 +0200</pubDate>
+  <pubDate>Wed, 18 Jun 2014 11:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Séries chronologiques : les résultats et les diplômes</title>
+     <link>https://www.data.gouv.fr/fr/dataset/series-chronologiques-les-resultats-et-les-diplomes</link>
+     <description><![CDATA[Les données sur les examens, depuis le diplôme national du brevet jusqu’au baccalauréat, en passant par les diplômes de l’enseignement professionnel, concernent le nombre de candidats et le taux de réussite. ]]></description>
+     <author>Education Nationale (certifié)</author>
+  </item>
+  <item>
+     <title>Séries chronologiques : les apprentis</title>
+     <link>https://www.data.gouv.fr/fr/dataset/series-chronologiques-les-apprentis</link>
+     <description><![CDATA[Ce thème présente des séries temporelles sur les centres de formation d'apprentis pour l'apprentissage dans l’ensemble des formations du second degré et de l’enseignement supérieur. Les axes d’analyse sont le sexe et l’origine scolaire des apprentis, le diplôme visé et la spécialité de formation, l’académie. ]]></description>
+     <author>Education Nationale (certifié)</author>
+  </item>
   <item>
      <title>Séries chronologiques : les élèves du second degré</title>
      <link>https://www.data.gouv.fr/fr/dataset/series-chronologiques-les-eleves-du-second-degre</link>
@@ -353,18 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/hebergements-touristiques</link>
      <description><![CDATA[Description : Emplacement des hébergements touristiques de la ville de Saint-Quentin selon la catégorie (hôtel ; chambre d’hôte ; gîte et meublé ; camping). Ce listing comprend uniquement les hébergements qui sont référencés par l’Office de Tourisme. Lien de la ressource : http://www.saint-quentin-numerique.fr/Hebergements-touristiques ]]></description>
      <author>Saint Quentin (Aisne) (certifié)</author>
-  </item>
-  <item>
-     <title>Servitudes d'Utilité Publique PT1 protection des centres de réception radioélectrique contre les perturbations électromagnétiques</title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-pt1-protection-des-centres-de-reception-radioelectrique-contre-les-per</link>
-     <description><![CDATA[Servitude de protection des centres de réception radio-électriques contre les perturbations électromagnétiques instituées en application des articles L. 57 à L. 62-1 et R. 27 à R. 39 du code des postes et des communications électroniques. ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
-  </item>
-  <item>
-     <title>Elections Européennes 2014 - Résultats à Nogent-sur-Marne par bureau</title>
-     <link>https://www.data.gouv.fr/fr/dataset/elections-europeennes-2014-resultats-a-nogent-sur-marne-par-bureau</link>
-     <description><![CDATA[Ce jeu de données contient les résultats obtenus par chaque liste dans chacun des bureaux de vote composant la commune de Nogent-sur-Marne. ]]></description>
-     <author>ACTION - Association Citoyenne pour la Transparence et l'Initiative Populaire à Nogent-sur-Marne</author>
   </item>
  </channel>
 </rss>
