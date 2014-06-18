@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 17 Jun 2014 20:40:02 +0200</pubDate>
+  <pubDate>Wed, 18 Jun 2014 07:00:03 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Norme et Certification des e-liquides</title>
+     <link>https://www.data.gouv.fr/fr/dataset/norme-et-certification-des-e-liquides</link>
+     <description><![CDATA[En France, en 2014, il n'existe pas de norme précise et spécifique qui encadre le e-liquide en dehors de celles qui règlementent deux de ses composants : L'arôme alimentaire encadré au niveau communautaire par la directive 88-388 transposée en droit français par le décret 91-366 La nicotine : le taux ne peut dépasser 20mg/ml Le e-liquide est un produit principalement composé de propylène...]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Liste des maires au 17 juin 2014</title>
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-maires-au-17-juin-2014</link>
@@ -358,12 +364,6 @@
      <title>Routes départementales - Grands projets 2013-2014</title>
      <link>https://www.data.gouv.fr/fr/dataset/routes-departementales-grands-projets-2013-2014-oise</link>
      <description><![CDATA[Déclinaisons opérationnelles du PDMD (Plan départemental de mobilité durable) relatives aux grands projets routiers (2013-2014). Plans des déviations en cours et à venir ]]></description>
-     <author>Conseil général de l'Oise (certifié)</author>
-  </item>
-  <item>
-     <title>Décision modificative n° 3</title>
-     <link>https://www.data.gouv.fr/fr/dataset/decision-modificative-n-3-oise</link>
-     <description><![CDATA[Délibérations relatives à la décision modificative n° 3 de 2013 ]]></description>
      <author>Conseil général de l'Oise (certifié)</author>
   </item>
  </channel>
