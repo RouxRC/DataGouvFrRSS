@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 18 Jun 2014 12:00:02 +0200</pubDate>
+  <pubDate>Wed, 18 Jun 2014 12:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Séries chronologiques : les personnels</title>
@@ -29,12 +29,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/series-chronologiques-les-eleves-du-second-degre</link>
      <description><![CDATA[Ce thème présente l’évolution dans le temps des effectifs d’élèves selon différents axes d’analyse : cycle de formation, sexe, âge, académie, département, secteur d’enseignement (public, privé). ]]></description>
      <author>Education Nationale (certifié)</author>
-  </item>
-  <item>
-     <title>Norme et Certification des e-liquides</title>
-     <link>https://www.data.gouv.fr/fr/dataset/norme-et-certification-des-e-liquides</link>
-     <description><![CDATA[En France, en 2014, il n'existe pas de norme précise et spécifique qui encadre le e-liquide en dehors de celles qui règlementent deux de ses composants : L'arôme alimentaire encadré au niveau communautaire par la directive 88-388 transposée en droit français par le décret 91-366 La nicotine : le taux ne peut dépasser 20mg/ml Le e-liquide est un produit principalement composé de propylène...]]></description>
-     <author>citoyen</author>
   </item>
   <item>
      <title>Liste des maires au 17 juin 2014</title>
@@ -365,6 +359,12 @@
      <link>https://www.data.gouv.fr/fr/dataset/crimes-et-delits-constates-par-la-police-nationale-en-2013</link>
      <description><![CDATA[Les données des faits constatés sont fournies sous forme de tables comprenant en lignes les 107 index d'infractions de l'état statistique 4001 et en colonnes les départements et collectivités d'outre-mer. Il s'agit des faits enregistrés par l'ensemble des services de la police nationale localisés au lieu de leur enregistrement. ]]></description>
      <author>Observatoire national de la délinquance et des réponses pénales (ondrp) (certifié)</author>
+  </item>
+  <item>
+     <title>Hébergements touristiques</title>
+     <link>https://www.data.gouv.fr/fr/dataset/hebergements-touristiques</link>
+     <description><![CDATA[Description : Emplacement des hébergements touristiques de la ville de Saint-Quentin selon la catégorie (hôtel ; chambre d’hôte ; gîte et meublé ; camping). Ce listing comprend uniquement les hébergements qui sont référencés par l’Office de Tourisme. Lien de la ressource : http://www.saint-quentin-numerique.fr/Hebergements-touristiques ]]></description>
+     <author>Saint Quentin (Aisne) (certifié)</author>
   </item>
  </channel>
 </rss>
