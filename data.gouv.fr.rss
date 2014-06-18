@@ -4,20 +4,8 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 18 Jun 2014 13:10:02 +0200</pubDate>
+  <pubDate>Wed, 18 Jun 2014 13:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
-  <item>
-     <title>Veille sur la thématique des études scientifique sur le vaporisateur personnel</title>
-     <link>https://www.data.gouv.fr/fr/dataset/veille-sur-la-thematique-des-etudes-scientifique-sur-le-vaporisateur-personn-0</link>
-     <description><![CDATA[Depuis 2013, Vecig s'emploie à récolter les différentes informations, par l'intermédiaire d'un blog et de sa rubrique études scientifiques sur le vaporisateur personnel. L'objectif étant d'informer les consommateurs sur les avancées de la science en la matière. ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Séries chronologiques : les coûts et les financements</title>
-     <link>https://www.data.gouv.fr/fr/dataset/series-chronologiques-les-couts-et-les-financements</link>
-     <description><![CDATA[Les données relatives à la dépense intérieure d’éducation (DIE) et sa part dans le produit intérieur brut (PIB) sont analysées selon la répartition des sources de financement et le niveau de formation. ]]></description>
-     <author>Education Nationale (certifié)</author>
-  </item>
   <item>
      <title>Séries chronologiques : les personnels</title>
      <link>https://www.data.gouv.fr/fr/dataset/series-chronologiques-les-personnels</link>
@@ -365,6 +353,18 @@
      <link>https://www.data.gouv.fr/fr/dataset/les-crimes-et-delits-enregistres-par-la-police-nationa-0</link>
      <description><![CDATA[Les données des faits constatés sont fournies sous forme de tables comprenant en lignes les 107 index d'infractions de l'état statistique 4001 et en colonnes les départements et collectivités d'outre-mer. Il s'agit des faits enregistrés par l'ensemble des services de la police nationale localisés au lieu de leur enregistrement. ]]></description>
      <author>Observatoire national de la délinquance et des réponses pénales (ondrp) (certifié)</author>
+  </item>
+  <item>
+     <title>Crimes et délits constatés par la police nationale en 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/crimes-et-delits-constates-par-la-police-nationale-en-2013</link>
+     <description><![CDATA[Les données des faits constatés sont fournies sous forme de tables comprenant en lignes les 107 index d'infractions de l'état statistique 4001 et en colonnes les départements et collectivités d'outre-mer. Il s'agit des faits enregistrés par l'ensemble des services de la police nationale localisés au lieu de leur enregistrement. ]]></description>
+     <author>Observatoire national de la délinquance et des réponses pénales (ondrp) (certifié)</author>
+  </item>
+  <item>
+     <title>Hébergements touristiques</title>
+     <link>https://www.data.gouv.fr/fr/dataset/hebergements-touristiques</link>
+     <description><![CDATA[Description : Emplacement des hébergements touristiques de la ville de Saint-Quentin selon la catégorie (hôtel ; chambre d’hôte ; gîte et meublé ; camping). Ce listing comprend uniquement les hébergements qui sont référencés par l’Office de Tourisme. Lien de la ressource : http://www.saint-quentin-numerique.fr/Hebergements-touristiques ]]></description>
+     <author>Saint Quentin (Aisne) (certifié)</author>
   </item>
  </channel>
 </rss>
