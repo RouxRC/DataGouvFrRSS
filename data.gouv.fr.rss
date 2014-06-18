@@ -4,25 +4,13 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 18 Jun 2014 11:10:02 +0200</pubDate>
+  <pubDate>Wed, 18 Jun 2014 11:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Séries chronologiques : les élèves du second degré</title>
      <link>https://www.data.gouv.fr/fr/dataset/series-chronologiques-les-eleves-du-second-degre</link>
      <description><![CDATA[Ce thème présente l’évolution dans le temps des effectifs d’élèves selon différents axes d’analyse : cycle de formation, sexe, âge, académie, département, secteur d’enseignement (public, privé). ]]></description>
      <author>Education Nationale (certifié)</author>
-  </item>
-  <item>
-     <title>Veille sur la thématique études scientifique sur la e-cigarette</title>
-     <link>https://www.data.gouv.fr/fr/dataset/veille-sur-la-thematique-etudes-scientifique-sur-la-e-cigaret-0</link>
-     <description><![CDATA[Depuis 2013, Vecig s'emploie à récolter les différentes informations, par l'intermédiaire d'un blog et de sa rubrique études scientifiques sur la e-cigarette. L'objectif étant d'informer les consommateurs sur les avancées de la science en la matière. ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Veille sur la thématique études scientifique sur la e-cigarette</title>
-     <link>https://www.data.gouv.fr/fr/dataset/veille-sur-la-thematique-etudes-scientifique-sur-la-e-cigarette</link>
-     <description><![CDATA[Depuis 2013, Vecig s'emploie à récolter les différentes informations, par l'intermédiaire d'un blog et de sa rubrique études scientifiques sur la e-cigarette. L'objectif étant d'informer les consommateurs sur les avancées de la science en la matière. ]]></description>
-     <author>citoyen</author>
   </item>
   <item>
      <title>Norme et Certification des e-liquides</title>
@@ -365,6 +353,18 @@
      <link>https://www.data.gouv.fr/fr/dataset/hebergements-touristiques</link>
      <description><![CDATA[Description : Emplacement des hébergements touristiques de la ville de Saint-Quentin selon la catégorie (hôtel ; chambre d’hôte ; gîte et meublé ; camping). Ce listing comprend uniquement les hébergements qui sont référencés par l’Office de Tourisme. Lien de la ressource : http://www.saint-quentin-numerique.fr/Hebergements-touristiques ]]></description>
      <author>Saint Quentin (Aisne) (certifié)</author>
+  </item>
+  <item>
+     <title>Servitudes d'Utilité Publique PT1 protection des centres de réception radioélectrique contre les perturbations électromagnétiques</title>
+     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-pt1-protection-des-centres-de-reception-radioelectrique-contre-les-per</link>
+     <description><![CDATA[Servitude de protection des centres de réception radio-électriques contre les perturbations électromagnétiques instituées en application des articles L. 57 à L. 62-1 et R. 27 à R. 39 du code des postes et des communications électroniques. ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
+  <item>
+     <title>Elections Européennes 2014 - Résultats à Nogent-sur-Marne par bureau</title>
+     <link>https://www.data.gouv.fr/fr/dataset/elections-europeennes-2014-resultats-a-nogent-sur-marne-par-bureau</link>
+     <description><![CDATA[Ce jeu de données contient les résultats obtenus par chaque liste dans chacun des bureaux de vote composant la commune de Nogent-sur-Marne. ]]></description>
+     <author>ACTION - Association Citoyenne pour la Transparence et l'Initiative Populaire à Nogent-sur-Marne</author>
   </item>
  </channel>
 </rss>
