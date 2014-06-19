@@ -4,29 +4,29 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 18 Jun 2014 19:10:02 +0200</pubDate>
+  <pubDate>Thu, 19 Jun 2014 09:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
-     <title>Séries chronologiques : les personnels</title>
-     <link>https://www.data.gouv.fr/fr/dataset/series-chronologiques-les-personnels</link>
+     <title>Séries chronologiques Education : les personnels</title>
+     <link>https://www.data.gouv.fr/fr/dataset/series-chronologiques-education-les-personnels</link>
      <description><![CDATA[Les données de ce thème détaillent les effectifs des personnels de l’éducation nationale, l’évolution comparée des effectifs d'élèves et d'enseignants, les résultats aux concours des personnels enseignants du secteur public. ]]></description>
      <author>Education Nationale (certifié)</author>
   </item>
   <item>
-     <title>Séries chronologiques : les résultats et les diplômes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/series-chronologiques-les-resultats-et-les-diplomes</link>
+     <title>Séries chronologiques Education : les résultats et les diplômes</title>
+     <link>https://www.data.gouv.fr/fr/dataset/series-chronologiques-education-les-resultats-et-les-diplomes</link>
      <description><![CDATA[Les données sur les examens, depuis le diplôme national du brevet jusqu’au baccalauréat, en passant par les diplômes de l’enseignement professionnel, concernent le nombre de candidats et le taux de réussite. ]]></description>
      <author>Education Nationale (certifié)</author>
   </item>
   <item>
-     <title>Séries chronologiques : les apprentis</title>
-     <link>https://www.data.gouv.fr/fr/dataset/series-chronologiques-les-apprentis</link>
+     <title>Séries chronologiques Education : les apprentis</title>
+     <link>https://www.data.gouv.fr/fr/dataset/series-chronologiques-education-les-apprentis</link>
      <description><![CDATA[Ce thème présente des séries temporelles sur les centres de formation d'apprentis pour l'apprentissage dans l’ensemble des formations du second degré et de l’enseignement supérieur. Les axes d’analyse sont le sexe et l’origine scolaire des apprentis, le diplôme visé et la spécialité de formation, l’académie. ]]></description>
      <author>Education Nationale (certifié)</author>
   </item>
   <item>
-     <title>Séries chronologiques : les élèves du second degré</title>
-     <link>https://www.data.gouv.fr/fr/dataset/series-chronologiques-les-eleves-du-second-degre</link>
+     <title>Séries chronologiques Education : les élèves du second degré</title>
+     <link>https://www.data.gouv.fr/fr/dataset/series-chronologiques-education-les-eleves-du-second-degre</link>
      <description><![CDATA[Ce thème présente l’évolution dans le temps des effectifs d’élèves selon différents axes d’analyse : cycle de formation, sexe, âge, académie, département, secteur d’enseignement (public, privé). ]]></description>
      <author>Education Nationale (certifié)</author>
   </item>
