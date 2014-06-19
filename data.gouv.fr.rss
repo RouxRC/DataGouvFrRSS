@@ -4,80 +4,8 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 19 Jun 2014 11:20:02 +0200</pubDate>
+  <pubDate>Thu, 19 Jun 2014 16:50:01 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
-  <item>
-     <title>Séries chronologiques Education : les coûts et les financements</title>
-     <link>https://www.data.gouv.fr/fr/dataset/series-chronologiques-education-les-couts-et-les-financements</link>
-     <description><![CDATA[Les données relatives à la dépense intérieure d’éducation (DIE) et sa part dans le produit intérieur brut (PIB) sont analysées selon la répartition des sources de financement et le niveau de formation. ]]></description>
-     <author>Education Nationale (certifié)</author>
-  </item>
-  <item>
-     <title>Séries chronologiques Education : les personnels</title>
-     <link>https://www.data.gouv.fr/fr/dataset/series-chronologiques-education-les-personnels</link>
-     <description><![CDATA[Les données de ce thème détaillent les effectifs des personnels de l’éducation nationale, l’évolution comparée des effectifs d'élèves et d'enseignants, les résultats aux concours des personnels enseignants du secteur public. ]]></description>
-     <author>Education Nationale (certifié)</author>
-  </item>
-  <item>
-     <title>Séries chronologiques Education : les résultats et les diplômes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/series-chronologiques-education-les-resultats-et-les-diplomes</link>
-     <description><![CDATA[Les données sur les examens, depuis le diplôme national du brevet jusqu’au baccalauréat, en passant par les diplômes de l’enseignement professionnel, concernent le nombre de candidats et le taux de réussite. ]]></description>
-     <author>Education Nationale (certifié)</author>
-  </item>
-  <item>
-     <title>Séries chronologiques Education : les apprentis</title>
-     <link>https://www.data.gouv.fr/fr/dataset/series-chronologiques-education-les-apprentis</link>
-     <description><![CDATA[Ce thème présente des séries temporelles sur les centres de formation d'apprentis pour l'apprentissage dans l’ensemble des formations du second degré et de l’enseignement supérieur. Les axes d’analyse sont le sexe et l’origine scolaire des apprentis, le diplôme visé et la spécialité de formation, l’académie. ]]></description>
-     <author>Education Nationale (certifié)</author>
-  </item>
-  <item>
-     <title>Séries chronologiques Education : les élèves du second degré</title>
-     <link>https://www.data.gouv.fr/fr/dataset/series-chronologiques-education-les-eleves-du-second-degre</link>
-     <description><![CDATA[Ce thème présente l’évolution dans le temps des effectifs d’élèves selon différents axes d’analyse : cycle de formation, sexe, âge, académie, département, secteur d’enseignement (public, privé). ]]></description>
-     <author>Education Nationale (certifié)</author>
-  </item>
-  <item>
-     <title>Liste des maires au 17 juin 2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-maires-au-17-juin-2014</link>
-     <description><![CDATA[Liste des maires au 17 juin 2014 (mises à jour effectuées par les préfectures) ]]></description>
-     <author>Ministère de l'Intérieur (certifié)</author>
-  </item>
-  <item>
-     <title>Clé Geoportail réservée aux participants de l'opération Archipel Molène</title>
-     <link>https://www.data.gouv.fr/fr/dataset/cle-geoportail-reservee-aux-participants-de-l-operation-archipel-molene</link>
-     <description><![CDATA[Dans le cadre de l'opération Archipel Molène, l'IGN met à disposition une clé Geoportail. Cette clé permet d'accéder aux ressources WMTS, WMS, WFS, OpenLS et d'alticodage du Géoportail, dans le cadre de la licence de développement de l'API Géoportail. Afin de permettre une utilisation sans contrainte de contexte ou d'application, la clé est dépourvue de sécurité d'authentification, dès votre...]]></description>
-     <author>Institut National de l'Information Géographique et Forestière (certifié)</author>
-  </item>
-  <item>
-     <title>Panneaux d'affichage libre à Nogent-sur-Marne</title>
-     <link>https://www.data.gouv.fr/fr/dataset/panneaux-d-affichage-libre-a-nogent-sur-marne</link>
-     <description><![CDATA[Ce jeu de données donne la liste des panneaux d'affichage libre mis à disposition par la commune de Nogent-sur-Marne sur son territoire. ]]></description>
-     <author>ACTION - Association Citoyenne pour la Transparence et l'Initiative Populaire à Nogent-sur-Marne</author>
-  </item>
-  <item>
-     <title>Subventions municipales de la ville de Nogent-sur-Marne aux associations en 2012</title>
-     <link>https://www.data.gouv.fr/fr/dataset/subventions-municipales-de-la-ville-de-nogent-sur-marne-aux-associations-en-2012</link>
-     <description><![CDATA[Ce jeu de données reprend les subventions accordées par la ville de Nogent-sur-Marne aux associations pour l'année 2012 telles que votées lors du conseil municipal. ]]></description>
-     <author>ACTION - Association Citoyenne pour la Transparence et l'Initiative Populaire à Nogent-sur-Marne</author>
-  </item>
-  <item>
-     <title> Liste des collectivités territoriales utilisant la verbalisation électronique en France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-collectivites-territoriales-utilisant-la-verbalisation-electronique-en-france</link>
-     <description><![CDATA[Le fichier recense les services verbalisateurs des collectivités territoriales françaises utilisant la verbalisation électronique. Le fichier contient notamment : - Le nom de la collectivité territoriale et son département de rattachement ; - Le nom du service verbalisateur ; - La date de démarrage de la verbalisation électronique ; - Le matériel de verbalisation électronique...]]></description>
-     <author>Ministère de l'Intérieur (certifié)</author>
-  </item>
-  <item>
-     <title>Analyses des eaux souterraines en Poitou-Charentes (Nitrates)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/analyses-des-eaux-souterraines-en-poitou-charentes-nitrates</link>
-     <description><![CDATA[Extraction des mesures de nitrates en eaux souterraines en Poitou-Charentes. Réalisé à partir de la base ADES pour le Hackathon Eau 2014. ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Etat des subventions versées</title>
-     <link>https://www.data.gouv.fr/fr/dataset/etat-des-subventions-versees</link>
-     <description><![CDATA[Liste des subventions versées par le Département du Cantal aux associations et fondations reconnues d'utilité publique ]]></description>
-     <author>Conseil Général du Cantal (certifié)</author>
-  </item>
   <item>
      <title>Subventions municipales de la ville de Nogent-sur-Marne aux associations en 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/subventions-municipales-de-la-ville-de-nogent-sur-marne-aux-associations-en-2013</link>
