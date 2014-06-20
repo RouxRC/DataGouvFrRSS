@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 20 Jun 2014 09:40:02 +0200</pubDate>
+  <pubDate>Fri, 20 Jun 2014 12:20:03 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Séries chronologiques Education : les coûts et les financements</title>
@@ -271,12 +271,6 @@
      <author>ACTION - Association Citoyenne pour la Transparence et l'Initiative Populaire à Nogent-sur-Marne</author>
   </item>
   <item>
-     <title>Trafic annuel entrant par station (2013)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/trafic-annuel-entrant-par-station-2013-ratp</link>
-     <description><![CDATA[Ce jeu de donnée détaille le trafic des entrants directs sur le réseau ferré RATP. ]]></description>
-     <author>Régie autonome des transports parisiens (RATP) (certifié)</author>
-  </item>
-  <item>
      <title>Exécution 2013 du budget de l'Etat en CP et AE </title>
      <link>https://www.data.gouv.fr/fr/dataset/execution-2013-du-budget-de-l-etat-en-cp-et-ae</link>
      <description><![CDATA[Données d'exécution des Autorisations d'Engagement (AE) et des Crédits de Paiement (CP) du Budget de l'Etat (budget général, comptes d'affectation spéciale et comptes de concours financiers) telles que présentées dans les rapports annuels de performances (RAP) annexés au projet de loi de règlement (PLR) 2013. Ce jeu de données est composé de 5 fichiers au format CSV suivant la nomenclature en...]]></description>
@@ -365,6 +359,12 @@
      <link>https://www.data.gouv.fr/fr/dataset/crimes-et-delits-constates-par-la-police-nationale-en-2013</link>
      <description><![CDATA[Les données des faits constatés sont fournies sous forme de tables comprenant en lignes les 107 index d'infractions de l'état statistique 4001 et en colonnes les départements et collectivités d'outre-mer. Il s'agit des faits enregistrés par l'ensemble des services de la police nationale localisés au lieu de leur enregistrement. ]]></description>
      <author>Observatoire national de la délinquance et des réponses pénales (ondrp) (certifié)</author>
+  </item>
+  <item>
+     <title>Hébergements touristiques</title>
+     <link>https://www.data.gouv.fr/fr/dataset/hebergements-touristiques</link>
+     <description><![CDATA[Description : Emplacement des hébergements touristiques de la ville de Saint-Quentin selon la catégorie (hôtel ; chambre d’hôte ; gîte et meublé ; camping). Ce listing comprend uniquement les hébergements qui sont référencés par l’Office de Tourisme. Lien de la ressource : http://www.saint-quentin-numerique.fr/Hebergements-touristiques ]]></description>
+     <author>Saint Quentin (Aisne) (certifié)</author>
   </item>
  </channel>
 </rss>
