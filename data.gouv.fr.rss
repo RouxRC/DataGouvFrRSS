@@ -4,19 +4,13 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 20 Jun 2014 23:00:02 +0200</pubDate>
+  <pubDate>Sat, 21 Jun 2014 11:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Données des accidents corporels de la circulation routière</title>
      <link>https://www.data.gouv.fr/fr/dataset/donnees-des-accidents-corporels-de-la-circulation-routiere</link>
      <description><![CDATA[La présente base est extraite du fichier national des accidents corporels de la circulation, dit « Fichier BAAC», administré par l’ONISR. Cette base répertorie l'intégralité des accidents corporels de la circulation intervenus durant l'année 2012 en France (métropole ainsi que les départements d'Outre-mer, à savoir Guadeloupe, Guyane, Martinique, La Réunion et Mayotte), avec une description...]]></description>
      <author>Ministère de l'Intérieur (certifié)</author>
-  </item>
-  <item>
-     <title>test_quartier</title>
-     <link>https://www.data.gouv.fr/fr/dataset/test-quartier</link>
-     <description><![CDATA[ceci est un test ]]></description>
-     <author>citoyen</author>
   </item>
   <item>
      <title>Séries chronologiques Education : les coûts et les financements</title>
@@ -363,6 +357,12 @@
   <item>
      <title>Les crimes et délits enregistrés par la police nationale</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-crimes-et-delits-enregistres-par-la-police-nationa-0</link>
+     <description><![CDATA[Les données des faits constatés sont fournies sous forme de tables comprenant en lignes les 107 index d'infractions de l'état statistique 4001 et en colonnes les départements et collectivités d'outre-mer. Il s'agit des faits enregistrés par l'ensemble des services de la police nationale localisés au lieu de leur enregistrement. ]]></description>
+     <author>Observatoire national de la délinquance et des réponses pénales (ondrp) (certifié)</author>
+  </item>
+  <item>
+     <title>Crimes et délits constatés par la police nationale en 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/crimes-et-delits-constates-par-la-police-nationale-en-2013</link>
      <description><![CDATA[Les données des faits constatés sont fournies sous forme de tables comprenant en lignes les 107 index d'infractions de l'état statistique 4001 et en colonnes les départements et collectivités d'outre-mer. Il s'agit des faits enregistrés par l'ensemble des services de la police nationale localisés au lieu de leur enregistrement. ]]></description>
      <author>Observatoire national de la délinquance et des réponses pénales (ondrp) (certifié)</author>
   </item>
