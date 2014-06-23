@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 22 Jun 2014 00:10:02 +0200</pubDate>
+  <pubDate>Mon, 23 Jun 2014 10:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Kilométrage des types de routes répartis par communes</title>
@@ -19,10 +19,34 @@
      <author>citoyen</author>
   </item>
   <item>
+     <title>Comptes rendus du Sénat</title>
+     <link>https://www.data.gouv.fr/fr/dataset/comptes-rendus-du-senat</link>
+     <description><![CDATA[La base « Comptes rendus » contient les informations relatives aux comptes rendus intégraux de la séance publique depuis janvier 2003. ]]></description>
+     <author>Sénat (certifié)</author>
+  </item>
+  <item>
+     <title>Questions du Sénat</title>
+     <link>https://www.data.gouv.fr/fr/dataset/questions-du-senat</link>
+     <description><![CDATA[La base "Questions" contient les références de l'ensemble des questions écrites et orales posées par les sénateurs au Gouvernement depuis le 2 avril 1978. ]]></description>
+     <author>Sénat (certifié)</author>
+  </item>
+  <item>
+     <title>Amendements déposés au Sénat</title>
+     <link>https://www.data.gouv.fr/fr/dataset/amendements-deposes-au-senat</link>
+     <description><![CDATA[La base « Amendements (Ameli) » vous permet d’accéder à l’ensemble des amendements déposés au Sénat en commission (depuis octobre 2010) et en séance publique (depuis octobre 2001). Pour chaque amendement sont indiqués son ou ses auteur(s), son contenu, son objet, s’il a été adopté ou non, etc. Le jeu complet des amendements déposés sur chaque texte, en commission ou en séance, est disponible...]]></description>
+     <author>Sénat (certifié)</author>
+  </item>
+  <item>
      <title>Données des accidents corporels de la circulation routière</title>
      <link>https://www.data.gouv.fr/fr/dataset/donnees-des-accidents-corporels-de-la-circulation-routiere</link>
      <description><![CDATA[La présente base est extraite du fichier national des accidents corporels de la circulation, dit « Fichier BAAC», administré par l’ONISR. Cette base répertorie l'intégralité des accidents corporels de la circulation intervenus durant l'année 2012 en France (métropole ainsi que les départements d'Outre-mer, à savoir Guadeloupe, Guyane, Martinique, La Réunion et Mayotte), avec une description...]]></description>
      <author>Ministère de l'Intérieur (certifié)</author>
+  </item>
+  <item>
+     <title>Travaux législatifs (Sénat)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/travaux-legislatifs-senat</link>
+     <description><![CDATA[La base "Dossiers législatifs (Dosleg)" contient l'ensemble des informations sur les documents parlementaires déposés au Sénat (références depuis octobre 1977 et liens vers le texte intégral depuis octobre 1995). Vous y trouverez, entre autres, les données relatives aux projets et propositions de loi, les rapports législatifs ou d’information, les textes de commission, etc. ]]></description>
+     <author>Sénat (certifié)</author>
   </item>
   <item>
      <title>Séries chronologiques Education : les coûts et les financements</title>
@@ -341,30 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/les-crimes-et-delits-enregistres-par-la-police-nationa-1</link>
      <description><![CDATA[Les données des faits constatés sont fournies sous forme de tables comprenant en lignes les 107 index d'infractions de l'état statistique 4001 et en colonnes les départements et collectivités d'outre-mer. Il s'agit des faits enregistrés par l'ensemble des services de la police nationale localisés au lieu de leur enregistrement. ]]></description>
      <author>Observatoire national de la délinquance et des réponses pénales (ondrp) (certifié)</author>
-  </item>
-  <item>
-     <title>Les crimes et délits enregistrés par la police nationale</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-crimes-et-delits-enregistres-par-la-police-nationale</link>
-     <description><![CDATA[Les données des faits constatés sont fournies sous forme de tables comprenant en lignes les 107 index d'infractions de l'état statistique 4001 et en colonnes les départements et collectivités d'outre-mer. Il s'agit des faits enregistrés par l'ensemble des services de la police nationale localisés au lieu de leur enregistrement. ]]></description>
-     <author>Observatoire national de la délinquance et des réponses pénales (ondrp) (certifié)</author>
-  </item>
-  <item>
-     <title>Les crimes et délits enregistrés par la gendarmerie nationale</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-crimes-et-delits-enregistres-par-la-gendarmerie-nationale</link>
-     <description><![CDATA[Les données des faits constatés sont fournies sous forme de tables comprenant en lignes les 107 index d'infractions de l'état statistique 4001 et en colonnes les départements et collectivités d'outre-mer. Il s'agit des faits enregistrés par l'ensemble des unités de la gendarmerie nationale localisés au lieu de leur enregistrement. ]]></description>
-     <author>Observatoire national de la délinquance et des réponses pénales (ondrp) (certifié)</author>
-  </item>
-  <item>
-     <title>Collections d'interactions plantes/pollinisateurs du Suivi Photographique des Insectes Pollinisateurs</title>
-     <link>https://www.data.gouv.fr/fr/dataset/collections-d-interactions-plantes-pollinisateurs-du-suivi-photographique-des-insectes-pollinisateur</link>
-     <description><![CDATA[Le Suivi Photographique des Insectes Pollinisateurs (SPIPOLL) est un programme de sciences participatives de Vigie-Nature co-animé par le Muséum National d'Histoire Naturelle et l'Office pour les insectes et leur environnement. Chacun peut participer en prenant en photo pendant un temps déterminé (20mn minimum) tous les types d'insectes visitant une fleur. Cette collection de photos est...]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Les dépenses de prévention collective</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-depenses-de-prevention-collective</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees, Comptes de la Santé ]]></description>
-     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
   </item>
  </channel>
 </rss>
