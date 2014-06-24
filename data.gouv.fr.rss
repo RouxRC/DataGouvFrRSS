@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 24 Jun 2014 14:40:02 +0200</pubDate>
+  <pubDate>Tue, 24 Jun 2014 15:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>LEGI: Codes, lois et règlements consolidés</title>
+     <link>https://www.data.gouv.fr/fr/dataset/legi-codes-lois-et-reglements-consolides</link>
+     <description><![CDATA[Le texte intégral consolidé de la législation et de la réglementation nationale. Il est essentiellement constitué par : - les codes officiels ; - les lois, décrets-lois, ordonnances, décrets et une sélection d’arrêtés. La consolidation des textes consiste lorsqu’un article de texte (ou de code) est modifié, à le réécrire en y intégrant la modification apportée. Les versions...]]></description>
+     <author>Premier ministre (certifié)</author>
+  </item>
   <item>
      <title>Structure de l'emploi en France</title>
      <link>https://www.data.gouv.fr/fr/dataset/structure-de-l-emploi-en-france</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-ar6-ouvrages-militaires-terrestres</link>
      <description><![CDATA[Ouvrages militaires terrestres - Servitudes relatives aux abords des champs de tir ]]></description>
      <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
-  </item>
-  <item>
-     <title>Publicité annuelle des marchés conclus</title>
-     <link>https://www.data.gouv.fr/fr/dataset/publicite-annuelle-des-marches-conclus</link>
-     <description><![CDATA[ Au premier trimestre de chaque année, les acheteurs doivent publier la liste des marchés de fournitures, services ou travaux conclus l'année précédente (art. 133 du Code des marchés publics). À compter du 1er janvier 2012, les modalités de recensement annuel des marchés doivent répondre aux nouvelles dispositions fixées par l'arrêté du 21 juillet 2011. Un nombre de tranches réduit...]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
