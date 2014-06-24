@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 24 Jun 2014 12:40:02 +0200</pubDate>
+  <pubDate>Tue, 24 Jun 2014 14:00:03 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Structure de l'emploi en France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/structure-de-l-emploi-en-france</link>
+     <description><![CDATA[Age des actifs en emploi, structure des catégories socio-professionnelles, égalité homme-femme, pyramide des âges, part salariat/intérim/TNS/apprentis/stagiaires ... Evolution de l'emploi avec le temps. ]]></description>
+     <author>Agence Nationale pour l'Amélioration des Conditions de Travail (certifié)</author>
+  </item>
   <item>
      <title>L’aide publique au développement de la France</title>
      <link>https://www.data.gouv.fr/fr/dataset/l-aide-publique-au-developpement-de-la-france</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/publicite-annuelle-des-marches-conclus</link>
      <description><![CDATA[ Au premier trimestre de chaque année, les acheteurs doivent publier la liste des marchés de fournitures, services ou travaux conclus l'année précédente (art. 133 du Code des marchés publics). À compter du 1er janvier 2012, les modalités de recensement annuel des marchés doivent répondre aux nouvelles dispositions fixées par l'arrêté du 21 juillet 2011. Un nombre de tranches réduit...]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Servitudes d'Utilité Publique PT2 protection des centres radioélectriques d'émission et de réception contre les obstacles </title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-pt2-protection-des-centres-radioelectriques-d-emission-et-de-reception</link>
-     <description><![CDATA[Servitude de protection des centres radioélectriques d'émission et de réception contre les obstacles - Centre d'emission et de réception et Zones de dégagement. ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
   </item>
  </channel>
 </rss>
