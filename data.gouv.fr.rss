@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 24 Jun 2014 10:40:02 +0200</pubDate>
+  <pubDate>Tue, 24 Jun 2014 11:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Données des accidents corporels de la circulation routière</title>
+     <link>https://www.data.gouv.fr/fr/dataset/donnees-des-accidents-corporels-de-la-circulation-routie-0</link>
+     <description><![CDATA[Lors du Hackathon organisé les 20 et 21 juin 2014 par le Ministère de l'Intérieur, le jeu de données Données des accidents corporels de la circulation routière initialement produit par le Ministère a été retravaillé pour correspondre au schéma du jeu de données Base de données des accidents corporels de la circulation maintenu par IdeesLibres.org. Le traitement effectué est le suivant : -...]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Kilométrage des types de routes répartis par communes</title>
      <link>https://www.data.gouv.fr/fr/dataset/kilometrage-des-types-de-routes-repartis-par-communes</link>
@@ -358,12 +364,6 @@
      <title>Les crimes et délits enregistrés par la gendarmerie nationale</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-crimes-et-delits-enregistres-par-la-gendarmerie-nationa-0</link>
      <description><![CDATA[Les données des faits constatés sont fournies sous forme de tables comprenant en lignes les 107 index d'infractions de l'état statistique 4001 et en colonnes les départements et collectivités d'outre-mer. Il s'agit des faits enregistrés par l'ensemble des unités de la gendarmerie nationale localisés au lieu de leur enregistrement. ]]></description>
-     <author>Observatoire national de la délinquance et des réponses pénales (ondrp) (certifié)</author>
-  </item>
-  <item>
-     <title>Les crimes et délits enregistrés par la police nationale</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-crimes-et-delits-enregistres-par-la-police-nationa-1</link>
-     <description><![CDATA[Les données des faits constatés sont fournies sous forme de tables comprenant en lignes les 107 index d'infractions de l'état statistique 4001 et en colonnes les départements et collectivités d'outre-mer. Il s'agit des faits enregistrés par l'ensemble des services de la police nationale localisés au lieu de leur enregistrement. ]]></description>
      <author>Observatoire national de la délinquance et des réponses pénales (ondrp) (certifié)</author>
   </item>
  </channel>
