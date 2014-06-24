@@ -4,13 +4,13 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 24 Jun 2014 12:30:03 +0200</pubDate>
+  <pubDate>Tue, 24 Jun 2014 12:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>L’aide publique au développement de la France</title>
      <link>https://www.data.gouv.fr/fr/dataset/l-aide-publique-au-developpement-de-la-france</link>
      <description><![CDATA[Les données portent sur l’aide au développement française dans les pays pauvres prioritaires d’Afrique subsaharienne. Elles seront systématiquement mises à jour pour prendre en compte les nouveaux projets de développement financés par le ministère des Affaires étrangères et du Développement international et l’Agence française de développement. Dans un esprit de transparence, ces données...]]></description>
-     <author>citoyen</author>
+     <author>Ministère des Affaires Etrangères et du Développement International  (certifié)</author>
   </item>
   <item>
      <title>Données des accidents corporels de la circulation routière</title>
