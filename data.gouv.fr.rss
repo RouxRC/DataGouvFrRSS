@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 24 Jun 2014 15:30:02 +0200</pubDate>
+  <pubDate>Tue, 24 Jun 2014 16:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>LEGI: Codes, lois et règlements consolidés</title>
@@ -15,7 +15,7 @@
   <item>
      <title>Structure de l'emploi en France</title>
      <link>https://www.data.gouv.fr/fr/dataset/structure-de-l-emploi-en-france</link>
-     <description><![CDATA[Age des actifs en emploi, structure des catégories socio-professionnelles, égalité homme-femme, pyramide des âges, part salariat/intérim/TNS/apprentis/stagiaires ... Evolution de l'emploi avec le temps. ]]></description>
+     <description><![CDATA[L’emploi est abordé sous l’angle de l’âge (3 tranches d’âges), des CSP simplifiées (5 classes), du statut dans l’emploi (condition d’emploi, c'est à dire salariat/intérim/TNS/apprentis/stagiaires), de l'égalité homme-femmes, du chômage, ainsi que sous l’angle des variations 1999-2008. ]]></description>
      <author>Agence Nationale pour l'Amélioration des Conditions de Travail (certifié)</author>
   </item>
   <item>
