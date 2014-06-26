@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 27 Jun 2014 00:30:02 +0200</pubDate>
+  <pubDate>Fri, 27 Jun 2014 01:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>sécurité incendie</title>
+     <link>https://www.data.gouv.fr/fr/dataset/securite-incendie</link>
+     <description><![CDATA[sécurité incendie infrastructures sur sur le territoire communal ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Données brutes au niveau IRIS, commune, canton, zone d'emploi et département</title>
      <link>https://www.data.gouv.fr/fr/dataset/donnees-brutes-au-niveau-iris-commune-canton-zone-d-emploi-et-departement</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-pm2-installations-classees</link>
      <description><![CDATA[Installations classées - Servitudes résultant des périmètres délimités autour des installations classées implantées sur un site nouveau. ]]></description>
      <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
-  </item>
-  <item>
-     <title>Subventions municipales de la ville de Nogent-sur-Marne aux associations en 2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/subventions-municipales-de-la-ville-de-nogent-sur-marne-aux-associations-en-2014</link>
-     <description><![CDATA[Ce jeu de données reprend les subventions accordées par la ville de Nogent-sur-Marne aux associations pour l'année 2014 telles que votées lors du conseil municipal du 17 avril 2014. ]]></description>
-     <author>ACTION - Association Citoyenne pour la Transparence et l'Initiative Populaire à Nogent-sur-Marne</author>
   </item>
  </channel>
 </rss>
