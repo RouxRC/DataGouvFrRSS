@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 26 Jun 2014 10:20:02 +0200</pubDate>
+  <pubDate>Thu, 26 Jun 2014 16:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>GuidelinesTransition AD Final F [Lignes Directrices de la Transition AN (Analogique/Numérique) Final F]</title>
+     <link>https://www.data.gouv.fr/fr/dataset/guidelinestransition-ad-final-f-lignes-directrices-de-la-transition-an-analogique-numerique-final-f</link>
+     <description><![CDATA[Planification d'un projet datant de 1993 sinon des années 1950, dont l'actuel gouvernement ne sait comment l'arrêter étant donné le deéveloppement par le commerce et les usagers des communications numériques notamment des téléphones portables et autre ondes et micro-ondes. Ce document comporte le plan plus des organigrammes détaillant les responsabilités des différentes droites qu après...]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>LEGI: Codes, lois et règlements consolidés</title>
      <link>https://www.data.gouv.fr/fr/dataset/legi-codes-lois-et-reglements-consolides</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/resultats-des-elections-europeennes-de-2014-par-commune</link>
      <description><![CDATA[Ce jeu de données a été élaboré à partir des résultats diffusés par le ministère de l'intérieur. Les résultats ont été sommés par étiquette politique et sont directement utilisables. ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Servitudes d'Utilité Publique AR6 ouvrages militaires terrestres </title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-ar6-ouvrages-militaires-terrestres</link>
-     <description><![CDATA[Ouvrages militaires terrestres - Servitudes relatives aux abords des champs de tir ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
   </item>
  </channel>
 </rss>
