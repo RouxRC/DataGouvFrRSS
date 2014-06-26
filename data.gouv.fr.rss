@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 26 Jun 2014 18:00:02 +0200</pubDate>
+  <pubDate>Fri, 27 Jun 2014 00:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Données brutes au niveau IRIS, commune, canton, zone d'emploi et département</title>
+     <link>https://www.data.gouv.fr/fr/dataset/donnees-brutes-au-niveau-iris-commune-canton-zone-d-emploi-et-departement</link>
+     <description><![CDATA[Navigateur et moteur de recherche pour les plateformes DB Ressources agrégeant pour la France des données de 2006 à 2010, provenant de l'INSEE (RGP, RP, CLAP), DGFIP, DADS, UNISTATS, DARES, CNAF; et pour le monde, des données relatives aux objectifs du millénaire pour le développement Edition 2012 mdgs.un.org, et à la sécurité alimentaire. Données distribuées par l'Association Altercarto ]]></description>
+     <author>Altercarto</author>
+  </item>
   <item>
      <title>Synthèse du diagnostic énergetique des batiments communaux </title>
      <link>https://www.data.gouv.fr/fr/dataset/synthese-du-diagnostic-energetique-des-batiments-communaux</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/subventions-municipales-de-la-ville-de-nogent-sur-marne-aux-associations-en-2014</link>
      <description><![CDATA[Ce jeu de données reprend les subventions accordées par la ville de Nogent-sur-Marne aux associations pour l'année 2014 telles que votées lors du conseil municipal du 17 avril 2014. ]]></description>
      <author>ACTION - Association Citoyenne pour la Transparence et l'Initiative Populaire à Nogent-sur-Marne</author>
-  </item>
-  <item>
-     <title>Exécution 2013 du budget de l'Etat en CP et AE </title>
-     <link>https://www.data.gouv.fr/fr/dataset/execution-2013-du-budget-de-l-etat-en-cp-et-ae</link>
-     <description><![CDATA[Données d'exécution des Autorisations d'Engagement (AE) et des Crédits de Paiement (CP) du Budget de l'Etat (budget général, comptes d'affectation spéciale et comptes de concours financiers) telles que présentées dans les rapports annuels de performances (RAP) annexés au projet de loi de règlement (PLR) 2013. Ce jeu de données est composé de 5 fichiers au format CSV suivant la nomenclature en...]]></description>
-     <author>Ministère des finances et des comptes publics (certifié)</author>
   </item>
  </channel>
 </rss>
