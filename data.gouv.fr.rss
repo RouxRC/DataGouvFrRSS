@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 26 Jun 2014 17:20:02 +0200</pubDate>
+  <pubDate>Thu, 26 Jun 2014 17:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Synthèse du diagnostic énergetique des batiments communaux </title>
+     <link>https://www.data.gouv.fr/fr/dataset/synthese-du-diagnostic-energetique-des-batiments-communaux</link>
+     <description><![CDATA[Synthèse du diagnostic énergétique des bâtiments communaux et des gaz à effet de serre ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Zones inondables</title>
      <link>https://www.data.gouv.fr/fr/dataset/zones-inondables</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/execution-2013-du-budget-de-l-etat-en-cp-et-ae</link>
      <description><![CDATA[Données d'exécution des Autorisations d'Engagement (AE) et des Crédits de Paiement (CP) du Budget de l'Etat (budget général, comptes d'affectation spéciale et comptes de concours financiers) telles que présentées dans les rapports annuels de performances (RAP) annexés au projet de loi de règlement (PLR) 2013. Ce jeu de données est composé de 5 fichiers au format CSV suivant la nomenclature en...]]></description>
      <author>Ministère des finances et des comptes publics (certifié)</author>
-  </item>
-  <item>
-     <title>Elections européennes 2014 - Résultats</title>
-     <link>https://www.data.gouv.fr/fr/dataset/elections-europeennes-2014-resulta-2</link>
-     <description><![CDATA[Résultats des élections européennes 2014, France entière, par circonscriptions européennes, par régions, par départements, par circonscriptions législatives, par cantons et liste des élus, proclamés par la commission nationale de recensement des votes. ]]></description>
-     <author>Ministère de l'Intérieur (certifié)</author>
   </item>
  </channel>
 </rss>
