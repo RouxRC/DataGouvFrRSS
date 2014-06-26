@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 26 Jun 2014 16:50:02 +0200</pubDate>
+  <pubDate>Thu, 26 Jun 2014 17:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Zones inondables</title>
+     <link>https://www.data.gouv.fr/fr/dataset/zones-inondables</link>
+     <description><![CDATA[Zonage du risque inondation dans les PPRI et hors PPRI du département du HAUT-RHIN Toutes les zones définies par arrêté préfectoral approuvant les PPRI sont saisies. Cartographie du risque naturel inondation par débordement de cours d'eau, en dehors des zones arrêtées au titre des PPRI ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Budget primitif </title>
      <link>https://www.data.gouv.fr/fr/dataset/budget-primit-0</link>
@@ -358,12 +364,6 @@
      <title>Elections européennes 2014 - Résultats</title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-europeennes-2014-resulta-2</link>
      <description><![CDATA[Résultats des élections européennes 2014, France entière, par circonscriptions européennes, par régions, par départements, par circonscriptions législatives, par cantons et liste des élus, proclamés par la commission nationale de recensement des votes. ]]></description>
-     <author>Ministère de l'Intérieur (certifié)</author>
-  </item>
-  <item>
-     <title>Elections européennes 2014 - Résultats par communes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/elections-europeennes-2014-resultats-par-communes</link>
-     <description><![CDATA[Résultats des élections européennes 2014 par communes, proclamés par la commission nationale de recensement des votes ]]></description>
      <author>Ministère de l'Intérieur (certifié)</author>
   </item>
  </channel>
