@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 26 Jun 2014 16:20:02 +0200</pubDate>
+  <pubDate>Thu, 26 Jun 2014 16:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Budget primitif </title>
+     <link>https://www.data.gouv.fr/fr/dataset/budget-primit-0</link>
+     <description><![CDATA[Budget primitif - budget principal de la commune de Monacia d'Aullène - M 14 - exercice 2014 ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>GuidelinesTransition AD Final F [Lignes Directrices de la Transition AN (Analogique/Numérique) Final F]</title>
      <link>https://www.data.gouv.fr/fr/dataset/guidelinestransition-ad-final-f-lignes-directrices-de-la-transition-an-analogique-numerique-final-f</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/elections-europeennes-2014-resultats-par-communes</link>
      <description><![CDATA[Résultats des élections européennes 2014 par communes, proclamés par la commission nationale de recensement des votes ]]></description>
      <author>Ministère de l'Intérieur (certifié)</author>
-  </item>
-  <item>
-     <title>Résultats des élections européennes de 2014 par commune</title>
-     <link>https://www.data.gouv.fr/fr/dataset/resultats-des-elections-europeennes-de-2014-par-commune</link>
-     <description><![CDATA[Ce jeu de données a été élaboré à partir des résultats diffusés par le ministère de l'intérieur. Les résultats ont été sommés par étiquette politique et sont directement utilisables. ]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
