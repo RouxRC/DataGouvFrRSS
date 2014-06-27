@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 27 Jun 2014 08:50:02 +0200</pubDate>
+  <pubDate>Fri, 27 Jun 2014 10:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Bâtiments communaux </title>
+     <link>https://www.data.gouv.fr/fr/dataset/batiments-communaux</link>
+     <description><![CDATA[Bâtiments Communaux ]]></description>
+     <author>Mairie de Monacia d'Aullène</author>
+  </item>
   <item>
      <title>Budgets primitifs</title>
      <link>https://www.data.gouv.fr/fr/dataset/budgets-primitifs</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/enquete-aupres-des-etablissements-d-hebergement-pour-personnes-agees-ehpa</link>
      <description><![CDATA[Source : DREES L’enquête EHPA apporte des informations sur l’activité des établissements hébergeant des personnes âgées, ainsi que sur le personnel qui y travaille et les personnes âgées qui y résident. ]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Zone Urbaine Sensible</title>
-     <link>https://www.data.gouv.fr/fr/dataset/zone-urbaine-sensible</link>
-     <description><![CDATA[Limites géographiques des zones urbaines sensibles de la ville de Saint-Quentin. Lien vers la ressource : http://saint-quentin-numerique.fr/Zone-Urbaine-Sensible ]]></description>
-     <author>Saint Quentin (Aisne) (certifié)</author>
   </item>
  </channel>
 </rss>
