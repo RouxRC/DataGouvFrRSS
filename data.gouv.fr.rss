@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 27 Jun 2014 10:30:03 +0200</pubDate>
+  <pubDate>Fri, 27 Jun 2014 11:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Foncier </title>
+     <link>https://www.data.gouv.fr/fr/dataset/foncier</link>
+     <description><![CDATA[Données communales relative au foncier public ]]></description>
+     <author>Mairie de Monacia d'Aullène</author>
+  </item>
   <item>
      <title>Bâtiments communaux </title>
      <link>https://www.data.gouv.fr/fr/dataset/batiments-communaux</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/projet-de-redecoupages-des-regions</link>
      <description><![CDATA[Projet de refonte des régions proposé le 2 juin 2014. Exports du découpage administratif français au niveau régional (contours des régions) issu d'OpenStreetMap produit dans sa grande majorité à partir du cadastre. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont sous licence ODbL qui impose un partage à l'identique et la mention...]]></description>
      <author>OpenStreetMap</author>
-  </item>
-  <item>
-     <title>Enquête auprès des établissements d’hébergement pour personnes âgées (EHPA)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/enquete-aupres-des-etablissements-d-hebergement-pour-personnes-agees-ehpa</link>
-     <description><![CDATA[Source : DREES L’enquête EHPA apporte des informations sur l’activité des établissements hébergeant des personnes âgées, ainsi que sur le personnel qui y travaille et les personnes âgées qui y résident. ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
 </rss>
