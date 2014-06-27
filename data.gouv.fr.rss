@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 27 Jun 2014 12:10:03 +0200</pubDate>
+  <pubDate>Fri, 27 Jun 2014 12:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Infrastructures reseau </title>
+     <link>https://www.data.gouv.fr/fr/dataset/infrastructures-reseau</link>
+     <description><![CDATA[Infrastructures réseau (eau , electricité , assainissement ) ]]></description>
+     <author>Mairie de Monacia d'Aullène</author>
+  </item>
+  <item>
+     <title>rth</title>
+     <link>https://www.data.gouv.fr/fr/dataset/rth</link>
+     <description><![CDATA[trhhrth ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Foncier </title>
      <link>https://www.data.gouv.fr/fr/dataset/foncier</link>
@@ -353,18 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/atlas-statistique-du-projet-de-redecoupage-des-regions</link>
      <description><![CDATA[Découvrez le projet de redécoupage des régions françaises au moyen de cartes thématiques autour de la population du logement de l'emploi et du PIB. ]]></description>
      <author>Emc3 / Géoclip</author>
-  </item>
-  <item>
-     <title>Servitudes d'Utilité Publique A6 Ecoulement des eaux nuisibles </title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-a6-ecoulement-des-eaux-nuisibles</link>
-     <description><![CDATA[Ecoulement des eaux nuisibles - Servitudes d'écoulement des eaux nuisibles attachées aux travaux d'assainissement des terres par le drainage. ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
-  </item>
-  <item>
-     <title>Projet de redécoupages des régions</title>
-     <link>https://www.data.gouv.fr/fr/dataset/projet-de-redecoupages-des-regions</link>
-     <description><![CDATA[Projet de refonte des régions proposé le 2 juin 2014. Exports du découpage administratif français au niveau régional (contours des régions) issu d'OpenStreetMap produit dans sa grande majorité à partir du cadastre. Ces données sont issues du crowdsourcing effectué par les contributeurs au projet OpenStreetMap et sont sous licence ODbL qui impose un partage à l'identique et la mention...]]></description>
-     <author>OpenStreetMap</author>
   </item>
  </channel>
 </rss>
