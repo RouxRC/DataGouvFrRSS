@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 27 Jun 2014 15:00:02 +0200</pubDate>
+  <pubDate>Sat, 28 Jun 2014 09:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Enquête santé et protection sociale (ESPS) </title>
+     <link>https://www.data.gouv.fr/fr/dataset/enquete-sante-et-protection-sociale-esps</link>
+     <description><![CDATA[Ce jeu de données met à disposition l'intégralité des données chiffrées présentées dans la nouvelle édition de l'enquête santé et protection sociale (ESPS) accessibles en ligne sous forme de tableaux Excel. L'enquête ESPS, conduite par l'Irdes depuis 1988 est un outil qui explore à l'échelon national (France métropolitaine) les relations entre l'état de santé, l'accès aux services de santé,...]]></description>
+     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Patrimoine</title>
      <link>https://www.data.gouv.fr/fr/dataset/patrimoine</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-pt3-reseaux-de-telecommunication</link>
      <description><![CDATA[Servitude attachée aux réseaux de télécommunications instituée en application des articles L. 45-1 et L. 48 du code des postes et des communications électroniques. ]]></description>
      <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
-  </item>
-  <item>
-     <title>Les condamnations (statistiques à partir du casier judiciaire national)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-condamnations-statistiques-a-partir-du-casier-judiciaire-national</link>
-     <description><![CDATA[Les données sur les condamnations sont issues du casier judiciaire national qui est une source riche d’informations. Son exploitation permet de décrire les condamnations par nature d’infraction, de peine mais également de fournir des renseignements démographiques sur le profil condamnés. L’étude des condamnations ne donne pas une image complète de la réponse judiciaire à la délinquance. En...]]></description>
-     <author>Ministère de la Justice (certifié)</author>
   </item>
  </channel>
 </rss>
