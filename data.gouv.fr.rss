@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 28 Jun 2014 09:30:02 +0200</pubDate>
+  <pubDate>Sun, 29 Jun 2014 10:50:03 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Liste des déclarations et appréciations publiées par la Haute Autorité de la vie publique</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-declarations-et-appreciations-publiees-par-la-haute-autorite-de-la-vie-publique</link>
+     <description><![CDATA[Les lois du 11 octobre 2013 relatives à la transparence de la vie publique prévoient que les déclarations publiées par la Haute Autorité pour la transparence de la vie publique sont librement réutilisables. Afin de faciliter leur réutilisation, la Haute Autorité pour la transparence de la vie publique met à la disposition du public, au format CSV, la liste des déclarations et appréciations...]]></description>
+     <author>Haute Autorité pour la transparence de la vie publique (certifié)</author>
+  </item>
   <item>
      <title>Enquête santé et protection sociale (ESPS) </title>
      <link>https://www.data.gouv.fr/fr/dataset/enquete-sante-et-protection-sociale-esps</link>
@@ -358,12 +364,6 @@
      <title>Servitudes d'Utilité Publique T4 Relation aeriennes - Balisage </title>
      <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-t4-relation-aeriennes-balisage</link>
      <description><![CDATA[Relations aériennes - Servitudes aéronautiques - Servitudes de balisage (aérodromes civils et militaires). ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
-  </item>
-  <item>
-     <title>Servitudes d'Utilité Publique PT3 réseaux de télécommunication </title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-pt3-reseaux-de-telecommunication</link>
-     <description><![CDATA[Servitude attachée aux réseaux de télécommunications instituée en application des articles L. 45-1 et L. 48 du code des postes et des communications électroniques. ]]></description>
      <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
   </item>
  </channel>
