@@ -4,14 +4,8 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 30 Jun 2014 13:20:02 +0200</pubDate>
+  <pubDate>Mon, 30 Jun 2014 13:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
-  <item>
-     <title>Délibérations du Conseil Municipal de la ville de Nogent-sur-Marne (2013)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/deliberations-du-conseil-municipal-de-la-ville-de-nogent-sur-marne-20-1</link>
-     <description><![CDATA[Ce jeu de données reprend la liste des délibérations discutées par le Conseil Municipal de la commune de Nogent-sur-Marne au cours de l'année 2013. Il contient la référence de chaque délibération, la date du conseil municipal au cours duquel chacune d'entre elles a été discutée, le domaine et son intitulé. Afin de consulter les délibérations à proprement parler, veuillez vous rendre sur cette...]]></description>
-     <author>ACTION - Association Citoyenne pour la Transparence et l'Initiative Populaire à Nogent-sur-Marne</author>
-  </item>
   <item>
      <title>Liste des déclarations et appréciations publiées par la Haute Autorité de la vie publique</title>
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-declarations-et-appreciations-publiees-par-la-haute-autorite-de-la-vie-publique</link>
@@ -365,6 +359,12 @@
      <link>https://www.data.gouv.fr/fr/dataset/offrelegale-fr-liste-et-description-des-plateformes-publiees-juin-2014</link>
      <description><![CDATA[Données descriptives des plateformes publiées sur offrelegale.fr, site qui recense les offres culturelles labellisées Hadopi ou pouvant être regardées comme étant légales. ]]></description>
      <author>Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (HADOPI) (certifié)</author>
+  </item>
+  <item>
+     <title>Servitudes d'Utilité Publique T4 Relation aeriennes - Balisage </title>
+     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-t4-relation-aeriennes-balisage</link>
+     <description><![CDATA[Relations aériennes - Servitudes aéronautiques - Servitudes de balisage (aérodromes civils et militaires). ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
   </item>
  </channel>
 </rss>
