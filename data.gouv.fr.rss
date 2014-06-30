@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 30 Jun 2014 15:40:02 +0200</pubDate>
+  <pubDate>Tue, 01 Jul 2014 00:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Programmation de France Inter 01-02-2014/29-06-2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/programmation-de-france-inter-01-02-2014-29-06-2014</link>
+     <description><![CDATA[Tentative de construction d'une base de données décrivant la programmation de France Inter à partir des fichiers XML des podcasts. ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Délibérations du Conseil Municipal de la ville de Nogent-sur-Marne (2013)</title>
      <link>https://www.data.gouv.fr/fr/dataset/deliberations-du-conseil-municipal-de-la-ville-de-nogent-sur-marne-20-1</link>
@@ -358,12 +364,6 @@
      <title>Baromètre de l'offre légale de biens culturels dématérialisés - janvier 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/barometre-de-l-offre-legale-de-biens-culturels-dematerialises-janvier-2013</link>
      <description><![CDATA[Etude quantitative ad-hoc et en ligne menée par l’institut Harris Interactive pour le compte de l'Hadopi auprès d’un échantillon national représentatif de 1500 internautes âgés de 15 ans et plus. Son objectif est d’évaluer la perception qu’ont les internautes de l’offre légale sur des critères simples (prix, choix etc.), et d’aboutir, à partir de ces critères, à un indice d’attractivité de...]]></description>
-     <author>Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (HADOPI) (certifié)</author>
-  </item>
-  <item>
-     <title>Offrelégale.fr : liste et description des plateformes publiées, juin 2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/offrelegale-fr-liste-et-description-des-plateformes-publiees-juin-2014</link>
-     <description><![CDATA[Données descriptives des plateformes publiées sur offrelegale.fr, site qui recense les offres culturelles labellisées Hadopi ou pouvant être regardées comme étant légales. ]]></description>
      <author>Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (HADOPI) (certifié)</author>
   </item>
  </channel>
