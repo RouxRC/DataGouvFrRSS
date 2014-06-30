@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 30 Jun 2014 13:00:02 +0200</pubDate>
+  <pubDate>Mon, 30 Jun 2014 13:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Délibérations du Conseil Municipal de la ville de Nogent-sur-Marne (2013)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/deliberations-du-conseil-municipal-de-la-ville-de-nogent-sur-marne-20-1</link>
+     <description><![CDATA[Ce jeu de données reprend la liste des délibérations discutées par le Conseil Municipal de la commune de Nogent-sur-Marne au cours de l'année 2013. Il contient la référence de chaque délibération, la date du conseil municipal au cours duquel chacune d'entre elles a été discutée, le domaine et son intitulé. Afin de consulter les délibérations à proprement parler, veuillez vous rendre sur cette...]]></description>
+     <author>ACTION - Association Citoyenne pour la Transparence et l'Initiative Populaire à Nogent-sur-Marne</author>
+  </item>
   <item>
      <title>Liste des déclarations et appréciations publiées par la Haute Autorité de la vie publique</title>
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-declarations-et-appreciations-publiees-par-la-haute-autorite-de-la-vie-publique</link>
@@ -29,12 +35,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/infrastructures-reseau</link>
      <description><![CDATA[Infrastructures réseau (eau , electricité , assainissement ) ]]></description>
      <author>Mairie de Monacia d'Aullène</author>
-  </item>
-  <item>
-     <title>rth</title>
-     <link>https://www.data.gouv.fr/fr/dataset/rth</link>
-     <description><![CDATA[trhhrth ]]></description>
-     <author>citoyen</author>
   </item>
   <item>
      <title>Foncier </title>
