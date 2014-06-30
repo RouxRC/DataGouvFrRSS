@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 30 Jun 2014 10:10:02 +0200</pubDate>
+  <pubDate>Mon, 30 Jun 2014 13:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Liste des déclarations et appréciations publiées par la Haute Autorité de la vie publique</title>
@@ -337,6 +337,12 @@
      <author>citoyen</author>
   </item>
   <item>
+     <title>Enquête qualité de vie / qualité de Ville</title>
+     <link>https://www.data.gouv.fr/fr/dataset/enquete-qualite-de-vie-qualite-de-ville</link>
+     <description><![CDATA[Enquête réalisée auprès du Panel d'habitants de Besançon sur leurs perception de la qualité de vie et qualité de ville ]]></description>
+     <author>Ville de Besancon</author>
+  </item>
+  <item>
      <title>Servitudes d'Utilité Publique A5 Canalisations d'eau et d'assainissement </title>
      <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-a5-canalisations-d-eau-et-d-assainissement</link>
      <description><![CDATA[Servitudes pour la pose des canalisations publiques d'eau potable et d'assainissement. ]]></description>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/offrelegale-fr-liste-et-description-des-plateformes-publiees-juin-2014</link>
      <description><![CDATA[Données descriptives des plateformes publiées sur offrelegale.fr, site qui recense les offres culturelles labellisées Hadopi ou pouvant être regardées comme étant légales. ]]></description>
      <author>Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (HADOPI) (certifié)</author>
-  </item>
-  <item>
-     <title>Servitudes d'Utilité Publique T4 Relation aeriennes - Balisage </title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-t4-relation-aeriennes-balisage</link>
-     <description><![CDATA[Relations aériennes - Servitudes aéronautiques - Servitudes de balisage (aérodromes civils et militaires). ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
   </item>
  </channel>
 </rss>
