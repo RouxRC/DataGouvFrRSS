@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 01 Jul 2014 14:50:02 +0200</pubDate>
+  <pubDate>Tue, 01 Jul 2014 16:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Documents d'urbanisme locaux du Haut-Rhin</title>
+     <link>https://www.data.gouv.fr/fr/dataset/documents-d-urbanisme-locaux-du-haut-rhin</link>
+     <description><![CDATA[Fichier des zonages des POS, des PLU, des cartes communales des communes du Haut-Rhin ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Les objectifs du millénaire pour le développement</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-objectifs-du-millenaire-pour-le-developpement</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/enquete-qualite-de-vie-qualite-de-ville</link>
      <description><![CDATA[Enquête réalisée auprès du Panel d'habitants de Besançon sur leurs perception de la qualité de vie et qualité de ville ]]></description>
      <author>Ville de Besancon</author>
-  </item>
-  <item>
-     <title>Servitudes d'Utilité Publique A5 Canalisations d'eau et d'assainissement </title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-a5-canalisations-d-eau-et-d-assainissement</link>
-     <description><![CDATA[Servitudes pour la pose des canalisations publiques d'eau potable et d'assainissement. ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
   </item>
  </channel>
 </rss>
