@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 01 Jul 2014 11:20:02 +0200</pubDate>
+  <pubDate>Tue, 01 Jul 2014 11:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Données du recensement au niveau communal ou IRIS pour la France entière (y compris DOM-TOM)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/donnees-du-recensement-au-niveau-communal-ou-iris-pour-la-france-entiere-y-compris-dom-tom</link>
+     <description><![CDATA[Plateformes DB Ressources, DB Ressources RGP 2007, DB Ressources RP 2008, 2009, 2010. Dans de la Rose des vents, avec moteur de recherche et organisation thématique des cartes statistiques et des fichiers de données. Source: INSEE ]]></description>
+     <author>Altercarto</author>
+  </item>
   <item>
      <title>Programmation de France Inter 01-02-2014/29-06-2014</title>
      <link>https://www.data.gouv.fr/fr/dataset/programmation-de-france-inter-01-02-2014-29-06-2014</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/subventions-2010-versees-aux-associations-a-dijon-bourgogne-cote-d-or-21-f</link>
      <description><![CDATA[Nom de la personne morale de droit public : Conseil Général de la Côte d'Or Subventions versées aux associations de droit français et aux fondations reconnues d'utilité publique année 2010 Adresse de la personne morale de droit public : 1 Rue Joseph Tissot 21035 Dijon cedex N° SIREN de la personne morale de droit public Numéro de SIREN Raison Sociale Autre numéro...]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Baromètre de l'offre légale de biens culturels dématérialisés - janvier 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/barometre-de-l-offre-legale-de-biens-culturels-dematerialises-janvier-2013</link>
-     <description><![CDATA[Etude quantitative ad-hoc et en ligne menée par l’institut Harris Interactive pour le compte de l'Hadopi auprès d’un échantillon national représentatif de 1500 internautes âgés de 15 ans et plus. Son objectif est d’évaluer la perception qu’ont les internautes de l’offre légale sur des critères simples (prix, choix etc.), et d’aboutir, à partir de ces critères, à un indice d’attractivité de...]]></description>
-     <author>Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (HADOPI) (certifié)</author>
   </item>
  </channel>
 </rss>
