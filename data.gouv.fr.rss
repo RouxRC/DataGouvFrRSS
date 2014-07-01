@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 01 Jul 2014 11:30:02 +0200</pubDate>
+  <pubDate>Tue, 01 Jul 2014 11:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Divers fichiers de données sur les revenus, les salaires, les effectifs d'établissements par tailles et par secteurs, effectifs de salariés par taille et secteurs d'activité, équipements (commerces, services publics, etc...), selon le cas au niveau Iris, commune, canton, zone d'emploi ou département</title>
+     <link>https://www.data.gouv.fr/fr/dataset/divers-fichiers-de-donnees-sur-les-revenus-les-salaires-les-effectifs-d-etablissements-par-tailles-e</link>
+     <description><![CDATA[Plateformes DB Ressources 2; DB Ressources 2 bis; DB Ressources revenu Dans la Rose des vents, avec moteur de recherche et organisation thématiques des cartes statistiques et des fichiers de données. ]]></description>
+     <author>Altercarto</author>
+  </item>
   <item>
      <title>Données du recensement au niveau communal ou IRIS pour la France entière (y compris DOM-TOM)</title>
      <link>https://www.data.gouv.fr/fr/dataset/donnees-du-recensement-au-niveau-communal-ou-iris-pour-la-france-entiere-y-compris-dom-tom</link>
@@ -77,12 +83,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/securite-incendie</link>
      <description><![CDATA[sécurité incendie infrastructures sur sur le territoire communal ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Données brutes au niveau IRIS, commune, canton, zone d'emploi et département</title>
-     <link>https://www.data.gouv.fr/fr/dataset/donnees-brutes-au-niveau-iris-commune-canton-zone-d-emploi-et-departement</link>
-     <description><![CDATA[Navigateur et moteur de recherche pour les plateformes DB Ressources agrégeant pour la France des données de 2006 à 2010, provenant de l'INSEE (RGP, RP, CLAP), DGFIP, DADS, UNISTATS, DARES, CNAF; et pour le monde, des données relatives aux objectifs du millénaire pour le développement Edition 2012 mdgs.un.org, et à la sécurité alimentaire. Données distribuées par l'Association Altercarto ]]></description>
-     <author>Altercarto</author>
   </item>
   <item>
      <title>Synthèse du diagnostic énergetique des batiments communaux </title>
