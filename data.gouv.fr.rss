@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 01 Jul 2014 17:10:02 +0200</pubDate>
+  <pubDate>Tue, 01 Jul 2014 17:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Transport </title>
+     <link>https://www.data.gouv.fr/fr/dataset/transport</link>
+     <description><![CDATA[Données relatives au transport ]]></description>
+     <author>Mairie de Monacia d'Aullène (certifié)</author>
+  </item>
   <item>
      <title>Servitudes d'Utilité Publique T7 Relations aériennes - Zones de dégagement </title>
      <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-t7-relations-aeriennes-zones-de-degagement</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/resultats-des-elections-dans-la-9e-circonscription-de-seine-saint-denis-les-lilas</link>
      <description><![CDATA[Elections présidentielles, régionales, européennes, législatives et référendum Source : Centre de données socio-politiques (Science-Po) ]]></description>
      <author>Les Lilas (certifié)</author>
-  </item>
-  <item>
-     <title>Excambia</title>
-     <link>https://www.data.gouv.fr/fr/dataset/excambia</link>
-     <description><![CDATA[Excambia, créée en 2012, est une organisation récompensée à deux reprises par le concours national d’aide à la création d’entreprises de technologies innovantes du Ministère de l’enseignement supérieur et de la recherche en partenariat avec BPIFrance dans la catégorie « émergence» et «création-développement ». La mission principale d’Excambia est de développer, grâce à un moteur de recherche de...]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
