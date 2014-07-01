@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 01 Jul 2014 16:10:02 +0200</pubDate>
+  <pubDate>Tue, 01 Jul 2014 16:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Documents d'urbanisme locaux du Haut-Rhin</title>
@@ -58,37 +58,37 @@
      <title>Patrimoine</title>
      <link>https://www.data.gouv.fr/fr/dataset/patrimoine</link>
      <description><![CDATA[Patrimoine communal ]]></description>
-     <author>Mairie de Monacia d'Aullène</author>
+     <author>Mairie de Monacia d'Aullène (certifié)</author>
   </item>
   <item>
      <title>Infrastructures reseau </title>
      <link>https://www.data.gouv.fr/fr/dataset/infrastructures-reseau</link>
      <description><![CDATA[Infrastructures réseau (eau , electricité , assainissement ) ]]></description>
-     <author>Mairie de Monacia d'Aullène</author>
+     <author>Mairie de Monacia d'Aullène (certifié)</author>
   </item>
   <item>
      <title>Foncier </title>
      <link>https://www.data.gouv.fr/fr/dataset/foncier</link>
      <description><![CDATA[Données communales relative au foncier public ]]></description>
-     <author>Mairie de Monacia d'Aullène</author>
+     <author>Mairie de Monacia d'Aullène (certifié)</author>
   </item>
   <item>
      <title>Bâtiments communaux </title>
      <link>https://www.data.gouv.fr/fr/dataset/batiments-communaux</link>
      <description><![CDATA[Bâtiments Communaux ]]></description>
-     <author>Mairie de Monacia d'Aullène</author>
+     <author>Mairie de Monacia d'Aullène (certifié)</author>
   </item>
   <item>
      <title>Budgets primitifs</title>
      <link>https://www.data.gouv.fr/fr/dataset/budgets-primitifs</link>
      <description><![CDATA[Budgets primitifs de la commune ]]></description>
-     <author>Mairie de Monacia d'Aullène</author>
+     <author>Mairie de Monacia d'Aullène (certifié)</author>
   </item>
   <item>
      <title>sécurité incendie</title>
      <link>https://www.data.gouv.fr/fr/dataset/securite-incend-0</link>
      <description><![CDATA[sécurité incendies infrastructures sur le territoire communal ]]></description>
-     <author>Mairie de Monacia d'Aullène</author>
+     <author>Mairie de Monacia d'Aullène (certifié)</author>
   </item>
   <item>
      <title>sécurité incendie</title>
