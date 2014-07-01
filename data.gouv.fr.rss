@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 01 Jul 2014 12:30:02 +0200</pubDate>
+  <pubDate>Tue, 01 Jul 2014 14:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les objectifs du millénaire pour le développement</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-objectifs-du-millenaire-pour-le-developpement</link>
+     <description><![CDATA[Plateformes DB Ressources MDG 1, 2, 3, 4, 5, 6, 7, 8 Dans ces plateformes, les données les plus récentes sont datées de 2010. Pour chaque indicateur, on a la série de données de 1990 à 2012 auxquelles sont ajoutés cinq indicateurs : l'année de la première donnée non nulle de la série, la valeur de cette donnée ; l'année de la dernière donnée non nulle de la série, la valeur de cette donnée ;...]]></description>
+     <author>Altercarto</author>
+  </item>
   <item>
      <title>Divers fichiers de données sur les revenus, les salaires, les effectifs d'établissements par tailles et par secteurs, effectifs de salariés par taille et secteurs d'activité, équipements (commerces, services publics, etc...), selon le cas au niveau Iris, commune, canton, zone d'emploi ou département</title>
      <link>https://www.data.gouv.fr/fr/dataset/divers-fichiers-de-donnees-sur-les-revenus-les-salaires-les-effectifs-d-etablissements-par-tailles-e</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-a5-canalisations-d-eau-et-d-assainissement</link>
      <description><![CDATA[Servitudes pour la pose des canalisations publiques d'eau potable et d'assainissement. ]]></description>
      <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
-  </item>
-  <item>
-     <title>Subventions 2010 versées aux associations à Dijon (Bourgogne-Côte d'Or-21-F)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/subventions-2010-versees-aux-associations-a-dijon-bourgogne-cote-d-or-21-f</link>
-     <description><![CDATA[Nom de la personne morale de droit public : Conseil Général de la Côte d'Or Subventions versées aux associations de droit français et aux fondations reconnues d'utilité publique année 2010 Adresse de la personne morale de droit public : 1 Rue Joseph Tissot 21035 Dijon cedex N° SIREN de la personne morale de droit public Numéro de SIREN Raison Sociale Autre numéro...]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
