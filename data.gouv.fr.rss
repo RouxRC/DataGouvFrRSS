@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 01 Jul 2014 17:20:02 +0200</pubDate>
+  <pubDate>Wed, 02 Jul 2014 10:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Transport </title>
@@ -21,7 +21,7 @@
   <item>
      <title>Documents d'urbanisme locaux du Haut-Rhin</title>
      <link>https://www.data.gouv.fr/fr/dataset/documents-d-urbanisme-locaux-du-haut-rhin</link>
-     <description><![CDATA[Fichier des zonages des POS, des PLU, des cartes communales des communes du Haut-Rhin ]]></description>
+     <description><![CDATA[Fichier des zonages des POS, des PLU, des cartes communales des communes du Haut-Rhin. Documents en cours de validité. Mise à jour en fonction des décisions d'approbations des documents par les communes. Un décalage de mise à jour ]]></description>
      <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
   </item>
   <item>
@@ -105,7 +105,7 @@
   <item>
      <title>sécurité incendie</title>
      <link>https://www.data.gouv.fr/fr/dataset/securite-incendie</link>
-     <description><![CDATA[sécurité incendie infrastructures sur sur le territoire communal ]]></description>
+     <description><![CDATA[infrastructuresde sécurité incendie sur le territoire communal ]]></description>
      <author>citoyen</author>
   </item>
   <item>
