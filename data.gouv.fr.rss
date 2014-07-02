@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 02 Jul 2014 13:00:02 +0200</pubDate>
+  <pubDate>Wed, 02 Jul 2014 16:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Vétérinaires</title>
+     <link>https://www.data.gouv.fr/fr/dataset/veterinair-0</link>
+     <description><![CDATA[Annuaire des vétérinaires exerçant en France (spécialistes de la chirurgie canine, des experts en dermatologie, ophtalmogologie, stomatologie, dentisterie ou médecine interne des animaux de compagnies). ]]></description>
+     <author>SiteduChien.fr</author>
+  </item>
   <item>
      <title>Mortalité par cause </title>
      <link>https://www.data.gouv.fr/fr/dataset/mortalite-par-cause</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/normales-du-mois-de-janvier-pour-les-stations-meteorologiques-terrestres-de-la-zone-large-molene</link>
      <description><![CDATA[Normales pour le mois de janvier, pour 55 stations terrestres de type Radome de Météo-France. Jeu de données mis à disposition pour l'opération Archipel Molène, sur la zone élargie autour de Molène entre 47°N à 49°N et 2°W à 6°W Période statistique La plus longue disponible selon les stations (entre 10 et 30 ans). ]]></description>
      <author>Météo-France (certifié)</author>
-  </item>
-  <item>
-     <title>Playlist Radio NRJ 09-2012/10-2012 &amp; 07-2012/08-2012</title>
-     <link>https://www.data.gouv.fr/fr/dataset/playlist-radio-nrj-09-2012-10-2012-07-2012-08-2012</link>
-     <description><![CDATA[Web scraping de cette page pendant un mois sur deux périodes différentes http://www.nrj.fr/radio-510/titres-diffuses-512/titresdiffuses/ ]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
