@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 02 Jul 2014 16:30:02 +0200</pubDate>
+  <pubDate>Wed, 02 Jul 2014 16:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Servitudes d'Utilité Publique T5 aéronautique générateur </title>
+     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-t5-aeronautique-generateur</link>
+     <description><![CDATA[Servitude de dégagement : servitude aéronautique instituée pour la protection de la circulation aérienne : Servitude aéronautique de dégagement et de balisage instituée en application des articles L. 281-1 et R. 241-1 à R. 243-3 du code de l'aviation civile. Nb: la servitude de balisage est décrite sous le code T4. On ne représente que l'enveloppe de la servitude et on renvoit vers un plan à...]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Vétérinaires</title>
      <link>https://www.data.gouv.fr/fr/dataset/veterinair-0</link>
@@ -358,12 +364,6 @@
      <title>Données horaires des 55 stations terrestres de la zone Large Molène sur un mois</title>
      <link>https://www.data.gouv.fr/fr/dataset/donnees-horaires-des-55-stations-terrestres-de-la-zone-large-molene-sur-un-mois</link>
      <description><![CDATA[Données horaires du jeu de données mis à disposition pour l'opération Archipel Molène des 55 stations terrestres de type Radome sur la zone entre 47°N et 49°N et 2°W et 6°W, pour le mois de janvier 2014. ]]></description>
-     <author>Météo-France (certifié)</author>
-  </item>
-  <item>
-     <title>Normales du mois de janvier pour les stations météorologiques terrestres de la zone Large Molène</title>
-     <link>https://www.data.gouv.fr/fr/dataset/normales-du-mois-de-janvier-pour-les-stations-meteorologiques-terrestres-de-la-zone-large-molene</link>
-     <description><![CDATA[Normales pour le mois de janvier, pour 55 stations terrestres de type Radome de Météo-France. Jeu de données mis à disposition pour l'opération Archipel Molène, sur la zone élargie autour de Molène entre 47°N à 49°N et 2°W à 6°W Période statistique La plus longue disponible selon les stations (entre 10 et 30 ans). ]]></description>
      <author>Météo-France (certifié)</author>
   </item>
  </channel>
