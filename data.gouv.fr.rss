@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 02 Jul 2014 18:00:02 +0200</pubDate>
+  <pubDate>Wed, 02 Jul 2014 22:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Avis d'incidents dans les installations nucléaires</title>
+     <link>https://www.data.gouv.fr/fr/dataset/avis-d-incidents-dans-les-installations-nucleaires</link>
+     <description><![CDATA[Tentative d'aspiration des avis d'incidents dans les installations nucléaires : http://classique.asn.fr/index.php/Les-activites-controlees-par-l-ASN/Production-d-Electricite/Avis-d-incidents-dans-les-installations-nucleaires ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Servitudes d'Utilité Publique T5 aéronautique générateur </title>
      <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-t5-aeronautique-generateur</link>
@@ -358,12 +364,6 @@
      <title>Données de réflectivité et lames d'eau radar sur la zone Large Molène sur un mois</title>
      <link>https://www.data.gouv.fr/fr/dataset/donnees-de-reflectivite-et-lames-d-eau-radar-sur-la-zone-large-molene-sur-un-mois</link>
      <description><![CDATA[Données à fréquence 5 minutes de réflectivité et lames d'eau radar, pour le mois de janvier 2014, sur la zone 47°N-49°N, 2°W-6°W. Jeu de données mis à disposition pour l'opération Archipel Molène. ]]></description>
-     <author>Météo-France (certifié)</author>
-  </item>
-  <item>
-     <title>Données horaires des 55 stations terrestres de la zone Large Molène sur un mois</title>
-     <link>https://www.data.gouv.fr/fr/dataset/donnees-horaires-des-55-stations-terrestres-de-la-zone-large-molene-sur-un-mois</link>
-     <description><![CDATA[Données horaires du jeu de données mis à disposition pour l'opération Archipel Molène des 55 stations terrestres de type Radome sur la zone entre 47°N et 49°N et 2°W et 6°W, pour le mois de janvier 2014. ]]></description>
      <author>Météo-France (certifié)</author>
   </item>
  </channel>
