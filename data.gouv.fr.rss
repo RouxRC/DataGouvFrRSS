@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 02 Jul 2014 10:10:02 +0200</pubDate>
+  <pubDate>Wed, 02 Jul 2014 10:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Mortalité par cause </title>
+     <link>https://www.data.gouv.fr/fr/dataset/mortalite-par-cause</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données CépiDC de l'Inserm ]]></description>
+     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Transport </title>
      <link>https://www.data.gouv.fr/fr/dataset/transport</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/playlist-radio-nrj-09-2012-10-2012-07-2012-08-2012</link>
      <description><![CDATA[Web scraping de cette page pendant un mois sur deux périodes différentes http://www.nrj.fr/radio-510/titres-diffuses-512/titresdiffuses/ ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Résultats des élections dans la 9e circonscription de Seine-Saint-Denis (Les Lilas)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/resultats-des-elections-dans-la-9e-circonscription-de-seine-saint-denis-les-lilas</link>
-     <description><![CDATA[Elections présidentielles, régionales, européennes, législatives et référendum Source : Centre de données socio-politiques (Science-Po) ]]></description>
-     <author>Les Lilas (certifié)</author>
   </item>
  </channel>
 </rss>
