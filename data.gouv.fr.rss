@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 03 Jul 2014 15:30:02 +0200</pubDate>
+  <pubDate>Thu, 03 Jul 2014 17:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Etude auprès de jeunes raccrocheurs et de leurs parents</title>
+     <link>https://www.data.gouv.fr/fr/dataset/etude-aupres-de-jeunes-raccrocheurs-et-de-leurs-paren-0</link>
+     <description><![CDATA[Dans le cadre de l’évaluation de la politique de lutte contre le décrochage scolaire, le SGMAP et l’institut BVA ont donné la parole aux bénéficiaires de la politique en réalisant, de février à mai 2014, 31 entretiens avec de jeunes « raccrocheurs » dans trois académies. Cette étude apporte un éclairage nouveau sur la décision de retourner en formation ou en emploi, le parcours de raccrochage,...]]></description>
+     <author>Premier ministre (certifié)</author>
+  </item>
   <item>
      <title>Population </title>
      <link>https://www.data.gouv.fr/fr/dataset/populati-2</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/accueil-de-l-enfance-et-la-jeunesse-handicapees</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Statiss ]]></description>
      <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Liste des jeux de données pour le hackathon Archipel Molène #1</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-jeux-de-donnees-pour-le-hackathon-archipel-molene-1</link>
-     <description><![CDATA[La première édition du hackathon Archipel Molène est organisée du 27 au 30 juin prochain par la Cantine numérique brestoise avec le soutien de Brest Métropole Océane, Technopôle Brest Iroise, Télécom Bretagne, la mission Etalab, le Service Hydrographique et Océanographique de la Marine (SHOM), Météo France, IGN, Open Street Map, Cityzen Data, Les Fabriques du Ponant, Association Tiriad … La...]]></description>
-     <author>Archipel Molène</author>
   </item>
  </channel>
 </rss>
