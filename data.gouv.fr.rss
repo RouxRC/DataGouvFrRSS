@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 03 Jul 2014 17:10:02 +0200</pubDate>
+  <pubDate>Thu, 03 Jul 2014 17:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Liste des points d'accueil de la police nationale</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-points-d-accueil-de-la-police-nationale</link>
+     <description><![CDATA[Fichier d'export sur l'ensemble des commissariats de police. Chaque service est identifié par : Le nom, la localité, le numéro de téléphone, le numéro de faxe, l'adresse postale et l'adresse géographique du service. ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Etude auprès de jeunes raccrocheurs et de leurs parents</title>
      <link>https://www.data.gouv.fr/fr/dataset/etude-aupres-de-jeunes-raccrocheurs-et-de-leurs-paren-0</link>
@@ -358,12 +364,6 @@
      <title>Nouveaux cas de maladies à déclaration obligatoire</title>
      <link>https://www.data.gouv.fr/fr/dataset/nouveaux-cas-de-maladies-a-declaration-obligatoire</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données InVs ]]></description>
-     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Accueil de l'enfance et la jeunesse handicapées</title>
-     <link>https://www.data.gouv.fr/fr/dataset/accueil-de-l-enfance-et-la-jeunesse-handicapees</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Statiss ]]></description>
      <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
   </item>
  </channel>
