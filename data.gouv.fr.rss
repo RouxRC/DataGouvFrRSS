@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 03 Jul 2014 11:30:02 +0200</pubDate>
+  <pubDate>Thu, 03 Jul 2014 12:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Population </title>
@@ -161,6 +161,18 @@
      <link>https://www.data.gouv.fr/fr/dataset/budget-primit-0</link>
      <description><![CDATA[Budget primitif - budget principal de la commune de Monacia d'Aullène - M 14 - exercice 2014 ]]></description>
      <author>citoyen</author>
+  </item>
+  <item>
+     <title>CIRCULAIRES : Instructions et circulaires des ministères </title>
+     <link>https://www.data.gouv.fr/fr/dataset/circulaires-instructions-et-circulaires-des-ministeres</link>
+     <description><![CDATA[Il s'agit des instructions et circulaires applicables, adressées par les ministres aux services et établissements de l'Etat (décret n° 2008-1281 du 8 décembre 2008 relatif aux conditions de publication des instructions et circulaires). L'attention du « Réutilisateur » est appelée sur le cadre juridique particulier dans lequel s'inscrit la réutilisation des données juridiques: Décret n°...]]></description>
+     <author>Premier ministre (certifié)</author>
+  </item>
+  <item>
+     <title>KALI : Conventions collectives nationales</title>
+     <link>https://www.data.gouv.fr/fr/dataset/kali-conventions-collectives-nationales</link>
+     <description><![CDATA[Toutes les conventions collectives et textes associés. La base donne également accès à certaines conventions collectives nationales non étendues ainsi qu'à des conventions collectives régionales, départementales étendues ou non. Les textes associés comprennent les accords se rattachant à une convention collective, les salaires et les arrêtés d’extension. Les données sont mises à jour à...]]></description>
+     <author>Premier ministre (certifié)</author>
   </item>
   <item>
      <title>GuidelinesTransition AD Final F [Lignes Directrices de la Transition AN (Analogique/Numérique) Final F]</title>
@@ -353,18 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-jeux-de-donnees-pour-le-hackathon-archipel-molene-1</link>
      <description><![CDATA[La première édition du hackathon Archipel Molène est organisée du 27 au 30 juin prochain par la Cantine numérique brestoise avec le soutien de Brest Métropole Océane, Technopôle Brest Iroise, Télécom Bretagne, la mission Etalab, le Service Hydrographique et Océanographique de la Marine (SHOM), Météo France, IGN, Open Street Map, Cityzen Data, Les Fabriques du Ponant, Association Tiriad … La...]]></description>
      <author>Archipel Molène</author>
-  </item>
-  <item>
-     <title>Prévisions d'ensemble du modèle météorologique global ARPEGE sur la zone Large Molène pour un mois</title>
-     <link>https://www.data.gouv.fr/fr/dataset/previsions-d-ensemble-du-modele-meteorologique-global-arpege-sur-la-zone-large-molene-pour-un-mois</link>
-     <description><![CDATA[Prévisions d'ensemble (35 membres) du modèle météorologique global ARPEGE sur la zone 47°N-49°N, 2°W-6°W, pour les 31 runs de 18h UTC du mois de janvier 2014, à résolution horizontale de 25 km. Ce jeu de données est mis à disposition pour l'opération Archipel Molène. ]]></description>
-     <author>Météo-France (certifié)</author>
-  </item>
-  <item>
-     <title>Prévisions du modèle de chimie-transport MOCAGE sur la zone Large Molène pour un mois</title>
-     <link>https://www.data.gouv.fr/fr/dataset/previsions-du-modele-de-chimie-transport-mocage-sur-la-zone-large-molene-pour-un-mois</link>
-     <description><![CDATA[Données de prévisions horaires puis tri-horaires du modèle de chimie-transport MOCAGE - Qualité de l'Air, sur la zone 47°N-49°N, 2°W-5°W, pour les 31 runs de 12hUTC du mois de janvier 014. Ce jeu de données est mis à disposition pour l'opération Archipel Molène. La résolution horizontale sur la zone retenue est de 10km. ]]></description>
-     <author>Météo-France (certifié)</author>
   </item>
  </channel>
 </rss>
