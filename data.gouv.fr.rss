@@ -4,11 +4,11 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 04 Jul 2014 10:30:02 +0200</pubDate>
+  <pubDate>Fri, 04 Jul 2014 11:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
-     <title>Liste des points d'accueil de la police nationale</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-points-d-accueil-de-la-police-nationale</link>
+     <title>Liste des services de police accueillant du public avec géolocalisation</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-services-de-police-accueillant-du-public-avec-geolocalisation</link>
      <description><![CDATA[Fichier d'export sur l'ensemble des commissariats de police. Chaque service est identifié par : Le nom, la localité, le numéro de téléphone, le numéro de faxe, l'adresse postale et les coordonnées géographiques(projection WGS 84). ]]></description>
      <author>Ministère de l'Intérieur (certifié)</author>
   </item>
