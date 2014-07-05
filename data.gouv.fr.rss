@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 04 Jul 2014 13:10:02 +0200</pubDate>
+  <pubDate>Sat, 05 Jul 2014 14:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Emissions de CO2 et de polluants des véhicules commercialisés en France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/emissions-de-co2-et-de-polluants-des-vehicules-commercialises-en-france</link>
+     <description><![CDATA[Les données proviennent des services homologations des constructeurs automobiles. L’ADEME acquiert ces données auprès de l’Union Technique de l’Automobile du motocycle et du Cycle UTAC (en charge de l’homologation des véhicules avant leur mise en vente) en accord avec le ministère du développement durable. Pour chaque véhicule les données d’origine (transmises par l’Utac)sont les suivantes :...]]></description>
+     <author>ADEME (certifié)</author>
+  </item>
   <item>
      <title>Liste des services de police accueillant du public avec géolocalisation</title>
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-services-de-police-accueillant-du-public-avec-geolocalisation</link>
@@ -139,9 +145,9 @@
      <author>Mairie de Monacia d'Aullène (certifié)</author>
   </item>
   <item>
-     <title>Budgets primitifs</title>
-     <link>https://www.data.gouv.fr/fr/dataset/budgets-primitifs</link>
-     <description><![CDATA[Budgets primitifs de la commune ]]></description>
+     <title>Finances locales </title>
+     <link>https://www.data.gouv.fr/fr/dataset/finances-locales</link>
+     <description><![CDATA[Budgets primitifs et comptes administratifs de la commune ]]></description>
      <author>Mairie de Monacia d'Aullène (certifié)</author>
   </item>
   <item>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/previsions-du-modele-de-vagues-mfwam-sur-la-zone-large-molene-pour-un-mois</link>
      <description><![CDATA[Prévisions du modèle global de vagues MFWAM sur la zone Marge Molène entre 47°N-49°N, 2°W-6°W, pour les 31 runs de 00hUTC du mois de janvier 2014. Jeu de données mis à disposition dans le cadre de l'opération Archipel Molène. Ce modèle, couplé avec le modèle atmosphérique ARPEGE, a une résolution horizontale de 10km. ]]></description>
      <author>Météo-France (certifié)</author>
-  </item>
-  <item>
-     <title>Nouveaux cas de maladies à déclaration obligatoire</title>
-     <link>https://www.data.gouv.fr/fr/dataset/nouveaux-cas-de-maladies-a-declaration-obligatoire</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données InVs ]]></description>
-     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
   </item>
  </channel>
 </rss>
