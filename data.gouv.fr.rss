@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 07 Jul 2014 10:10:02 +0200</pubDate>
+  <pubDate>Mon, 07 Jul 2014 14:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Plan Local d'Urbanisme</title>
+     <link>https://www.data.gouv.fr/fr/dataset/plan-local-d-urbanisme</link>
+     <description><![CDATA[Documents du Plan Local d'Urbanisme voté en 2014 pour la commune de Nogent-sur-Marne. ]]></description>
+     <author>ACTION</author>
+  </item>
   <item>
      <title>Emissions de CO2 et de polluants des véhicules commercialisés en France </title>
      <link>https://www.data.gouv.fr/fr/dataset/emissions-de-co2-et-de-polluants-des-vehicules-commercialises-en-france</link>
@@ -85,8 +91,8 @@
      <author>Altercarto</author>
   </item>
   <item>
-     <title>Divers fichiers de données sur les revenus, les salaires, les effectifs d'établissements par tailles et par secteurs, effectifs de salariés par taille et secteurs d'activité, équipements (commerces, services publics, etc...), selon le cas au niveau Iris, commune, canton, zone d'emploi ou département</title>
-     <link>https://www.data.gouv.fr/fr/dataset/divers-fichiers-de-donnees-sur-les-revenus-les-salaires-les-effectifs-d-etablissements-par-tailles-e</link>
+     <title> Revenus, salaires, effectifs d'établissements et de salariés, tailles, secteurs d'activité, équipements à différentes échelles géographiques</title>
+     <link>https://www.data.gouv.fr/fr/dataset/revenus-salaires-effectifs-d-etablissements-et-de-salaries-tailles-secteurs-d-activite-equipements-a</link>
      <description><![CDATA[Plateformes DB Ressources 2; DB Ressources 2 bis; DB Ressources revenu Dans la Rose des vents, avec moteur de recherche et organisation thématiques des cartes statistiques et des fichiers de données. ]]></description>
      <author>Altercarto</author>
   </item>
@@ -358,12 +364,6 @@
      <title>Analyses du modèle de surcotes sur la zone Large Molène pour un mois</title>
      <link>https://www.data.gouv.fr/fr/dataset/analyses-du-modele-de-surcotes-sur-la-zone-large-molene-pour-un-mois</link>
      <description><![CDATA[Analyses horaires du modèle de surcotes sur la zone Large Molène entre 47°N-49°N, 2°W-6°W, pour les 31 jours du mois de janvier 2014. Ce jeu de données est mis à disposition dans le cadre de l'opération Archipel Molène. ]]></description>
-     <author>Météo-France (certifié)</author>
-  </item>
-  <item>
-     <title>Prévisions du modèle de vagues MFWAM sur la zone Large Molène pour un mois</title>
-     <link>https://www.data.gouv.fr/fr/dataset/previsions-du-modele-de-vagues-mfwam-sur-la-zone-large-molene-pour-un-mois</link>
-     <description><![CDATA[Prévisions du modèle global de vagues MFWAM sur la zone Marge Molène entre 47°N-49°N, 2°W-6°W, pour les 31 runs de 00hUTC du mois de janvier 2014. Jeu de données mis à disposition dans le cadre de l'opération Archipel Molène. Ce modèle, couplé avec le modèle atmosphérique ARPEGE, a une résolution horizontale de 10km. ]]></description>
      <author>Météo-France (certifié)</author>
   </item>
  </channel>
