@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 07 Jul 2014 16:40:02 +0200</pubDate>
+  <pubDate>Mon, 07 Jul 2014 17:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Emplacement des bureaux de vote</title>
+     <link>https://www.data.gouv.fr/fr/dataset/emplacement-des-bureaux-de-vote</link>
+     <description><![CDATA[Emplacement des 39 bureaux de vote de la commune, répartis sur 20 lieux de vote. ]]></description>
+     <author>Ville de Saint-Malo</author>
+  </item>
   <item>
      <title>Programmation RTL 01-01-2014/06-07-2014</title>
      <link>https://www.data.gouv.fr/fr/dataset/programmation-rtl-01-01-2014-06-07-2014</link>
@@ -358,12 +364,6 @@
      <title>Projections climatiques sur la zone Large Molène sur un mois</title>
      <link>https://www.data.gouv.fr/fr/dataset/projections-climatiques-sur-la-zone-large-molene-sur-un-mois</link>
      <description><![CDATA[Données de simulations Aladin de Météo-France, du projet SCAMPEI, sur la zone 47°N-49°N, 2°W-6°W, pour le mois de janvier. Période de référence 1961-1990, 3 scénarios climatiques (A2, A1B et B1) pour le futur proche (années 2030, soit la période 2021-2050) et le futur lointain (années 2080 soit la période 2071-2100). Ce jeu de données a été extrait spécifiquement du portail DRIAS...]]></description>
-     <author>Météo-France (certifié)</author>
-  </item>
-  <item>
-     <title>Données satellites sur la zone Large Molène sur un mois</title>
-     <link>https://www.data.gouv.fr/fr/dataset/donnees-satellites-sur-la-zone-large-molene-sur-un-mois</link>
-     <description><![CDATA[Données satellites Météosat (Canal visible Haute Résolution HRV, Canal Infra-Rouge IR, Composition Colorée CC et Classification Nuageuse CN) sur la zone Large Molène entre 47°N-49°N, 2°W-6°W pour le mois de janvier 2014. Ce jeu de données est mis à disposition dans le cadre de l'opération Archipel Molène. Le pas de temps est de 15 minutes. La résolution au point sous satellite est de 1 km pour...]]></description>
      <author>Météo-France (certifié)</author>
   </item>
  </channel>
