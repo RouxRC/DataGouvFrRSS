@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 07 Jul 2014 14:50:02 +0200</pubDate>
+  <pubDate>Mon, 07 Jul 2014 16:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Programmation RTL 01-01-2014/06-07-2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/programmation-rtl-01-01-2014-06-07-2014</link>
+     <description><![CDATA[Tentative de construction d'une base de données décrivant la programmation de RTL à partir des fichiers XML des podcasts. ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Plan Local d'Urbanisme</title>
      <link>https://www.data.gouv.fr/fr/dataset/plan-local-d-urbanisme</link>
@@ -358,12 +364,6 @@
      <title>Données satellites sur la zone Large Molène sur un mois</title>
      <link>https://www.data.gouv.fr/fr/dataset/donnees-satellites-sur-la-zone-large-molene-sur-un-mois</link>
      <description><![CDATA[Données satellites Météosat (Canal visible Haute Résolution HRV, Canal Infra-Rouge IR, Composition Colorée CC et Classification Nuageuse CN) sur la zone Large Molène entre 47°N-49°N, 2°W-6°W pour le mois de janvier 2014. Ce jeu de données est mis à disposition dans le cadre de l'opération Archipel Molène. Le pas de temps est de 15 minutes. La résolution au point sous satellite est de 1 km pour...]]></description>
-     <author>Météo-France (certifié)</author>
-  </item>
-  <item>
-     <title>Analyses du modèle de surcotes sur la zone Large Molène pour un mois</title>
-     <link>https://www.data.gouv.fr/fr/dataset/analyses-du-modele-de-surcotes-sur-la-zone-large-molene-pour-un-mois</link>
-     <description><![CDATA[Analyses horaires du modèle de surcotes sur la zone Large Molène entre 47°N-49°N, 2°W-6°W, pour les 31 jours du mois de janvier 2014. Ce jeu de données est mis à disposition dans le cadre de l'opération Archipel Molène. ]]></description>
      <author>Météo-France (certifié)</author>
   </item>
  </channel>
