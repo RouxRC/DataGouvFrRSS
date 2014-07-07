@@ -4,12 +4,12 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 05 Jul 2014 14:20:02 +0200</pubDate>
+  <pubDate>Mon, 07 Jul 2014 10:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
-     <title>Emissions de CO2 et de polluants des véhicules commercialisés en France</title>
+     <title>Emissions de CO2 et de polluants des véhicules commercialisés en France </title>
      <link>https://www.data.gouv.fr/fr/dataset/emissions-de-co2-et-de-polluants-des-vehicules-commercialises-en-france</link>
-     <description><![CDATA[Les données proviennent des services homologations des constructeurs automobiles. L’ADEME acquiert ces données auprès de l’Union Technique de l’Automobile du motocycle et du Cycle UTAC (en charge de l’homologation des véhicules avant leur mise en vente) en accord avec le ministère du développement durable. Pour chaque véhicule les données d’origine (transmises par l’Utac)sont les suivantes :...]]></description>
+     <description><![CDATA[Depuis 2001, l’ADEME acquiert tous les ans ces données auprès de l’Union Technique de l’Automobile du motocycle et du Cycle UTAC (en charge de l’homologation des véhicules avant leur mise en vente) en accord avec le ministère du développement durable. Pour chaque véhicule les données d’origine (transmises par l’Utac)sont les suivantes : les consommations de carburant les...]]></description>
      <author>ADEME (certifié)</author>
   </item>
   <item>
@@ -106,7 +106,7 @@
      <title>Délibérations du Conseil Municipal de la ville de Nogent-sur-Marne (2013)</title>
      <link>https://www.data.gouv.fr/fr/dataset/deliberations-du-conseil-municipal-de-la-ville-de-nogent-sur-marne-20-1</link>
      <description><![CDATA[Ce jeu de données reprend la liste des délibérations discutées par le Conseil Municipal de la commune de Nogent-sur-Marne au cours de l'année 2013. Il contient la référence de chaque délibération, la date du conseil municipal au cours duquel chacune d'entre elles a été discutée, le domaine et son intitulé. Afin de consulter les délibérations à proprement parler, veuillez vous rendre sur cette...]]></description>
-     <author>ACTION - Association Citoyenne pour la Transparence et l'Initiative Populaire à Nogent-sur-Marne</author>
+     <author>ACTION</author>
   </item>
   <item>
      <title>Liste des déclarations et appréciations publiées par la Haute Autorité de la vie publique</title>
@@ -310,13 +310,13 @@
      <title>Panneaux d'affichage libre à Nogent-sur-Marne</title>
      <link>https://www.data.gouv.fr/fr/dataset/panneaux-d-affichage-libre-a-nogent-sur-marne</link>
      <description><![CDATA[Ce jeu de données donne la liste des panneaux d'affichage libre mis à disposition par la commune de Nogent-sur-Marne sur son territoire. ]]></description>
-     <author>ACTION - Association Citoyenne pour la Transparence et l'Initiative Populaire à Nogent-sur-Marne</author>
+     <author>ACTION</author>
   </item>
   <item>
      <title>Subventions municipales de la ville de Nogent-sur-Marne aux associations en 2012</title>
      <link>https://www.data.gouv.fr/fr/dataset/subventions-municipales-de-la-ville-de-nogent-sur-marne-aux-associations-en-2012</link>
      <description><![CDATA[Ce jeu de données reprend les subventions accordées par la ville de Nogent-sur-Marne aux associations pour l'année 2012 telles que votées lors du conseil municipal. ]]></description>
-     <author>ACTION - Association Citoyenne pour la Transparence et l'Initiative Populaire à Nogent-sur-Marne</author>
+     <author>ACTION</author>
   </item>
   <item>
      <title> Liste des collectivités territoriales utilisant la verbalisation électronique en France</title>
@@ -340,7 +340,7 @@
      <title>Subventions municipales de la ville de Nogent-sur-Marne aux associations en 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/subventions-municipales-de-la-ville-de-nogent-sur-marne-aux-associations-en-2013</link>
      <description><![CDATA[Ce jeu de données reprend les subventions accordées par la ville de Nogent-sur-Marne aux associations pour l'année 2013 telles que votées lors du conseil municipal. ]]></description>
-     <author>ACTION - Association Citoyenne pour la Transparence et l'Initiative Populaire à Nogent-sur-Marne</author>
+     <author>ACTION</author>
   </item>
   <item>
      <title>Projections climatiques sur la zone Large Molène sur un mois</title>
