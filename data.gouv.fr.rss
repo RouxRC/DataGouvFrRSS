@@ -4,13 +4,13 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 07 Jul 2014 17:50:02 +0200</pubDate>
+  <pubDate>Mon, 07 Jul 2014 19:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Emplacement des bureaux de vote</title>
      <link>https://www.data.gouv.fr/fr/dataset/emplacement-des-bureaux-de-vote</link>
      <description><![CDATA[Emplacement des 39 bureaux de vote de la commune, répartis sur 20 lieux de vote. ]]></description>
-     <author>Ville de Saint-Malo</author>
+     <author>Ville de Saint-Malo (certifié)</author>
   </item>
   <item>
      <title>Programmation RTL 01-01-2014/06-07-2014</title>
