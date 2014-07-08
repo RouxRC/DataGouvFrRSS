@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 08 Jul 2014 15:00:02 +0200</pubDate>
+  <pubDate>Tue, 08 Jul 2014 15:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les prix littéraires</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-prix-litteraires</link>
+     <description><![CDATA[Les prix littéraires par Prix,Année,Auteur,Roman,Maison d'édition. Données compilées par les journalistes du Monde Source : http://www.lemonde.fr/livres/visuel/2013/11/30/prix-litteraires-les-maisons-d-edition-qui-regnent-sur-les-classements_3523087_3260.html ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Qualité des eaux de baignade sur le littoral de Saint-Malo</title>
      <link>https://www.data.gouv.fr/fr/dataset/qualite-des-eaux-de-baignade-sur-le-littoral-de-saint-malo</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/analyses-des-eaux-souterraines-en-poitou-charentes-nitrates</link>
      <description><![CDATA[Extraction des mesures de nitrates en eaux souterraines en Poitou-Charentes. Réalisé à partir de la base ADES pour le Hackathon Eau 2014. ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Etat des subventions versées</title>
-     <link>https://www.data.gouv.fr/fr/dataset/etat-des-subventions-versees</link>
-     <description><![CDATA[Liste des subventions versées par le Département du Cantal aux associations et fondations reconnues d'utilité publique ]]></description>
-     <author>Conseil Général du Cantal (certifié)</author>
   </item>
  </channel>
 </rss>
