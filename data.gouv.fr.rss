@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 08 Jul 2014 11:20:02 +0200</pubDate>
+  <pubDate>Tue, 08 Jul 2014 12:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Qualité des eaux de baignade sur le littoral de Saint-Malo</title>
+     <link>https://www.data.gouv.fr/fr/dataset/qualite-des-eaux-de-baignade-sur-le-littoral-de-saint-malo</link>
+     <description><![CDATA[Historique des classements d'eaux de baignade sur les 13 plages de Saint-Malo, depuis 1989. ]]></description>
+     <author>Ville de Saint-Malo (certifié)</author>
+  </item>
   <item>
      <title>Emplacement des bureaux de vote</title>
      <link>https://www.data.gouv.fr/fr/dataset/emplacement-des-bureaux-de-vote</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/subventions-municipales-de-la-ville-de-nogent-sur-marne-aux-associations-en-2013</link>
      <description><![CDATA[Ce jeu de données reprend les subventions accordées par la ville de Nogent-sur-Marne aux associations pour l'année 2013 telles que votées lors du conseil municipal. ]]></description>
      <author>ACTION</author>
-  </item>
-  <item>
-     <title>Projections climatiques sur la zone Large Molène sur un mois</title>
-     <link>https://www.data.gouv.fr/fr/dataset/projections-climatiques-sur-la-zone-large-molene-sur-un-mois</link>
-     <description><![CDATA[Données de simulations Aladin de Météo-France, du projet SCAMPEI, sur la zone 47°N-49°N, 2°W-6°W, pour le mois de janvier. Période de référence 1961-1990, 3 scénarios climatiques (A2, A1B et B1) pour le futur proche (années 2030, soit la période 2021-2050) et le futur lointain (années 2080 soit la période 2071-2100). Ce jeu de données a été extrait spécifiquement du portail DRIAS...]]></description>
-     <author>Météo-France (certifié)</author>
   </item>
  </channel>
 </rss>
