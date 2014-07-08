@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 08 Jul 2014 15:10:02 +0200</pubDate>
+  <pubDate>Tue, 08 Jul 2014 15:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Taux de bénéficiaires de l'Allocation Personnalisée d'Autonomie (APA) </title>
+     <link>https://www.data.gouv.fr/fr/dataset/taux-de-beneficiaires-de-l-allocation-personnalisee-d-autonomie-apa</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees ]]></description>
+     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Les prix littéraires</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-prix-litteraires</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-collectivites-territoriales-utilisant-la-verbalisation-electronique-en-france</link>
      <description><![CDATA[Le fichier recense les services verbalisateurs des collectivités territoriales françaises utilisant la verbalisation électronique. Le fichier contient notamment : - Le nom de la collectivité territoriale et son département de rattachement ; - Le nom du service verbalisateur ; - La date de démarrage de la verbalisation électronique ; - Le matériel de verbalisation électronique...]]></description>
      <author>Ministère de l'Intérieur (certifié)</author>
-  </item>
-  <item>
-     <title>Analyses des eaux souterraines en Poitou-Charentes (Nitrates)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/analyses-des-eaux-souterraines-en-poitou-charentes-nitrates</link>
-     <description><![CDATA[Extraction des mesures de nitrates en eaux souterraines en Poitou-Charentes. Réalisé à partir de la base ADES pour le Hackathon Eau 2014. ]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
