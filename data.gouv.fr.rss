@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 08 Jul 2014 13:00:02 +0200</pubDate>
+  <pubDate>Tue, 08 Jul 2014 15:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Qualité des eaux de baignade sur le littoral de Saint-Malo</title>
@@ -17,6 +17,12 @@
      <link>https://www.data.gouv.fr/fr/dataset/emplacement-des-bureaux-de-vote</link>
      <description><![CDATA[Emplacement des 39 bureaux de vote de la commune, répartis sur 20 lieux de vote. ]]></description>
      <author>Ville de Saint-Malo (certifié)</author>
+  </item>
+  <item>
+     <title>Document PPRT sur le département du Haut-Rhin </title>
+     <link>https://www.data.gouv.fr/fr/dataset/document-pprt-sur-le-departement-du-haut-rhin</link>
+     <description><![CDATA[Liste des plans de prévention des risques technologiques du département du Haut-Rhin. ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
   </item>
   <item>
      <title>Programmation RTL 01-01-2014/06-07-2014</title>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/etat-des-subventions-versees</link>
      <description><![CDATA[Liste des subventions versées par le Département du Cantal aux associations et fondations reconnues d'utilité publique ]]></description>
      <author>Conseil Général du Cantal (certifié)</author>
-  </item>
-  <item>
-     <title>Subventions municipales de la ville de Nogent-sur-Marne aux associations en 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/subventions-municipales-de-la-ville-de-nogent-sur-marne-aux-associations-en-2013</link>
-     <description><![CDATA[Ce jeu de données reprend les subventions accordées par la ville de Nogent-sur-Marne aux associations pour l'année 2013 telles que votées lors du conseil municipal. ]]></description>
-     <author>ACTION</author>
   </item>
  </channel>
 </rss>
