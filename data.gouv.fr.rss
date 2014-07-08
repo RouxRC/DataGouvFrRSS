@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 08 Jul 2014 17:20:02 +0200</pubDate>
+  <pubDate>Tue, 08 Jul 2014 17:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Périmètres de protection des points de prélèvement pour l'AEP </title>
@@ -26,7 +26,7 @@
   </item>
   <item>
      <title>Bénéficiaires de l'Allocation Personnalisée d'Autonomie (APA) pour personnes âgées dépendantes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/beneficiaires-de-l-allocation-personnalisee-d-autonomie-apa-pour-personnes-agees-dependant-0</link>
+     <link>https://www.data.gouv.fr/fr/dataset/beneficiaires-de-l-allocation-personnalisee-d-autonomie-apa-pour-personnes-agees-dependantes</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees ]]></description>
      <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
   </item>
