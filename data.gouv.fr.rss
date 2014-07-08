@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 08 Jul 2014 16:00:02 +0200</pubDate>
+  <pubDate>Tue, 08 Jul 2014 16:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Postes de secours</title>
+     <link>https://www.data.gouv.fr/fr/dataset/postes-de-secours</link>
+     <description><![CDATA[Localisation géographique des postes de secours sur les plages ]]></description>
+     <author>Ville de Saint-Malo (certifié)</author>
+  </item>
   <item>
      <title>Zones de mouillages</title>
      <link>https://www.data.gouv.fr/fr/dataset/zones-de-mouillages</link>
@@ -358,12 +364,6 @@
      <title>Panneaux d'affichage libre à Nogent-sur-Marne</title>
      <link>https://www.data.gouv.fr/fr/dataset/panneaux-d-affichage-libre-a-nogent-sur-marne</link>
      <description><![CDATA[Ce jeu de données donne la liste des panneaux d'affichage libre mis à disposition par la commune de Nogent-sur-Marne sur son territoire. ]]></description>
-     <author>ACTION</author>
-  </item>
-  <item>
-     <title>Subventions municipales de la ville de Nogent-sur-Marne aux associations en 2012</title>
-     <link>https://www.data.gouv.fr/fr/dataset/subventions-municipales-de-la-ville-de-nogent-sur-marne-aux-associations-en-2012</link>
-     <description><![CDATA[Ce jeu de données reprend les subventions accordées par la ville de Nogent-sur-Marne aux associations pour l'année 2012 telles que votées lors du conseil municipal. ]]></description>
      <author>ACTION</author>
   </item>
  </channel>
