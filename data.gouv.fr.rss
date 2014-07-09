@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 09 Jul 2014 14:50:02 +0200</pubDate>
+  <pubDate>Wed, 09 Jul 2014 15:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Zone Vulnerable à la pollution par les Nitrates d'Origine Agricole </title>
+     <link>https://www.data.gouv.fr/fr/dataset/zone-vulnerable-a-la-pollution-par-les-nitrates-d-origine-agricole</link>
+     <description><![CDATA[La délimitation des zones vulnérables à la pollution par les nitrates d'origine agricole a été faite dans le cadre du décret n° 93-1038 du 27 août 1993, qui transcrit en droit français la directive n° 91/676/CEE. Cette délimitation, préparée dans chaque département et dans chaque région par des groupes de travail, associant divers services et organismes concernés ainsi que des représentants...]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Régions Françaises sur Twitter et Facebook</title>
      <link>https://www.data.gouv.fr/fr/dataset/regions-francaises-sur-twitter-et-facebook</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/series-chronologiques-education-les-eleves-du-second-degre</link>
      <description><![CDATA[Ce thème présente l’évolution dans le temps des effectifs d’élèves selon différents axes d’analyse : cycle de formation, sexe, âge, académie, département, secteur d’enseignement (public, privé). ]]></description>
      <author>Education Nationale (certifié)</author>
-  </item>
-  <item>
-     <title>Liste des maires au 17 juin 2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-maires-au-17-juin-2014</link>
-     <description><![CDATA[Liste des maires au 17 juin 2014 (mises à jour effectuées par les préfectures) ]]></description>
-     <author>Ministère de l'Intérieur (certifié)</author>
   </item>
  </channel>
 </rss>
