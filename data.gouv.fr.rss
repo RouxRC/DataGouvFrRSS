@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 09 Jul 2014 15:10:02 +0200</pubDate>
+  <pubDate>Wed, 09 Jul 2014 17:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Environnement </title>
+     <link>https://www.data.gouv.fr/fr/dataset/environnement</link>
+     <description><![CDATA[Données liés à l'environnement ]]></description>
+     <author>Mairie de Monacia d'Aullène (certifié)</author>
+  </item>
   <item>
      <title>Zone Vulnerable à la pollution par les Nitrates d'Origine Agricole </title>
      <link>https://www.data.gouv.fr/fr/dataset/zone-vulnerable-a-la-pollution-par-les-nitrates-d-origine-agricole</link>
@@ -358,12 +364,6 @@
      <title>Séries chronologiques Education : les apprentis</title>
      <link>https://www.data.gouv.fr/fr/dataset/series-chronologiques-education-les-apprentis</link>
      <description><![CDATA[Ce thème présente des séries temporelles sur les centres de formation d'apprentis pour l'apprentissage dans l’ensemble des formations du second degré et de l’enseignement supérieur. Les axes d’analyse sont le sexe et l’origine scolaire des apprentis, le diplôme visé et la spécialité de formation, l’académie. ]]></description>
-     <author>Education Nationale (certifié)</author>
-  </item>
-  <item>
-     <title>Séries chronologiques Education : les élèves du second degré</title>
-     <link>https://www.data.gouv.fr/fr/dataset/series-chronologiques-education-les-eleves-du-second-degre</link>
-     <description><![CDATA[Ce thème présente l’évolution dans le temps des effectifs d’élèves selon différents axes d’analyse : cycle de formation, sexe, âge, académie, département, secteur d’enseignement (public, privé). ]]></description>
      <author>Education Nationale (certifié)</author>
   </item>
  </channel>
