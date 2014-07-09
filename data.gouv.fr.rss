@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 08 Jul 2014 17:40:02 +0200</pubDate>
+  <pubDate>Wed, 09 Jul 2014 14:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Régions Françaises sur Twitter et Facebook</title>
+     <link>https://www.data.gouv.fr/fr/dataset/regions-francaises-sur-twitter-et-facebook</link>
+     <description><![CDATA[Liste des régions françaises (Alsace, Aquitaine, Auvergne, Bourgogne, Bretagne, Centre, Champagne-Ardenne, Corse, Franche-Comté, Guadeloupe, Guyane, Ile de France, Languedoc-Roussillon, Limousin, Lorraine, Martinique, Mayotte, Midi-Pyrénées, Nord-Pas-de-Calais, Basse-Normandie, Haute-Normandie, Pays-de-la-Loire, Picardie, Poitou-Charentes, Provence-Alpes-Côte d'Azur, La Réunion et Rhône-Alpes)...]]></description>
+     <author>Mapado</author>
+  </item>
   <item>
      <title>Périmètres de protection des points de prélèvement pour l'AEP </title>
      <link>https://www.data.gouv.fr/fr/dataset/perimetres-de-protection-des-points-de-prelevement-pour-l-aep</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-maires-au-17-juin-2014</link>
      <description><![CDATA[Liste des maires au 17 juin 2014 (mises à jour effectuées par les préfectures) ]]></description>
      <author>Ministère de l'Intérieur (certifié)</author>
-  </item>
-  <item>
-     <title>Clé Geoportail réservée aux participants de l'opération Archipel Molène</title>
-     <link>https://www.data.gouv.fr/fr/dataset/cle-geoportail-reservee-aux-participants-de-l-operation-archipel-molene</link>
-     <description><![CDATA[Dans le cadre de l'opération Archipel Molène, l'IGN met à disposition une clé Geoportail. Cette clé permet d'accéder aux ressources WMTS, WMS, WFS, OpenLS et d'alticodage du Géoportail, dans le cadre de la licence de développement de l'API Géoportail. Afin de permettre une utilisation sans contrainte de contexte ou d'application, la clé est dépourvue de sécurité d'authentification, dès votre...]]></description>
-     <author>Institut National de l'Information Géographique et Forestière (certifié)</author>
   </item>
  </channel>
 </rss>
