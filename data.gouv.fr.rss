@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 10 Jul 2014 15:30:02 +0200</pubDate>
+  <pubDate>Thu, 10 Jul 2014 15:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Résultats d'analyse des eaux de baignade</title>
+     <link>https://www.data.gouv.fr/fr/dataset/resultats-d-analyse-des-eaux-de-baignade</link>
+     <description><![CDATA[Série chronologique des résultats d'analyse d'eaux de baignade sur les 13 plages de Saint-Malo, depuis 2010. ]]></description>
+     <author>Ville de Saint-Malo (certifié)</author>
+  </item>
   <item>
      <title>Indicateurs de qualité et de sécurité des soins des établissements de santé </title>
      <link>https://www.data.gouv.fr/fr/dataset/indicateurs-de-qualite-et-de-securite-des-soins-des-etablissements-de-sante</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/donnees-des-accidents-corporels-de-la-circulation-routiere</link>
      <description><![CDATA[La présente base est extraite du fichier national des accidents corporels de la circulation, dit « Fichier BAAC», administré par l’ONISR. Cette base répertorie l'intégralité des accidents corporels de la circulation intervenus durant l'année 2012 en France (métropole ainsi que les départements d'Outre-mer, à savoir Guadeloupe, Guyane, Martinique, La Réunion et Mayotte), avec une description...]]></description>
      <author>Ministère de l'Intérieur (certifié)</author>
-  </item>
-  <item>
-     <title>Travaux législatifs (Sénat)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/travaux-legislatifs-senat</link>
-     <description><![CDATA[La base "Dossiers législatifs (Dosleg)" contient l'ensemble des informations sur les documents parlementaires déposés au Sénat (références depuis octobre 1977 et liens vers le texte intégral depuis octobre 1995). Vous y trouverez, entre autres, les données relatives aux projets et propositions de loi, les rapports législatifs ou d’information, les textes de commission, etc. ]]></description>
-     <author>Sénat (certifié)</author>
   </item>
  </channel>
 </rss>
