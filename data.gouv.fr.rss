@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 10 Jul 2014 14:30:02 +0200</pubDate>
+  <pubDate>Thu, 10 Jul 2014 14:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Certification des établissements de santé par la HAS</title>
+     <link>https://www.data.gouv.fr/fr/dataset/certification-des-etablissements-de-sante-par-la-has</link>
+     <description><![CDATA[La démarche de certification a pour objectif de porter une appréciation indépendante sur la qualité des prestations d’un établissement de santé. Aujourd’hui, elle est à sa troisième version, appelée V2010 et s’effectue tous les 4 ans. Des professionnels de santé mandatés par la HAS réalisent des visites de certification sur la base d’un manuel constitué de plusieurs critères. A l’issue...]]></description>
+     <author>Haute Autorité de santé (HAS) (certifié)</author>
+  </item>
+  <item>
+     <title>Evaluation par la HAS des médicaments </title>
+     <link>https://www.data.gouv.fr/fr/dataset/evaluation-par-la-has-des-medicaments</link>
+     <description><![CDATA[Le Service Médical Rendu et l'Amélioration du Service Médical Rendu sont des notions permettant à la Haute autorité de santé (HAS) de proposer l'inscription d'un médicament sur la liste des spécialités remboursables en ville et/ou hôpital. Aussi, seuls les médicaments pour lesquels le laboratoire qui les commercialise souhaite obtenir leur inscription sur cette liste feront l'objet d'une...]]></description>
+     <author>Haute Autorité de santé (HAS) (certifié)</author>
+  </item>
   <item>
      <title>Listes de l'inventaire immobilier de l'État</title>
      <link>https://www.data.gouv.fr/fr/dataset/listes-de-l-inventaire-immobilier-de-l-etat</link>
@@ -352,18 +364,6 @@
      <title>Séries chronologiques Education : les coûts et les financements</title>
      <link>https://www.data.gouv.fr/fr/dataset/series-chronologiques-education-les-couts-et-les-financements</link>
      <description><![CDATA[Les données relatives à la dépense intérieure d’éducation (DIE) et sa part dans le produit intérieur brut (PIB) sont analysées selon la répartition des sources de financement et le niveau de formation. ]]></description>
-     <author>Education Nationale (certifié)</author>
-  </item>
-  <item>
-     <title>Séries chronologiques Education : les personnels</title>
-     <link>https://www.data.gouv.fr/fr/dataset/series-chronologiques-education-les-personnels</link>
-     <description><![CDATA[Les données de ce thème détaillent les effectifs des personnels de l’éducation nationale, l’évolution comparée des effectifs d'élèves et d'enseignants, les résultats aux concours des personnels enseignants du secteur public. ]]></description>
-     <author>Education Nationale (certifié)</author>
-  </item>
-  <item>
-     <title>Séries chronologiques Education : les résultats et les diplômes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/series-chronologiques-education-les-resultats-et-les-diplomes</link>
-     <description><![CDATA[Les données sur les examens, depuis le diplôme national du brevet jusqu’au baccalauréat, en passant par les diplômes de l’enseignement professionnel, concernent le nombre de candidats et le taux de réussite. ]]></description>
      <author>Education Nationale (certifié)</author>
   </item>
  </channel>
