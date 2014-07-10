@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 10 Jul 2014 14:40:02 +0200</pubDate>
+  <pubDate>Thu, 10 Jul 2014 15:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Indicateurs de qualité et de sécurité des soins des établissements de santé </title>
+     <link>https://www.data.gouv.fr/fr/dataset/indicateurs-de-qualite-et-de-securite-des-soins-des-etablissements-de-sante</link>
+     <description><![CDATA[La HAS met à disposition des professionnels de santé des indicateurs de qualité et de sécurité des soins. Ces indicateurs sont des outils d’amélioration de la qualité et de la sécurité des soins, développés avec les professionnels de santé et utilisés à des fins de pilotage interne. Ces indicateurs font l’objet de campagnes nationales de recueil au sein des établissements de santé. Outre...]]></description>
+     <author>Haute Autorité de santé (HAS) (certifié)</author>
+  </item>
   <item>
      <title>Certification des établissements de santé par la HAS</title>
      <link>https://www.data.gouv.fr/fr/dataset/certification-des-etablissements-de-sante-par-la-has</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/travaux-legislatifs-senat</link>
      <description><![CDATA[La base "Dossiers législatifs (Dosleg)" contient l'ensemble des informations sur les documents parlementaires déposés au Sénat (références depuis octobre 1977 et liens vers le texte intégral depuis octobre 1995). Vous y trouverez, entre autres, les données relatives aux projets et propositions de loi, les rapports législatifs ou d’information, les textes de commission, etc. ]]></description>
      <author>Sénat (certifié)</author>
-  </item>
-  <item>
-     <title>Séries chronologiques Education : les coûts et les financements</title>
-     <link>https://www.data.gouv.fr/fr/dataset/series-chronologiques-education-les-couts-et-les-financements</link>
-     <description><![CDATA[Les données relatives à la dépense intérieure d’éducation (DIE) et sa part dans le produit intérieur brut (PIB) sont analysées selon la répartition des sources de financement et le niveau de formation. ]]></description>
-     <author>Education Nationale (certifié)</author>
   </item>
  </channel>
 </rss>
