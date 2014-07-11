@@ -4,8 +4,56 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 10 Jul 2014 15:40:02 +0200</pubDate>
+  <pubDate>Fri, 11 Jul 2014 12:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Accidentologie</title>
+     <link>https://www.data.gouv.fr/fr/dataset/accidentologie-prs</link>
+     <description><![CDATA[Elements d'accidentologie de Paris. Intitulés des colonnes:  Carac = Caractéristiques ;  Com = Commune (nombre à 3 chiffres, composé du 1 [pour paris] et suivi du numéro de l’arrondissement) ;  Carr = carrefour ;  Segm = segment de voie ;  NomV = nom de voie ;  Vehi1 = véhicule 1 ;  CAdmin = catégorie administrative du véhciules,  LVeh = lettre...]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Stations Vélib - Disponibilités en temps réel</title>
+     <link>https://www.data.gouv.fr/fr/dataset/stations-velib-disponibilites-en-temps-reel-prs</link>
+     <description><![CDATA[Ce jeu de données donne les disponibilités en temps réel des stations Vélib. La mise à jour est faite à la minute. Pour avoir accès aux données Velib en direct, accédez à l'API velib à  https://developer.jcdecaux.com/ ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Tous les documents des bibliothèques de prêt (février 2014)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/tous-les-documents-des-bibliotheques-de-pret-fevrier-2014-prs</link>
+     <description><![CDATA[Toutes les collections des bibliothèques de prêt, telles qu'elles étaient en février 2014. Plus de 800 000 titres sont référencés. Attention les données peuvent avoir évolué depuis, elles ne sont pas dynamiques Le jeu de données comprend de nombreuses données sauf les résumés et les mots clés sujet ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Les 1000 titres les plus réservés dans les bibliothèques de prêt</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-1000-titres-les-plus-reserves-dans-les-bibliotheques-de-pret-prs</link>
+     <description><![CDATA[Les 1000 références les plus réservées en 2014 au sein des bibliothèques municipales de la ville de Paris. La mise de ce jeu de données est semestrielle. En pièce jointe, vous trouverez le même fichier au format xls contenant les liens vers les oeuvres. ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Les 1000 titres les plus recherchés au catalogue des bibliothèques de prêt</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-1000-titres-les-plus-recherches-au-catalogue-des-bibliotheques-de-pret-prs</link>
+     <description><![CDATA[Les 1000 références les plus recherchées en 2014 au sein des bibliothèques municipales de la ville de Paris. La mise de ce jeu de données est semestrielle. En pièce jointe, vous trouverez le même fichier au format xls contenant les liens vers les oeuvres. ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Evenements à Paris - Cibul</title>
+     <link>https://www.data.gouv.fr/fr/dataset/evenements-a-paris-cibul-prs</link>
+     <description><![CDATA[Cibul est une plateforme d'agendas sociaux, géolocalisés et Open Data. Les données de ce dataset sont extraites de l'API de http://developers.cibul.net/ Le jeu de données est mis à jour tous les jours à 08h00 ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Collections des bibliothèques et fonds spécialisés et patrimoniaux</title>
+     <link>https://www.data.gouv.fr/fr/dataset/collections-des-bibliotheques-et-fonds-specialises-et-patrimoniaux-prs</link>
+     <description><![CDATA[Extraction du catalogue des collections des bibliothèques et fonds patrimoniaux et spécialisés de la Ville de Paris, au 30 juin 2014, à l'exception de la base d'articles. Attention, les données peuvent avoir évolué depuis, elles ne sont pas dynamiques. Voir également http://bibliotheques-specialisees.paris.fr/ ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Liste des conseillers municipaux</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-conseillers-municipaux</link>
+     <description><![CDATA[Liste des 43 conseillers municipaux de Saint-Malo, pour la mandature 2014-2020 ]]></description>
+     <author>Ville de Saint-Malo (certifié)</author>
+  </item>
   <item>
      <title>Résultats d'analyse des eaux de baignade</title>
      <link>https://www.data.gouv.fr/fr/dataset/resultats-d-analyse-des-eaux-de-baignade</link>
@@ -317,54 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/structure-de-l-emploi-en-france</link>
      <description><![CDATA[L’emploi est abordé sous l’angle de l’âge (3 tranches d’âges), des CSP simplifiées (5 classes), du statut dans l’emploi (condition d’emploi, c'est à dire salariat/intérim/TNS/apprentis/stagiaires), de l'égalité homme-femmes, du chômage, ainsi que sous l’angle des variations 1999-2008. ]]></description>
      <author>Agence Nationale pour l'Amélioration des Conditions de Travail (certifié)</author>
-  </item>
-  <item>
-     <title>L’aide publique au développement de la France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/l-aide-publique-au-developpement-de-la-france</link>
-     <description><![CDATA[Les données portent sur l’aide au développement française dans les pays pauvres prioritaires d’Afrique subsaharienne. Elles seront systématiquement mises à jour pour prendre en compte les nouveaux projets de développement financés par le ministère des Affaires étrangères et du Développement international et l’Agence française de développement. Dans un esprit de transparence, ces données...]]></description>
-     <author>Ministère des Affaires Etrangères et du Développement International  (certifié)</author>
-  </item>
-  <item>
-     <title>Données des accidents corporels de la circulation routière</title>
-     <link>https://www.data.gouv.fr/fr/dataset/donnees-des-accidents-corporels-de-la-circulation-routie-0</link>
-     <description><![CDATA[Lors du Hackathon organisé les 20 et 21 juin 2014 par le Ministère de l'Intérieur, le jeu de données Données des accidents corporels de la circulation routière initialement produit par le Ministère a été retravaillé pour correspondre au schéma du jeu de données Base de données des accidents corporels de la circulation maintenu par IdeesLibres.org. Le traitement effectué est le suivant : -...]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Kilométrage des types de routes répartis par communes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/kilometrage-des-types-de-routes-repartis-par-communes</link>
-     <description><![CDATA[Jeu de données produit à partir des données OpenStreetMap dans le cadre du hackathon du Ministère de l'Intérieur de Juin 2014. Chaque ligne contient: le code INSEE de la commune le type de voie (nomenclature OpenStreetMap) la limite de vitesse renseignée sur OSM (vide pour les voies non renseignées) le kilométrage Données produites à partir des données...]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Différentiel 2013-2014 dans FANTOIR</title>
-     <link>https://www.data.gouv.fr/fr/dataset/differentiel-2013-2014-dans-fantoir</link>
-     <description><![CDATA[Différentiels dans FANTOIR 2013 à 2014 ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Comptes rendus du Sénat</title>
-     <link>https://www.data.gouv.fr/fr/dataset/comptes-rendus-du-senat</link>
-     <description><![CDATA[La base « Comptes rendus » contient les informations relatives aux comptes rendus intégraux de la séance publique depuis janvier 2003. ]]></description>
-     <author>Sénat (certifié)</author>
-  </item>
-  <item>
-     <title>Questions du Sénat</title>
-     <link>https://www.data.gouv.fr/fr/dataset/questions-du-senat</link>
-     <description><![CDATA[La base "Questions" contient les références de l'ensemble des questions écrites et orales posées par les sénateurs au Gouvernement depuis le 2 avril 1978. ]]></description>
-     <author>Sénat (certifié)</author>
-  </item>
-  <item>
-     <title>Amendements déposés au Sénat</title>
-     <link>https://www.data.gouv.fr/fr/dataset/amendements-deposes-au-senat</link>
-     <description><![CDATA[La base « Amendements (Ameli) » vous permet d’accéder à l’ensemble des amendements déposés au Sénat en commission (depuis octobre 2010) et en séance publique (depuis octobre 2001). Pour chaque amendement sont indiqués son ou ses auteur(s), son contenu, son objet, s’il a été adopté ou non, etc. Le jeu complet des amendements déposés sur chaque texte, en commission ou en séance, est disponible...]]></description>
-     <author>Sénat (certifié)</author>
-  </item>
-  <item>
-     <title>Données des accidents corporels de la circulation routière</title>
-     <link>https://www.data.gouv.fr/fr/dataset/donnees-des-accidents-corporels-de-la-circulation-routiere</link>
-     <description><![CDATA[La présente base est extraite du fichier national des accidents corporels de la circulation, dit « Fichier BAAC», administré par l’ONISR. Cette base répertorie l'intégralité des accidents corporels de la circulation intervenus durant l'année 2012 en France (métropole ainsi que les départements d'Outre-mer, à savoir Guadeloupe, Guyane, Martinique, La Réunion et Mayotte), avec une description...]]></description>
-     <author>Ministère de l'Intérieur (certifié)</author>
   </item>
  </channel>
 </rss>
