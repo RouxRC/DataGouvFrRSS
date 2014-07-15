@@ -4,20 +4,8 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 14 Jul 2014 20:40:02 +0200</pubDate>
+  <pubDate>Tue, 15 Jul 2014 12:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
-  <item>
-     <title>Respect de l'environnement régional</title>
-     <link>https://www.data.gouv.fr/fr/dataset/respect-de-l-environnement-regional</link>
-     <description><![CDATA[Entreprise citoyenne de nettoyage souhaitant organiser des opérations de nettoyage sur les plages et dans les parcs des alpes maritimes ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Les titres les plus prêtés dans les bibliothèques de prêt</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-titres-les-plus-pretes-dans-les-bibliotheques-de-pret-prs</link>
-     <description><![CDATA[Les 1000 références les plus empruntées en 2014 au sein des bibliothèques municipales de la ville de Paris.  Attention, les nombres d'exemplaires ne sont pas indiqués, mais jouent un rôle important. Ainsi les titres jeunesse sont présents en nombre d'exemplaires très élevé, ce qui explique la prédominance de ces titres dans la liste. La mise de ce jeu de données est semestrielle. En pièce...]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
   <item>
      <title>Accidentologie</title>
      <link>https://www.data.gouv.fr/fr/dataset/accidentologie-prs</link>
@@ -365,6 +353,18 @@
      <link>https://www.data.gouv.fr/fr/dataset/guidelinestransition-ad-final-f-lignes-directrices-de-la-transition-an-analogique-numerique-final-f</link>
      <description><![CDATA[Planification d'un projet datant de 1993 sinon des années 1950, dont l'actuel gouvernement ne sait comment l'arrêter étant donné le deéveloppement par le commerce et les usagers des communications numériques notamment des téléphones portables et autre ondes et micro-ondes. Ce document comporte le plan plus des organigrammes détaillant les responsabilités des différentes droites qu après...]]></description>
      <author>citoyen</author>
+  </item>
+  <item>
+     <title>LEGI: Codes, lois et règlements consolidés</title>
+     <link>https://www.data.gouv.fr/fr/dataset/legi-codes-lois-et-reglements-consolides</link>
+     <description><![CDATA[Le texte intégral consolidé de la législation et de la réglementation nationale. Il est essentiellement constitué par : - les codes officiels ; - les lois, décrets-lois, ordonnances, décrets et une sélection d’arrêtés. La consolidation des textes consiste lorsqu’un article de texte (ou de code) est modifié, à le réécrire en y intégrant la modification apportée. Les versions...]]></description>
+     <author>Premier ministre (certifié)</author>
+  </item>
+  <item>
+     <title>Structure de l'emploi en France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/structure-de-l-emploi-en-france</link>
+     <description><![CDATA[L’emploi est abordé sous l’angle de l’âge (3 tranches d’âges), des CSP simplifiées (5 classes), du statut dans l’emploi (condition d’emploi, c'est à dire salariat/intérim/TNS/apprentis/stagiaires), de l'égalité homme-femmes, du chômage, ainsi que sous l’angle des variations 1999-2008. ]]></description>
+     <author>Agence Nationale pour l'Amélioration des Conditions de Travail (certifié)</author>
   </item>
  </channel>
 </rss>
