@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 15 Jul 2014 14:20:02 +0200</pubDate>
+  <pubDate>Wed, 16 Jul 2014 11:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Box Office des films en France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/box-office-des-films-en-france</link>
+     <description><![CDATA[Tentative de construction d'une base de données du box office des films en France à partir des pages d'Allocine http://www.allocine.fr/boxoffice/france/ ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Programmation de France Culture 01-02-2014/29-06-2014 </title>
      <link>https://www.data.gouv.fr/fr/dataset/programmation-de-france-culture-01-02-2014-29-06-2014</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/kali-conventions-collectives-nationales</link>
      <description><![CDATA[Toutes les conventions collectives et textes associés. La base donne également accès à certaines conventions collectives nationales non étendues ainsi qu'à des conventions collectives régionales, départementales étendues ou non. Les textes associés comprennent les accords se rattachant à une convention collective, les salaires et les arrêtés d’extension. Les données sont mises à jour à...]]></description>
      <author>Premier ministre (certifié)</author>
-  </item>
-  <item>
-     <title>GuidelinesTransition AD Final F [Lignes Directrices de la Transition AN (Analogique/Numérique) Final F]</title>
-     <link>https://www.data.gouv.fr/fr/dataset/guidelinestransition-ad-final-f-lignes-directrices-de-la-transition-an-analogique-numerique-final-f</link>
-     <description><![CDATA[Planification d'un projet datant de 1993 sinon des années 1950, dont l'actuel gouvernement ne sait comment l'arrêter étant donné le deéveloppement par le commerce et les usagers des communications numériques notamment des téléphones portables et autre ondes et micro-ondes. Ce document comporte le plan plus des organigrammes détaillant les responsabilités des différentes droites qu après...]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
