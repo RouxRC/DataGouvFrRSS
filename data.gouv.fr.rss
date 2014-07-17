@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 17 Jul 2014 17:20:02 +0200</pubDate>
+  <pubDate>Thu, 17 Jul 2014 19:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Bénéficiaires de l'aide sociale à l'hébergement et places d'hébergement pour personnes âgées</title>
+     <link>https://www.data.gouv.fr/fr/dataset/beneficiaires-de-l-aide-sociale-a-l-hebergement-et-places-d-hebergement-pour-personnes-agees</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees, Statiss ]]></description>
+     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Thématique: transparence de la vie publique</title>
      <link>https://www.data.gouv.fr/fr/dataset/thematique-transparence-de-la-vie-publique</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/budget-primit-0</link>
      <description><![CDATA[Budget primitif - budget principal de la commune de Monacia d'Aullène - M 14 - exercice 2014 ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>CIRCULAIRES : Instructions et circulaires des ministères </title>
-     <link>https://www.data.gouv.fr/fr/dataset/circulaires-instructions-et-circulaires-des-ministeres</link>
-     <description><![CDATA[Il s'agit des instructions et circulaires applicables, adressées par les ministres aux services et établissements de l'Etat (décret n° 2008-1281 du 8 décembre 2008 relatif aux conditions de publication des instructions et circulaires). L'attention du « Réutilisateur » est appelée sur le cadre juridique particulier dans lequel s'inscrit la réutilisation des données juridiques: Décret n°...]]></description>
-     <author>Premier ministre (certifié)</author>
   </item>
  </channel>
 </rss>
