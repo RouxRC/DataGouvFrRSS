@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 16 Jul 2014 12:00:02 +0200</pubDate>
+  <pubDate>Thu, 17 Jul 2014 17:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Thématique: transparence de la vie publique</title>
+     <link>https://www.data.gouv.fr/fr/dataset/thematique-transparence-de-la-vie-publique</link>
+     <description><![CDATA[La plate-forme data.gouv.fr accueille des jeux de données qui concourent à une plus grande transparence de la vie publique, et notamment: les comptes des partis et groupements politiques (publiés par la Commission Nationale des Comptes de Campagne et des Financements Politiques), la liste des déclarations et appréciations sur le patrimoine des Ministre (publiée par la Haute...]]></description>
+     <author>data.gouv.fr (certifié)</author>
+  </item>
   <item>
      <title>Box Office des films en France</title>
      <link>https://www.data.gouv.fr/fr/dataset/box-office-des-films-en-france</link>
@@ -358,12 +364,6 @@
      <title>CIRCULAIRES : Instructions et circulaires des ministères </title>
      <link>https://www.data.gouv.fr/fr/dataset/circulaires-instructions-et-circulaires-des-ministeres</link>
      <description><![CDATA[Il s'agit des instructions et circulaires applicables, adressées par les ministres aux services et établissements de l'Etat (décret n° 2008-1281 du 8 décembre 2008 relatif aux conditions de publication des instructions et circulaires). L'attention du « Réutilisateur » est appelée sur le cadre juridique particulier dans lequel s'inscrit la réutilisation des données juridiques: Décret n°...]]></description>
-     <author>Premier ministre (certifié)</author>
-  </item>
-  <item>
-     <title>KALI : Conventions collectives nationales</title>
-     <link>https://www.data.gouv.fr/fr/dataset/kali-conventions-collectives-nationales</link>
-     <description><![CDATA[Toutes les conventions collectives et textes associés. La base donne également accès à certaines conventions collectives nationales non étendues ainsi qu'à des conventions collectives régionales, départementales étendues ou non. Les textes associés comprennent les accords se rattachant à une convention collective, les salaires et les arrêtés d’extension. Les données sont mises à jour à...]]></description>
      <author>Premier ministre (certifié)</author>
   </item>
  </channel>
