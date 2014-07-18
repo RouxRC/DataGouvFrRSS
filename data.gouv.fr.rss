@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 18 Jul 2014 12:40:02 +0200</pubDate>
+  <pubDate>Fri, 18 Jul 2014 12:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>COMPTES ASSOCIATIONS </title>
+     <link>https://www.data.gouv.fr/fr/dataset/comptes-associations</link>
+     <description><![CDATA[Les comptes annuels des associations, fondations et fonds de dotation. ]]></description>
+     <author>Premier ministre (certifié)</author>
+  </item>
   <item>
      <title>ASSOCIATIONS</title>
      <link>https://www.data.gouv.fr/fr/dataset/associations</link>
@@ -358,12 +364,6 @@
      <title>Finances locales </title>
      <link>https://www.data.gouv.fr/fr/dataset/finances-locales</link>
      <description><![CDATA[Budgets primitifs et comptes administratifs de la commune ]]></description>
-     <author>Mairie de Monacia d'Aullène (certifié)</author>
-  </item>
-  <item>
-     <title>sécurité incendie</title>
-     <link>https://www.data.gouv.fr/fr/dataset/securite-incend-0</link>
-     <description><![CDATA[sécurité incendies infrastructures sur le territoire communal ]]></description>
      <author>Mairie de Monacia d'Aullène (certifié)</author>
   </item>
  </channel>
