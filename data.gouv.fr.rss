@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 17 Jul 2014 19:20:02 +0200</pubDate>
+  <pubDate>Fri, 18 Jul 2014 12:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Tableau FINESS Entités Juridiques</title>
+     <link>https://www.data.gouv.fr/fr/dataset/tableau-finess-entites-juridiques</link>
+     <description><![CDATA[Ce classeur Excel 2010 reprend les données de l'extrait au format UNL de la base FINESS des Entités juridiques du 5 Mai 2014 Les données de la colonne "Ligne d'acheminement" de l'onglet "FINESS EJ 2014-05-05" ont été atomisées dans les colonnes de "Code postal" et "Libellé commune" de l'onglet intitulé "FINESS EJ 2014-05-05 Code commune" Une page "Statistiques" est en cours de création ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Bénéficiaires de l'aide sociale à l'hébergement et places d'hébergement pour personnes âgées</title>
      <link>https://www.data.gouv.fr/fr/dataset/beneficiaires-de-l-aide-sociale-a-l-hebergement-et-places-d-hebergement-pour-personnes-agees</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/zones-inondables</link>
      <description><![CDATA[Zonage du risque inondation dans les PPRI et hors PPRI du département du HAUT-RHIN Toutes les zones définies par arrêté préfectoral approuvant les PPRI sont saisies. Cartographie du risque naturel inondation par débordement de cours d'eau, en dehors des zones arrêtées au titre des PPRI ]]></description>
      <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
-  </item>
-  <item>
-     <title>Budget primitif </title>
-     <link>https://www.data.gouv.fr/fr/dataset/budget-primit-0</link>
-     <description><![CDATA[Budget primitif - budget principal de la commune de Monacia d'Aullène - M 14 - exercice 2014 ]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
