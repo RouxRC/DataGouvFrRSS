@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 18 Jul 2014 12:00:02 +0200</pubDate>
+  <pubDate>Fri, 18 Jul 2014 12:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>CONSTIT: les décisions du Conseil constitutionnel </title>
+     <link>https://www.data.gouv.fr/fr/dataset/constit-les-decisions-du-conseil-constitutionnel</link>
+     <description><![CDATA[Il comprend les références de toutes les décisions du Conseil constitutionnel depuis sa création en 1958 et ces mêmes décisions en texte intégral selon le tableau suivant : Contentieux des normes Décisions constitutionnelles ( DC) depuis l'origine (1958), Question prioritaire de constitutionnalité ( QPC) depuis l'origine (2010), Contrôle des lois ( LP) du pays ( Nouvelle calédonie et...]]></description>
+     <author>Premier ministre (certifié)</author>
+  </item>
   <item>
      <title>Tableau FINESS Entités Juridiques</title>
      <link>https://www.data.gouv.fr/fr/dataset/tableau-finess-entites-juridiques</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/synthese-du-diagnostic-energetique-des-batiments-communaux</link>
      <description><![CDATA[Synthèse du diagnostic énergétique des bâtiments communaux et des gaz à effet de serre ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Zones inondables</title>
-     <link>https://www.data.gouv.fr/fr/dataset/zones-inondables</link>
-     <description><![CDATA[Zonage du risque inondation dans les PPRI et hors PPRI du département du HAUT-RHIN Toutes les zones définies par arrêté préfectoral approuvant les PPRI sont saisies. Cartographie du risque naturel inondation par débordement de cours d'eau, en dehors des zones arrêtées au titre des PPRI ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
   </item>
  </channel>
 </rss>
