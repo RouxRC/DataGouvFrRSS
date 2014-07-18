@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 18 Jul 2014 12:50:02 +0200</pubDate>
+  <pubDate>Fri, 18 Jul 2014 15:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>COMPTES ASSOCIATIONS </title>
@@ -58,6 +58,12 @@
      <title>Programmation de France Culture 01-02-2014/29-06-2014 </title>
      <link>https://www.data.gouv.fr/fr/dataset/programmation-de-france-culture-01-02-2014-29-06-2014</link>
      <description><![CDATA[Tentative de construction d'une base de données décrivant la programmation de France Culture à partir des fichiers XML des podcasts. ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>A supprimer</title>
+     <link>https://www.data.gouv.fr/fr/dataset/a-supprim-1</link>
+     <description><![CDATA[A supprimer ]]></description>
      <author>citoyen</author>
   </item>
   <item>
@@ -358,12 +364,6 @@
      <title>Bâtiments communaux </title>
      <link>https://www.data.gouv.fr/fr/dataset/batiments-communaux</link>
      <description><![CDATA[Bâtiments Communaux ]]></description>
-     <author>Mairie de Monacia d'Aullène (certifié)</author>
-  </item>
-  <item>
-     <title>Finances locales </title>
-     <link>https://www.data.gouv.fr/fr/dataset/finances-locales</link>
-     <description><![CDATA[Budgets primitifs et comptes administratifs de la commune ]]></description>
      <author>Mairie de Monacia d'Aullène (certifié)</author>
   </item>
  </channel>
