@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 18 Jul 2014 12:30:02 +0200</pubDate>
+  <pubDate>Fri, 18 Jul 2014 12:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>ASSOCIATIONS</title>
+     <link>https://www.data.gouv.fr/fr/dataset/associations</link>
+     <description><![CDATA[Les données ''ASSOCIATIONS'' sont extraites du JOAFE ( JOURNAL OFFICIEL DES ASSOCIATIONS ET FONDATIONS D'ENTREPRISE) Le Journal officiel des associations, associations syndicales de propriétaires et fondations d’entreprise publie : Les déclarations de création, modification ou dissolution des associations régies par la loi de 1901,associations syndicales de propriétaires et fondations...]]></description>
+     <author>Premier ministre (certifié)</author>
+  </item>
   <item>
      <title>CNIL: les délibérations </title>
      <link>https://www.data.gouv.fr/fr/dataset/cnil-les-deliberations</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/securite-incend-0</link>
      <description><![CDATA[sécurité incendies infrastructures sur le territoire communal ]]></description>
      <author>Mairie de Monacia d'Aullène (certifié)</author>
-  </item>
-  <item>
-     <title>sécurité incendie</title>
-     <link>https://www.data.gouv.fr/fr/dataset/securite-incendie</link>
-     <description><![CDATA[infrastructuresde sécurité incendie sur le territoire communal ]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
