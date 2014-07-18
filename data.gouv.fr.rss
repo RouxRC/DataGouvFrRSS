@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 18 Jul 2014 12:20:02 +0200</pubDate>
+  <pubDate>Fri, 18 Jul 2014 12:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>CNIL: les délibérations </title>
+     <link>https://www.data.gouv.fr/fr/dataset/cnil-les-deliberations</link>
+     <description><![CDATA[Toutes les délibérations de la CNIL depuis l'origine, la première délibération ayant été rendue en 1979. Les modalités de publicité des actes de la commission sont actuellement fixées par la loi n° 78-17 du 6 janvier 1978, par son décret d’application ainsi que son règlement intérieur, soit en dernier lieu par la délibération n° 2013-175 du 4 juillet 2013. Les délibérations adoptées entre...]]></description>
+     <author>Premier ministre (certifié)</author>
+  </item>
   <item>
      <title>CONSTIT: les décisions du Conseil constitutionnel </title>
      <link>https://www.data.gouv.fr/fr/dataset/constit-les-decisions-du-conseil-constitutionnel</link>
@@ -358,12 +364,6 @@
      <title>sécurité incendie</title>
      <link>https://www.data.gouv.fr/fr/dataset/securite-incendie</link>
      <description><![CDATA[infrastructuresde sécurité incendie sur le territoire communal ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Synthèse du diagnostic énergetique des batiments communaux </title>
-     <link>https://www.data.gouv.fr/fr/dataset/synthese-du-diagnostic-energetique-des-batiments-communaux</link>
-     <description><![CDATA[Synthèse du diagnostic énergétique des bâtiments communaux et des gaz à effet de serre ]]></description>
      <author>citoyen</author>
   </item>
  </channel>
