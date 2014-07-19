@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 18 Jul 2014 15:20:02 +0200</pubDate>
+  <pubDate>Sat, 19 Jul 2014 16:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>JORF: les données de l'édition ''Lois et décrets'' du Journal officiel </title>
+     <link>https://www.data.gouv.fr/fr/dataset/jorf-les-donnees-de-l-edition-lois-et-decrets-du-journal-officiel</link>
+     <description><![CDATA[Le fonds documentaire des documents publiés dans l'édition " Lois et décrets " du Journal officiel depuis 1990 est constitué : des lois, ordonnances, décrets, arrêtés et circulaires des décisions émanant d'institutions ou de juridictions qui doivent être publiés au Journal officiel (Conseil constitutionnel, Conseil supérieur de l'audiovisuel, Autorité de régulation des...]]></description>
+     <author>Premier ministre (certifié)</author>
+  </item>
   <item>
      <title>COMPTES ASSOCIATIONS </title>
      <link>https://www.data.gouv.fr/fr/dataset/comptes-associations</link>
@@ -358,12 +364,6 @@
      <title>Foncier </title>
      <link>https://www.data.gouv.fr/fr/dataset/foncier</link>
      <description><![CDATA[Données communales relative au foncier public ]]></description>
-     <author>Mairie de Monacia d'Aullène (certifié)</author>
-  </item>
-  <item>
-     <title>Bâtiments communaux </title>
-     <link>https://www.data.gouv.fr/fr/dataset/batiments-communaux</link>
-     <description><![CDATA[Bâtiments Communaux ]]></description>
      <author>Mairie de Monacia d'Aullène (certifié)</author>
   </item>
  </channel>
