@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 21 Jul 2014 21:20:02 +0200</pubDate>
+  <pubDate>Tue, 22 Jul 2014 00:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Fichier &#34;Associations&#34; publié par la DILA, reformaté</title>
+     <link>https://www.data.gouv.fr/fr/dataset/fichier-associations-publie-par-la-dila-reformate</link>
+     <description><![CDATA[Les données ''ASSOCIATIONS'' proviennent du jeu de données publié par la DILA sur https://www.data.gouv.fr/fr/dataset/associations Elles ont été remise au format CSV pour faciliter leur réutilisation. Un fichier CSV reprends les publications annuelles au JOAFE. La transformation XML &gt; CSV est faite à l'aide de XSLT. La stylesheet utilisée est disponible sur github ainsi que le script pour...]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>JORF: les données de l'édition ''Lois et décrets'' du Journal officiel </title>
      <link>https://www.data.gouv.fr/fr/dataset/jorf-les-donnees-de-l-edition-lois-et-decrets-du-journal-officiel</link>
@@ -358,12 +364,6 @@
      <title>Foncier </title>
      <link>https://www.data.gouv.fr/fr/dataset/foncier</link>
      <description><![CDATA[Données communales relative au foncier public ]]></description>
-     <author>Mairie de Monacia d'Aullène (certifié)</author>
-  </item>
-  <item>
-     <title>Bâtiments communaux </title>
-     <link>https://www.data.gouv.fr/fr/dataset/batiments-communaux</link>
-     <description><![CDATA[Bâtiments Communaux ]]></description>
      <author>Mairie de Monacia d'Aullène (certifié)</author>
   </item>
  </channel>
