@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 22 Jul 2014 00:20:03 +0200</pubDate>
+  <pubDate>Tue, 22 Jul 2014 10:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Annuaire des communes et des intercommunalités</title>
+     <link>https://www.data.gouv.fr/fr/dataset/annuaire-des-communes-et-des-intercommunalites</link>
+     <description><![CDATA[Annuaires des communes et des intercommunalités de Saône-et-Loire (PDF). Découvrez également l'espace cartographie du Département : http://www.cg71.fr/le-departement/le-territoire/cartographie/# ]]></description>
+     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
+  </item>
+  <item>
+     <title>Caractéristiques des points de charge pour véhicules électriques Plus de Bornes ouverts au public </title>
+     <link>https://www.data.gouv.fr/fr/dataset/caracteristiques-des-points-de-charge-pour-vehicules-electriques-plus-de-bornes-ouverts-au-public</link>
+     <description><![CDATA[Format de données respectant les préconisation de l'ADEME : Données statiques de l’IRVE à transmettre à la plateforme ouverte des données publiques (www.data.gouv.fr) En application du 7.1. et dans le but de constituer un répertoire national des IRVE, ouvert et accessible à tous, les collectivités porteuses d'un projet d'installation d'IRVE doivent, au fur et à mesure de la mise...]]></description>
+     <author>Plus de Bornes</author>
+  </item>
   <item>
      <title>Fichier &#34;Associations&#34; publié par la DILA, reformaté</title>
      <link>https://www.data.gouv.fr/fr/dataset/fichier-associations-publie-par-la-dila-reformate</link>
@@ -283,6 +295,12 @@
      <author>SiteduChien.fr</author>
   </item>
   <item>
+     <title>Vétérinaires</title>
+     <link>https://www.data.gouv.fr/fr/dataset/veterinair-0</link>
+     <description><![CDATA[Annuaire des vétérinaires exerçant en France (spécialistes de la chirurgie canine, des experts en dermatologie, ophtalmogologie, stomatologie, dentisterie ou médecine interne des animaux de compagnies). ]]></description>
+     <author>SiteduChien.fr</author>
+  </item>
+  <item>
      <title>Mortalité par cause </title>
      <link>https://www.data.gouv.fr/fr/dataset/mortalite-par-cause</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données CépiDC de l'Inserm ]]></description>
@@ -347,24 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/enquete-sante-et-protection-sociale-esps</link>
      <description><![CDATA[Ce jeu de données met à disposition l'intégralité des données chiffrées présentées dans la nouvelle édition du rapport consacré à l'enquête santé et protection sociale (ESPS) 2012 accessibles en ligne sous forme de tableaux Excel. L'enquête ESPS, conduite par l'Irdes depuis 1988 est un outil qui explore à l'échelon national (France métropolitaine) les relations entre l'état de santé, l'accès...]]></description>
      <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Patrimoine</title>
-     <link>https://www.data.gouv.fr/fr/dataset/patrimoine</link>
-     <description><![CDATA[Patrimoine communal ]]></description>
-     <author>Mairie de Monacia d'Aullène (certifié)</author>
-  </item>
-  <item>
-     <title>Infrastructures reseau </title>
-     <link>https://www.data.gouv.fr/fr/dataset/infrastructures-reseau</link>
-     <description><![CDATA[Infrastructures réseau (eau , electricité , assainissement ) ]]></description>
-     <author>Mairie de Monacia d'Aullène (certifié)</author>
-  </item>
-  <item>
-     <title>Foncier </title>
-     <link>https://www.data.gouv.fr/fr/dataset/foncier</link>
-     <description><![CDATA[Données communales relative au foncier public ]]></description>
-     <author>Mairie de Monacia d'Aullène (certifié)</author>
   </item>
  </channel>
 </rss>
