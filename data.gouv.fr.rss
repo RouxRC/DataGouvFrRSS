@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 22 Jul 2014 14:20:02 +0200</pubDate>
+  <pubDate>Tue, 22 Jul 2014 14:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Stations d'épuration de l'eau</title>
+     <link>https://www.data.gouv.fr/fr/dataset/stations-d-epuration-de-l-eau</link>
+     <description><![CDATA[Caractéristiques et performances des stations d'épuration publiques ]]></description>
+     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
+  </item>
+  <item>
+     <title>Eau potable</title>
+     <link>https://www.data.gouv.fr/fr/dataset/eau-potable</link>
+     <description><![CDATA[Tarifs, techniques, modes de gestion, ... de l'eau potable en Saône-et-Loire ]]></description>
+     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
+  </item>
   <item>
      <title>Assainissement non collectif</title>
      <link>https://www.data.gouv.fr/fr/dataset/assainissement-non-collectif</link>
@@ -353,18 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/documents-d-urbanisme-locaux-du-haut-rhin</link>
      <description><![CDATA[Fichier des zonages des POS, des PLU, des cartes communales des communes du Haut-Rhin. Documents en cours de validité. Mise à jour en fonction des décisions d'approbations des documents par les communes. ]]></description>
      <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
-  </item>
-  <item>
-     <title>Les objectifs du millénaire pour le développement</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-objectifs-du-millenaire-pour-le-developpement</link>
-     <description><![CDATA[Plateformes DB Ressources MDG 1, 2, 3, 4, 5, 6, 7, 8 Dans ces plateformes, les données les plus récentes sont datées de 2010. Pour chaque indicateur, on a la série de données de 1990 à 2012 auxquelles sont ajoutés cinq indicateurs : l'année de la première donnée non nulle de la série, la valeur de cette donnée ; l'année de la dernière donnée non nulle de la série, la valeur de cette donnée ;...]]></description>
-     <author>Altercarto</author>
-  </item>
-  <item>
-     <title> Revenus, salaires, effectifs d'établissements et de salariés, tailles, secteurs d'activité, équipements à différentes échelles géographiques</title>
-     <link>https://www.data.gouv.fr/fr/dataset/revenus-salaires-effectifs-d-etablissements-et-de-salaries-tailles-secteurs-d-activite-equipements-a</link>
-     <description><![CDATA[Plateformes DB Ressources 2; DB Ressources 2 bis; DB Ressources revenu Dans la Rose des vents, avec moteur de recherche et organisation thématiques des cartes statistiques et des fichiers de données. ]]></description>
-     <author>Altercarto</author>
   </item>
  </channel>
 </rss>
