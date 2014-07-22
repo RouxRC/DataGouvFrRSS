@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 22 Jul 2014 10:40:02 +0200</pubDate>
+  <pubDate>Tue, 22 Jul 2014 14:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Assainissement non collectif</title>
+     <link>https://www.data.gouv.fr/fr/dataset/assainissement-non-collectif</link>
+     <description><![CDATA[Organismes compétents en matière d'assainissement non collectif. ]]></description>
+     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
+  </item>
+  <item>
+     <title>Prix de l'assainissement collectif</title>
+     <link>https://www.data.gouv.fr/fr/dataset/prix-de-l-assainissement-collectif</link>
+     <description><![CDATA[Ce fichier présente le recueil des prix de l'assainissement collectif par collectivité compétente (commune ou syndicat intercommunal). Le prix est décomposé selon les parts fixes et variables et ensuite recalculé pour une consommation type de 120 m3 par an. A noter que seul le prix des tranches inférieures ou égales à 120 m3 est indiqué, des données peuvent donc manquer pour calculer un prix...]]></description>
+     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
+  </item>
   <item>
      <title>Bilan carbone du Département de Saône-et-Loire</title>
      <link>https://www.data.gouv.fr/fr/dataset/bilan-carbone-du-departement-de-saone-et-loire</link>
@@ -353,18 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/revenus-salaires-effectifs-d-etablissements-et-de-salaries-tailles-secteurs-d-activite-equipements-a</link>
      <description><![CDATA[Plateformes DB Ressources 2; DB Ressources 2 bis; DB Ressources revenu Dans la Rose des vents, avec moteur de recherche et organisation thématiques des cartes statistiques et des fichiers de données. ]]></description>
      <author>Altercarto</author>
-  </item>
-  <item>
-     <title>Données du recensement au niveau communal ou IRIS pour la France entière (y compris DOM-TOM)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/donnees-du-recensement-au-niveau-communal-ou-iris-pour-la-france-entiere-y-compris-dom-tom</link>
-     <description><![CDATA[Plateformes DB Ressources, DB Ressources RGP 2007, DB Ressources RP 2008, 2009, 2010. Dans de la Rose des vents, avec moteur de recherche et organisation thématique des cartes statistiques et des fichiers de données. Source: INSEE ]]></description>
-     <author>Altercarto</author>
-  </item>
-  <item>
-     <title>Programmation de France Inter 01-02-2014/29-06-2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/programmation-de-france-inter-01-02-2014-29-06-2014</link>
-     <description><![CDATA[Tentative de construction d'une base de données décrivant la programmation de France Inter à partir des fichiers XML des podcasts. ]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
