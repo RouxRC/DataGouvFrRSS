@@ -4,8 +4,32 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 22 Jul 2014 10:30:02 +0200</pubDate>
+  <pubDate>Tue, 22 Jul 2014 10:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Bilan carbone du Département de Saône-et-Loire</title>
+     <link>https://www.data.gouv.fr/fr/dataset/bilan-carbone-du-departement-de-saone-et-loire</link>
+     <description><![CDATA[Emissions de gaz à effet de serre (en tonnes équivalent CO2) par poste et catégorie d'émission. ]]></description>
+     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
+  </item>
+  <item>
+     <title>Centres de planification et d'éducation familiale</title>
+     <link>https://www.data.gouv.fr/fr/dataset/centres-de-planification-et-d-education-familiale</link>
+     <description><![CDATA[Liste, coordonnées et horaires d'ouverture des centres de planification et d'éducation familiale. ]]></description>
+     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
+  </item>
+  <item>
+     <title>Bailleurs sociaux</title>
+     <link>https://www.data.gouv.fr/fr/dataset/bailleurs-sociaux</link>
+     <description><![CDATA[Liste et coordonnées des bailleurs sociaux en Saône-et-Loire. ]]></description>
+     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
+  </item>
+  <item>
+     <title>Communes éligibles au très haut débit</title>
+     <link>https://www.data.gouv.fr/fr/dataset/communes-eligibles-au-tres-haut-debit</link>
+     <description><![CDATA[Aménagement numérique du territoire : liste des 93 communes éligibles à l'appel à projet pour la couverture du très haut débit en Saône-et-Loire. ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Annuaire des communes et des intercommunalités</title>
      <link>https://www.data.gouv.fr/fr/dataset/annuaire-des-communes-et-des-intercommunalites</link>
@@ -295,12 +319,6 @@
      <author>SiteduChien.fr</author>
   </item>
   <item>
-     <title>Vétérinaires</title>
-     <link>https://www.data.gouv.fr/fr/dataset/veterinair-0</link>
-     <description><![CDATA[Annuaire des vétérinaires exerçant en France (spécialistes de la chirurgie canine, des experts en dermatologie, ophtalmogologie, stomatologie, dentisterie ou médecine interne des animaux de compagnies). ]]></description>
-     <author>SiteduChien.fr</author>
-  </item>
-  <item>
      <title>Mortalité par cause </title>
      <link>https://www.data.gouv.fr/fr/dataset/mortalite-par-cause</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données CépiDC de l'Inserm ]]></description>
@@ -347,24 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/programmation-de-france-inter-01-02-2014-29-06-2014</link>
      <description><![CDATA[Tentative de construction d'une base de données décrivant la programmation de France Inter à partir des fichiers XML des podcasts. ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Délibérations du Conseil Municipal de la ville de Nogent-sur-Marne (2013)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/deliberations-du-conseil-municipal-de-la-ville-de-nogent-sur-marne-20-1</link>
-     <description><![CDATA[Ce jeu de données reprend la liste des délibérations discutées par le Conseil Municipal de la commune de Nogent-sur-Marne au cours de l'année 2013. Il contient la référence de chaque délibération, la date du conseil municipal au cours duquel chacune d'entre elles a été discutée, le domaine et son intitulé. Afin de consulter les délibérations à proprement parler, veuillez vous rendre sur cette...]]></description>
-     <author>ACTION</author>
-  </item>
-  <item>
-     <title>Liste des déclarations et appréciations publiées par la Haute Autorité de la vie publique</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-declarations-et-appreciations-publiees-par-la-haute-autorite-de-la-vie-publique</link>
-     <description><![CDATA[Les lois du 11 octobre 2013 relatives à la transparence de la vie publique prévoient que les déclarations publiées par la Haute Autorité pour la transparence de la vie publique sont librement réutilisables. Afin de faciliter leur réutilisation, la Haute Autorité pour la transparence de la vie publique met à la disposition du public, au format CSV, la liste des déclarations et appréciations...]]></description>
-     <author>Haute Autorité pour la transparence de la vie publique (certifié)</author>
-  </item>
-  <item>
-     <title>Enquête santé et protection sociale (ESPS) </title>
-     <link>https://www.data.gouv.fr/fr/dataset/enquete-sante-et-protection-sociale-esps</link>
-     <description><![CDATA[Ce jeu de données met à disposition l'intégralité des données chiffrées présentées dans la nouvelle édition du rapport consacré à l'enquête santé et protection sociale (ESPS) 2012 accessibles en ligne sous forme de tableaux Excel. L'enquête ESPS, conduite par l'Irdes depuis 1988 est un outil qui explore à l'échelon national (France métropolitaine) les relations entre l'état de santé, l'accès...]]></description>
-     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
   </item>
  </channel>
 </rss>
