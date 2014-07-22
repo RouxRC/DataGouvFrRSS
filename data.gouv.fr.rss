@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 22 Jul 2014 14:40:02 +0200</pubDate>
+  <pubDate>Tue, 22 Jul 2014 21:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Voies vertes</title>
+     <link>https://www.data.gouv.fr/fr/dataset/voies-vertes</link>
+     <description><![CDATA[Les Voies vertes sont des pistes cyclables sécurisées et ouvertes aux circulations non motorisées. Les 220 km qui constituent actuellement le réseau sont aménagés sur d’anciennes voies ferrées ou chemins de halage. ]]></description>
+     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
+  </item>
   <item>
      <title>Stations d'épuration de l'eau</title>
      <link>https://www.data.gouv.fr/fr/dataset/stations-d-epuration-de-l-eau</link>
@@ -358,12 +364,6 @@
      <title>Servitudes d'Utilité Publique T7 Relations aériennes - Zones de dégagement </title>
      <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-t7-relations-aeriennes-zones-de-degagement</link>
      <description><![CDATA[Relations aériennes - Servitudes aéronautiques - Servitudes à l'extérieur des zones de dégagement concernant des installations particulières. ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
-  </item>
-  <item>
-     <title>Documents d'urbanisme locaux du Haut-Rhin</title>
-     <link>https://www.data.gouv.fr/fr/dataset/documents-d-urbanisme-locaux-du-haut-rhin</link>
-     <description><![CDATA[Fichier des zonages des POS, des PLU, des cartes communales des communes du Haut-Rhin. Documents en cours de validité. Mise à jour en fonction des décisions d'approbations des documents par les communes. ]]></description>
      <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
   </item>
  </channel>
