@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 23 Jul 2014 17:10:02 +0200</pubDate>
+  <pubDate>Wed, 23 Jul 2014 17:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Quitter le foyer familial : les jeunes adultes confrontés à la crise économique</title>
+     <link>https://www.data.gouv.fr/fr/dataset/quitter-le-foyer-familial-les-jeunes-adultes-confrontes-a-la-crise-economique</link>
+     <description><![CDATA[Source : DREES, Études et résultats N°887 Auteurs : Mickaël Portela et Florent Dezenaire Avoir un travail conditionne le départ des jeunes adultes de chez leurs parents, surtout en période de crise. En 2010, trois ans après la fin de leurs études, près de 70 % des jeunes ayant un emploi stable ne vivent plus chez leurs parents, contre 30 % des jeunes chômeurs environ. ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Comptes des associations - fichier reformaté</title>
      <link>https://www.data.gouv.fr/fr/dataset/comptes-des-associations-fichier-reformate</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/mortalite-par-cause</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données CépiDC de l'Inserm ]]></description>
      <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Transport </title>
-     <link>https://www.data.gouv.fr/fr/dataset/transport</link>
-     <description><![CDATA[Données relatives au transport ]]></description>
-     <author>Mairie de Monacia d'Aullène (certifié)</author>
   </item>
  </channel>
 </rss>
