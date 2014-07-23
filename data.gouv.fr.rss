@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 22 Jul 2014 21:40:02 +0200</pubDate>
+  <pubDate>Wed, 23 Jul 2014 17:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Comptes des associations - fichier reformaté</title>
+     <link>https://www.data.gouv.fr/fr/dataset/comptes-des-associations-fichier-reformate</link>
+     <description><![CDATA[Les comptes annuels des associations, fondations et fonds de dotation. Ce jeu de données est une extraction au format CSV des metadonnées disponibles sur https://www.data.gouv.fr/fr/dataset/comptes-associations et mis en ligne par la DILA. Il contient: le nom du fichier PDF contenant le détail des comptes (scannés) le N° RNA de l'association si disponible le code...]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Voies vertes</title>
      <link>https://www.data.gouv.fr/fr/dataset/voies-vertes</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/transport</link>
      <description><![CDATA[Données relatives au transport ]]></description>
      <author>Mairie de Monacia d'Aullène (certifié)</author>
-  </item>
-  <item>
-     <title>Servitudes d'Utilité Publique T7 Relations aériennes - Zones de dégagement </title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-t7-relations-aeriennes-zones-de-degagement</link>
-     <description><![CDATA[Relations aériennes - Servitudes aéronautiques - Servitudes à l'extérieur des zones de dégagement concernant des installations particulières. ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
   </item>
  </channel>
 </rss>
