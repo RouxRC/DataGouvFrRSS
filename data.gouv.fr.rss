@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 24 Jul 2014 10:00:02 +0200</pubDate>
+  <pubDate>Thu, 24 Jul 2014 10:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Troubles mentaux : quelles conséquences sur le maintien dans l’emploi ?</title>
+     <link>https://www.data.gouv.fr/fr/dataset/troubles-mentaux-quelles-consequences-sur-le-maintien-dans-l-emploi</link>
+     <description><![CDATA[Source : DRESS, Études et résultats N°885 Auteurs : Thomas Barnay et Éric Defebvre En 2006, parmi les personnes en emploi, 12 % des femmes et 6 % des hommes de 30 à 55 ans déclarent souffrir au moins d’un trouble mental. Quatre ans plus tard, 86 % d’entre elles et 82 % d’entre eux occupent toujours une activité professionnelle. ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Profils et trajectoires des personnes ayant des idées suicidaires</title>
      <link>https://www.data.gouv.fr/fr/dataset/profils-et-trajectoires-des-personnes-ayant-des-idees-suicidaires</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-t5-aeronautique-generateur</link>
      <description><![CDATA[Servitude de dégagement : servitude aéronautique instituée pour la protection de la circulation aérienne : Servitude aéronautique de dégagement et de balisage instituée en application des articles L. 281-1 et R. 241-1 à R. 243-3 du code de l'aviation civile. Nb: la servitude de balisage est décrite sous le code T4. On ne représente que l'enveloppe de la servitude et on renvoit vers un plan à...]]></description>
      <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
-  </item>
-  <item>
-     <title>Vétérinaires</title>
-     <link>https://www.data.gouv.fr/fr/dataset/veterinair-0</link>
-     <description><![CDATA[Annuaire des vétérinaires exerçant en France (spécialistes de la chirurgie canine, des experts en dermatologie, ophtalmogologie, stomatologie, dentisterie ou médecine interne des animaux de compagnies). ]]></description>
-     <author>SiteduChien.fr</author>
   </item>
  </channel>
 </rss>
