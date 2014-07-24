@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 24 Jul 2014 11:50:02 +0200</pubDate>
+  <pubDate>Thu, 24 Jul 2014 12:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Troubles de la vision : sept adultes sur dix portent des lunettes</title>
+     <link>https://www.data.gouv.fr/fr/dataset/troubles-de-la-vision-sept-adultes-sur-dix-portent-des-lunettes</link>
+     <description><![CDATA[Source : DREES, Études et résultats N°881 Auteurs : Lucie Calvet, avec la collaboration de Pauline Delance, Clément Dufaure, Victor Laliman, Benjamin Quevat Les problèmes de vue concernent trois adultes sur quatre. Les personnes âgées sont les plus nombreuses à souffrir de troubles résiduels. Les 70 ans ou plus représentent près de la moitié de la population ayant des difficultés à lire les...]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Les allocataires du minimum vieillesse : carrière passée et niveau de pension</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-allocataires-du-minimum-vieillesse-carriere-passee-et-niveau-de-pension</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/document-pprt-sur-le-departement-du-haut-rhin</link>
      <description><![CDATA[Liste des plans de prévention des risques technologiques du département du Haut-Rhin. ]]></description>
      <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
-  </item>
-  <item>
-     <title>Programmation RTL 01-01-2014/06-07-2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/programmation-rtl-01-01-2014-06-07-2014</link>
-     <description><![CDATA[Tentative de construction d'une base de données décrivant la programmation de RTL à partir des fichiers XML des podcasts. ]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
