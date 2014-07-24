@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 24 Jul 2014 16:20:02 +0200</pubDate>
+  <pubDate>Thu, 24 Jul 2014 16:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les bénéficiaires de l’allocation personnalisée d’autonomie à domicile et leurs ressources</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-beneficiaires-de-l-allocation-personnalisee-d-autonomie-a-domicile-et-leurs-ressources</link>
+     <description><![CDATA[Source : DREES, Études et résultats N° 876 Auteurs : Mélanie Bérardier À la fin 2011, 696 000 personnes âgées de 60 ans ou plus reçoivent l’allocation personnalisée d’autonomie (APA) à domicile en France métropolitaine, soit une augmentation de 10 % depuis 2007. ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
+  <item>
+     <title>Programme local de l'habitat (PLH)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/programme-local-de-l-habitat-plh</link>
+     <description><![CDATA[Zonage composé de l'ensemble des périmètres de programme local de l'habitat (PLH). Un PLH définit la politique de l'habitat sur un territoire intercommunal. Il vise à répondre aux besoins en logements (social ou non, locatif ou non), à favoriser la mixité sociale en assurant une répartition équilibrée et diversifiée de l'offre en logements au sein d'un territoire intercommunal et indique les...]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Les revenus des chirurgiens-dentistes</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-revenus-des-chirurgiens-dentistes</link>
@@ -353,18 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/collections-des-bibliotheques-et-fonds-specialises-et-patrimoniaux-prs</link>
      <description><![CDATA[Extraction du catalogue des collections des bibliothèques et fonds patrimoniaux et spécialisés de la Ville de Paris, au 30 juin 2014, à l'exception de la base d'articles. Attention, les données peuvent avoir évolué depuis, elles ne sont pas dynamiques. Voir également http://bibliotheques-specialisees.paris.fr/ ]]></description>
      <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Liste des conseillers municipaux</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-conseillers-municipaux</link>
-     <description><![CDATA[Liste des 43 conseillers municipaux de Saint-Malo, pour la mandature 2014-2020 ]]></description>
-     <author>Ville de Saint-Malo (certifié)</author>
-  </item>
-  <item>
-     <title>Résultats d'analyse des eaux de baignade</title>
-     <link>https://www.data.gouv.fr/fr/dataset/resultats-d-analyse-des-eaux-de-baignade</link>
-     <description><![CDATA[Série chronologique des résultats d'analyse d'eaux de baignade sur les 13 plages de Saint-Malo, depuis 2010. ]]></description>
-     <author>Ville de Saint-Malo (certifié)</author>
   </item>
  </channel>
 </rss>
