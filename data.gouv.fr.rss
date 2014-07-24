@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 23 Jul 2014 20:10:02 +0200</pubDate>
+  <pubDate>Thu, 24 Jul 2014 10:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Profils et trajectoires des personnes ayant des idées suicidaires</title>
+     <link>https://www.data.gouv.fr/fr/dataset/profils-et-trajectoires-des-personnes-ayant-des-idees-suicidaires</link>
+     <description><![CDATA[Source : DREES, Études et résultats N°886 Auteurs : Nicolas de Riccardis, avec les conseils de Muriel Moisy et Marie-Claude Mouquet En 2010, 5 % des personnes âgées de 40 à 59 ans déclarent avoir eu des idées suicidaires dans les deux semaines précédant l’étude. Leurs indicateurs de santé sont plus dégradés que ceux des autres personnes. Elles souffrent plus souvent d’une maladie chronique...]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Quitter le foyer familial : les jeunes adultes confrontés à la crise économique</title>
      <link>https://www.data.gouv.fr/fr/dataset/quitter-le-foyer-familial-les-jeunes-adultes-confrontes-a-la-crise-economique</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/veterinair-0</link>
      <description><![CDATA[Annuaire des vétérinaires exerçant en France (spécialistes de la chirurgie canine, des experts en dermatologie, ophtalmogologie, stomatologie, dentisterie ou médecine interne des animaux de compagnies). ]]></description>
      <author>SiteduChien.fr</author>
-  </item>
-  <item>
-     <title>Mortalité par cause </title>
-     <link>https://www.data.gouv.fr/fr/dataset/mortalite-par-cause</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données CépiDC de l'Inserm ]]></description>
-     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
   </item>
  </channel>
 </rss>
