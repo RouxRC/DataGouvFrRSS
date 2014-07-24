@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 24 Jul 2014 17:10:02 +0200</pubDate>
+  <pubDate>Thu, 24 Jul 2014 17:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Parents bénéficiaires de minima sociaux : comment concilier vie familiale et insertion professionnelle ?</title>
+     <link>https://www.data.gouv.fr/fr/dataset/parents-beneficiaires-de-minima-sociaux-comment-concilier-vie-familiale-et-insertion-professionnelle</link>
+     <description><![CDATA[Source : DREES, Études et résultats N° 874 Auteurs : Marie Acs, Étienne Frel-Cazenave et Bertrand Lhommeau À la fin 2011, 2 millions de bénéficiaires ont perçu l’allocation de solidarité spécifique et le revenu de solidarité active socle en France métropolitaine. Parmi eux, 900 000 vivent avec au moins un enfant de moins de 25 ans et 690 000 avec un enfant de moins de 12 ans. ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Les prestations familiales et de logement. Une diminution du nombre de bénéficiaires de la PAJE</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-prestations-familiales-et-de-logement-une-diminution-du-nombre-de-beneficiaires-de-la-paje</link>
@@ -358,12 +364,6 @@
      <title>Les 1000 titres les plus réservés dans les bibliothèques de prêt</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-1000-titres-les-plus-reserves-dans-les-bibliotheques-de-pret-prs</link>
      <description><![CDATA[Les 1000 références les plus réservées en 2014 au sein des bibliothèques municipales de la ville de Paris. La mise de ce jeu de données est semestrielle. En pièce jointe, vous trouverez le même fichier au format xls contenant les liens vers les oeuvres. ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Les 1000 titres les plus recherchés au catalogue des bibliothèques de prêt</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-1000-titres-les-plus-recherches-au-catalogue-des-bibliotheques-de-pret-prs</link>
-     <description><![CDATA[Les 1000 références les plus recherchées en 2014 au sein des bibliothèques municipales de la ville de Paris. La mise de ce jeu de données est semestrielle. En pièce jointe, vous trouverez le même fichier au format xls contenant les liens vers les oeuvres. ]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
