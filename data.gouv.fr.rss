@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 24 Jul 2014 14:20:02 +0200</pubDate>
+  <pubDate>Thu, 24 Jul 2014 14:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Prévoir sa retraite : une personne sur cinq épargne</title>
+     <link>https://www.data.gouv.fr/fr/dataset/prevoir-sa-retraite-une-personne-sur-cinq-epargne</link>
+     <description><![CDATA[Source : DREES, Études et résultats n° 880 Auteurs : Charline Laborde Près de 20 % de la population de 18 ans ou plus détiennent au moins un produit d’épargne financière pour compléter leur retraite. Alors qu’elle ne lui est pas dédiée, l’assurance-vie est le placement préféré des ménages : 7 % des personnes contractent une assurance-vie pour disposer d’un complément de rémunération. Les...]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>L’aide humaine apportée aux bénéficiaires d’une allocation de compensation du handicap</title>
      <link>https://www.data.gouv.fr/fr/dataset/l-aide-humaine-apportee-aux-beneficiaires-d-une-allocation-de-compensation-du-handicap</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/les-prix-litteraires</link>
      <description><![CDATA[Les prix littéraires par Prix,Année,Auteur,Roman,Maison d'édition. Données compilées par les journalistes du Monde Source : http://www.lemonde.fr/livres/visuel/2013/11/30/prix-litteraires-les-maisons-d-edition-qui-regnent-sur-les-classements_3523087_3260.html ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Qualité des eaux de baignade sur le littoral de Saint-Malo</title>
-     <link>https://www.data.gouv.fr/fr/dataset/qualite-des-eaux-de-baignade-sur-le-littoral-de-saint-malo</link>
-     <description><![CDATA[Historique des classements d'eaux de baignade sur les 13 plages de Saint-Malo, depuis 1989. ]]></description>
-     <author>Ville de Saint-Malo (certifié)</author>
   </item>
  </channel>
 </rss>
