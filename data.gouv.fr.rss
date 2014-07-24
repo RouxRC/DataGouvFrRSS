@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 24 Jul 2014 12:30:02 +0200</pubDate>
+  <pubDate>Thu, 24 Jul 2014 14:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>L’aide humaine apportée aux bénéficiaires d’une allocation de compensation du handicap</title>
+     <link>https://www.data.gouv.fr/fr/dataset/l-aide-humaine-apportee-aux-beneficiaires-d-une-allocation-de-compensation-du-handicap</link>
+     <description><![CDATA[Source : DREES, Études et résultats N°855 Auteurs : Maude ESPAGNACQ En 2009, 77 % des bénéficiaires d’une prestation de compensation du handicap (PCH) sont aidés régulièrement pour les activités de la vie quotidienne. Dans 90 % des cas, ils ont recours à leur entourage et, dans moins d’un cas sur deux, à un professionnel. 90 % des personnes percevant l’allocation compensatrice pour tierce...]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Les comptes de la protection sociale en France et en Europe</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-comptes-de-la-protection-sociale-en-france-et-en-europe</link>
@@ -358,12 +364,6 @@
      <title>Qualité des eaux de baignade sur le littoral de Saint-Malo</title>
      <link>https://www.data.gouv.fr/fr/dataset/qualite-des-eaux-de-baignade-sur-le-littoral-de-saint-malo</link>
      <description><![CDATA[Historique des classements d'eaux de baignade sur les 13 plages de Saint-Malo, depuis 1989. ]]></description>
-     <author>Ville de Saint-Malo (certifié)</author>
-  </item>
-  <item>
-     <title>Emplacement des bureaux de vote</title>
-     <link>https://www.data.gouv.fr/fr/dataset/emplacement-des-bureaux-de-vote</link>
-     <description><![CDATA[Emplacement des 39 bureaux de vote de la commune, répartis sur 20 lieux de vote. ]]></description>
      <author>Ville de Saint-Malo (certifié)</author>
   </item>
  </channel>
