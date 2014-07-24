@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 24 Jul 2014 14:40:02 +0200</pubDate>
+  <pubDate>Thu, 24 Jul 2014 15:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Multimédia expérimentaux</title>
+     <link>https://www.data.gouv.fr/fr/dataset/multimedia-experimentaux</link>
+     <description><![CDATA[http://www.jamendo.com/fr/artist/349389/diaenoxe Par ce lien, une description visuelle du monde futur par quelques schémas artistiques: https://www.flickr.com/photos/rivrain/sets/72157629653285706/with/7165896532/ ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Prévoir sa retraite : une personne sur cinq épargne</title>
      <link>https://www.data.gouv.fr/fr/dataset/prevoir-sa-retraite-une-personne-sur-cinq-epargne</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/beneficiaires-de-l-allocation-personnalisee-d-autonomie-apa-pour-personnes-agees-dependantes</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees ]]></description>
      <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Les prix littéraires</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-prix-litteraires</link>
-     <description><![CDATA[Les prix littéraires par Prix,Année,Auteur,Roman,Maison d'édition. Données compilées par les journalistes du Monde Source : http://www.lemonde.fr/livres/visuel/2013/11/30/prix-litteraires-les-maisons-d-edition-qui-regnent-sur-les-classements_3523087_3260.html ]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
