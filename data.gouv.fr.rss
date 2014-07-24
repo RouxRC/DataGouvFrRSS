@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 24 Jul 2014 16:50:02 +0200</pubDate>
+  <pubDate>Thu, 24 Jul 2014 17:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les prestations familiales et de logement. Une diminution du nombre de bénéficiaires de la PAJE</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-prestations-familiales-et-de-logement-une-diminution-du-nombre-de-beneficiaires-de-la-paje</link>
+     <description><![CDATA[Source : DREES, Études et résultats N° 875 Auteurs : Bertrand LHOMMEAU avec la participation de Tania LEJBOWICZ À la fin 2012, 6,8 millions de familles bénéficient de 31,6 milliards d’euros de prestations familiales versées dans l’année, soit 387 euros par mois en moyenne pour chaque foyer aidé. ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Surveillance de la grossesse en 2010 : des inégalités socio-démographiques</title>
      <link>https://www.data.gouv.fr/fr/dataset/surveillance-de-la-grossesse-en-2010-des-inegalites-socio-demographiques</link>
@@ -358,12 +364,6 @@
      <title>Les 1000 titres les plus recherchés au catalogue des bibliothèques de prêt</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-1000-titres-les-plus-recherches-au-catalogue-des-bibliotheques-de-pret-prs</link>
      <description><![CDATA[Les 1000 références les plus recherchées en 2014 au sein des bibliothèques municipales de la ville de Paris. La mise de ce jeu de données est semestrielle. En pièce jointe, vous trouverez le même fichier au format xls contenant les liens vers les oeuvres. ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Evenements à Paris - Cibul</title>
-     <link>https://www.data.gouv.fr/fr/dataset/evenements-a-paris-cibul-prs</link>
-     <description><![CDATA[Cibul est une plateforme d'agendas sociaux, géolocalisés et Open Data. Les données de ce dataset sont extraites de l'API de http://developers.cibul.net/ Le jeu de données est mis à jour tous les jours à 08h00 ]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
