@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 24 Jul 2014 16:10:02 +0200</pubDate>
+  <pubDate>Thu, 24 Jul 2014 16:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les revenus des chirurgiens-dentistes</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-revenus-des-chirurgiens-dentistes</link>
+     <description><![CDATA[Source : DREES, Études et résultats N°849 Auteurs : Vanessa BELLAMY et Alioune BADARA MBAYE En 2008, les chirurgiens-dentistes libéraux en activité en Métropole ont déclaré en moyenne à l’administration fiscale 93 820 € de revenus liés à leurs activités professionnelles. Ces revenus se répartissent en 90 520 € de revenu libéral et 3 300 € de revenu salarial. ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Comment les organismes complémentaires fixent leurs tarifs</title>
      <link>https://www.data.gouv.fr/fr/dataset/comment-les-organismes-complementaires-fixent-leurs-tarifs</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/resultats-d-analyse-des-eaux-de-baignade</link>
      <description><![CDATA[Série chronologique des résultats d'analyse d'eaux de baignade sur les 13 plages de Saint-Malo, depuis 2010. ]]></description>
      <author>Ville de Saint-Malo (certifié)</author>
-  </item>
-  <item>
-     <title>Indicateurs de qualité et de sécurité des soins des établissements de santé </title>
-     <link>https://www.data.gouv.fr/fr/dataset/indicateurs-de-qualite-et-de-securite-des-soins-des-etablissements-de-sante</link>
-     <description><![CDATA[La HAS met à disposition des professionnels de santé des indicateurs de qualité et de sécurité des soins. Ces indicateurs sont des outils d’amélioration de la qualité et de la sécurité des soins, développés avec les professionnels de santé et utilisés à des fins de pilotage interne. Ces indicateurs font l’objet de campagnes nationales de recueil au sein des établissements de santé. Outre...]]></description>
-     <author>Haute Autorité de santé (HAS) (certifié)</author>
   </item>
  </channel>
 </rss>
