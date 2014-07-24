@@ -4,8 +4,32 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 24 Jul 2014 15:50:04 +0200</pubDate>
+  <pubDate>Thu, 24 Jul 2014 16:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Minima sociaux pour adultes handicapés</title>
+     <link>https://www.data.gouv.fr/fr/dataset/minima-sociaux-pour-adultes-handicapes</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees ]]></description>
+     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+  </item>
+  <item>
+     <title>L’offre en établissements d’hébergement pour personnes âgées</title>
+     <link>https://www.data.gouv.fr/fr/dataset/l-offre-en-etablissements-d-hebergement-pour-personnes-agees</link>
+     <description><![CDATA[Source : DREES, Études et résultats N° 877 Auteurs : Sabrina Volant Les établissements d’hébergement pour personnes âgées ont augmenté leur capacité d’accueil de 5% depuis 2007. Au 31 décembre 2011, on en compte 10 481 pour 719 810 places. ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
+  <item>
+     <title>Les affectations des étudiants en médecine à l’issue des épreuves classantes nationales</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-affectations-des-etudiants-en-medecine-a-l-issue-des-epreuves-classantes-nationales</link>
+     <description><![CDATA[Source : DREES, Études et résultats N°852 Auteurs : Pascal GODEFROY (Drees), Odile ROMAIN, Séverine BUISINE et Pierre LAURENT (CNG) À l’issue des épreuves classantes nationales (ECN) de 2012, 7 207 étudiants sont entrés pour la première fois en troisième cycle des études médicales. Parmi la liste de postes ouverts par spécialité et par subdivision territoriale établie par les pouvoirs...]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
+  <item>
+     <title>La santé des élèves de CM2 : Une situation contrastée selon l’origine sociale</title>
+     <link>https://www.data.gouv.fr/fr/dataset/la-sante-des-eleves-de-cm2-une-situation-contrastee-selon-l-origine-sociale</link>
+     <description><![CDATA[Source : DREES, Études et résultats N°853 Auteurs : Olivier CHARDON, Nathalie GUIGNON, Jean-Paul GUTHMANN, Laure FONTENEAU et Marie-Christine DELMAS En 2008, 19 % des élèves de CM2 sont en surcharge pondérale et, parmi eux, 4 % sont obèses. L’Enquête nationale sur la santé des élèves de CM2, conduite en 2007-2008, confirme la stabilisation des prévalences de la surcharge pondérale (surpoids...]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>La situation économique et financière des cliniques privées à but lucratif</title>
      <link>https://www.data.gouv.fr/fr/dataset/la-situation-economique-et-financiere-des-cliniques-privees-a-but-lucrat-0</link>
@@ -341,30 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/listes-de-l-inventaire-immobilier-de-l-etat</link>
      <description><![CDATA[Listes de l'inventaire immobilier de l'État ]]></description>
      <author>Ministère des finances et des comptes publics (certifié)</author>
-  </item>
-  <item>
-     <title>Environnement </title>
-     <link>https://www.data.gouv.fr/fr/dataset/environnement</link>
-     <description><![CDATA[Données liés à l'environnement ]]></description>
-     <author>Mairie de Monacia d'Aullène (certifié)</author>
-  </item>
-  <item>
-     <title>Zone Vulnerable à la pollution par les Nitrates d'Origine Agricole </title>
-     <link>https://www.data.gouv.fr/fr/dataset/zone-vulnerable-a-la-pollution-par-les-nitrates-d-origine-agricole</link>
-     <description><![CDATA[La délimitation des zones vulnérables à la pollution par les nitrates d'origine agricole a été faite dans le cadre du décret n° 93-1038 du 27 août 1993, qui transcrit en droit français la directive n° 91/676/CEE. Cette délimitation, préparée dans chaque département et dans chaque région par des groupes de travail, associant divers services et organismes concernés ainsi que des représentants...]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
-  </item>
-  <item>
-     <title>Régions Françaises sur Twitter et Facebook</title>
-     <link>https://www.data.gouv.fr/fr/dataset/regions-francaises-sur-twitter-et-facebook</link>
-     <description><![CDATA[Liste des régions françaises (Alsace, Aquitaine, Auvergne, Bourgogne, Bretagne, Centre, Champagne-Ardenne, Corse, Franche-Comté, Guadeloupe, Guyane, Ile de France, Languedoc-Roussillon, Limousin, Lorraine, Martinique, Mayotte, Midi-Pyrénées, Nord-Pas-de-Calais, Basse-Normandie, Haute-Normandie, Pays-de-la-Loire, Picardie, Poitou-Charentes, Provence-Alpes-Côte d'Azur, La Réunion et Rhône-Alpes)...]]></description>
-     <author>Mapado</author>
-  </item>
-  <item>
-     <title>Périmètres de protection des points de prélèvement pour l'AEP </title>
-     <link>https://www.data.gouv.fr/fr/dataset/perimetres-de-protection-des-points-de-prelevement-pour-l-aep</link>
-     <description><![CDATA[Périmètres de protection des points de prélèvement au milieu naturel pour l'alimentation en eau potable. Positionnement des limites des périmètres de protection des points de prélèvements d'eau au milieu naturel en en vue de l'alimentation en eau potable de collectivités humaines (articles L 1321-2 et L1321-2-1 du code de la santé publique). Les limites de ces périmètres sont arrêtées...]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
   </item>
  </channel>
 </rss>
