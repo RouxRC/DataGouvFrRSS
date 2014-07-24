@@ -4,8 +4,26 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 24 Jul 2014 10:20:02 +0200</pubDate>
+  <pubDate>Thu, 24 Jul 2014 10:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Minima sociaux : la hausse du nombre d'allocataires s’accélère en 2012</title>
+     <link>https://www.data.gouv.fr/fr/dataset/minima-sociaux-la-hausse-du-nombre-d-allocataires-s-accelere-en-2012</link>
+     <description><![CDATA[Source : DREES, Études et résultats N°883 Auteurs : Mathieu Calvo La croissance du nombre de bénéficiaires de minima sociaux s’est accélérée en 2012, avec 4,4 % de hausse. Cela s’explique, notamment, par l’évolution du nombre de bénéficiaires du RSA (+6,2 %) et de l’ASS (+11,2 %). Au total, 3,8 millions de personnes perçoivent un des minima sociaux. ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
+  <item>
+     <title>Les enfants en soins de suite et de réadaptation en 2010</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-enfants-en-soins-de-suite-et-de-readaptation-en-2010</link>
+     <description><![CDATA[Source : DREES, Études et résultats N°861 Auteurs : Fabienne COQUELET et Hélène VALDELIÈVRE L’activité en soins de suite et de réadaptation (SSR) pour les enfants représente 5 % de l’activité globale de SSR. En 2010, 32 000 enfants de moins de 19 ans ont été pris en charge au cours de 73 000 séjours. Deux tiers de ces séjours sont effectués dans des établissements à but non lucratif. ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
+  <item>
+     <title>Les interruptions volontaires de grossesse en 2012</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-interruptions-volontaires-de-grossesse-en-2012</link>
+     <description><![CDATA[Source : DREES, Études et résultats N°884 Auteurs : Annick Vilain, avec la collaboration de Marie Claude Mouquet En 2012, près de 219 200 interruptions volontaires de grossesse ont été réalisées. Leur nombre est relativement stable depuis une dizaine d’années. Elles sont les plus fréquentes parmi les 20-24 ans et on constate une légère baisse parmi les moins de 20 ans. ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Troubles mentaux : quelles conséquences sur le maintien dans l’emploi ?</title>
      <link>https://www.data.gouv.fr/fr/dataset/troubles-mentaux-quelles-consequences-sur-le-maintien-dans-l-emploi</link>
@@ -347,24 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/populati-2</link>
      <description><![CDATA[Données relatives à la population ]]></description>
      <author>Mairie de Monacia d'Aullène (certifié)</author>
-  </item>
-  <item>
-     <title>politique publique et démocratie</title>
-     <link>https://www.data.gouv.fr/fr/dataset/politique-publique-et-democratie</link>
-     <description><![CDATA[Catégorie relative aux élections , délibérations , activité des services publics ]]></description>
-     <author>Mairie de Monacia d'Aullène (certifié)</author>
-  </item>
-  <item>
-     <title>Avis d'incidents dans les installations nucléaires</title>
-     <link>https://www.data.gouv.fr/fr/dataset/avis-d-incidents-dans-les-installations-nucleaires</link>
-     <description><![CDATA[Tentative d'aspiration des avis d'incidents dans les installations nucléaires : http://classique.asn.fr/index.php/Les-activites-controlees-par-l-ASN/Production-d-Electricite/Avis-d-incidents-dans-les-installations-nucleaires ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Servitudes d'Utilité Publique T5 aéronautique générateur </title>
-     <link>https://www.data.gouv.fr/fr/dataset/servitudes-d-utilite-publique-t5-aeronautique-generateur</link>
-     <description><![CDATA[Servitude de dégagement : servitude aéronautique instituée pour la protection de la circulation aérienne : Servitude aéronautique de dégagement et de balisage instituée en application des articles L. 281-1 et R. 241-1 à R. 243-3 du code de l'aviation civile. Nb: la servitude de balisage est décrite sous le code T4. On ne représente que l'enveloppe de la servitude et on renvoit vers un plan à...]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
   </item>
  </channel>
 </rss>
