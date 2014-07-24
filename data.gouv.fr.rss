@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 24 Jul 2014 15:20:02 +0200</pubDate>
+  <pubDate>Thu, 24 Jul 2014 15:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Hospitalisation de court séjour - Évolution des parts de marché</title>
+     <link>https://www.data.gouv.fr/fr/dataset/hospitalisation-de-court-sejour-evolution-des-parts-de-marc-0</link>
+     <description><![CDATA[Source : DREES, Études et résultats N°854 Auteurs : Franck EVAIN La mise en place de la tarification à l’activité dans le court séjour, en 2004, a incité les établissements de santé à améliorer leur efficience en développant leur activité tout en maîtrisant les coûts et les durées de séjour. L’enveloppe globale destinée au financement de ces établissements étant régulée via un objectif...]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Les salaires dans le secteur social et médico-social</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-salaires-dans-le-secteur-social-et-medico-social</link>
@@ -358,12 +364,6 @@
      <title>Postes de secours</title>
      <link>https://www.data.gouv.fr/fr/dataset/postes-de-secours</link>
      <description><![CDATA[Localisation géographique des postes de secours sur les plages ]]></description>
-     <author>Ville de Saint-Malo (certifié)</author>
-  </item>
-  <item>
-     <title>Zones de mouillages</title>
-     <link>https://www.data.gouv.fr/fr/dataset/zones-de-mouillages</link>
-     <description><![CDATA[Localisation géographique des zones de mouillages sur le littoral malouin ]]></description>
      <author>Ville de Saint-Malo (certifié)</author>
   </item>
  </channel>
