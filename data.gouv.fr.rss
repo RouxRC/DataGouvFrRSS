@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 24 Jul 2014 16:30:02 +0200</pubDate>
+  <pubDate>Thu, 24 Jul 2014 16:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Surveillance de la grossesse en 2010 : des inégalités socio-démographiques</title>
+     <link>https://www.data.gouv.fr/fr/dataset/surveillance-de-la-grossesse-en-2010-des-inegalites-socio-demographiques</link>
+     <description><![CDATA[Source : DREES, Études et résultats N°848 Auteurs : Annick VILAIN, Lucie GONZALEZ (Drees), Sylvie REY (Drees), Nicole MATET (DGS) et Béatrice BLONDEL (Inserm, U953) À partir de l’enquête nationale périnatale de 2010, cette étude analyse la surveillance prénatale des mères selon leurs caractéristiques socio-professionnelles, leur nationalité, leur âge et leur situation familiale. Elle confirme...]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Les bénéficiaires de l’allocation personnalisée d’autonomie à domicile et leurs ressources</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-beneficiaires-de-l-allocation-personnalisee-d-autonomie-a-domicile-et-leurs-ressources</link>
@@ -358,12 +364,6 @@
      <title>Evenements à Paris - Cibul</title>
      <link>https://www.data.gouv.fr/fr/dataset/evenements-a-paris-cibul-prs</link>
      <description><![CDATA[Cibul est une plateforme d'agendas sociaux, géolocalisés et Open Data. Les données de ce dataset sont extraites de l'API de http://developers.cibul.net/ Le jeu de données est mis à jour tous les jours à 08h00 ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Collections des bibliothèques et fonds spécialisés et patrimoniaux</title>
-     <link>https://www.data.gouv.fr/fr/dataset/collections-des-bibliotheques-et-fonds-specialises-et-patrimoniaux-prs</link>
-     <description><![CDATA[Extraction du catalogue des collections des bibliothèques et fonds patrimoniaux et spécialisés de la Ville de Paris, au 30 juin 2014, à l'exception de la base d'articles. Attention, les données peuvent avoir évolué depuis, elles ne sont pas dynamiques. Voir également http://bibliotheques-specialisees.paris.fr/ ]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
