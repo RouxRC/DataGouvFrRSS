@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 24 Jul 2014 15:10:02 +0200</pubDate>
+  <pubDate>Thu, 24 Jul 2014 15:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les salaires dans le secteur social et médico-social</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-salaires-dans-le-secteur-social-et-medico-social</link>
+     <description><![CDATA[Source : DREES, Études et résultats n° 879 Auteurs : Sandra Nahon En 2010, 6,7 % des actifs occupés, en France, travaillent dans le secteur social et médico-social. Ces salariés, principalement sur des postes peu qualifiés, sont en grande majorité des femmes, souvent à temps partiel. ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Multimédia expérimentaux</title>
      <link>https://www.data.gouv.fr/fr/dataset/multimedia-experimentaux</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/zones-de-mouillages</link>
      <description><![CDATA[Localisation géographique des zones de mouillages sur le littoral malouin ]]></description>
      <author>Ville de Saint-Malo (certifié)</author>
-  </item>
-  <item>
-     <title>Bénéficiaires de l'Allocation Personnalisée d'Autonomie (APA) pour personnes âgées dépendantes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/beneficiaires-de-l-allocation-personnalisee-d-autonomie-apa-pour-personnes-agees-dependantes</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees ]]></description>
-     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
   </item>
  </channel>
 </rss>
