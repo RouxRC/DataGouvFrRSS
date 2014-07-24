@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 24 Jul 2014 17:50:02 +0200</pubDate>
+  <pubDate>Thu, 24 Jul 2014 21:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Parents bénéficiaires de minima sociaux : comment concilier vie familiale et insertion professionnelle ?</title>
@@ -101,12 +101,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/les-salaires-dans-le-secteur-social-et-medico-social</link>
      <description><![CDATA[Source : DREES, Études et résultats n° 879 Auteurs : Sandra Nahon En 2010, 6,7 % des actifs occupés, en France, travaillent dans le secteur social et médico-social. Ces salariés, principalement sur des postes peu qualifiés, sont en grande majorité des femmes, souvent à temps partiel. ]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Multimédia expérimentaux</title>
-     <link>https://www.data.gouv.fr/fr/dataset/multimedia-experimentaux</link>
-     <description><![CDATA[http://www.jamendo.com/fr/artist/349389/diaenoxe Par ce lien, une description visuelle du monde futur par quelques schémas artistiques: https://www.flickr.com/photos/rivrain/sets/72157629653285706/with/7165896532/ ]]></description>
-     <author>citoyen</author>
   </item>
   <item>
      <title>Prévoir sa retraite : une personne sur cinq épargne</title>
@@ -364,6 +358,12 @@
      <title>Les 1000 titres les plus réservés dans les bibliothèques de prêt</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-1000-titres-les-plus-reserves-dans-les-bibliotheques-de-pret-prs</link>
      <description><![CDATA[Les 1000 références les plus réservées en 2014 au sein des bibliothèques municipales de la ville de Paris. La mise de ce jeu de données est semestrielle. En pièce jointe, vous trouverez le même fichier au format xls contenant les liens vers les oeuvres. ]]></description>
+     <author>Mairie de Paris (certifié)</author>
+  </item>
+  <item>
+     <title>Les 1000 titres les plus recherchés au catalogue des bibliothèques de prêt</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-1000-titres-les-plus-recherches-au-catalogue-des-bibliotheques-de-pret-prs</link>
+     <description><![CDATA[Les 1000 références les plus recherchées en 2014 au sein des bibliothèques municipales de la ville de Paris. La mise de ce jeu de données est semestrielle. En pièce jointe, vous trouverez le même fichier au format xls contenant les liens vers les oeuvres. ]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
