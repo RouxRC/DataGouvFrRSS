@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 24 Jul 2014 12:10:02 +0200</pubDate>
+  <pubDate>Thu, 24 Jul 2014 12:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les comptes de la protection sociale en France et en Europe</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-comptes-de-la-protection-sociale-en-france-et-en-europe</link>
+     <description><![CDATA[Source : DREES, Études et résultats N°856 Auteurs : Myriam MIKOU et Julie SOLARD En France, 2011 constitue une deuxième année de croissance modérée (+2,0 %) avant la stagnation du produit intérieur brut en 2012, dans un contexte de récession de l’Union européenne. La protection sociale semble moins bien jouer son rôle d’amortisseur économique en Europe, en raison de la durabilité de la crise...]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Troubles de la vision : sept adultes sur dix portent des lunettes</title>
      <link>https://www.data.gouv.fr/fr/dataset/troubles-de-la-vision-sept-adultes-sur-dix-portent-des-lunettes</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/emplacement-des-bureaux-de-vote</link>
      <description><![CDATA[Emplacement des 39 bureaux de vote de la commune, répartis sur 20 lieux de vote. ]]></description>
      <author>Ville de Saint-Malo (certifié)</author>
-  </item>
-  <item>
-     <title>Document PPRT sur le département du Haut-Rhin </title>
-     <link>https://www.data.gouv.fr/fr/dataset/document-pprt-sur-le-departement-du-haut-rhin</link>
-     <description><![CDATA[Liste des plans de prévention des risques technologiques du département du Haut-Rhin. ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
   </item>
  </channel>
 </rss>
