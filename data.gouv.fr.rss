@@ -4,23 +4,29 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 24 Jul 2014 10:40:02 +0200</pubDate>
+  <pubDate>Thu, 24 Jul 2014 10:50:03 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
-     <title>Minima sociaux : la hausse du nombre d'allocataires s’accélère en 2012</title>
-     <link>https://www.data.gouv.fr/fr/dataset/minima-sociaux-la-hausse-du-nombre-d-allocataires-s-accelere-en-2012</link>
+     <title>La prise en charge de la dépression dans les établissements de santé</title>
+     <link>https://www.data.gouv.fr/fr/dataset/la-prise-en-charge-de-la-depression-dans-les-etablissements-de-sante</link>
+     <description><![CDATA[Source : DREES, Études et résultats N°860 Auteurs : Magali COLDEFY et Clément NESTRIGUE (Irdes) Les pathologies psychiatriques et les psychotropes représentent 22,6 milliards de dépenses, soit 16 % des dépenses totales de santé en 2011 (Cnamts, 2013). La dépression est l’une des maladies psychiques les plus répandues en France, 3 millions de personnes en seraient affectées (Inpes, 2007). ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
+  <item>
+     <title>Minima sociaux : la hausse du nombre d'allocataires s’accélère</title>
+     <link>https://www.data.gouv.fr/fr/dataset/minima-sociaux-la-hausse-du-nombre-d-allocataires-s-accelere</link>
      <description><![CDATA[Source : DREES, Études et résultats N°883 Auteurs : Mathieu Calvo La croissance du nombre de bénéficiaires de minima sociaux s’est accélérée en 2012, avec 4,4 % de hausse. Cela s’explique, notamment, par l’évolution du nombre de bénéficiaires du RSA (+6,2 %) et de l’ASS (+11,2 %). Au total, 3,8 millions de personnes perçoivent un des minima sociaux. ]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
   <item>
-     <title>Les enfants en soins de suite et de réadaptation en 2010</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-enfants-en-soins-de-suite-et-de-readaptation-en-2010</link>
+     <title>Les enfants en soins de suite et de réadaptation</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-enfants-en-soins-de-suite-et-de-readaptation</link>
      <description><![CDATA[Source : DREES, Études et résultats N°861 Auteurs : Fabienne COQUELET et Hélène VALDELIÈVRE L’activité en soins de suite et de réadaptation (SSR) pour les enfants représente 5 % de l’activité globale de SSR. En 2010, 32 000 enfants de moins de 19 ans ont été pris en charge au cours de 73 000 séjours. Deux tiers de ces séjours sont effectués dans des établissements à but non lucratif. ]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
   <item>
-     <title>Les interruptions volontaires de grossesse en 2012</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-interruptions-volontaires-de-grossesse-en-2012</link>
+     <title>Les interruptions volontaires de grossesse</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-interruptions-volontaires-de-grossesse</link>
      <description><![CDATA[Source : DREES, Études et résultats N°884 Auteurs : Annick Vilain, avec la collaboration de Marie Claude Mouquet En 2012, près de 219 200 interruptions volontaires de grossesse ont été réalisées. Leur nombre est relativement stable depuis une dizaine d’années. Elles sont les plus fréquentes parmi les 20-24 ans et on constate une légère baisse parmi les moins de 20 ans. ]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/etude-aupres-de-jeunes-raccrocheurs-et-de-leurs-paren-0</link>
      <description><![CDATA[Dans le cadre de l’évaluation de la politique de lutte contre le décrochage scolaire, le SGMAP et l’institut BVA ont donné la parole aux bénéficiaires de la politique en réalisant, de février à mai 2014, 31 entretiens avec de jeunes « raccrocheurs » dans trois académies. Cette étude apporte un éclairage nouveau sur la décision de retourner en formation ou en emploi, le parcours de raccrochage,...]]></description>
      <author>Premier ministre (certifié)</author>
-  </item>
-  <item>
-     <title>Population </title>
-     <link>https://www.data.gouv.fr/fr/dataset/populati-2</link>
-     <description><![CDATA[Données relatives à la population ]]></description>
-     <author>Mairie de Monacia d'Aullène (certifié)</author>
   </item>
  </channel>
 </rss>
