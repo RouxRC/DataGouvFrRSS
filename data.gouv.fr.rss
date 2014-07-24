@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 24 Jul 2014 11:20:02 +0200</pubDate>
+  <pubDate>Thu, 24 Jul 2014 11:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les allocataires du minimum vieillesse : carrière passée et niveau de pension</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-allocataires-du-minimum-vieillesse-carriere-passee-et-niveau-de-pension</link>
+     <description><![CDATA[Source : DREES, Études et résultats N°857 Auteurs : Nadine BARTHÉLÉMY Quatre bénéficiaires sur cinq perçoivent une pension de droit direct mais ont eu, pour la plupart, une carrière incomplète. Ils partent souvent en retraite pour inaptitude au travail ou invalidité. Avec l’amélioration progressive de la couverture des régimes, la part des bénéficiaires qui ont eu une carrière complète,...]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>État de santé et renoncement aux soins des bénéficiaires du RSA</title>
      <link>https://www.data.gouv.fr/fr/dataset/etat-de-sante-et-renoncement-aux-soins-des-beneficiaires-du-rsa</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/programmation-rtl-01-01-2014-06-07-2014</link>
      <description><![CDATA[Tentative de construction d'une base de données décrivant la programmation de RTL à partir des fichiers XML des podcasts. ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Plan Local d'Urbanisme</title>
-     <link>https://www.data.gouv.fr/fr/dataset/plan-local-d-urbanisme</link>
-     <description><![CDATA[Documents du Plan Local d'Urbanisme voté en 2014 pour la commune de Nogent-sur-Marne. ]]></description>
-     <author>ACTION</author>
   </item>
  </channel>
 </rss>
