@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 24 Jul 2014 15:30:02 +0200</pubDate>
+  <pubDate>Thu, 24 Jul 2014 15:50:04 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>La situation économique et financière des cliniques privées à but lucratif</title>
+     <link>https://www.data.gouv.fr/fr/dataset/la-situation-economique-et-financiere-des-cliniques-privees-a-but-lucrat-0</link>
+     <description><![CDATA[Source : DREES, Études et résultats n° 878 Auteurs : Engin Yilmaz En 2012, la rentabilité nette des cliniques privées à but lucratif est estimée à 1,9 % de leur chiffre d’affaires. Elle baisse de 0,7 point par rapport à 2011, mais son niveau est proche de ceux observés au cours de la période 2008-2010. Le résultat net plus élevé obtenu en 2011 s’expliquait par des opérations de cessions...]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Hospitalisation de court séjour - Évolution des parts de marché</title>
      <link>https://www.data.gouv.fr/fr/dataset/hospitalisation-de-court-sejour-evolution-des-parts-de-marc-0</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/perimetres-de-protection-des-points-de-prelevement-pour-l-aep</link>
      <description><![CDATA[Périmètres de protection des points de prélèvement au milieu naturel pour l'alimentation en eau potable. Positionnement des limites des périmètres de protection des points de prélèvements d'eau au milieu naturel en en vue de l'alimentation en eau potable de collectivités humaines (articles L 1321-2 et L1321-2-1 du code de la santé publique). Les limites de ces périmètres sont arrêtées...]]></description>
      <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
-  </item>
-  <item>
-     <title>Postes de secours</title>
-     <link>https://www.data.gouv.fr/fr/dataset/postes-de-secours</link>
-     <description><![CDATA[Localisation géographique des postes de secours sur les plages ]]></description>
-     <author>Ville de Saint-Malo (certifié)</author>
   </item>
  </channel>
 </rss>
