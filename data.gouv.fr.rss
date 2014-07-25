@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 24 Jul 2014 21:50:02 +0200</pubDate>
+  <pubDate>Fri, 25 Jul 2014 10:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les médecins généralistes face au paiement à la performance et à la coopération avec les infirmiers</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-medecins-generalistes-face-au-paiement-a-la-performance-et-a-la-cooperation-avec-les-infirmiers</link>
+     <description><![CDATA[Source : DREES, Études et résultats N° 873 Auteurs : Sophie Massin, Alain Paraponaris, Marion Bernhard, Pierre Verger, Marie Cavillon, Fanny Mikol, Bruno Ventelou Les conditions d’exercice de la médecine générale connaissent des évolutions importantes. Le paiement à la performance, généralisé depuis 2012, et la coopération avec les infirmiers, pratique encore à un stade essentiellement...]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Parents bénéficiaires de minima sociaux : comment concilier vie familiale et insertion professionnelle ?</title>
      <link>https://www.data.gouv.fr/fr/dataset/parents-beneficiaires-de-minima-sociaux-comment-concilier-vie-familiale-et-insertion-professionnelle</link>
@@ -358,12 +364,6 @@
      <title>Les 1000 titres les plus réservés dans les bibliothèques de prêt</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-1000-titres-les-plus-reserves-dans-les-bibliotheques-de-pret-prs</link>
      <description><![CDATA[Les 1000 références les plus réservées en 2014 au sein des bibliothèques municipales de la ville de Paris. La mise de ce jeu de données est semestrielle. En pièce jointe, vous trouverez le même fichier au format xls contenant les liens vers les oeuvres. ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Les 1000 titres les plus recherchés au catalogue des bibliothèques de prêt</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-1000-titres-les-plus-recherches-au-catalogue-des-bibliotheques-de-pret-prs</link>
-     <description><![CDATA[Les 1000 références les plus recherchées en 2014 au sein des bibliothèques municipales de la ville de Paris. La mise de ce jeu de données est semestrielle. En pièce jointe, vous trouverez le même fichier au format xls contenant les liens vers les oeuvres. ]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
