@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 25 Jul 2014 11:40:02 +0200</pubDate>
+  <pubDate>Fri, 25 Jul 2014 11:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Distance d'accès aus spécialistes</title>
+     <link>https://www.data.gouv.fr/fr/dataset/distance-d-acces-aus-specialistes</link>
+     <description><![CDATA[Distance d'accès au praticien (en minutes) Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Snir, Insee, Irdes. Les calculs des distances ont été effectués avec le logiciel de calcul des distances routières "Distancier Odomatrix - INRA, UMR1041 CESAER" développé par l'Inra en collaboration avec le Certu et l'Insee ]]></description>
+     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+  </item>
+  <item>
+     <title>La hausse du nombre d’allocataires des minima sociaux se poursuit</title>
+     <link>https://www.data.gouv.fr/fr/dataset/la-hausse-du-nombre-d-allocataires-des-minima-sociaux-se-poursuit</link>
+     <description><![CDATA[Source : DREES, Études et résultats N°844 Auteurs : Anne LEGAL Fin 2011, 3,7 millions de personnes sont allocataires de l’un des neuf minima sociaux. Cela constitue une hausse de 2,4 % en 2011, après celle de 2,5 % en 2010. En incluant les conjoints et les enfants à charge, 10,0 % de la population française est couverte par les minima sociaux. ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Échec et retard scolaire des enfants hébergés par l’aide sociale à l’enfance</title>
      <link>https://www.data.gouv.fr/fr/dataset/echec-et-retard-scolaire-des-enfants-heberges-par-l-aide-sociale-a-l-enfance</link>
@@ -353,18 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/cnil-les-deliberations</link>
      <description><![CDATA[Toutes les délibérations de la CNIL depuis l'origine, la première délibération ayant été rendue en 1979. Les modalités de publicité des actes de la commission sont actuellement fixées par la loi n° 78-17 du 6 janvier 1978, par son décret d’application ainsi que son règlement intérieur, soit en dernier lieu par la délibération n° 2013-175 du 4 juillet 2013. Les délibérations adoptées entre...]]></description>
      <author>Premier ministre (certifié)</author>
-  </item>
-  <item>
-     <title>CONSTIT: les décisions du Conseil constitutionnel </title>
-     <link>https://www.data.gouv.fr/fr/dataset/constit-les-decisions-du-conseil-constitutionnel</link>
-     <description><![CDATA[Il comprend les références de toutes les décisions du Conseil constitutionnel depuis sa création en 1958 et ces mêmes décisions en texte intégral selon le tableau suivant : Contentieux des normes Décisions constitutionnelles ( DC) depuis l'origine (1958), Question prioritaire de constitutionnalité ( QPC) depuis l'origine (2010), Contrôle des lois ( LP) du pays ( Nouvelle calédonie et...]]></description>
-     <author>Premier ministre (certifié)</author>
-  </item>
-  <item>
-     <title>Tableau FINESS Entités Juridiques</title>
-     <link>https://www.data.gouv.fr/fr/dataset/tableau-finess-entites-juridiques</link>
-     <description><![CDATA[Ce classeur Excel 2010 reprend les données de l'extrait au format UNL de la base FINESS des Entités juridiques du 5 Mai 2014 Les données de la colonne "Ligne d'acheminement" de l'onglet "FINESS EJ 2014-05-05" ont été atomisées dans les colonnes de "Code postal" et "Libellé commune" de l'onglet intitulé "FINESS EJ 2014-05-05 Code commune" Une page "Statistiques" est en cours de création ]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
