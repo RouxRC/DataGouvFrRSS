@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 25 Jul 2014 14:40:02 +0200</pubDate>
+  <pubDate>Fri, 25 Jul 2014 15:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>La longue diminution des appendicectomies en France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/la-longue-diminution-des-appendicectomies-en-france</link>
+     <description><![CDATA[Source : DREES, Études et résultats N° 868 Auteurs : Philippe Oberlin, Marie-Claude Mouquet En 2012, 83 400 appendicectomies étaient pratiquées en France. Leur nombre a fortement diminué depuis les années 1980 où il était estimé à plus de 300 000. Cette baisse n’a pas concerné les interventions pour péritonites ou abcès appendiculaires, formes graves de l’appendicite aiguë, qui sont restées...]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Le temps consacré aux activités parentales</title>
      <link>https://www.data.gouv.fr/fr/dataset/le-temps-consacre-aux-activites-parentales</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/fichier-associations-publie-par-la-dila-reformate</link>
      <description><![CDATA[Les données ''ASSOCIATIONS'' proviennent du jeu de données publié par la DILA sur https://www.data.gouv.fr/fr/dataset/associations Elles ont été remise au format CSV pour faciliter leur réutilisation. Un fichier CSV reprends les publications annuelles au JOAFE. La transformation XML &gt; CSV est faite à l'aide de XSLT. La stylesheet utilisée est disponible sur github ainsi que le script pour...]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>JORF: les données de l'édition ''Lois et décrets'' du Journal officiel </title>
-     <link>https://www.data.gouv.fr/fr/dataset/jorf-les-donnees-de-l-edition-lois-et-decrets-du-journal-officiel</link>
-     <description><![CDATA[Le fonds documentaire des documents publiés dans l'édition " Lois et décrets " du Journal officiel depuis 1990 est constitué : des lois, ordonnances, décrets, arrêtés et circulaires des décisions émanant d'institutions ou de juridictions qui doivent être publiés au Journal officiel (Conseil constitutionnel, Conseil supérieur de l'audiovisuel, Autorité de régulation des...]]></description>
-     <author>Premier ministre (certifié)</author>
   </item>
  </channel>
 </rss>
