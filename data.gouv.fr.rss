@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 25 Jul 2014 11:20:02 +0200</pubDate>
+  <pubDate>Fri, 25 Jul 2014 11:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Échec et retard scolaire des enfants hébergés par l’aide sociale à l’enfance</title>
+     <link>https://www.data.gouv.fr/fr/dataset/echec-et-retard-scolaire-des-enfants-heberges-par-l-aide-sociale-a-l-enfance</link>
+     <description><![CDATA[Source : DREES, Études et résultats N°845 Auteur :Thierry MAINAUD La situation familiale ou sociale difficile vécue par les enfants placés dans les établissements de l’aide sociale à l’enfance (ASE) influe sur leur scolarité. Ces enfants connaissent des situations de déscolarisation, notamment l’année où survient le placement. À 15 ans, ils sont trois fois plus nombreux dans cette situation...]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>La prise en charge en médecine générale des personnes âgées dépendantes vivant à domicile</title>
      <link>https://www.data.gouv.fr/fr/dataset/la-prise-en-charge-en-medecine-generale-des-personnes-agees-dependantes-vivant-a-domicile</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/tableau-finess-entites-juridiques</link>
      <description><![CDATA[Ce classeur Excel 2010 reprend les données de l'extrait au format UNL de la base FINESS des Entités juridiques du 5 Mai 2014 Les données de la colonne "Ligne d'acheminement" de l'onglet "FINESS EJ 2014-05-05" ont été atomisées dans les colonnes de "Code postal" et "Libellé commune" de l'onglet intitulé "FINESS EJ 2014-05-05 Code commune" Une page "Statistiques" est en cours de création ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Bénéficiaires de l'aide sociale à l'hébergement et places d'hébergement pour personnes âgées</title>
-     <link>https://www.data.gouv.fr/fr/dataset/beneficiaires-de-l-aide-sociale-a-l-hebergement-et-places-d-hebergement-pour-personnes-agees</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees, Statiss ]]></description>
-     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
   </item>
  </channel>
 </rss>
