@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 25 Jul 2014 10:50:02 +0200</pubDate>
+  <pubDate>Fri, 25 Jul 2014 11:00:03 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les dépenses d’aide sociale départementale</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-depenses-d-aide-sociale-departementale</link>
+     <description><![CDATA[Source : DREES, Études et résultats N° 870 Auteurs : Elise Amar En 2012, les dépenses totales nettes d’aide sociale des conseils généraux s’élèvent à 32,6 milliards d’euros en France, dont 30,8 milliards en France métropolitaine, soit une hausse en euros constants de 1,2 % par rapport à 2011 et de 12,5 % depuis 2008. ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Les conditions de vie des bénéficiaires de minima sociaux : privations et difficultés financières</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-conditions-de-vie-des-beneficiaires-de-minima-sociaux-privations-et-difficultes-financieres</link>
@@ -358,12 +364,6 @@
      <title>Les titres les plus prêtés dans les bibliothèques de prêt</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-titres-les-plus-pretes-dans-les-bibliotheques-de-pret-prs</link>
      <description><![CDATA[Les 1000 références les plus empruntées en 2014 au sein des bibliothèques municipales de la ville de Paris.  Attention, les nombres d'exemplaires ne sont pas indiqués, mais jouent un rôle important. Ainsi les titres jeunesse sont présents en nombre d'exemplaires très élevé, ce qui explique la prédominance de ces titres dans la liste. La mise de ce jeu de données est semestrielle. En pièce...]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Accidentologie</title>
-     <link>https://www.data.gouv.fr/fr/dataset/accidentologie-prs</link>
-     <description><![CDATA[Elements d'accidentologie de Paris. Intitulés des colonnes:  Carac = Caractéristiques ;  Com = Commune (nombre à 3 chiffres, composé du 1 [pour paris] et suivi du numéro de l’arrondissement) ;  Carr = carrefour ;  Segm = segment de voie ;  NomV = nom de voie ;  Vehi1 = véhicule 1 ;  CAdmin = catégorie administrative du véhciules,  LVeh = lettre...]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
