@@ -4,8 +4,26 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 25 Jul 2014 11:00:03 +0200</pubDate>
+  <pubDate>Fri, 25 Jul 2014 11:10:03 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Santé bucco-dentaire des enfants : des inégalités dès le plus jeune âge</title>
+     <link>https://www.data.gouv.fr/fr/dataset/sante-bucco-dentaire-des-enfants-des-inegalites-des-le-plus-jeune-a-0</link>
+     <description><![CDATA[Source : DREES, Études et résultats N°847 Auteurs : Lucie CALVET, Muriel MOISY, Olivier CHARDON, Lucie GONZALEZ et Nathalie GUIGNON La santé bucco-dentaire des enfants s’est nettement améliorée ces vingt dernières années. Cependant, des inégalités sociales de recours aux soins et de santé demeurent : 9 enfants de cadres âgés de 6 ans sur 10 n’ont jamais eu de caries contre 7 enfants...]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
+  <item>
+     <title>Santé bucco-dentaire des enfants : des inégalités dès le plus jeune âge</title>
+     <link>https://www.data.gouv.fr/fr/dataset/sante-bucco-dentaire-des-enfants-des-inegalites-des-le-plus-jeune-age</link>
+     <description><![CDATA[Source : DREES, Études et résultats N°847 Auteurs : Lucie CALVET, Muriel MOISY, Olivier CHARDON, Lucie GONZALEZ et Nathalie GUIGNON La santé bucco-dentaire des enfants s’est nettement améliorée ces vingt dernières années. Cependant, des inégalités sociales de recours aux soins et de santé demeurent : 9 enfants de cadres âgés de 6 ans sur 10 n’ont jamais eu de caries contre 7 enfants...]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
+  <item>
+     <title>Établissements de santé : le personnel soignant de plus en plus âgé</title>
+     <link>https://www.data.gouv.fr/fr/dataset/etablissements-de-sante-le-personnel-soignant-de-plus-en-plus-age</link>
+     <description><![CDATA[Source : DREES, Études et résultats N°846 Auteurs : Élodie KRANKLADER, Christelle MINODIER et Nathalie FOURCADE Le personnel non médical des établissements de santé en France est relativement âgé, en particulier le personnel non soignant, parmi lequel les 50 ans et plus sont davantage représentés. Les structures d’âge des sages-femmes et professions non médicales soignantes sont plutôt...]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Les dépenses d’aide sociale départementale</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-depenses-d-aide-sociale-departementale</link>
@@ -347,24 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/thematique-transparence-de-la-vie-publique</link>
      <description><![CDATA[La plate-forme data.gouv.fr accueille des jeux de données qui concourent à une plus grande transparence de la vie publique, et notamment: les comptes des partis et groupements politiques (publiés par la Commission Nationale des Comptes de Campagne et des Financements Politiques), la liste des déclarations et appréciations sur le patrimoine des Ministre (publiée par la Haute...]]></description>
      <author>data.gouv.fr (certifié)</author>
-  </item>
-  <item>
-     <title>A supprimer</title>
-     <link>https://www.data.gouv.fr/fr/dataset/a-supprim-2</link>
-     <description><![CDATA[A supprimer ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Programmation de France Culture 01-02-2014/29-06-2014 </title>
-     <link>https://www.data.gouv.fr/fr/dataset/programmation-de-france-culture-01-02-2014-29-06-2014</link>
-     <description><![CDATA[Tentative de construction d'une base de données décrivant la programmation de France Culture à partir des fichiers XML des podcasts. ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Les titres les plus prêtés dans les bibliothèques de prêt</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-titres-les-plus-pretes-dans-les-bibliotheques-de-pret-prs</link>
-     <description><![CDATA[Les 1000 références les plus empruntées en 2014 au sein des bibliothèques municipales de la ville de Paris.  Attention, les nombres d'exemplaires ne sont pas indiqués, mais jouent un rôle important. Ainsi les titres jeunesse sont présents en nombre d'exemplaires très élevé, ce qui explique la prédominance de ces titres dans la liste. La mise de ce jeu de données est semestrielle. En pièce...]]></description>
-     <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
 </rss>
