@@ -4,8 +4,26 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 25 Jul 2014 15:40:02 +0200</pubDate>
+  <pubDate>Fri, 25 Jul 2014 15:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Qualité et accessibilité des soins de santé : qu’en pensent les Français ?</title>
+     <link>https://www.data.gouv.fr/fr/dataset/qualite-et-accessibilite-des-soins-de-sante-qu-en-pensent-les-francais</link>
+     <description><![CDATA[Source : DREES, Études et résultats N° 866 Auteurs : Rosalinda Coppoletta et Vincent Le Palud Les Français sont plutôt satisfaits de la qualité générale des soins de santé, par rapport à leurs voisins européens. Selon le Baromètre d’opinion de la DREES, cet avis est néanmoins contrasté selon les types de soins. ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
+  <item>
+     <title>Les motivations de départ à la retraite : stabilité</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-motivations-de-depart-a-la-retraite-stabilite</link>
+     <description><![CDATA[Source : DREES, Études et résultats N°838 Auteurs : Nadine BARTHÉLÉMY, Mehdi MAMACHE, Samia BENALLAH Interrogés en 2012 sur leurs motivations de départ, la majorité des nouveaux retraités qui ont liquidé une pension au régime général entre le 1er juillet 2010 et le 30 juin 2011 sont partis dès que possible, en général dès l’atteinte d’une pension à taux plein, afin de profiter le plus...]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
+  <item>
+     <title>Les spécificités régionales des modes de garde déclarés des enfants de moins de 3 ans</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-specificites-regionales-des-modes-de-garde-declares-des-enfants-de-moins-de-3-ans</link>
+     <description><![CDATA[Source : DREES, Études et résultats N°839 Auteur : Marie ACS En janvier 2011, 2,3 millions d’enfants de moins de 3 ans vivent en France métropolitaine. Dans toutes les régions, à l’exception des Pays de la Loire, les parents déclarent le plus souvent garder eux-mêmes leur enfant en semaine dans la journée, en dehors de l’école s’il y va. ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>L’offre d’accueil des enfants de moins de trois ans</title>
      <link>https://www.data.gouv.fr/fr/dataset/l-offre-d-accueil-des-enfants-de-moins-de-trois-ans</link>
@@ -346,24 +364,6 @@
      <title>Centres de planification et d'éducation familiale</title>
      <link>https://www.data.gouv.fr/fr/dataset/centres-de-planification-et-d-education-familiale</link>
      <description><![CDATA[Liste, coordonnées et horaires d'ouverture des centres de planification et d'éducation familiale. ]]></description>
-     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
-  </item>
-  <item>
-     <title>Bailleurs sociaux</title>
-     <link>https://www.data.gouv.fr/fr/dataset/bailleurs-sociaux</link>
-     <description><![CDATA[Liste et coordonnées des bailleurs sociaux en Saône-et-Loire. ]]></description>
-     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
-  </item>
-  <item>
-     <title>Communes éligibles au très haut débit</title>
-     <link>https://www.data.gouv.fr/fr/dataset/communes-eligibles-au-tres-haut-debit</link>
-     <description><![CDATA[Aménagement numérique du territoire : liste des 93 communes éligibles à l'appel à projet pour la couverture du très haut débit en Saône-et-Loire. ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Annuaire des communes et des intercommunalités</title>
-     <link>https://www.data.gouv.fr/fr/dataset/annuaire-des-communes-et-des-intercommunalites</link>
-     <description><![CDATA[Annuaires des communes et des intercommunalités de Saône-et-Loire (PDF). Découvrez également l'espace cartographie du Département : http://www.cg71.fr/le-departement/le-territoire/cartographie/# ]]></description>
      <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
   </item>
  </channel>
