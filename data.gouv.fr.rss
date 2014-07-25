@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 25 Jul 2014 15:50:02 +0200</pubDate>
+  <pubDate>Fri, 25 Jul 2014 18:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Encours des créances de la France sur les États étrangers au 31 décembre 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/encours-des-creances-de-la-france-sur-les-etats-etrangers-au-31-decembre-2013</link>
+     <description><![CDATA[Il s’agit des encours des créances détenues soit par l’État directement (via la Banque de France), soit par l’Agence Française de Développement, soit par Coface et Natixis pour le compte de l’État. Sont incluses dans les encours présentés toutes les créances dont le débiteur est soit souverain, soit appartient au secteur public d’un État étranger. ]]></description>
+     <author>Ministère des finances et des comptes publics (certifié)</author>
+  </item>
   <item>
      <title>Qualité et accessibilité des soins de santé : qu’en pensent les Français ?</title>
      <link>https://www.data.gouv.fr/fr/dataset/qualite-et-accessibilite-des-soins-de-sante-qu-en-pensent-les-francais</link>
@@ -358,12 +364,6 @@
      <title>Bilan carbone du Département de Saône-et-Loire</title>
      <link>https://www.data.gouv.fr/fr/dataset/bilan-carbone-du-departement-de-saone-et-loire</link>
      <description><![CDATA[Emissions de gaz à effet de serre (en tonnes équivalent CO2) par poste et catégorie d'émission. ]]></description>
-     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
-  </item>
-  <item>
-     <title>Centres de planification et d'éducation familiale</title>
-     <link>https://www.data.gouv.fr/fr/dataset/centres-de-planification-et-d-education-familiale</link>
-     <description><![CDATA[Liste, coordonnées et horaires d'ouverture des centres de planification et d'éducation familiale. ]]></description>
      <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
   </item>
  </channel>
