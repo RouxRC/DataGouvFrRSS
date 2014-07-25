@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 25 Jul 2014 10:40:02 +0200</pubDate>
+  <pubDate>Fri, 25 Jul 2014 10:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les conditions de vie des bénéficiaires de minima sociaux : privations et difficultés financières</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-conditions-de-vie-des-beneficiaires-de-minima-sociaux-privations-et-difficultes-financieres</link>
+     <description><![CDATA[Source : DREES, Études et résultats N° 871 Auteurs : Audrey Isel À la fin 2012, plus de la moitié des bénéficiaires de minima sociaux sont pauvres en conditions de vie. Ils sont plus touchés par cette forme de pauvreté que les personnes aux revenus modestes. ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Les conditions de logement des bénéficiaires de minima sociaux : difficultés d’accès, surpeuplement et contraintes budgétaires</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-conditions-de-logement-des-beneficiaires-de-minima-sociaux-difficultes-d-acces-surpeuplement-et-</link>
@@ -358,12 +364,6 @@
      <title>Accidentologie</title>
      <link>https://www.data.gouv.fr/fr/dataset/accidentologie-prs</link>
      <description><![CDATA[Elements d'accidentologie de Paris. Intitulés des colonnes:  Carac = Caractéristiques ;  Com = Commune (nombre à 3 chiffres, composé du 1 [pour paris] et suivi du numéro de l’arrondissement) ;  Carr = carrefour ;  Segm = segment de voie ;  NomV = nom de voie ;  Vehi1 = véhicule 1 ;  CAdmin = catégorie administrative du véhciules,  LVeh = lettre...]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Stations Vélib - Disponibilités en temps réel</title>
-     <link>https://www.data.gouv.fr/fr/dataset/stations-velib-disponibilites-en-temps-reel-prs</link>
-     <description><![CDATA[Ce jeu de données donne les disponibilités en temps réel des stations Vélib. La mise à jour est faite à la minute. Pour avoir accès aux données Velib en direct, accédez à l'API velib à  https://developer.jcdecaux.com/ ]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
