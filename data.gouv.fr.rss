@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 25 Jul 2014 10:30:02 +0200</pubDate>
+  <pubDate>Fri, 25 Jul 2014 10:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les conditions de logement des bénéficiaires de minima sociaux : difficultés d’accès, surpeuplement et contraintes budgétaires</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-conditions-de-logement-des-beneficiaires-de-minima-sociaux-difficultes-d-acces-surpeuplement-et-</link>
+     <description><![CDATA[Source : DREES, Études et résultats N° 872 Auteurs : Mathieu Calvo et Anne Legal À la fin 2012, plus du tiers des bénéficiaires de minima sociaux sont locataires du secteur social. Parallèlement, environ un quart ne dispose pas de son propre logement : 18 % sont hébergés par des proches ou occupent un logement prêté (contre 4 % des personnes du premier quintile de niveau de vie), 2 % vivent...]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Les médecins généralistes face au paiement à la performance et à la coopération avec les infirmiers</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-medecins-generalistes-face-au-paiement-a-la-performance-et-a-la-cooperation-avec-les-infirmie-0</link>
@@ -358,12 +364,6 @@
      <title>Stations Vélib - Disponibilités en temps réel</title>
      <link>https://www.data.gouv.fr/fr/dataset/stations-velib-disponibilites-en-temps-reel-prs</link>
      <description><![CDATA[Ce jeu de données donne les disponibilités en temps réel des stations Vélib. La mise à jour est faite à la minute. Pour avoir accès aux données Velib en direct, accédez à l'API velib à  https://developer.jcdecaux.com/ ]]></description>
-     <author>Mairie de Paris (certifié)</author>
-  </item>
-  <item>
-     <title>Tous les documents des bibliothèques de prêt (février 2014)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/tous-les-documents-des-bibliotheques-de-pret-fevrier-2014-prs</link>
-     <description><![CDATA[Toutes les collections des bibliothèques de prêt, telles qu'elles étaient en février 2014. Plus de 800 000 titres sont référencés. Attention les données peuvent avoir évolué depuis, elles ne sont pas dynamiques Le jeu de données comprend de nombreuses données sauf les résumés et les mots clés sujet ]]></description>
      <author>Mairie de Paris (certifié)</author>
   </item>
  </channel>
