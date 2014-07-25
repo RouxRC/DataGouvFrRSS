@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 25 Jul 2014 12:00:02 +0200</pubDate>
+  <pubDate>Fri, 25 Jul 2014 12:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les durées d’assurance validées par les actifs pour leur retraite</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-durees-d-assurance-validees-par-les-actifs-pour-leur-retraite</link>
+     <description><![CDATA[Source : DREES, Études et résultats N°842 Auteur : Laurianne SALEMBIER La durée d’assurance validée par les actifs à 30 ans est plus faible pour les jeunes générations, du fait de l’allongement de la durée des études et des difficultés d’insertion sur le marché de l’emploi. Néanmoins, la génération 1978, entrée dans la vie active dans un contexte économique assez favorable, valide un peu plus...]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Les interruptions volontaires de grossesse</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-interruptions-volontaires-de-grosses-0</link>
@@ -13,8 +19,8 @@
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
   <item>
-     <title>Distance d'accès aus spécialistes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/distance-d-acces-aus-specialistes</link>
+     <title>Distance d'accès à plusieurs spécialités médicales</title>
+     <link>https://www.data.gouv.fr/fr/dataset/distance-d-acces-a-plusieurs-specialites-medicales</link>
      <description><![CDATA[Distance d'accès au praticien (en minutes) Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Snir, Insee, Irdes. Les calculs des distances ont été effectués avec le logiciel de calcul des distances routières "Distancier Odomatrix - INRA, UMR1041 CESAER" développé par l'Inra en collaboration avec le Certu et l'Insee ]]></description>
      <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
   </item>
@@ -358,12 +364,6 @@
      <title>COMPTES ASSOCIATIONS </title>
      <link>https://www.data.gouv.fr/fr/dataset/comptes-associations</link>
      <description><![CDATA[Les comptes annuels des associations, fondations et fonds de dotation. ]]></description>
-     <author>Premier ministre (certifié)</author>
-  </item>
-  <item>
-     <title>ASSOCIATIONS</title>
-     <link>https://www.data.gouv.fr/fr/dataset/associations</link>
-     <description><![CDATA[Les données ''ASSOCIATIONS'' sont extraites du JOAFE ( JOURNAL OFFICIEL DES ASSOCIATIONS ET FONDATIONS D'ENTREPRISE) Le Journal officiel des associations, associations syndicales de propriétaires et fondations d’entreprise publie : Les déclarations de création, modification ou dissolution des associations régies par la loi de 1901,associations syndicales de propriétaires et fondations...]]></description>
      <author>Premier ministre (certifié)</author>
   </item>
  </channel>
