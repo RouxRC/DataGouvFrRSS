@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 25 Jul 2014 18:10:02 +0200</pubDate>
+  <pubDate>Fri, 25 Jul 2014 19:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>La santé des adolescents scolarisés en classe de troisième</title>
+     <link>https://www.data.gouv.fr/fr/dataset/la-sante-des-adolescents-scolarises-en-classe-de-troisieme</link>
+     <description><![CDATA[Source : DREES, Études et résultats N° 865 Auteurs : Olivier Chardon et Nathalie Guignon, avec la collaboration de Jean-Paul Guthmann, Laure Fonteneau et Marie-Christine Delmas En 2009, parmi les adolescents scolarisés en classe de troisième, 18 % sont en surcharge pondérale dont 4 % en situation d’obésité. ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Encours des créances de la France sur les États étrangers au 31 décembre 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/encours-des-creances-de-la-france-sur-les-etats-etrangers-au-31-decembre-2013</link>
@@ -358,12 +364,6 @@
      <title>Prix de l'assainissement collectif</title>
      <link>https://www.data.gouv.fr/fr/dataset/prix-de-l-assainissement-collectif</link>
      <description><![CDATA[Ce fichier présente le recueil des prix de l'assainissement collectif par collectivité compétente (commune ou syndicat intercommunal). Le prix est décomposé selon les parts fixes et variables et ensuite recalculé pour une consommation type de 120 m3 par an. A noter que seul le prix des tranches inférieures ou égales à 120 m3 est indiqué, des données peuvent donc manquer pour calculer un prix...]]></description>
-     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
-  </item>
-  <item>
-     <title>Bilan carbone du Département de Saône-et-Loire</title>
-     <link>https://www.data.gouv.fr/fr/dataset/bilan-carbone-du-departement-de-saone-et-loire</link>
-     <description><![CDATA[Emissions de gaz à effet de serre (en tonnes équivalent CO2) par poste et catégorie d'émission. ]]></description>
      <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
   </item>
  </channel>
