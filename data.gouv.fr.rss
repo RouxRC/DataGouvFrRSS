@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 25 Jul 2014 11:10:03 +0200</pubDate>
+  <pubDate>Fri, 25 Jul 2014 11:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>La prise en charge en médecine générale des personnes âgées dépendantes vivant à domicile</title>
+     <link>https://www.data.gouv.fr/fr/dataset/la-prise-en-charge-en-medecine-generale-des-personnes-agees-dependantes-vivant-a-domicile</link>
+     <description><![CDATA[Source : DREES, Études et résultats N° 869 Auteurs : Jean-François Buyck, Bénédicte Casteran-Sacreste, Marie Cavillon Françoise Lelièvre, François Tuffreau, Fanny Mikol La prise en charge et le maintien à domicile des personnes âgées en situation de dépendance sont des problématiques auxquelles les médecins généralistes sont régulièrement confrontés : la quasi-totalité de ces praticiens...]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Santé bucco-dentaire des enfants : des inégalités dès le plus jeune âge</title>
      <link>https://www.data.gouv.fr/fr/dataset/sante-bucco-dentaire-des-enfants-des-inegalites-des-le-plus-jeune-a-0</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/beneficiaires-de-l-aide-sociale-a-l-hebergement-et-places-d-hebergement-pour-personnes-agees</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees, Statiss ]]></description>
      <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Thématique: transparence de la vie publique</title>
-     <link>https://www.data.gouv.fr/fr/dataset/thematique-transparence-de-la-vie-publique</link>
-     <description><![CDATA[La plate-forme data.gouv.fr accueille des jeux de données qui concourent à une plus grande transparence de la vie publique, et notamment: les comptes des partis et groupements politiques (publiés par la Commission Nationale des Comptes de Campagne et des Financements Politiques), la liste des déclarations et appréciations sur le patrimoine des Ministre (publiée par la Haute...]]></description>
-     <author>data.gouv.fr (certifié)</author>
   </item>
  </channel>
 </rss>
