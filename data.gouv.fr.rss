@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 25 Jul 2014 12:10:02 +0200</pubDate>
+  <pubDate>Fri, 25 Jul 2014 14:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Le temps consacré aux activités parentales</title>
+     <link>https://www.data.gouv.fr/fr/dataset/le-temps-consacre-aux-activites-parentales</link>
+     <description><![CDATA[Source : DREES, Études et résultats N°841 Auteurs : Thibaut DE SAINT POL, Mathilde BOUCHARDON En France métropolitaine, le temps consacré aux enfants reste très inégalement réparti entre hommes et femmes. Avec une heure et demie quotidienne, les mères consacrent en moyenne deux fois plus de temps aux activités que les pères. Les activités pratiquées ne sont pas les mêmes et sont réparties...]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Les durées d’assurance validées par les actifs pour leur retraite</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-durees-d-assurance-validees-par-les-actifs-pour-leur-retraite</link>
@@ -358,12 +364,6 @@
      <title>JORF: les données de l'édition ''Lois et décrets'' du Journal officiel </title>
      <link>https://www.data.gouv.fr/fr/dataset/jorf-les-donnees-de-l-edition-lois-et-decrets-du-journal-officiel</link>
      <description><![CDATA[Le fonds documentaire des documents publiés dans l'édition " Lois et décrets " du Journal officiel depuis 1990 est constitué : des lois, ordonnances, décrets, arrêtés et circulaires des décisions émanant d'institutions ou de juridictions qui doivent être publiés au Journal officiel (Conseil constitutionnel, Conseil supérieur de l'audiovisuel, Autorité de régulation des...]]></description>
-     <author>Premier ministre (certifié)</author>
-  </item>
-  <item>
-     <title>COMPTES ASSOCIATIONS </title>
-     <link>https://www.data.gouv.fr/fr/dataset/comptes-associations</link>
-     <description><![CDATA[Les comptes annuels des associations, fondations et fonds de dotation. ]]></description>
      <author>Premier ministre (certifié)</author>
   </item>
  </channel>
