@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 26 Jul 2014 11:20:02 +0200</pubDate>
+  <pubDate>Sat, 26 Jul 2014 11:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Répartition géographique des reclassements 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/repartition-geographique-des-reclassements-2013</link>
+     <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf ]]></description>
+     <author>Ministère de la Défense (certifié)</author>
+  </item>
+  <item>
+     <title>Taux de reclassement 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/taux-de-reclassement-2013</link>
+     <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf ]]></description>
+     <author>Ministère de la Défense (certifié)</author>
+  </item>
   <item>
      <title>Indemnisation chômage des militaires 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/indemnisation-chomage-des-militaires-2013</link>
@@ -352,18 +364,6 @@
      <title>La prise en charge de la dépression dans les établissements de santé</title>
      <link>https://www.data.gouv.fr/fr/dataset/la-prise-en-charge-de-la-depression-dans-les-etablissements-de-sante</link>
      <description><![CDATA[Source : DREES, Études et résultats N°860 Auteurs : Magali COLDEFY et Clément NESTRIGUE (Irdes) Les pathologies psychiatriques et les psychotropes représentent 22,6 milliards de dépenses, soit 16 % des dépenses totales de santé en 2011 (Cnamts, 2013). La dépression est l’une des maladies psychiques les plus répandues en France, 3 millions de personnes en seraient affectées (Inpes, 2007). ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Minima sociaux : la hausse du nombre d'allocataires s’accélère</title>
-     <link>https://www.data.gouv.fr/fr/dataset/minima-sociaux-la-hausse-du-nombre-d-allocataires-s-accelere</link>
-     <description><![CDATA[Source : DREES, Études et résultats N°883 Auteurs : Mathieu Calvo La croissance du nombre de bénéficiaires de minima sociaux s’est accélérée en 2012, avec 4,4 % de hausse. Cela s’explique, notamment, par l’évolution du nombre de bénéficiaires du RSA (+6,2 %) et de l’ASS (+11,2 %). Au total, 3,8 millions de personnes perçoivent un des minima sociaux. ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Les enfants en soins de suite et de réadaptation</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-enfants-en-soins-de-suite-et-de-readaptation</link>
-     <description><![CDATA[Source : DREES, Études et résultats N°861 Auteurs : Fabienne COQUELET et Hélène VALDELIÈVRE L’activité en soins de suite et de réadaptation (SSR) pour les enfants représente 5 % de l’activité globale de SSR. En 2010, 32 000 enfants de moins de 19 ans ont été pris en charge au cours de 73 000 séjours. Deux tiers de ces séjours sont effectués dans des établissements à but non lucratif. ]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
