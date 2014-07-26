@@ -4,8 +4,32 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 26 Jul 2014 11:00:02 +0200</pubDate>
+  <pubDate>Sat, 26 Jul 2014 11:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Reclassement des militaires dans les fonctions publiques 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/reclassement-des-militaires-dans-les-fonctions-publiques-2013</link>
+     <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf En 2013, 2324 militaires ont été reclassés dans les 3 fonctions publiques selon les cinq procédures en vigueur, à savoir le détachement-intégration (article L. 4139-2 du...]]></description>
+     <author>Ministère de la Défense (certifié)</author>
+  </item>
+  <item>
+     <title>Reclassement dans le secteur privé 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/reclassement-dans-le-secteur-prive-2013</link>
+     <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf ]]></description>
+     <author>Ministère de la Défense (certifié)</author>
+  </item>
+  <item>
+     <title>Répartition des prestations par armée 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/repartition-des-prestations-par-armee-2013</link>
+     <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf ]]></description>
+     <author>Ministère de la Défense (certifié)</author>
+  </item>
+  <item>
+     <title>Les congés de reconversion</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-conges-de-reconversi-0</link>
+     <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf Les militaires de plus de quatre ans de service, quittant définitivement les armées, peuvent être placés en congé de reconversion et en congé complémentaire de reconversion....]]></description>
+     <author>Ministère de la Défense (certifié)</author>
+  </item>
   <item>
      <title>Encours des créances de la France sur les États étrangers au 31 décembre 2013 </title>
      <link>https://www.data.gouv.fr/fr/dataset/encours-des-creances-de-la-france-sur-les-etats-etrangers-au-31-decembre-20-0</link>
@@ -341,30 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/comptes-des-associations-fichier-reformate</link>
      <description><![CDATA[Les comptes annuels des associations, fondations et fonds de dotation. Ce jeu de données est une extraction au format CSV des metadonnées disponibles sur https://www.data.gouv.fr/fr/dataset/comptes-associations et mis en ligne par la DILA. Il contient: le nom du fichier PDF contenant le détail des comptes (scannés) le N° RNA de l'association si disponible le code...]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Voies vertes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/voies-vertes</link>
-     <description><![CDATA[Les Voies vertes sont des pistes cyclables sécurisées et ouvertes aux circulations non motorisées. Les 220 km qui constituent actuellement le réseau sont aménagés sur d’anciennes voies ferrées ou chemins de halage. ]]></description>
-     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
-  </item>
-  <item>
-     <title>Stations d'épuration de l'eau</title>
-     <link>https://www.data.gouv.fr/fr/dataset/stations-d-epuration-de-l-eau</link>
-     <description><![CDATA[Caractéristiques et performances des stations d'épuration publiques ]]></description>
-     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
-  </item>
-  <item>
-     <title>Eau potable</title>
-     <link>https://www.data.gouv.fr/fr/dataset/eau-potable</link>
-     <description><![CDATA[Tarifs, techniques, modes de gestion, ... de l'eau potable en Saône-et-Loire ]]></description>
-     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
-  </item>
-  <item>
-     <title>Assainissement non collectif</title>
-     <link>https://www.data.gouv.fr/fr/dataset/assainissement-non-collectif</link>
-     <description><![CDATA[Organismes compétents en matière d'assainissement non collectif. ]]></description>
-     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
   </item>
  </channel>
 </rss>
