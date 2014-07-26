@@ -4,8 +4,38 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 26 Jul 2014 11:10:02 +0200</pubDate>
+  <pubDate>Sat, 26 Jul 2014 11:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Indemnisation chômage des militaires 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/indemnisation-chomage-des-militaires-2013</link>
+     <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf ]]></description>
+     <author>Ministère de la Défense (certifié)</author>
+  </item>
+  <item>
+     <title>Coût de la reconversion 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/cout-de-la-reconversion-2013</link>
+     <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf ]]></description>
+     <author>Ministère de la Défense (certifié)</author>
+  </item>
+  <item>
+     <title>Les entreprises et fédérations partenaires 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-entreprises-et-federations-partenaires-2013</link>
+     <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf Des partenariats signés entre des grandes entreprises, des fédérations professionnelles, des associations et le ministère de la défense, ont pour objectif de faciliter...]]></description>
+     <author>Ministère de la Défense (certifié)</author>
+  </item>
+  <item>
+     <title>Validation des acquis de l'expérience 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/validation-des-acquis-de-l-experience-2013</link>
+     <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf ]]></description>
+     <author>Ministère de la Défense (certifié)</author>
+  </item>
+  <item>
+     <title>Accompagnement des conjoints du personnel de la défense et de la gendarmerie 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/accompagnement-des-conjoints-du-personnel-de-la-defense-et-de-la-gendarmerie-2013</link>
+     <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf ]]></description>
+     <author>Ministère de la Défense (certifié)</author>
+  </item>
   <item>
      <title>Reclassement des militaires dans les fonctions publiques 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/reclassement-des-militaires-dans-les-fonctions-publiques-2013</link>
@@ -335,36 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/les-enfants-en-soins-de-suite-et-de-readaptation</link>
      <description><![CDATA[Source : DREES, Études et résultats N°861 Auteurs : Fabienne COQUELET et Hélène VALDELIÈVRE L’activité en soins de suite et de réadaptation (SSR) pour les enfants représente 5 % de l’activité globale de SSR. En 2010, 32 000 enfants de moins de 19 ans ont été pris en charge au cours de 73 000 séjours. Deux tiers de ces séjours sont effectués dans des établissements à but non lucratif. ]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Les interruptions volontaires de grossesse</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-interruptions-volontaires-de-grossesse</link>
-     <description><![CDATA[Source : DREES, Études et résultats N°884 Auteurs : Annick Vilain, avec la collaboration de Marie Claude Mouquet En 2012, près de 219 200 interruptions volontaires de grossesse ont été réalisées. Leur nombre est relativement stable depuis une dizaine d’années. Elles sont les plus fréquentes parmi les 20-24 ans et on constate une légère baisse parmi les moins de 20 ans. ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Troubles mentaux : quelles conséquences sur le maintien dans l’emploi ?</title>
-     <link>https://www.data.gouv.fr/fr/dataset/troubles-mentaux-quelles-consequences-sur-le-maintien-dans-l-emploi</link>
-     <description><![CDATA[Source : DREES, Études et résultats N°885 Auteurs : Thomas Barnay et Éric Defebvre En 2006, parmi les personnes en emploi, 12 % des femmes et 6 % des hommes de 30 à 55 ans déclarent souffrir au moins d’un trouble mental. Quatre ans plus tard, 86 % d’entre elles et 82 % d’entre eux occupent toujours une activité professionnelle. ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Profils et trajectoires des personnes ayant des idées suicidaires</title>
-     <link>https://www.data.gouv.fr/fr/dataset/profils-et-trajectoires-des-personnes-ayant-des-idees-suicidaires</link>
-     <description><![CDATA[Source : DREES, Études et résultats N°886 Auteurs : Nicolas de Riccardis, avec les conseils de Muriel Moisy et Marie-Claude Mouquet En 2010, 5 % des personnes âgées de 40 à 59 ans déclarent avoir eu des idées suicidaires dans les deux semaines précédant l’étude. Leurs indicateurs de santé sont plus dégradés que ceux des autres personnes. Elles souffrent plus souvent d’une maladie chronique...]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Quitter le foyer familial : les jeunes adultes confrontés à la crise économique</title>
-     <link>https://www.data.gouv.fr/fr/dataset/quitter-le-foyer-familial-les-jeunes-adultes-confrontes-a-la-crise-economique</link>
-     <description><![CDATA[Source : DREES, Études et résultats N°887 Auteurs : Mickaël Portela et Florent Dezenaire Avoir un travail conditionne le départ des jeunes adultes de chez leurs parents, surtout en période de crise. En 2010, trois ans après la fin de leurs études, près de 70 % des jeunes ayant un emploi stable ne vivent plus chez leurs parents, contre 30 % des jeunes chômeurs environ. ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Comptes des associations - fichier reformaté</title>
-     <link>https://www.data.gouv.fr/fr/dataset/comptes-des-associations-fichier-reformate</link>
-     <description><![CDATA[Les comptes annuels des associations, fondations et fonds de dotation. Ce jeu de données est une extraction au format CSV des metadonnées disponibles sur https://www.data.gouv.fr/fr/dataset/comptes-associations et mis en ligne par la DILA. Il contient: le nom du fichier PDF contenant le détail des comptes (scannés) le N° RNA de l'association si disponible le code...]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
