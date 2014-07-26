@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 25 Jul 2014 19:50:02 +0200</pubDate>
+  <pubDate>Sat, 26 Jul 2014 11:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Encours des créances de la France sur les États étrangers au 31 décembre 2013 </title>
+     <link>https://www.data.gouv.fr/fr/dataset/encours-des-creances-de-la-france-sur-les-etats-etrangers-au-31-decembre-20-0</link>
+     <description><![CDATA[Il s’agit des encours des créances détenues soit par l’État directement (via la Banque de France), soit par l’Agence Française de Développement, soit par Coface et Natixis pour le compte de l’État. Sont incluses dans les encours présentés toutes les créances dont le débiteur est soit souverain, soit appartient au secteur public d’un État étranger. ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>La santé des adolescents scolarisés en classe de troisième</title>
      <link>https://www.data.gouv.fr/fr/dataset/la-sante-des-adolescents-scolarises-en-classe-de-troisieme</link>
@@ -358,12 +364,6 @@
      <title>Assainissement non collectif</title>
      <link>https://www.data.gouv.fr/fr/dataset/assainissement-non-collectif</link>
      <description><![CDATA[Organismes compétents en matière d'assainissement non collectif. ]]></description>
-     <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
-  </item>
-  <item>
-     <title>Prix de l'assainissement collectif</title>
-     <link>https://www.data.gouv.fr/fr/dataset/prix-de-l-assainissement-collectif</link>
-     <description><![CDATA[Ce fichier présente le recueil des prix de l'assainissement collectif par collectivité compétente (commune ou syndicat intercommunal). Le prix est décomposé selon les parts fixes et variables et ensuite recalculé pour une consommation type de 120 m3 par an. A noter que seul le prix des tranches inférieures ou égales à 120 m3 est indiqué, des données peuvent donc manquer pour calculer un prix...]]></description>
      <author>Conseil général de Saône-et-Loire (CG71) (certifié)</author>
   </item>
  </channel>
