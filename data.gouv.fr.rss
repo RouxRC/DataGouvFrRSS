@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 26 Jul 2014 11:30:02 +0200</pubDate>
+  <pubDate>Sun, 27 Jul 2014 18:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Répartition des reclassements par secteurs d'activité 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/repartition-des-reclassements-par-secteurs-d-activite-2013</link>
+     <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf ]]></description>
+     <author>Ministère de la Défense (certifié)</author>
+  </item>
   <item>
      <title>Répartition géographique des reclassements 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/repartition-geographique-des-reclassements-2013</link>
@@ -358,12 +364,6 @@
      <title>La situation économique et financière des cliniques privées à but lucratif</title>
      <link>https://www.data.gouv.fr/fr/dataset/la-situation-economique-et-financiere-des-cliniques-privees-a-but-lucratif</link>
      <description><![CDATA[Source : DREES, Études et résultats N°859 Auteurs : Éric THUAUD En 2011, la rentabilité nette des cliniques privées à but lucratif est estimée à 2,6 % de leur chiffre d’affaires, soit une augmentation de 0,6 point par rapport à 2010 (2 %). Cette amélioration est la conséquence d’une hausse du résultat exceptionnel, lié notamment à des opérations de cessions immobilières, et pourrait donc ne...]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>La prise en charge de la dépression dans les établissements de santé</title>
-     <link>https://www.data.gouv.fr/fr/dataset/la-prise-en-charge-de-la-depression-dans-les-etablissements-de-sante</link>
-     <description><![CDATA[Source : DREES, Études et résultats N°860 Auteurs : Magali COLDEFY et Clément NESTRIGUE (Irdes) Les pathologies psychiatriques et les psychotropes représentent 22,6 milliards de dépenses, soit 16 % des dépenses totales de santé en 2011 (Cnamts, 2013). La dépression est l’une des maladies psychiques les plus répandues en France, 3 millions de personnes en seraient affectées (Inpes, 2007). ]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
