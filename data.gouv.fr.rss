@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 27 Jul 2014 18:00:02 +0200</pubDate>
+  <pubDate>Mon, 28 Jul 2014 10:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Elections Présidentielles 2012 (1er tour) - Résultats par bureau de vote sur la commune de Nogent-sur-Marne</title>
+     <link>https://www.data.gouv.fr/fr/dataset/elections-presidentielles-2012-1er-tour-resultats-par-bureau-de-vote-sur-la-commune-de-nogent-sur-ma</link>
+     <description><![CDATA[L'ACTION publie ici les résultats du 1er tour des élections présidentielles françaises de 2012 sur la commune de Nogent-sur-Marne par bureau de vote. ]]></description>
+     <author>ACTION Nogent-sur-Marne</author>
+  </item>
   <item>
      <title>Répartition des reclassements par secteurs d'activité 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/repartition-des-reclassements-par-secteurs-d-activite-2013</link>
@@ -358,12 +364,6 @@
      <title>Les bénéficiaires de l’aide sociale départementale</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-beneficiaires-de-l-aide-sociale-departementale</link>
      <description><![CDATA[Source : DREES, Études et résultats N°858 Auteurs : Françoise BORDERIES et Françoise TRESPEUX Les départements ont versé, fin 2012, 3,6 millions de prestations d’aide sociale au titre de l’aide aux personnes âgées, aux personnes handicapées, à l’enfance, ou au titre de l’insertion. Ce nombre a augmenté de 4 % en un an, notamment du fait de l’accroissement du nombre de titulaires du revenu de...]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>La situation économique et financière des cliniques privées à but lucratif</title>
-     <link>https://www.data.gouv.fr/fr/dataset/la-situation-economique-et-financiere-des-cliniques-privees-a-but-lucratif</link>
-     <description><![CDATA[Source : DREES, Études et résultats N°859 Auteurs : Éric THUAUD En 2011, la rentabilité nette des cliniques privées à but lucratif est estimée à 2,6 % de leur chiffre d’affaires, soit une augmentation de 0,6 point par rapport à 2010 (2 %). Cette amélioration est la conséquence d’une hausse du résultat exceptionnel, lié notamment à des opérations de cessions immobilières, et pourrait donc ne...]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
