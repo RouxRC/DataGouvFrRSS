@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 28 Jul 2014 10:40:03 +0200</pubDate>
+  <pubDate>Mon, 28 Jul 2014 11:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les allocataires du RSA</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-allocataires-du-rsa</link>
+     <description><![CDATA[Source : DREES, Études et résultats N° 864 Auteurs : Michèle Lelièvre (Drees), Vincent Reduron et Thierry Van Wassenhove (Cnaf) Le revenu de solidarité active (RSA) est entré en vigueur le 1er juin 2009 en France métropolitaine, se substituant au revenu minimum d’insertion (RMI), à l’allocation de parent isolé (API) et à leurs dispositifs d’intéressement. ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Développement agricole - enquête auprès des chefs d'exploitation</title>
      <link>https://www.data.gouv.fr/fr/dataset/developpement-agricole-enquete-aupres-des-chefs-d-exploitation</link>
@@ -358,12 +364,6 @@
      <title>Les allocataires du minimum vieillesse : carrière passée et niveau de pension</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-allocataires-du-minimum-vieillesse-carriere-passee-et-niveau-de-pension</link>
      <description><![CDATA[Source : DREES, Études et résultats N°857 Auteurs : Nadine BARTHÉLÉMY Quatre bénéficiaires sur cinq perçoivent une pension de droit direct mais ont eu, pour la plupart, une carrière incomplète. Ils partent souvent en retraite pour inaptitude au travail ou invalidité. Avec l’amélioration progressive de la couverture des régimes, la part des bénéficiaires qui ont eu une carrière complète,...]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>État de santé et renoncement aux soins des bénéficiaires du RSA</title>
-     <link>https://www.data.gouv.fr/fr/dataset/etat-de-sante-et-renoncement-aux-soins-des-beneficiaires-du-rsa</link>
-     <description><![CDATA[Source : DREES, Études et résultats N°882 Auteurs : Muriel Moisy Les bénéficiaires du RSA sont trois à quatre fois plus nombreux à se déclarer en mauvaise ou très mauvaise santé comparés au reste de la population. Ils renoncent aussi plus souvent aux soins pour des raisons financières. ]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
