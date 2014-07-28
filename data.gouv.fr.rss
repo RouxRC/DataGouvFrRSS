@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 28 Jul 2014 10:10:02 +0200</pubDate>
+  <pubDate>Mon, 28 Jul 2014 10:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Développement agricole - enquête auprès des chefs d'exploitation</title>
+     <link>https://www.data.gouv.fr/fr/dataset/developpement-agricole-enquete-aupres-des-chefs-d-exploitation</link>
+     <description><![CDATA[Étude réalisée en 2013 afin d'évaluer les pratiques, la satisfaction et les attentes des chefs d’exploitation en matière de conseil au développement agricole, ainsi que le positionnement des différents organismes dans le paysage du conseil au développement agricole. ]]></description>
+     <author>Premier ministre (certifié)</author>
+  </item>
   <item>
      <title>Elections Présidentielles 2012 (1er tour) - Résultats par bureau de vote sur la commune de Nogent-sur-Marne</title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-presidentielles-2012-1er-tour-resultats-par-bureau-de-vote-sur-la-commune-de-nogent-sur-ma</link>
@@ -358,12 +364,6 @@
      <title>État de santé et renoncement aux soins des bénéficiaires du RSA</title>
      <link>https://www.data.gouv.fr/fr/dataset/etat-de-sante-et-renoncement-aux-soins-des-beneficiaires-du-rsa</link>
      <description><![CDATA[Source : DREES, Études et résultats N°882 Auteurs : Muriel Moisy Les bénéficiaires du RSA sont trois à quatre fois plus nombreux à se déclarer en mauvaise ou très mauvaise santé comparés au reste de la population. Ils renoncent aussi plus souvent aux soins pour des raisons financières. ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Les bénéficiaires de l’aide sociale départementale</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-beneficiaires-de-l-aide-sociale-departementale</link>
-     <description><![CDATA[Source : DREES, Études et résultats N°858 Auteurs : Françoise BORDERIES et Françoise TRESPEUX Les départements ont versé, fin 2012, 3,6 millions de prestations d’aide sociale au titre de l’aide aux personnes âgées, aux personnes handicapées, à l’enfance, ou au titre de l’insertion. Ce nombre a augmenté de 4 % en un an, notamment du fait de l’accroissement du nombre de titulaires du revenu de...]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
