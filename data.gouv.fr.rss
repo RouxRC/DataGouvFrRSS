@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 28 Jul 2014 14:40:03 +0200</pubDate>
+  <pubDate>Mon, 28 Jul 2014 16:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>AIRES URBAINES </title>
+     <link>https://www.data.gouv.fr/fr/dataset/aires-urbaines</link>
+     <description><![CDATA[Une aire urbaine ou « grande aire urbaine » est un ensemble de communes, d'un seul tenant et sans enclave, constitué par un pôle urbain (unité urbaine) de plus de 10 000 emplois, et par des communes rurales ou unités urbaines (couronne périurbaine) dont au moins 40 % de la population résidente ayant un emploi travaille dans le pôle ou dans des communes attirées par celui-ci. ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Les allocataires du minimum vieillesse : parcours et conditions de vie</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-allocataires-du-minimum-vieillesse-parcours-et-conditions-de-vie</link>
@@ -358,12 +364,6 @@
      <title>Les comptes de la protection sociale en France et en Europe</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-comptes-de-la-protection-sociale-en-france-et-en-europe</link>
      <description><![CDATA[Source : DREES, Études et résultats N°856 Auteurs : Myriam MIKOU et Julie SOLARD En France, 2011 constitue une deuxième année de croissance modérée (+2,0 %) avant la stagnation du produit intérieur brut en 2012, dans un contexte de récession de l’Union européenne. La protection sociale semble moins bien jouer son rôle d’amortisseur économique en Europe, en raison de la durabilité de la crise...]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Troubles de la vision : sept adultes sur dix portent des lunettes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/troubles-de-la-vision-sept-adultes-sur-dix-portent-des-lunettes</link>
-     <description><![CDATA[Source : DREES, Études et résultats N°881 Auteurs : Lucie Calvet, avec la collaboration de Pauline Delance, Clément Dufaure, Victor Laliman, Benjamin Quevat Les problèmes de vue concernent trois adultes sur quatre. Les personnes âgées sont les plus nombreuses à souffrir de troubles résiduels. Les 70 ans ou plus représentent près de la moitié de la population ayant des difficultés à lire les...]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
