@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 28 Jul 2014 10:20:02 +0200</pubDate>
+  <pubDate>Mon, 28 Jul 2014 10:40:03 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Développement agricole - enquête auprès des chefs d'exploitation</title>
@@ -13,9 +13,9 @@
      <author>Premier ministre (certifié)</author>
   </item>
   <item>
-     <title>Elections Présidentielles 2012 (1er tour) - Résultats par bureau de vote sur la commune de Nogent-sur-Marne</title>
-     <link>https://www.data.gouv.fr/fr/dataset/elections-presidentielles-2012-1er-tour-resultats-par-bureau-de-vote-sur-la-commune-de-nogent-sur-ma</link>
-     <description><![CDATA[L'ACTION publie ici les résultats du 1er tour des élections présidentielles françaises de 2012 sur la commune de Nogent-sur-Marne par bureau de vote. ]]></description>
+     <title>Elections Présidentielles 2012 - Résultats par bureau de vote sur la commune de Nogent-sur-Marne</title>
+     <link>https://www.data.gouv.fr/fr/dataset/elections-presidentielles-2012-resultats-par-bureau-de-vote-sur-la-commune-de-nogent-sur-marne</link>
+     <description><![CDATA[L'ACTION publie ici les résultats du 1er et du 2ème tour des élections présidentielles françaises de 2012 sur la commune de Nogent-sur-Marne par bureau de vote. ]]></description>
      <author>ACTION Nogent-sur-Marne</author>
   </item>
   <item>
