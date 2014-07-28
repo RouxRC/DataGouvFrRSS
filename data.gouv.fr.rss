@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 28 Jul 2014 11:20:02 +0200</pubDate>
+  <pubDate>Mon, 28 Jul 2014 14:40:03 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les allocataires du minimum vieillesse : parcours et conditions de vie</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-allocataires-du-minimum-vieillesse-parcours-et-conditions-de-vie</link>
+     <description><![CDATA[Source : DREES, Études et résultats N° 863 Auteurs : Céline ARNOLD et Nadine BARTHÉLÉMY Interrogés en 2012, la plupart des allocataires du minimum vieillesse ont travaillé par le passé. Toutefois, l’inactivité et le chômage font partie de leur parcours professionnel et ils ont souvent été confrontés à des problèmes de santé, d’invalidité ou de handicap. ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Les allocataires du RSA</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-allocataires-du-rsa</link>
@@ -358,12 +364,6 @@
      <title>Troubles de la vision : sept adultes sur dix portent des lunettes</title>
      <link>https://www.data.gouv.fr/fr/dataset/troubles-de-la-vision-sept-adultes-sur-dix-portent-des-lunettes</link>
      <description><![CDATA[Source : DREES, Études et résultats N°881 Auteurs : Lucie Calvet, avec la collaboration de Pauline Delance, Clément Dufaure, Victor Laliman, Benjamin Quevat Les problèmes de vue concernent trois adultes sur quatre. Les personnes âgées sont les plus nombreuses à souffrir de troubles résiduels. Les 70 ans ou plus représentent près de la moitié de la population ayant des difficultés à lire les...]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Les allocataires du minimum vieillesse : carrière passée et niveau de pension</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-allocataires-du-minimum-vieillesse-carriere-passee-et-niveau-de-pension</link>
-     <description><![CDATA[Source : DREES, Études et résultats N°857 Auteurs : Nadine BARTHÉLÉMY Quatre bénéficiaires sur cinq perçoivent une pension de droit direct mais ont eu, pour la plupart, une carrière incomplète. Ils partent souvent en retraite pour inaptitude au travail ou invalidité. Avec l’amélioration progressive de la couverture des régimes, la part des bénéficiaires qui ont eu une carrière complète,...]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
