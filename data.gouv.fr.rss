@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 28 Jul 2014 17:10:02 +0200</pubDate>
+  <pubDate>Tue, 29 Jul 2014 11:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Pôles urbains</title>
+     <link>https://www.data.gouv.fr/fr/dataset/poles-urbains</link>
+     <description><![CDATA[Le pôle urbain est une unité urbaine offrant au moins 10 000 emplois et qui n'est pas située dans la couronne d'un autre pôle urbain. On distingue également des moyens pôles- unités urbaines de 5 000 à 10 000 emplois et les petits pôles - unités urbaines de 1 500 à moins de 5 000 emplois. ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>AIRES URBAINES </title>
      <link>https://www.data.gouv.fr/fr/dataset/aires-urbaines</link>
@@ -111,7 +117,7 @@
   <item>
      <title>Encours des créances de la France sur les États étrangers au 31 décembre 2013 </title>
      <link>https://www.data.gouv.fr/fr/dataset/encours-des-creances-de-la-france-sur-les-etats-etrangers-au-31-decembre-20-0</link>
-     <description><![CDATA[Il s’agit des encours des créances détenues soit par l’État directement (via la Banque de France), soit par l’Agence Française de Développement, soit par Coface et Natixis pour le compte de l’État. Sont incluses dans les encours présentés toutes les créances dont le débiteur est soit souverain, soit appartient au secteur public d’un État étranger. ]]></description>
+     <description><![CDATA[Il s’agit des encours des créances détenues soit par l’État directement (via la Banque de France), soit par l’Agence Française de Développement, soit par Coface et Natixis pour le compte de l’État. Sont incluses dans les encours présentés toutes les créances dont le débiteur est soit souverain, soit appartient au secteur public d’un État étranger. Les données présentées sont exprimées hors...]]></description>
      <author>citoyen</author>
   </item>
   <item>
@@ -358,12 +364,6 @@
      <title>L’aide humaine apportée aux bénéficiaires d’une allocation de compensation du handicap</title>
      <link>https://www.data.gouv.fr/fr/dataset/l-aide-humaine-apportee-aux-beneficiaires-d-une-allocation-de-compensation-du-handicap</link>
      <description><![CDATA[Source : DREES, Études et résultats N°855 Auteurs : Maude ESPAGNACQ En 2009, 77 % des bénéficiaires d’une prestation de compensation du handicap (PCH) sont aidés régulièrement pour les activités de la vie quotidienne. Dans 90 % des cas, ils ont recours à leur entourage et, dans moins d’un cas sur deux, à un professionnel. 90 % des personnes percevant l’allocation compensatrice pour tierce...]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Les comptes de la protection sociale en France et en Europe</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-comptes-de-la-protection-sociale-en-france-et-en-europe</link>
-     <description><![CDATA[Source : DREES, Études et résultats N°856 Auteurs : Myriam MIKOU et Julie SOLARD En France, 2011 constitue une deuxième année de croissance modérée (+2,0 %) avant la stagnation du produit intérieur brut en 2012, dans un contexte de récession de l’Union européenne. La protection sociale semble moins bien jouer son rôle d’amortisseur économique en Europe, en raison de la durabilité de la crise...]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
