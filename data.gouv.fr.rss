@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 29 Jul 2014 15:10:02 +0200</pubDate>
+  <pubDate>Tue, 29 Jul 2014 15:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Filaire de voirie de Montpellier - code rivoli harmonisé</title>
@@ -218,12 +218,6 @@
   </item>
   <item>
      <title>Santé bucco-dentaire des enfants : des inégalités dès le plus jeune âge</title>
-     <link>https://www.data.gouv.fr/fr/dataset/sante-bucco-dentaire-des-enfants-des-inegalites-des-le-plus-jeune-a-0</link>
-     <description><![CDATA[Source : DREES, Études et résultats N°847 Auteurs : Lucie CALVET, Muriel MOISY, Olivier CHARDON, Lucie GONZALEZ et Nathalie GUIGNON La santé bucco-dentaire des enfants s’est nettement améliorée ces vingt dernières années. Cependant, des inégalités sociales de recours aux soins et de santé demeurent : 9 enfants de cadres âgés de 6 ans sur 10 n’ont jamais eu de caries contre 7 enfants...]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Santé bucco-dentaire des enfants : des inégalités dès le plus jeune âge</title>
      <link>https://www.data.gouv.fr/fr/dataset/sante-bucco-dentaire-des-enfants-des-inegalites-des-le-plus-jeune-age</link>
      <description><![CDATA[Source : DREES, Études et résultats N°847 Auteurs : Lucie CALVET, Muriel MOISY, Olivier CHARDON, Lucie GONZALEZ et Nathalie GUIGNON La santé bucco-dentaire des enfants s’est nettement améliorée ces vingt dernières années. Cependant, des inégalités sociales de recours aux soins et de santé demeurent : 9 enfants de cadres âgés de 6 ans sur 10 n’ont jamais eu de caries contre 7 enfants...]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
@@ -364,6 +358,12 @@
      <title>Prévoir sa retraite : une personne sur cinq épargne</title>
      <link>https://www.data.gouv.fr/fr/dataset/prevoir-sa-retraite-une-personne-sur-cinq-epargne</link>
      <description><![CDATA[Source : DREES, Études et résultats n° 880 Auteurs : Charline Laborde Près de 20 % de la population de 18 ans ou plus détiennent au moins un produit d’épargne financière pour compléter leur retraite. Alors qu’elle ne lui est pas dédiée, l’assurance-vie est le placement préféré des ménages : 7 % des personnes contractent une assurance-vie pour disposer d’un complément de rémunération. Les...]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
+  <item>
+     <title>L’aide humaine apportée aux bénéficiaires d’une allocation de compensation du handicap</title>
+     <link>https://www.data.gouv.fr/fr/dataset/l-aide-humaine-apportee-aux-beneficiaires-d-une-allocation-de-compensation-du-handicap</link>
+     <description><![CDATA[Source : DREES, Études et résultats N°855 Auteurs : Maude ESPAGNACQ En 2009, 77 % des bénéficiaires d’une prestation de compensation du handicap (PCH) sont aidés régulièrement pour les activités de la vie quotidienne. Dans 90 % des cas, ils ont recours à leur entourage et, dans moins d’un cas sur deux, à un professionnel. 90 % des personnes percevant l’allocation compensatrice pour tierce...]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
