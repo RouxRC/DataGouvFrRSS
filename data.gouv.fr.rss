@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 29 Jul 2014 11:50:02 +0200</pubDate>
+  <pubDate>Tue, 29 Jul 2014 15:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Filaire de voirie de Montpellier - code rivoli harmonisé</title>
+     <link>https://www.data.gouv.fr/fr/dataset/filaire-de-voirie-de-montpellier-code-rivoli-harmonise</link>
+     <description><![CDATA[Remise en forme du jeu de données publié par la Ville de Montpellier en juillet 2014. Le code RIVOLI/FANTOIR de la DGFiP est harmonisé sur 4 caractères. Le reste des données est identique. Source originale: https://www.data.gouv.fr/fr/dataset/filaire-des-voies-mtn ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Pôles urbains</title>
      <link>https://www.data.gouv.fr/fr/dataset/poles-urbains</link>
@@ -358,12 +364,6 @@
      <title>Prévoir sa retraite : une personne sur cinq épargne</title>
      <link>https://www.data.gouv.fr/fr/dataset/prevoir-sa-retraite-une-personne-sur-cinq-epargne</link>
      <description><![CDATA[Source : DREES, Études et résultats n° 880 Auteurs : Charline Laborde Près de 20 % de la population de 18 ans ou plus détiennent au moins un produit d’épargne financière pour compléter leur retraite. Alors qu’elle ne lui est pas dédiée, l’assurance-vie est le placement préféré des ménages : 7 % des personnes contractent une assurance-vie pour disposer d’un complément de rémunération. Les...]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>L’aide humaine apportée aux bénéficiaires d’une allocation de compensation du handicap</title>
-     <link>https://www.data.gouv.fr/fr/dataset/l-aide-humaine-apportee-aux-beneficiaires-d-une-allocation-de-compensation-du-handicap</link>
-     <description><![CDATA[Source : DREES, Études et résultats N°855 Auteurs : Maude ESPAGNACQ En 2009, 77 % des bénéficiaires d’une prestation de compensation du handicap (PCH) sont aidés régulièrement pour les activités de la vie quotidienne. Dans 90 % des cas, ils ont recours à leur entourage et, dans moins d’un cas sur deux, à un professionnel. 90 % des personnes percevant l’allocation compensatrice pour tierce...]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
