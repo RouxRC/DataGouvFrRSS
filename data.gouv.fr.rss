@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 30 Jul 2014 10:00:02 +0200</pubDate>
+  <pubDate>Wed, 30 Jul 2014 17:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Réforme du financement des hôpitaux publics : quel impact sur leur niveau d’activité ?</title>
+     <link>https://www.data.gouv.fr/fr/dataset/reforme-du-financement-des-hopitaux-publics-quel-impact-sur-leur-niveau-d-activite</link>
+     <description><![CDATA[Source : DREES, Études et résultats N° 862 Auteurs : Philippe CHONÉ (Crest-Ensae), Franck EVAIN (Drees), Lionel WILNER (Insee) et Engin YILMAZ (Drees) L’adoption de la tarification à l’activité (T2A) a modifié le mode de financement du secteur hospitalier. L’objectif du législateur était d’accroître l’efficience et d’améliorer la qualité des soins. Dans les établissements publics ou privés à...]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Morpho-sédimentologie et courants de marée 3D de la zone éolien posé de Saint-Nazaire</title>
      <link>https://www.data.gouv.fr/fr/dataset/morpho-sedimentologie-et-courants-de-maree-3d-de-la-zone-eolien-pose-de-saint-nazaire</link>
@@ -358,12 +364,6 @@
      <title>Hospitalisation de court séjour - Évolution des parts de marché</title>
      <link>https://www.data.gouv.fr/fr/dataset/hospitalisation-de-court-sejour-evolution-des-parts-de-marc-0</link>
      <description><![CDATA[Source : DREES, Études et résultats N°854 Auteurs : Franck EVAIN La mise en place de la tarification à l’activité dans le court séjour, en 2004, a incité les établissements de santé à améliorer leur efficience en développant leur activité tout en maîtrisant les coûts et les durées de séjour. L’enveloppe globale destinée au financement de ces établissements étant régulée via un objectif...]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Les salaires dans le secteur social et médico-social</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-salaires-dans-le-secteur-social-et-medico-social</link>
-     <description><![CDATA[Source : DREES, Études et résultats n° 879 Auteurs : Sandra Nahon En 2010, 6,7 % des actifs occupés, en France, travaillent dans le secteur social et médico-social. Ces salariés, principalement sur des postes peu qualifiés, sont en grande majorité des femmes, souvent à temps partiel. ]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
