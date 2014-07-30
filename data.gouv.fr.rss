@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 30 Jul 2014 18:00:02 +0200</pubDate>
+  <pubDate>Wed, 30 Jul 2014 18:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Urgences : la moitié des patients restent moins de deux heures, hormis ceux maintenus en observation</title>
+     <link>https://www.data.gouv.fr/fr/dataset/urgences-la-moitie-des-patients-restent-moins-de-deux-heures-hormis-ceux-maintenus-en-observation</link>
+     <description><![CDATA[Source : DREES, Études et résultats n° 889 Auteurs : Bénédicte Boisguérin et Hélène Valdelièvre Huit patients sur dix restent moins de quatre heures aux urgences, d’après l’enquête réalisée dans les services d’urgences le 11 juin 2013. Les nourrissons et les personnes âgées enregistrent les taux de recours les plus élevés. ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Réforme du financement des hôpitaux publics : quel impact sur leur niveau d’activité ?</title>
      <link>https://www.data.gouv.fr/fr/dataset/reforme-du-financement-des-hopitaux-publics-quel-impact-sur-leur-niveau-d-activite</link>
@@ -358,12 +364,6 @@
      <title>La situation économique et financière des cliniques privées à but lucratif</title>
      <link>https://www.data.gouv.fr/fr/dataset/la-situation-economique-et-financiere-des-cliniques-privees-a-but-lucrat-0</link>
      <description><![CDATA[Source : DREES, Études et résultats n° 878 Auteurs : Engin Yilmaz En 2012, la rentabilité nette des cliniques privées à but lucratif est estimée à 1,9 % de leur chiffre d’affaires. Elle baisse de 0,7 point par rapport à 2011, mais son niveau est proche de ceux observés au cours de la période 2008-2010. Le résultat net plus élevé obtenu en 2011 s’expliquait par des opérations de cessions...]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Hospitalisation de court séjour - Évolution des parts de marché</title>
-     <link>https://www.data.gouv.fr/fr/dataset/hospitalisation-de-court-sejour-evolution-des-parts-de-marc-0</link>
-     <description><![CDATA[Source : DREES, Études et résultats N°854 Auteurs : Franck EVAIN La mise en place de la tarification à l’activité dans le court séjour, en 2004, a incité les établissements de santé à améliorer leur efficience en développant leur activité tout en maîtrisant les coûts et les durées de séjour. L’enveloppe globale destinée au financement de ces établissements étant régulée via un objectif...]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
