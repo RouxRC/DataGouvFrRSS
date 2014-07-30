@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 29 Jul 2014 15:50:02 +0200</pubDate>
+  <pubDate>Wed, 30 Jul 2014 07:30:03 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Filaire de voirie de Montpellier - code rivoli harmonisé</title>
@@ -23,6 +23,12 @@
      <link>https://www.data.gouv.fr/fr/dataset/aires-urbaines</link>
      <description><![CDATA[Une aire urbaine ou « grande aire urbaine » est un ensemble de communes, d'un seul tenant et sans enclave, constitué par un pôle urbain (unité urbaine) de plus de 10 000 emplois, et par des communes rurales ou unités urbaines (couronne périurbaine) dont au moins 40 % de la population résidente ayant un emploi travaille dans le pôle ou dans des communes attirées par celui-ci. ]]></description>
      <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
+  <item>
+     <title>Telepac-Bénéficiaires_2010_2012</title>
+     <link>https://www.data.gouv.fr/fr/dataset/telepac-beneficiaires-2010-2012</link>
+     <description><![CDATA[Tableau croisé des aides perçus par chaque bénéficiaire au titre de la PAC ]]></description>
+     <author>citoyen</author>
   </item>
   <item>
      <title>Les allocataires du minimum vieillesse : parcours et conditions de vie</title>
@@ -358,12 +364,6 @@
      <title>Prévoir sa retraite : une personne sur cinq épargne</title>
      <link>https://www.data.gouv.fr/fr/dataset/prevoir-sa-retraite-une-personne-sur-cinq-epargne</link>
      <description><![CDATA[Source : DREES, Études et résultats n° 880 Auteurs : Charline Laborde Près de 20 % de la population de 18 ans ou plus détiennent au moins un produit d’épargne financière pour compléter leur retraite. Alors qu’elle ne lui est pas dédiée, l’assurance-vie est le placement préféré des ménages : 7 % des personnes contractent une assurance-vie pour disposer d’un complément de rémunération. Les...]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>L’aide humaine apportée aux bénéficiaires d’une allocation de compensation du handicap</title>
-     <link>https://www.data.gouv.fr/fr/dataset/l-aide-humaine-apportee-aux-beneficiaires-d-une-allocation-de-compensation-du-handicap</link>
-     <description><![CDATA[Source : DREES, Études et résultats N°855 Auteurs : Maude ESPAGNACQ En 2009, 77 % des bénéficiaires d’une prestation de compensation du handicap (PCH) sont aidés régulièrement pour les activités de la vie quotidienne. Dans 90 % des cas, ils ont recours à leur entourage et, dans moins d’un cas sur deux, à un professionnel. 90 % des personnes percevant l’allocation compensatrice pour tierce...]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
