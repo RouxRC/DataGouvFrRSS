@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 30 Jul 2014 09:20:02 +0200</pubDate>
+  <pubDate>Wed, 30 Jul 2014 10:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Morpho-sédimentologie et courants de marée 3D de la zone éolien posé de Saint-Nazaire</title>
+     <link>https://www.data.gouv.fr/fr/dataset/morpho-sedimentologie-et-courants-de-maree-3d-de-la-zone-eolien-pose-de-saint-nazaire</link>
+     <description><![CDATA[Le SHOM, établissement public de référence en matière d'hydrographie et de sédiments marins, a été subventionné par l'Europe, la représentation de l'Etat en région Pays de la Loire (SGAR) et la région Pays de la Loire pour acquérir la connaissance initiale de l'environnement marin physique sur la zone éolien posé de Saint-Nazaire. Cette opération a permis : d’acquérir la connaissance...]]></description>
+     <author>SHOM (certifié)</author>
+  </item>
   <item>
      <title>Filaire de voirie de Montpellier - code rivoli harmonisé</title>
      <link>https://www.data.gouv.fr/fr/dataset/filaire-de-voirie-de-montpellier-code-rivoli-harmonise</link>
@@ -358,12 +364,6 @@
      <title>Les salaires dans le secteur social et médico-social</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-salaires-dans-le-secteur-social-et-medico-social</link>
      <description><![CDATA[Source : DREES, Études et résultats n° 879 Auteurs : Sandra Nahon En 2010, 6,7 % des actifs occupés, en France, travaillent dans le secteur social et médico-social. Ces salariés, principalement sur des postes peu qualifiés, sont en grande majorité des femmes, souvent à temps partiel. ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Prévoir sa retraite : une personne sur cinq épargne</title>
-     <link>https://www.data.gouv.fr/fr/dataset/prevoir-sa-retraite-une-personne-sur-cinq-epargne</link>
-     <description><![CDATA[Source : DREES, Études et résultats n° 880 Auteurs : Charline Laborde Près de 20 % de la population de 18 ans ou plus détiennent au moins un produit d’épargne financière pour compléter leur retraite. Alors qu’elle ne lui est pas dédiée, l’assurance-vie est le placement préféré des ménages : 7 % des personnes contractent une assurance-vie pour disposer d’un complément de rémunération. Les...]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
