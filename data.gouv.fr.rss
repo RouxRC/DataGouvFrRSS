@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 31 Jul 2014 13:30:02 +0200</pubDate>
+  <pubDate>Thu, 31 Jul 2014 18:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title> Aides perçus par les bénéficiaires au titre de la PAC</title>
+     <link>https://www.data.gouv.fr/fr/dataset/aides-percus-par-les-beneficiaires-au-titre-de-la-pac</link>
+     <description><![CDATA[Historique sur trois ans (2010 à 2012) des aides perçus par chaque bénéficiaire au titre de la PAC ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>La prise en charge de la dépression dans les établissements de santé</title>
      <link>https://www.data.gouv.fr/fr/dataset/la-prise-en-charge-de-la-depression-dans-les-etablissements-de-san-0</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/les-affectations-des-etudiants-en-medecine-a-l-issue-des-epreuves-classantes-nationales</link>
      <description><![CDATA[Source : DREES, Études et résultats N°852 Auteurs : Pascal GODEFROY (Drees), Odile ROMAIN, Séverine BUISINE et Pierre LAURENT (CNG) À l’issue des épreuves classantes nationales (ECN) de 2012, 7 207 étudiants sont entrés pour la première fois en troisième cycle des études médicales. Parmi la liste de postes ouverts par spécialité et par subdivision territoriale établie par les pouvoirs...]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Arrêtés de protection de biotope (APB) dans le Haut-Rhin</title>
-     <link>https://www.data.gouv.fr/fr/dataset/arretes-de-protection-de-biotope-apb-dans-le-haut-rhin</link>
-     <description><![CDATA[Cartographie des zones protégées par arrêté préfectoral de protection de biotope dans le Haut-Rhin. Actes visant à préserver des milieux, habitats favorables à une ou plusieurs espèces (Articles L.411-1 et 2 et R.411-15 à 17) Etat arrêté au 15/02/2014 ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
   </item>
  </channel>
 </rss>
