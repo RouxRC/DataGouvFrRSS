@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 30 Jul 2014 19:10:02 +0200</pubDate>
+  <pubDate>Thu, 31 Jul 2014 10:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les enfants en soins de suite et de réadaptation</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-enfants-en-soins-de-suite-et-de-readaptati-0</link>
+     <description><![CDATA[Source : DREES, Études et résultats N° 861 Auteurs : Fabienne COQUELET et Hélène VALDELIÈVRE (Drees) L’activité en soins de suite et de réadaptation (SSR) pour les enfants représente 5 % de l’activité globale de SSR. En 2010, 32 000 enfants de moins de 19 ans ont été pris en charge au cours de 73 000 séjours. Deux tiers de ces séjours sont effectués dans des établissements à but non lucratif. ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Urgences : la moitié des patients restent moins de deux heures, hormis ceux maintenus en observation</title>
      <link>https://www.data.gouv.fr/fr/dataset/urgences-la-moitie-des-patients-restent-moins-de-deux-heures-hormis-ceux-maintenus-en-observation</link>
@@ -358,12 +364,6 @@
      <title>La santé des élèves de CM2 : Une situation contrastée selon l’origine sociale</title>
      <link>https://www.data.gouv.fr/fr/dataset/la-sante-des-eleves-de-cm2-une-situation-contrastee-selon-l-origine-sociale</link>
      <description><![CDATA[Source : DREES, Études et résultats N°853 Auteurs : Olivier CHARDON, Nathalie GUIGNON, Jean-Paul GUTHMANN, Laure FONTENEAU et Marie-Christine DELMAS En 2008, 19 % des élèves de CM2 sont en surcharge pondérale et, parmi eux, 4 % sont obèses. L’Enquête nationale sur la santé des élèves de CM2, conduite en 2007-2008, confirme la stabilisation des prévalences de la surcharge pondérale (surpoids...]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>La situation économique et financière des cliniques privées à but lucratif</title>
-     <link>https://www.data.gouv.fr/fr/dataset/la-situation-economique-et-financiere-des-cliniques-privees-a-but-lucrat-0</link>
-     <description><![CDATA[Source : DREES, Études et résultats n° 878 Auteurs : Engin Yilmaz En 2012, la rentabilité nette des cliniques privées à but lucratif est estimée à 1,9 % de leur chiffre d’affaires. Elle baisse de 0,7 point par rapport à 2011, mais son niveau est proche de ceux observés au cours de la période 2008-2010. Le résultat net plus élevé obtenu en 2011 s’expliquait par des opérations de cessions...]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
