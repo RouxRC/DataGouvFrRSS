@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 01 Aug 2014 13:00:02 +0200</pubDate>
+  <pubDate>Fri, 01 Aug 2014 15:00:03 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>La situation économique et financière des cliniques privées à but lucratif</title>
+     <link>https://www.data.gouv.fr/fr/dataset/la-situation-economique-et-financiere-des-cliniques-privees-a-but-lucrat-1</link>
+     <description><![CDATA[Source : DREES , Études et résultats N° 859 Auteurs : Éric THUAUD (Drees) En 2011, la rentabilité nette des cliniques privées à but lucratif est estimée à 2,6 % de leur chiffre d’affaires, soit une augmentation de 0,6 point par rapport à 2010 (2 %). ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Réserves officielles de 28 pays européens</title>
      <link>https://www.data.gouv.fr/fr/dataset/reserves-officielles-de-28-pays-europeens</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/les-comptes-nationaux-de-la-san-0</link>
      <description><![CDATA[Source : DREES, Études et résultats N°851 Auteurs : Marie-Anne LE GARREC et Marion BOUVET Le montant des dépenses courantes de santé s’élève à 243 milliards d’euros en 2012, soit 12 % du produit intérieur brut (PIB). La consommation de soins et de biens médicaux (CSBM), qui en représente les trois quarts, atteint pour sa part 183,6 milliards d’euros. Sa progression en valeur est sensiblement...]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Minima sociaux pour adultes handicapés</title>
-     <link>https://www.data.gouv.fr/fr/dataset/minima-sociaux-pour-adultes-handicapes</link>
-     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees ]]></description>
-     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
   </item>
  </channel>
 </rss>
