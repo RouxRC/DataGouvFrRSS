@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 01 Aug 2014 12:50:02 +0200</pubDate>
+  <pubDate>Fri, 01 Aug 2014 13:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Réserves officielles de 28 pays européens</title>
+     <link>https://www.data.gouv.fr/fr/dataset/reserves-officielles-de-28-pays-europeens</link>
+     <description><![CDATA[Ce recueil de données présente l'évolution trimestrielle des réserves officielles, réserves d'or et réserves de change de 28 pays européens depuis 2000. L'étude couvre les 28 pays suivants: Autriche, Belgique, Bulgarie, Croatie, Chypre, République Tchèque, Danemark, Estonie, Finlande, France, Allemagne, Grèce, Hongrie, Irlande, Italie, Lituanie, Lettonie, Luxembourg, Malte, Pays-Bas, Pologne,...]]></description>
+     <author>Goldbroker</author>
+  </item>
   <item>
      <title>Les emplois et les ressources de la protection sociale</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-emplois-et-les-ressources-de-la-protection-sociale</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/minima-sociaux-pour-adultes-handicapes</link>
      <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Drees ]]></description>
      <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>L’offre en établissements d’hébergement pour personnes âgées</title>
-     <link>https://www.data.gouv.fr/fr/dataset/l-offre-en-etablissements-d-hebergement-pour-personnes-agees</link>
-     <description><![CDATA[Source : DREES, Études et résultats N° 877 Auteurs : Sabrina Volant Les établissements d’hébergement pour personnes âgées ont augmenté leur capacité d’accueil de 5% depuis 2007. Au 31 décembre 2011, on en compte 10 481 pour 719 810 places. ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
 </rss>
