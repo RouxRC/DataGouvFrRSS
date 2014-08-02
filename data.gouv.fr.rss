@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 01 Aug 2014 15:30:02 +0200</pubDate>
+  <pubDate>Sat, 02 Aug 2014 16:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les bénéficiaires de l’aide sociale départementale</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-beneficiaires-de-l-aide-sociale-departementa-0</link>
+     <description><![CDATA[Source : DREES, Études et résultats N° 858 Auteurs : Françoise BORDERIES et Françoise TRESPEUX (Drees) Les départements ont versé, fin 2012, 3,6 millions de prestations d’aide sociale au titre de l’aide aux personnes âgées, aux personnes handicapées, à l’enfance, ou au titre de l’insertion. ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Taux de pénétration Wc japonais</title>
      <link>https://www.data.gouv.fr/fr/dataset/taux-de-penetration-wc-japonais</link>
@@ -358,12 +364,6 @@
      <title>Les revenus des chirurgiens-dentistes</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-revenus-des-chirurgiens-dentistes</link>
      <description><![CDATA[Source : DREES, Études et résultats N°849 Auteurs : Vanessa BELLAMY et Alioune BADARA MBAYE En 2008, les chirurgiens-dentistes libéraux en activité en Métropole ont déclaré en moyenne à l’administration fiscale 93 820 € de revenus liés à leurs activités professionnelles. Ces revenus se répartissent en 90 520 € de revenu libéral et 3 300 € de revenu salarial. ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Comment les organismes complémentaires fixent leurs tarifs</title>
-     <link>https://www.data.gouv.fr/fr/dataset/comment-les-organismes-complementaires-fixent-leurs-tarifs</link>
-     <description><![CDATA[Source : DREES, Études et résultats N°850 Auteurs : Vincent LE PALUD 90 % des Français sont couverts par une complémentaire santé privée. L’encadrement des critères de tarification de ces contrats conduit à des pratiques tarifaires différentes selon les types d’organismes et de contrats. ]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
