@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 02 Aug 2014 16:00:02 +0200</pubDate>
+  <pubDate>Sat, 02 Aug 2014 16:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Elections Municipales 2014 - Résultats sur la commune de Nogent-sur-Marne </title>
+     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-resultats-sur-la-commune-de-nogent-sur-marne</link>
+     <description><![CDATA[L'ACTION publie ici les résultats du 1er et du 2ème tour des élections municipales de mars 2014 sur la commune de Nogent-sur-Marne par bureau de vote. ]]></description>
+     <author>ACTION Nogent-sur-Marne</author>
+  </item>
   <item>
      <title>Les bénéficiaires de l’aide sociale départementale</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-beneficiaires-de-l-aide-sociale-departementa-0</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/programme-local-de-l-habitat-plh</link>
      <description><![CDATA[Zonage composé de l'ensemble des périmètres de programme local de l'habitat (PLH). Un PLH définit la politique de l'habitat sur un territoire intercommunal. Il vise à répondre aux besoins en logements (social ou non, locatif ou non), à favoriser la mixité sociale en assurant une répartition équilibrée et diversifiée de l'offre en logements au sein d'un territoire intercommunal et indique les...]]></description>
      <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
-  </item>
-  <item>
-     <title>Les revenus des chirurgiens-dentistes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-revenus-des-chirurgiens-dentistes</link>
-     <description><![CDATA[Source : DREES, Études et résultats N°849 Auteurs : Vanessa BELLAMY et Alioune BADARA MBAYE En 2008, les chirurgiens-dentistes libéraux en activité en Métropole ont déclaré en moyenne à l’administration fiscale 93 820 € de revenus liés à leurs activités professionnelles. Ces revenus se répartissent en 90 520 € de revenu libéral et 3 300 € de revenu salarial. ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
 </rss>
