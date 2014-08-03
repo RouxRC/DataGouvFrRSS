@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 03 Aug 2014 18:10:02 +0200</pubDate>
+  <pubDate>Sun, 03 Aug 2014 23:00:03 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Bureaux de vote de la ville de Nogent-sur-Marne</title>
+     <link>https://www.data.gouv.fr/fr/dataset/bureaux-de-vote-de-la-ville-de-nogent-sur-marne</link>
+     <description><![CDATA[L'ACTION publie ici la liste des bureaux de vote de la ville de Nogent-sur-Marne incluant leur adresse ainsi que leurs coordonnées géographiques tels que définis par la Préfecture du Val de Marne dans son arrêté N° 2013/2428 instituant les bureaux de vote dans la commune de Nogent-sur-Marne à compter du 1er mars 2014 (également fourni). ]]></description>
+     <author>ACTION Nogent-sur-Marne</author>
+  </item>
   <item>
      <title>Délibérations du Conseil Municipal de la ville de Nogent-sur-Marne (2014)</title>
      <link>https://www.data.gouv.fr/fr/dataset/deliberations-du-conseil-municipal-de-la-ville-de-nogent-sur-marne-2014</link>
@@ -358,12 +364,6 @@
      <title>Les prestations familiales et de logement. Une diminution du nombre de bénéficiaires de la PAJE</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-prestations-familiales-et-de-logement-une-diminution-du-nombre-de-beneficiaires-de-la-paje</link>
      <description><![CDATA[Source : DREES, Études et résultats N° 875 Auteurs : Bertrand LHOMMEAU avec la participation de Tania LEJBOWICZ À la fin 2012, 6,8 millions de familles bénéficient de 31,6 milliards d’euros de prestations familiales versées dans l’année, soit 387 euros par mois en moyenne pour chaque foyer aidé. ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Surveillance de la grossesse en 2010 : des inégalités socio-démographiques</title>
-     <link>https://www.data.gouv.fr/fr/dataset/surveillance-de-la-grossesse-en-2010-des-inegalites-socio-demographiques</link>
-     <description><![CDATA[Source : DREES, Études et résultats N°848 Auteurs : Annick VILAIN, Lucie GONZALEZ (Drees), Sylvie REY (Drees), Nicole MATET (DGS) et Béatrice BLONDEL (Inserm, U953) À partir de l’enquête nationale périnatale de 2010, cette étude analyse la surveillance prénatale des mères selon leurs caractéristiques socio-professionnelles, leur nationalité, leur âge et leur situation familiale. Elle confirme...]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
