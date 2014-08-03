@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 02 Aug 2014 16:30:02 +0200</pubDate>
+  <pubDate>Sun, 03 Aug 2014 10:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Elections Législatives 2012 - Résultats par bureau de vote sur la commune de Nogent-sur-Marne</title>
+     <link>https://www.data.gouv.fr/fr/dataset/elections-legislatives-2012-resultats-par-bureau-de-vote-sur-la-commune-de-nogent-sur-marne</link>
+     <description><![CDATA[L'ACTION publie ici les résultats du 1er et du 2ème tour des élections législatives 2012 sur la commune de Nogent-sur-Marne par bureau de vote. ]]></description>
+     <author>ACTION Nogent-sur-Marne</author>
+  </item>
   <item>
      <title>Elections Municipales 2014 - Résultats sur la commune de Nogent-sur-Marne </title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-resultats-sur-la-commune-de-nogent-sur-marne</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/les-beneficiaires-de-l-allocation-personnalisee-d-autonomie-a-domicile-et-leurs-ressources</link>
      <description><![CDATA[Source : DREES, Études et résultats N° 876 Auteurs : Mélanie Bérardier À la fin 2011, 696 000 personnes âgées de 60 ans ou plus reçoivent l’allocation personnalisée d’autonomie (APA) à domicile en France métropolitaine, soit une augmentation de 10 % depuis 2007. ]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Programme local de l'habitat (PLH)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/programme-local-de-l-habitat-plh</link>
-     <description><![CDATA[Zonage composé de l'ensemble des périmètres de programme local de l'habitat (PLH). Un PLH définit la politique de l'habitat sur un territoire intercommunal. Il vise à répondre aux besoins en logements (social ou non, locatif ou non), à favoriser la mixité sociale en assurant une répartition équilibrée et diversifiée de l'offre en logements au sein d'un territoire intercommunal et indique les...]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
   </item>
  </channel>
 </rss>
