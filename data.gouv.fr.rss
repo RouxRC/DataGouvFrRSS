@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 03 Aug 2014 10:40:02 +0200</pubDate>
+  <pubDate>Sun, 03 Aug 2014 18:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Délibérations du Conseil Municipal de la ville de Nogent-sur-Marne (2014)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/deliberations-du-conseil-municipal-de-la-ville-de-nogent-sur-marne-2014</link>
+     <description><![CDATA[L'ACTION publie ici un jeu de données reprenant la liste des délibérations discutées par le Conseil Municipal de la commune de Nogent-sur-Marne au cours de l'année 2014. Il contient la référence de chaque délibération, la date du conseil municipal au cours duquel chacune d'entre elle a été discutée, son domaine et son intitulé. Afin de consulter les délibérations à proprement parler, veuillez...]]></description>
+     <author>ACTION Nogent-sur-Marne</author>
+  </item>
   <item>
      <title>Elections Législatives 2012 - Résultats par bureau de vote sur la commune de Nogent-sur-Marne</title>
      <link>https://www.data.gouv.fr/fr/dataset/elections-legislatives-2012-resultats-par-bureau-de-vote-sur-la-commune-de-nogent-sur-marne</link>
@@ -358,12 +364,6 @@
      <title>Surveillance de la grossesse en 2010 : des inégalités socio-démographiques</title>
      <link>https://www.data.gouv.fr/fr/dataset/surveillance-de-la-grossesse-en-2010-des-inegalites-socio-demographiques</link>
      <description><![CDATA[Source : DREES, Études et résultats N°848 Auteurs : Annick VILAIN, Lucie GONZALEZ (Drees), Sylvie REY (Drees), Nicole MATET (DGS) et Béatrice BLONDEL (Inserm, U953) À partir de l’enquête nationale périnatale de 2010, cette étude analyse la surveillance prénatale des mères selon leurs caractéristiques socio-professionnelles, leur nationalité, leur âge et leur situation familiale. Elle confirme...]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Les bénéficiaires de l’allocation personnalisée d’autonomie à domicile et leurs ressources</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-beneficiaires-de-l-allocation-personnalisee-d-autonomie-a-domicile-et-leurs-ressources</link>
-     <description><![CDATA[Source : DREES, Études et résultats N° 876 Auteurs : Mélanie Bérardier À la fin 2011, 696 000 personnes âgées de 60 ans ou plus reçoivent l’allocation personnalisée d’autonomie (APA) à domicile en France métropolitaine, soit une augmentation de 10 % depuis 2007. ]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
