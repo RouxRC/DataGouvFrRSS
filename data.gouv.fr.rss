@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 03 Aug 2014 23:10:02 +0200</pubDate>
+  <pubDate>Mon, 04 Aug 2014 22:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Déclarations d'intérêts des parlementaires publiées par la Haute Autorité pour la Transparence</title>
+     <link>https://www.data.gouv.fr/fr/dataset/declarations-d-interets-des-parlementaires-publiees-par-la-haute-autorite-pour-la-transparence</link>
+     <description><![CDATA[Depuis la promulgation de la loi sur la transparence de la vie publique, les parlementaires doivent déclarer leurs intérêts à la Haute Autorité pour la Transparence de la Vie Publique en charge de les contrôler et de les rendre publics afin que chaque citoyen puisse évaluer les possibles risques de conflits d’intérêts de ses représentants. Activités annexes, rémunérations extérieures, autres...]]></description>
+     <author>NosDonnées.fr</author>
+  </item>
   <item>
      <title>Bureaux de vote de la ville de Nogent-sur-Marne</title>
      <link>https://www.data.gouv.fr/fr/dataset/bureaux-de-vote-de-la-ville-de-nogent-sur-marne</link>
@@ -115,7 +121,7 @@
      <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
   </item>
   <item>
-     <title>Telepac-Bénéficiaires_2010_2012</title>
+     <title>Telepac-Bénéficiaires-2010-2012</title>
      <link>https://www.data.gouv.fr/fr/dataset/telepac-beneficiaires-2010-2012</link>
      <description><![CDATA[Tableau croisé des aides perçus par chaque bénéficiaire au titre de la PAC ]]></description>
      <author>citoyen</author>
@@ -358,12 +364,6 @@
      <title>Parents bénéficiaires de minima sociaux : comment concilier vie familiale et insertion professionnelle ?</title>
      <link>https://www.data.gouv.fr/fr/dataset/parents-beneficiaires-de-minima-sociaux-comment-concilier-vie-familiale-et-insertion-professionnelle</link>
      <description><![CDATA[Source : DREES, Études et résultats N° 874 Auteurs : Marie Acs, Étienne Frel-Cazenave et Bertrand Lhommeau À la fin 2011, 2 millions de bénéficiaires ont perçu l’allocation de solidarité spécifique et le revenu de solidarité active socle en France métropolitaine. Parmi eux, 900 000 vivent avec au moins un enfant de moins de 25 ans et 690 000 avec un enfant de moins de 12 ans. ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Les prestations familiales et de logement. Une diminution du nombre de bénéficiaires de la PAJE</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-prestations-familiales-et-de-logement-une-diminution-du-nombre-de-beneficiaires-de-la-paje</link>
-     <description><![CDATA[Source : DREES, Études et résultats N° 875 Auteurs : Bertrand LHOMMEAU avec la participation de Tania LEJBOWICZ À la fin 2012, 6,8 millions de familles bénéficient de 31,6 milliards d’euros de prestations familiales versées dans l’année, soit 387 euros par mois en moyenne pour chaque foyer aidé. ]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
