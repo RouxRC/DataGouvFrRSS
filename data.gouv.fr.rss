@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 05 Aug 2014 13:10:02 +0200</pubDate>
+  <pubDate>Tue, 05 Aug 2014 16:20:03 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Délibérations du Conseil Municipal de la ville de Nogent-sur-Marne (2012)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/deliberations-du-conseil-municipal-de-la-ville-de-nogent-sur-marne-2012</link>
+     <description><![CDATA[L'ACTION publie ici un jeu de données reprenant la liste des délibérations discutées par le Conseil Municipal de la commune de Nogent-sur-Marne au cours de l'année 2012. Il contient la référence de chaque délibération, la date du conseil municipal au cours duquel chacune d'entre elle a été discutée, son domaine et son intitulé. Afin de consulter les délibérations à proprement parler, veuillez...]]></description>
+     <author>ACTION Nogent-sur-Marne</author>
+  </item>
   <item>
      <title>Déclarations d'intérêts des parlementaires publiées par la Haute Autorité pour la Transparence</title>
      <link>https://www.data.gouv.fr/fr/dataset/declarations-d-interets-des-parlementaires-publiees-par-la-haute-autorite-pour-la-transparence</link>
@@ -358,12 +364,6 @@
      <title>Les médecins généralistes face au paiement à la performance et à la coopération avec les infirmiers</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-medecins-generalistes-face-au-paiement-a-la-performance-et-a-la-cooperation-avec-les-infirmiers</link>
      <description><![CDATA[Source : DREES, Études et résultats N° 873 Auteurs : Sophie Massin, Alain Paraponaris, Marion Bernhard, Pierre Verger, Marie Cavillon, Fanny Mikol, Bruno Ventelou Les conditions d’exercice de la médecine générale connaissent des évolutions importantes. Le paiement à la performance, généralisé depuis 2012, et la coopération avec les infirmiers, pratique encore à un stade essentiellement...]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Parents bénéficiaires de minima sociaux : comment concilier vie familiale et insertion professionnelle ?</title>
-     <link>https://www.data.gouv.fr/fr/dataset/parents-beneficiaires-de-minima-sociaux-comment-concilier-vie-familiale-et-insertion-professionnelle</link>
-     <description><![CDATA[Source : DREES, Études et résultats N° 874 Auteurs : Marie Acs, Étienne Frel-Cazenave et Bertrand Lhommeau À la fin 2011, 2 millions de bénéficiaires ont perçu l’allocation de solidarité spécifique et le revenu de solidarité active socle en France métropolitaine. Parmi eux, 900 000 vivent avec au moins un enfant de moins de 25 ans et 690 000 avec un enfant de moins de 12 ans. ]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
