@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 05 Aug 2014 16:30:02 +0200</pubDate>
+  <pubDate>Tue, 05 Aug 2014 16:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Bassins d'emplois par commune</title>
+     <link>https://www.data.gouv.fr/fr/dataset/bassins-d-emplois-par-commune</link>
+     <description><![CDATA[Une zone d'emploi est un espace géographique à l'intérieur duquel la plupart des actifs résident et travaillent, et dans lequel les établissements peuvent trouver l'essentiel de la main d'œuvre nécessaire pour occuper les emplois offerts. Le découpage en zones d'emploi constitue une partition du territoire adaptée aux études locales sur le marché du travail. Le zonage définit aussi des...]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Délibérations du Conseil Municipal de la ville de Nogent-sur-Marne (2012)</title>
      <link>https://www.data.gouv.fr/fr/dataset/deliberations-du-conseil-municipal-de-la-ville-de-nogent-sur-marne-2012</link>
@@ -357,12 +363,6 @@
   <item>
      <title>Les médecins généralistes face au paiement à la performance et à la coopération avec les infirmiers</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-medecins-generalistes-face-au-paiement-a-la-performance-et-a-la-cooperation-avec-les-infirmie-0</link>
-     <description><![CDATA[Source : DREES, Études et résultats N° 873 Auteurs : Sophie Massin, Alain Paraponaris, Marion Bernhard, Pierre Verger, Marie Cavillon, Fanny Mikol, Bruno Ventelou Les conditions d’exercice de la médecine générale connaissent des évolutions importantes. Le paiement à la performance, généralisé depuis 2012, et la coopération avec les infirmiers, pratique encore à un stade essentiellement...]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Les médecins généralistes face au paiement à la performance et à la coopération avec les infirmiers</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-medecins-generalistes-face-au-paiement-a-la-performance-et-a-la-cooperation-avec-les-infirmiers</link>
      <description><![CDATA[Source : DREES, Études et résultats N° 873 Auteurs : Sophie Massin, Alain Paraponaris, Marion Bernhard, Pierre Verger, Marie Cavillon, Fanny Mikol, Bruno Ventelou Les conditions d’exercice de la médecine générale connaissent des évolutions importantes. Le paiement à la performance, généralisé depuis 2012, et la coopération avec les infirmiers, pratique encore à un stade essentiellement...]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
