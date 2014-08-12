@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 12 Aug 2014 09:40:02 +0200</pubDate>
+  <pubDate>Tue, 12 Aug 2014 17:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Calendrier des jours de collecte des emballages ménagers recyclables et déchets ménagers sur la commune d’Ollioules</title>
+     <link>https://www.data.gouv.fr/fr/dataset/calendrier-des-jours-de-collecte-des-emballages-menagers-recyclables-et-dechets-menagers-sur-la-comm</link>
+     <description><![CDATA[Calendrier au format iCalendar des jours de collecte des emballages ménagers recyclabes et déchets ménagers sur la commune d’Ollioules ; généré manuellement depuis le PDF publié à http://www.ollioules.fr/images/stories/pdf/calendriertri2014.pdf ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Bassins de vie </title>
      <link>https://www.data.gouv.fr/fr/dataset/bassins-de-vie</link>
@@ -358,12 +364,6 @@
      <title>Les conditions de vie des bénéficiaires de minima sociaux : privations et difficultés financières</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-conditions-de-vie-des-beneficiaires-de-minima-sociaux-privations-et-difficultes-financieres</link>
      <description><![CDATA[Source : DREES, Études et résultats N° 871 Auteurs : Audrey Isel À la fin 2012, plus de la moitié des bénéficiaires de minima sociaux sont pauvres en conditions de vie. Ils sont plus touchés par cette forme de pauvreté que les personnes aux revenus modestes. ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Les conditions de logement des bénéficiaires de minima sociaux : difficultés d’accès, surpeuplement et contraintes budgétaires</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-conditions-de-logement-des-beneficiaires-de-minima-sociaux-difficultes-d-acces-surpeuplement-et-</link>
-     <description><![CDATA[Source : DREES, Études et résultats N° 872 Auteurs : Mathieu Calvo et Anne Legal À la fin 2012, plus du tiers des bénéficiaires de minima sociaux sont locataires du secteur social. Parallèlement, environ un quart ne dispose pas de son propre logement : 18 % sont hébergés par des proches ou occupent un logement prêté (contre 4 % des personnes du premier quintile de niveau de vie), 2 % vivent...]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
