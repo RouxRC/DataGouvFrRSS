@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 05 Aug 2014 16:50:02 +0200</pubDate>
+  <pubDate>Tue, 12 Aug 2014 09:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Bassins de vie </title>
+     <link>https://www.data.gouv.fr/fr/dataset/bassins-de-vie</link>
+     <description><![CDATA[Le bassin de vie est le plus petit territoire sur lequel les habitants ont accès aux équipements et services les plus courants. Les services et équipements de la vie courante servant à définir les bassins de vie sont classés en 6 grands domaines: - services aux particuliers - commerce - enseignement - santé - sports, loisirs et culture - transports ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Bassins d'emplois par commune</title>
      <link>https://www.data.gouv.fr/fr/dataset/bassins-d-emplois-par-commune</link>
@@ -358,12 +364,6 @@
      <title>Les conditions de logement des bénéficiaires de minima sociaux : difficultés d’accès, surpeuplement et contraintes budgétaires</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-conditions-de-logement-des-beneficiaires-de-minima-sociaux-difficultes-d-acces-surpeuplement-et-</link>
      <description><![CDATA[Source : DREES, Études et résultats N° 872 Auteurs : Mathieu Calvo et Anne Legal À la fin 2012, plus du tiers des bénéficiaires de minima sociaux sont locataires du secteur social. Parallèlement, environ un quart ne dispose pas de son propre logement : 18 % sont hébergés par des proches ou occupent un logement prêté (contre 4 % des personnes du premier quintile de niveau de vie), 2 % vivent...]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Les médecins généralistes face au paiement à la performance et à la coopération avec les infirmiers</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-medecins-generalistes-face-au-paiement-a-la-performance-et-a-la-cooperation-avec-les-infirmie-0</link>
-     <description><![CDATA[Source : DREES, Études et résultats N° 873 Auteurs : Sophie Massin, Alain Paraponaris, Marion Bernhard, Pierre Verger, Marie Cavillon, Fanny Mikol, Bruno Ventelou Les conditions d’exercice de la médecine générale connaissent des évolutions importantes. Le paiement à la performance, généralisé depuis 2012, et la coopération avec les infirmiers, pratique encore à un stade essentiellement...]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
