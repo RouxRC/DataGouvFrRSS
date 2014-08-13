@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 13 Aug 2014 12:20:02 +0200</pubDate>
+  <pubDate>Wed, 13 Aug 2014 17:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Délibérations du Conseil Municipal de la ville de Nogent-sur-Marne (2011)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/deliberations-du-conseil-municipal-de-la-ville-de-nogent-sur-marne-2011</link>
+     <description><![CDATA[L'ACTION publie ici un jeu de données reprenant la liste des délibérations discutées par le Conseil Municipal de la commune de Nogent-sur-Marne au cours de l'année 2011. Il contient la référence de chaque délibération, la date du conseil municipal au cours duquel chacune d'entre elle a été discutée, son domaine et son intitulé. Afin de consulter les délibérations à proprement parler, veuillez...]]></description>
+     <author>ACTION Nogent-sur-Marne</author>
+  </item>
   <item>
      <title>Calendrier des jours de collecte des emballages ménagers recyclables et déchets ménagers sur la commune d’Ollioules</title>
      <link>https://www.data.gouv.fr/fr/dataset/calendrier-des-jours-de-collecte-des-emballages-menagers-recyclables-et-dechets-menagers-sur-la-comm</link>
@@ -358,12 +364,6 @@
      <title>Les dépenses d’aide sociale départementale</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-depenses-d-aide-sociale-departementale</link>
      <description><![CDATA[Source : DREES, Études et résultats N° 870 Auteurs : Elise Amar En 2012, les dépenses totales nettes d’aide sociale des conseils généraux s’élèvent à 32,6 milliards d’euros en France, dont 30,8 milliards en France métropolitaine, soit une hausse en euros constants de 1,2 % par rapport à 2011 et de 12,5 % depuis 2008. ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Les conditions de vie des bénéficiaires de minima sociaux : privations et difficultés financières</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-conditions-de-vie-des-beneficiaires-de-minima-sociaux-privations-et-difficultes-financieres</link>
-     <description><![CDATA[Source : DREES, Études et résultats N° 871 Auteurs : Audrey Isel À la fin 2012, plus de la moitié des bénéficiaires de minima sociaux sont pauvres en conditions de vie. Ils sont plus touchés par cette forme de pauvreté que les personnes aux revenus modestes. ]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
