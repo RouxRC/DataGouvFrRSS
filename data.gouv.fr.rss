@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 14 Aug 2014 18:10:02 +0200</pubDate>
+  <pubDate>Fri, 15 Aug 2014 09:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Décisions prises par le maire de Nogent-sur-Marne (2014)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/decisions-prises-par-le-maire-de-nogent-sur-marne-2014</link>
+     <description><![CDATA[L'ACTION publie ici un jeu de données contenant les décisions prises par le Maire de Nogent-sur-Marne en 2014 en vertu de l'article L.2122-22 du Code Général des Collectivités Territoriales (CGCT). En effet, le Conseil Municipal de la commune a délégué pouvoir pour prendre ces décisions lors de sa séance du 12 mai 2014 en votant la délibération 14/99. Chaque décision comporte le numéro de...]]></description>
+     <author>ACTION Nogent-sur-Marne</author>
+  </item>
   <item>
      <title>Tableau des molécules onéreuses et dispositifs médicaux implantables de la liste en sus</title>
      <link>https://www.data.gouv.fr/fr/dataset/tableau-des-molecules-onereuses-et-dispositifs-medicaux-implantables-de-la-liste-en-sus</link>
@@ -358,12 +364,6 @@
      <title>Santé bucco-dentaire des enfants : des inégalités dès le plus jeune âge</title>
      <link>https://www.data.gouv.fr/fr/dataset/sante-bucco-dentaire-des-enfants-des-inegalites-des-le-plus-jeune-age</link>
      <description><![CDATA[Source : DREES, Études et résultats N°847 Auteurs : Lucie CALVET, Muriel MOISY, Olivier CHARDON, Lucie GONZALEZ et Nathalie GUIGNON La santé bucco-dentaire des enfants s’est nettement améliorée ces vingt dernières années. Cependant, des inégalités sociales de recours aux soins et de santé demeurent : 9 enfants de cadres âgés de 6 ans sur 10 n’ont jamais eu de caries contre 7 enfants...]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Établissements de santé : le personnel soignant de plus en plus âgé</title>
-     <link>https://www.data.gouv.fr/fr/dataset/etablissements-de-sante-le-personnel-soignant-de-plus-en-plus-age</link>
-     <description><![CDATA[Source : DREES, Études et résultats N°846 Auteurs : Élodie KRANKLADER, Christelle MINODIER et Nathalie FOURCADE Le personnel non médical des établissements de santé en France est relativement âgé, en particulier le personnel non soignant, parmi lequel les 50 ans et plus sont davantage représentés. Les structures d’âge des sages-femmes et professions non médicales soignantes sont plutôt...]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
