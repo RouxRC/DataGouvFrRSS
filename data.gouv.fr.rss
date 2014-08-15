@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 15 Aug 2014 09:10:02 +0200</pubDate>
+  <pubDate>Fri, 15 Aug 2014 11:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Indemnités des élus municipaux de la ville de Nogent-sur-Marne (2014)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/indemnites-des-elus-municipaux-de-la-ville-de-nogent-sur-marne-2014</link>
+     <description><![CDATA[L'ACTION publie ici le montant des indemnités brutes des représentants municipaux au titre de leur mandat au conseil municipal de la ville de Nogent-sur-Marne telles que votées avec la délibération 14/60 du conseil municipal du 17 avril 2014 complétée par la délibération 14/139 du 7 juillet 2014. ]]></description>
+     <author>ACTION Nogent-sur-Marne</author>
+  </item>
   <item>
      <title>Décisions prises par le maire de Nogent-sur-Marne (2014)</title>
      <link>https://www.data.gouv.fr/fr/dataset/decisions-prises-par-le-maire-de-nogent-sur-marne-2014</link>
@@ -358,12 +364,6 @@
      <title>La prise en charge en médecine générale des personnes âgées dépendantes vivant à domicile</title>
      <link>https://www.data.gouv.fr/fr/dataset/la-prise-en-charge-en-medecine-generale-des-personnes-agees-dependantes-vivant-a-domicile</link>
      <description><![CDATA[Source : DREES, Études et résultats N° 869 Auteurs : Jean-François Buyck, Bénédicte Casteran-Sacreste, Marie Cavillon Françoise Lelièvre, François Tuffreau, Fanny Mikol La prise en charge et le maintien à domicile des personnes âgées en situation de dépendance sont des problématiques auxquelles les médecins généralistes sont régulièrement confrontés : la quasi-totalité de ces praticiens...]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Santé bucco-dentaire des enfants : des inégalités dès le plus jeune âge</title>
-     <link>https://www.data.gouv.fr/fr/dataset/sante-bucco-dentaire-des-enfants-des-inegalites-des-le-plus-jeune-age</link>
-     <description><![CDATA[Source : DREES, Études et résultats N°847 Auteurs : Lucie CALVET, Muriel MOISY, Olivier CHARDON, Lucie GONZALEZ et Nathalie GUIGNON La santé bucco-dentaire des enfants s’est nettement améliorée ces vingt dernières années. Cependant, des inégalités sociales de recours aux soins et de santé demeurent : 9 enfants de cadres âgés de 6 ans sur 10 n’ont jamais eu de caries contre 7 enfants...]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
