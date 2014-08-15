@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 15 Aug 2014 11:30:02 +0200</pubDate>
+  <pubDate>Fri, 15 Aug 2014 11:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Indemnités des élus de la Communauté d'Agglomération de la Vallée de la Marne (CAVM) (2014)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/indemnites-des-elus-de-la-communaute-d-agglomeration-de-la-vallee-de-la-marne-cavm-2014</link>
+     <description><![CDATA[L'ACTION publie ici le montant des indemnités brutes des élus communautaires au titre de leur mandat au conseil communautaire de la Communauté d'Agglomération de la Vallée de la Marne (CAVM) constituée des communes de Nogent-sur-Marne et du Perreux-sur-Marne telles que votées avec le point numéro 4 de l'ordre du jour du conseil communautaire du 9 avril 2014. ]]></description>
+     <author>ACTION Nogent-sur-Marne</author>
+  </item>
   <item>
      <title>Indemnités des élus municipaux de la ville de Nogent-sur-Marne (2014)</title>
      <link>https://www.data.gouv.fr/fr/dataset/indemnites-des-elus-municipaux-de-la-ville-de-nogent-sur-marne-2014</link>
@@ -358,12 +364,6 @@
      <title>Échec et retard scolaire des enfants hébergés par l’aide sociale à l’enfance</title>
      <link>https://www.data.gouv.fr/fr/dataset/echec-et-retard-scolaire-des-enfants-heberges-par-l-aide-sociale-a-l-enfance</link>
      <description><![CDATA[Source : DREES, Études et résultats N°845 Auteur :Thierry MAINAUD La situation familiale ou sociale difficile vécue par les enfants placés dans les établissements de l’aide sociale à l’enfance (ASE) influe sur leur scolarité. Ces enfants connaissent des situations de déscolarisation, notamment l’année où survient le placement. À 15 ans, ils sont trois fois plus nombreux dans cette situation...]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>La prise en charge en médecine générale des personnes âgées dépendantes vivant à domicile</title>
-     <link>https://www.data.gouv.fr/fr/dataset/la-prise-en-charge-en-medecine-generale-des-personnes-agees-dependantes-vivant-a-domicile</link>
-     <description><![CDATA[Source : DREES, Études et résultats N° 869 Auteurs : Jean-François Buyck, Bénédicte Casteran-Sacreste, Marie Cavillon Françoise Lelièvre, François Tuffreau, Fanny Mikol La prise en charge et le maintien à domicile des personnes âgées en situation de dépendance sont des problématiques auxquelles les médecins généralistes sont régulièrement confrontés : la quasi-totalité de ces praticiens...]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
