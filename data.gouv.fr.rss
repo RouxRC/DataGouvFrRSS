@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 16 Aug 2014 19:30:02 +0200</pubDate>
+  <pubDate>Sun, 17 Aug 2014 17:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Délibérations du Conseil Municipal de la ville de Nogent-sur-Marne (2010)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/deliberations-du-conseil-municipal-de-la-ville-de-nogent-sur-marne-2010</link>
+     <description><![CDATA[L'ACTION publie ici un jeu de données reprenant la liste des délibérations discutées par le Conseil Municipal de la commune de Nogent-sur-Marne au cours de l'année 2010. Il contient la référence de chaque délibération, la date du conseil municipal au cours duquel chacune d'entre elle a été discutée, son domaine et son intitulé. Afin de consulter les délibérations à proprement parler, veuillez...]]></description>
+     <author>ACTION Nogent-sur-Marne</author>
+  </item>
   <item>
      <title>Liste des Immeubles sur la commune de Nogent-sur-Marne protégés au titre des Monuments Historiques</title>
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-immeubles-sur-la-commune-de-nogent-sur-marne-proteges-au-titre-des-monuments-historiques</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/distance-d-acces-a-plusieurs-specialites-medicales</link>
      <description><![CDATA[Distance d'accès au praticien (en minutes) Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Snir, Insee, Irdes. Les calculs des distances ont été effectués avec le logiciel de calcul des distances routières "Distancier Odomatrix - INRA, UMR1041 CESAER" développé par l'Inra en collaboration avec le Certu et l'Insee ]]></description>
      <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>La hausse du nombre d’allocataires des minima sociaux se poursuit</title>
-     <link>https://www.data.gouv.fr/fr/dataset/la-hausse-du-nombre-d-allocataires-des-minima-sociaux-se-poursuit</link>
-     <description><![CDATA[Source : DREES, Études et résultats N°844 Auteurs : Anne LEGAL Fin 2011, 3,7 millions de personnes sont allocataires de l’un des neuf minima sociaux. Cela constitue une hausse de 2,4 % en 2011, après celle de 2,5 % en 2010. En incluant les conjoints et les enfants à charge, 10,0 % de la population française est couverte par les minima sociaux. ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
 </rss>
