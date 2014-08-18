@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sun, 17 Aug 2014 17:00:02 +0200</pubDate>
+  <pubDate>Mon, 18 Aug 2014 10:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Délibérations du Conseil Municipal de la ville de Nogent-sur-Marne (2010)</title>
@@ -187,8 +187,8 @@
      <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
   </item>
   <item>
-     <title>Telepac-Bénéficiaires-2010-2012</title>
-     <link>https://www.data.gouv.fr/fr/dataset/telepac-beneficiaires-2010-2012</link>
+     <title>Telepac, les bénéficiaires de la PAC</title>
+     <link>https://www.data.gouv.fr/fr/dataset/telepac-les-beneficiaires-de-la-pac</link>
      <description><![CDATA[Tableau croisé des aides perçus par chaque bénéficiaire au titre de la PAC ]]></description>
      <author>citoyen</author>
   </item>
