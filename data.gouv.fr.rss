@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 18 Aug 2014 10:10:02 +0200</pubDate>
+  <pubDate>Tue, 19 Aug 2014 07:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Test</title>
+     <link>https://www.data.gouv.fr/fr/dataset/t-11</link>
+     <description><![CDATA[test ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Délibérations du Conseil Municipal de la ville de Nogent-sur-Marne (2010)</title>
      <link>https://www.data.gouv.fr/fr/dataset/deliberations-du-conseil-municipal-de-la-ville-de-nogent-sur-marne-2010</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/les-interruptions-volontaires-de-grosses-0</link>
      <description><![CDATA[Source : DREES, Études et résultats N°843 Auteurs : Annick VILAIN, Marie-Claude MOUQUET, Lucie GONZALEZ et Nicolas De RICCARDIS 222 500 interruptions volontaires de grossesse (IVG) ont été réalisées en France en 2011, dont 209 300 en Métropole. Ce nombre est stable depuis 2006, après une dizaine d’années de hausse entre 1995 et 2006. D’après les données provisoires, les IVG n’ont pas augmenté...]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Distance d'accès à plusieurs spécialités médicales</title>
-     <link>https://www.data.gouv.fr/fr/dataset/distance-d-acces-a-plusieurs-specialites-medicales</link>
-     <description><![CDATA[Distance d'accès au praticien (en minutes) Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Snir, Insee, Irdes. Les calculs des distances ont été effectués avec le logiciel de calcul des distances routières "Distancier Odomatrix - INRA, UMR1041 CESAER" développé par l'Inra en collaboration avec le Certu et l'Insee ]]></description>
-     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
   </item>
  </channel>
 </rss>
