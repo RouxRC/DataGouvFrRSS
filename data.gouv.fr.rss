@@ -4,12 +4,12 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 21 Aug 2014 18:10:02 +0200</pubDate>
+  <pubDate>Thu, 21 Aug 2014 18:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
-     <title>Etude sur l’évolution du prix des produits d’automédication non remboursables en France entre 2009 et 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/etude-sur-l-evolution-du-prix-des-produits-d-automedication-non-remboursables-en-france-entre-2009-e</link>
-     <description><![CDATA[Veuillez trouver les éléments relatifs à l’étude sur l’évolution du prix des produits d’automédication non remboursables en France entre 2009 et 2013 – Cette étude a été réalisée à l’attention de l’ordre des pharmaciens et est libre de droit. Vous y trouverez le jeu des données brutes et son descriptif, la note de synthèse de l’étude et la méthodologie suivie. Elles sont publiées sous licence...]]></description>
+     <title>Etude sur l’évolution du prix des produits d’automédication non remboursables en France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/etude-sur-l-evolution-du-prix-des-produits-d-automedication-non-remboursables-en-france</link>
+     <description><![CDATA[Veuillez trouver les éléments relatifs à l’étude sur l’évolution du prix des produits d’automédication non remboursables en France entre 2009 et 2013. Elles sont publiées sous licence ODbL (Licence ODbL). ]]></description>
      <author>citoyen</author>
   </item>
   <item>
