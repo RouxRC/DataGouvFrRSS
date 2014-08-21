@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 19 Aug 2014 16:50:02 +0200</pubDate>
+  <pubDate>Thu, 21 Aug 2014 10:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Liste des points d'accès à internet</title>
+     <link>https://www.data.gouv.fr/fr/dataset/liste-des-points-d-acces-a-internet</link>
+     <description><![CDATA[Le fichier contient la liste des structures publiques où une connexion internet est accessible à Issy (ordinateur, borne ou wifi). ]]></description>
+     <author>Ville d'Issy-les-Moulineaux (certifié)</author>
+  </item>
   <item>
      <title>Données comptables et fiscales - Nogent-sur-Marne (2000-2012)</title>
      <link>https://www.data.gouv.fr/fr/dataset/donnees-comptables-et-fiscales-nogent-sur-marne-2000-2012</link>
@@ -358,12 +364,6 @@
      <title>Les durées d’assurance validées par les actifs pour leur retraite</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-durees-d-assurance-validees-par-les-actifs-pour-leur-retraite</link>
      <description><![CDATA[Source : DREES, Études et résultats N°842 Auteur : Laurianne SALEMBIER La durée d’assurance validée par les actifs à 30 ans est plus faible pour les jeunes générations, du fait de l’allongement de la durée des études et des difficultés d’insertion sur le marché de l’emploi. Néanmoins, la génération 1978, entrée dans la vie active dans un contexte économique assez favorable, valide un peu plus...]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Les interruptions volontaires de grossesse</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-interruptions-volontaires-de-grosses-0</link>
-     <description><![CDATA[Source : DREES, Études et résultats N°843 Auteurs : Annick VILAIN, Marie-Claude MOUQUET, Lucie GONZALEZ et Nicolas De RICCARDIS 222 500 interruptions volontaires de grossesse (IVG) ont été réalisées en France en 2011, dont 209 300 en Métropole. Ce nombre est stable depuis 2006, après une dizaine d’années de hausse entre 1995 et 2006. D’après les données provisoires, les IVG n’ont pas augmenté...]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
