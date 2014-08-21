@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 21 Aug 2014 18:00:02 +0200</pubDate>
+  <pubDate>Thu, 21 Aug 2014 18:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Etude sur l’évolution du prix des produits d’automédication non remboursables en France entre 2009 et 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/etude-sur-l-evolution-du-prix-des-produits-d-automedication-non-remboursables-en-france-entre-2009-e</link>
+     <description><![CDATA[Veuillez trouver les éléments relatifs à l’étude sur l’évolution du prix des produits d’automédication non remboursables en France entre 2009 et 2013 – Cette étude a été réalisée à l’attention de l’ordre des pharmaciens et est libre de droit. Vous y trouverez le jeu des données brutes et son descriptif, la note de synthèse de l’étude et la méthodologie suivie. Elles sont publiées sous licence...]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Polices municipales et richesse des communes</title>
      <link>https://www.data.gouv.fr/fr/dataset/polices-municipales-et-richesse-des-communes</link>
@@ -358,12 +364,6 @@
      <title>La longue diminution des appendicectomies en France</title>
      <link>https://www.data.gouv.fr/fr/dataset/la-longue-diminution-des-appendicectomies-en-france</link>
      <description><![CDATA[Source : DREES, Études et résultats N° 868 Auteurs : Philippe Oberlin, Marie-Claude Mouquet En 2012, 83 400 appendicectomies étaient pratiquées en France. Leur nombre a fortement diminué depuis les années 1980 où il était estimé à plus de 300 000. Cette baisse n’a pas concerné les interventions pour péritonites ou abcès appendiculaires, formes graves de l’appendicite aiguë, qui sont restées...]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Le temps consacré aux activités parentales</title>
-     <link>https://www.data.gouv.fr/fr/dataset/le-temps-consacre-aux-activites-parentales</link>
-     <description><![CDATA[Source : DREES, Études et résultats N°841 Auteurs : Thibaut DE SAINT POL, Mathilde BOUCHARDON En France métropolitaine, le temps consacré aux enfants reste très inégalement réparti entre hommes et femmes. Avec une heure et demie quotidienne, les mères consacrent en moyenne deux fois plus de temps aux activités que les pères. Les activités pratiquées ne sont pas les mêmes et sont réparties...]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
