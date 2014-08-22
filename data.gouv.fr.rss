@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 22 Aug 2014 19:00:08 +0200</pubDate>
+  <pubDate>Fri, 22 Aug 2014 20:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Caractéristiques et localisation des stations de recharge Supercharger TESLA</title>
+     <link>https://www.data.gouv.fr/fr/dataset/caracteristiques-et-localisation-des-stations-de-recharge-supercharger-tesla</link>
+     <description><![CDATA[Description et localisation des Supercharger TESLA - Borne de recharge pour Véhicules Electriques ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Carte logement d'ile de France d'où la société EGR Rénovations est intervenue</title>
      <link>https://www.data.gouv.fr/fr/dataset/carte-logement-d-ile-de-france-d-ou-la-societe-egr-renovations-est-interven-0</link>
@@ -358,12 +364,6 @@
      <title>Les spécificités régionales des modes de garde déclarés des enfants de moins de 3 ans</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-specificites-regionales-des-modes-de-garde-declares-des-enfants-de-moins-de-3-ans</link>
      <description><![CDATA[Source : DREES, Études et résultats N°839 Auteur : Marie ACS En janvier 2011, 2,3 millions d’enfants de moins de 3 ans vivent en France métropolitaine. Dans toutes les régions, à l’exception des Pays de la Loire, les parents déclarent le plus souvent garder eux-mêmes leur enfant en semaine dans la journée, en dehors de l’école s’il y va. ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>L’offre d’accueil des enfants de moins de trois ans</title>
-     <link>https://www.data.gouv.fr/fr/dataset/l-offre-d-accueil-des-enfants-de-moins-de-trois-ans</link>
-     <description><![CDATA[Source : DREES, Études et résultats N°840 Auteur : Françoise BORDERIES À la fin de l’année 2011, 11 600 établissements en France métropolitaine accueillent des jeunes enfants. Ils offrent 373 700 places, soit 11 300 places de plus qu’en 2010 et presque 90 400 de plus qu’en 1998. Les établissements d’accueil collectif regroupent 85 % de l’ensemble de ces places (crèches collectives,...]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
