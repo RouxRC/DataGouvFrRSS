@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 21 Aug 2014 20:10:02 +0200</pubDate>
+  <pubDate>Fri, 22 Aug 2014 18:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Carte logement d'ile de France d'où la société EGR Rénovations est intervenue</title>
+     <link>https://www.data.gouv.fr/fr/dataset/carte-logement-d-ile-de-france-d-ou-la-societe-egr-renovations-est-interven-0</link>
+     <description><![CDATA[Carte logement d'ile de France d'où la société EGR Rénovations est intervenue ]]></description>
+     <author>EGR Rénovation</author>
+  </item>
   <item>
      <title>KML des communes, y compris DOM-TOM</title>
      <link>https://www.data.gouv.fr/fr/dataset/kml-des-communes-y-compris-dom-tom</link>
@@ -358,12 +364,6 @@
      <title>L’offre d’accueil des enfants de moins de trois ans</title>
      <link>https://www.data.gouv.fr/fr/dataset/l-offre-d-accueil-des-enfants-de-moins-de-trois-ans</link>
      <description><![CDATA[Source : DREES, Études et résultats N°840 Auteur : Françoise BORDERIES À la fin de l’année 2011, 11 600 établissements en France métropolitaine accueillent des jeunes enfants. Ils offrent 373 700 places, soit 11 300 places de plus qu’en 2010 et presque 90 400 de plus qu’en 1998. Les établissements d’accueil collectif regroupent 85 % de l’ensemble de ces places (crèches collectives,...]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Quand les jeunes n’habitent pas chez leurs parents : revenus et niveau de vie</title>
-     <link>https://www.data.gouv.fr/fr/dataset/quand-les-jeunes-n-habitent-pas-chez-leurs-parents-revenus-et-niveau-de-vie</link>
-     <description><![CDATA[Source : DREES, Études et résultats N° 867 Auteurs : Bertrand Lhommeau Environ quatre jeunes adultes sur dix, âgés de 18 à 25 ans, ne vivent pas habituellement chez leurs parents. Globalement plus âgés, plus diplômés et donc mieux insérés dans le marché du travail que l’ensemble des jeunes adultes, 84 % de ces jeunes dits « non cohabitants » ont perçu en moyenne des revenus du travail au...]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
