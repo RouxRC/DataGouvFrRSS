@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 26 Aug 2014 15:00:03 +0200</pubDate>
+  <pubDate>Tue, 26 Aug 2014 20:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les types de marée dans le monde</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-types-de-maree-dans-le-monde</link>
+     <description><![CDATA[Ce produit présente la répartition mondiale des types de marée. Il existe quatre types de marée, classés selon le nombre et la hauteur des pleines et basses mers de chaque jour : la marée semi-diurne : on observe chaque jour deux pleines et deux basses mers ayant sensiblement la même hauteur. la marée semi-diurne à inégalités diurnes : on observe chaque jour deux pleines et deux...]]></description>
+     <author>SHOM (certifié)</author>
+  </item>
   <item>
      <title> Statistiques des niveaux marins extrêmes des côtes de France - Edition 2012</title>
      <link>https://www.data.gouv.fr/fr/dataset/statistiques-des-niveaux-marins-extremes-des-cotes-de-france-edition-2012</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/encours-des-creances-de-la-france-sur-les-etats-etrangers-au-31-decembre-2013</link>
      <description><![CDATA[Il s’agit des encours des créances détenues soit par l’État directement (via la Banque de France), soit par l’Agence Française de Développement, soit par Coface et Natixis pour le compte de l’État. Sont incluses dans les encours présentés toutes les créances dont le débiteur est soit souverain, soit appartient au secteur public d’un État étranger. ]]></description>
      <author>Ministère des finances et des comptes publics (certifié)</author>
-  </item>
-  <item>
-     <title>Qualité et accessibilité des soins de santé : qu’en pensent les Français ?</title>
-     <link>https://www.data.gouv.fr/fr/dataset/qualite-et-accessibilite-des-soins-de-sante-qu-en-pensent-les-francais</link>
-     <description><![CDATA[Source : DREES, Études et résultats N° 866 Auteurs : Rosalinda Coppoletta et Vincent Le Palud Les Français sont plutôt satisfaits de la qualité générale des soins de santé, par rapport à leurs voisins européens. Selon le Baromètre d’opinion de la DREES, cet avis est néanmoins contrasté selon les types de soins. ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
 </rss>
