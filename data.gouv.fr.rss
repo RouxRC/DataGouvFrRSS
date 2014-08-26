@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 26 Aug 2014 14:20:02 +0200</pubDate>
+  <pubDate>Tue, 26 Aug 2014 14:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title> Statistiques des niveaux marins extrêmes des côtes de France - Edition 2012</title>
+     <link>https://www.data.gouv.fr/fr/dataset/statistiques-des-niveaux-marins-extremes-des-cotes-de-france-edition-2012</link>
+     <description><![CDATA[Cette étude s’inscrit dans le cadre d’un partenariat SHOM-CETMEF. Elle consiste à calculer des niveaux marins extrêmes à partir de l’ensemble des données marégraphiques disponibles au SHOM, jusqu’au 22/11/2009. La méthodologie est identique à celle décrite dans le cédérom commun SHOM-CETMEF des statistiques des niveaux extrêmes de l’année 2008 sur les niveaux extrêmes. L’objectif est, d’une...]]></description>
+     <author>SHOM (certifié)</author>
+  </item>
   <item>
      <title>test</title>
      <link>https://www.data.gouv.fr/fr/dataset/te-0</link>
@@ -358,12 +364,6 @@
      <title>Qualité et accessibilité des soins de santé : qu’en pensent les Français ?</title>
      <link>https://www.data.gouv.fr/fr/dataset/qualite-et-accessibilite-des-soins-de-sante-qu-en-pensent-les-francais</link>
      <description><![CDATA[Source : DREES, Études et résultats N° 866 Auteurs : Rosalinda Coppoletta et Vincent Le Palud Les Français sont plutôt satisfaits de la qualité générale des soins de santé, par rapport à leurs voisins européens. Selon le Baromètre d’opinion de la DREES, cet avis est néanmoins contrasté selon les types de soins. ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Les motivations de départ à la retraite : stabilité</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-motivations-de-depart-a-la-retraite-stabilite</link>
-     <description><![CDATA[Source : DREES, Études et résultats N°838 Auteurs : Nadine BARTHÉLÉMY, Mehdi MAMACHE, Samia BENALLAH Interrogés en 2012 sur leurs motivations de départ, la majorité des nouveaux retraités qui ont liquidé une pension au régime général entre le 1er juillet 2010 et le 30 juin 2011 sont partis dès que possible, en général dès l’atteinte d’une pension à taux plein, afin de profiter le plus...]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
