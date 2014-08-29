@@ -4,14 +4,8 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Sat, 30 Aug 2014 00:30:02 +0200</pubDate>
+  <pubDate>Sat, 30 Aug 2014 00:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
-  <item>
-     <title>Evolutions et perspectives des retraites en France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/evolutions-et-perspectives-des-retraites-en-fran-0</link>
-     <description><![CDATA[Ces données constituent la base du premier rapport annuel du Conseil d’orientation des retraites (COR) sur les évolutions et les perspectives des retraites en France, en application de la loi du 20 janvier 2014 qui confère au COR la nouvelle mission « de produire chaque année, au plus tard le 15 juin, un document annuel et public sur le système de retraite, fondé sur des indicateurs de suivi »....]]></description>
-     <author>citoyen</author>
-  </item>
   <item>
      <title>Publicité : les tarifs de la presse entre 2010 et 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/publicite-les-tarifs-de-la-presse-entre-2010-et-2013</link>
@@ -365,6 +359,12 @@
      <link>https://www.data.gouv.fr/fr/dataset/les-conges-de-reconversi-0</link>
      <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf Les militaires de plus de quatre ans de service, quittant définitivement les armées, peuvent être placés en congé de reconversion et en congé complémentaire de reconversion....]]></description>
      <author>Ministère de la Défense (certifié)</author>
+  </item>
+  <item>
+     <title>Encours des créances de la France sur les États étrangers au 31 décembre 2013 </title>
+     <link>https://www.data.gouv.fr/fr/dataset/encours-des-creances-de-la-france-sur-les-etats-etrangers-au-31-decembre-20-0</link>
+     <description><![CDATA[Il s’agit des encours des créances détenues soit par l’État directement (via la Banque de France), soit par l’Agence Française de Développement, soit par Coface et Natixis pour le compte de l’État. Sont incluses dans les encours présentés toutes les créances dont le débiteur est soit souverain, soit appartient au secteur public d’un État étranger. Les données présentées sont exprimées hors...]]></description>
+     <author>citoyen</author>
   </item>
  </channel>
 </rss>
