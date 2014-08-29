@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 29 Aug 2014 11:10:02 +0200</pubDate>
+  <pubDate>Fri, 29 Aug 2014 14:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Publicité : les tarifs de la presse entre 2010 et 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/publicite-les-tarifs-de-la-presse-entre-2010-et-2013</link>
+     <description><![CDATA[Evolution entre 2010 et 2013 des tarifs de référence. Classement alphabétique des quotidiens et des magazines. Tarifs en Euros. Source : Les Tarifs de la Presse ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Rapport de la Cours des Comptes sur la gestion de la petite enfance à Nogent-sur-Marne</title>
      <link>https://www.data.gouv.fr/fr/dataset/rapport-de-la-cours-des-comptes-sur-la-gestion-de-la-petite-enfance-a-nogent-sur-marne</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/encours-des-creances-de-la-france-sur-les-etats-etrangers-au-31-decembre-20-0</link>
      <description><![CDATA[Il s’agit des encours des créances détenues soit par l’État directement (via la Banque de France), soit par l’Agence Française de Développement, soit par Coface et Natixis pour le compte de l’État. Sont incluses dans les encours présentés toutes les créances dont le débiteur est soit souverain, soit appartient au secteur public d’un État étranger. Les données présentées sont exprimées hors...]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>La santé des adolescents scolarisés en classe de troisième</title>
-     <link>https://www.data.gouv.fr/fr/dataset/la-sante-des-adolescents-scolarises-en-classe-de-troisieme</link>
-     <description><![CDATA[Source : DREES, Études et résultats N° 865 Auteurs : Olivier Chardon et Nathalie Guignon, avec la collaboration de Jean-Paul Guthmann, Laure Fonteneau et Marie-Christine Delmas En 2009, parmi les adolescents scolarisés en classe de troisième, 18 % sont en surcharge pondérale dont 4 % en situation d’obésité. ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
 </rss>
