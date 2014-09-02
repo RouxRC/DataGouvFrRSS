@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 02 Sep 2014 18:10:02 +0200</pubDate>
+  <pubDate>Tue, 02 Sep 2014 19:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Ontologies descriptives du système et des programmes scolaires français</title>
+     <link>https://www.data.gouv.fr/fr/dataset/ontologies-descriptives-du-systeme-et-des-programmes-scolaires-francais</link>
+     <description><![CDATA[Ontologies, suivant la spécification OWL, et fournies au format RDF/XML, descriptives du système et des programmes scolaires français. Les descriptions sont actuellement presque limitée à l'enseignement secondaire. Ces ontologies seront peu à peu améliorées et complétées afin de: couvrir l'ensemble des programmes du secondaire intensifier les liens avec des ressources externes (BNF,...]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Evolutions et perspectives des retraites en France</title>
      <link>https://www.data.gouv.fr/fr/dataset/evolutions-et-perspectives-des-retraites-en-fran-0</link>
@@ -358,12 +364,6 @@
      <title>Répartition des prestations par armée 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/repartition-des-prestations-par-armee-2013</link>
      <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf ]]></description>
-     <author>Ministère de la Défense (certifié)</author>
-  </item>
-  <item>
-     <title>Les congés de reconversion</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-conges-de-reconversi-0</link>
-     <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf Les militaires de plus de quatre ans de service, quittant définitivement les armées, peuvent être placés en congé de reconversion et en congé complémentaire de reconversion....]]></description>
      <author>Ministère de la Défense (certifié)</author>
   </item>
  </channel>
