@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 03 Sep 2014 15:00:02 +0200</pubDate>
+  <pubDate>Wed, 03 Sep 2014 17:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Nombre annuel de mariages à Saint-Malo</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nombre-annuel-de-mariages-a-saint-malo</link>
+     <description><![CDATA[Nombre de mariages célébrés chaque année en mairie de Saint-Malo ]]></description>
+     <author>Ville de Saint-Malo (certifié)</author>
+  </item>
+  <item>
+     <title>Recueil d'activités de recherche clinique à promotion industrielle en France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/recueil-d-activites-de-recherche-clinique-a-promotion-industrielle-en-france</link>
+     <description><![CDATA[Le Recueil d’activités est réalisé tous les ans par le CeNGEPS. Il a pour objectif de faire un bilan d’activités de la recherche clinique à promotion industrielle à l’échelle des inter-régions de recherche clinique (GIRCI) ainsi qu’à l’échelle nationale. Les données ont été récoltées via des fichiers Excel complétés par chaque DRCI et regroupées par les 7 inter-régions. Le recueil 2012...]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Indemnités des membres du bureau du SIPPEREC (2014)</title>
      <link>https://www.data.gouv.fr/fr/dataset/indemnites-des-membres-du-bureau-du-sipperec-2014</link>
@@ -351,18 +363,6 @@
   <item>
      <title>Accompagnement des conjoints du personnel de la défense et de la gendarmerie 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/accompagnement-des-conjoints-du-personnel-de-la-defense-et-de-la-gendarmerie-2013</link>
-     <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf ]]></description>
-     <author>Ministère de la Défense (certifié)</author>
-  </item>
-  <item>
-     <title>Reclassement des militaires dans les fonctions publiques 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/reclassement-des-militaires-dans-les-fonctions-publiques-2013</link>
-     <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf En 2013, 2324 militaires ont été reclassés dans les 3 fonctions publiques selon les cinq procédures en vigueur, à savoir le détachement-intégration (article L. 4139-2 du...]]></description>
-     <author>Ministère de la Défense (certifié)</author>
-  </item>
-  <item>
-     <title>Reclassement dans le secteur privé 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/reclassement-dans-le-secteur-prive-2013</link>
      <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf ]]></description>
      <author>Ministère de la Défense (certifié)</author>
   </item>
