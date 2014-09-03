@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 02 Sep 2014 19:20:02 +0200</pubDate>
+  <pubDate>Wed, 03 Sep 2014 14:40:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Indemnités des membres du bureau du SIPPEREC (2014)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/indemnites-des-membres-du-bureau-du-sipperec-2014</link>
+     <description><![CDATA[L'ACTION publie ici le montant des indemnités mensuelles brutes des membres du bureau du SIPPEREC telles que votées avec la délibération du 22 mai 2014. Ces indemnités entrent dans le calcul du plafond des élus tel que défini dans l'article L2123-20 du CGCT. ]]></description>
+     <author>ACTION Nogent-sur-Marne</author>
+  </item>
   <item>
      <title>Ontologies descriptives du système et des programmes scolaires français</title>
      <link>https://www.data.gouv.fr/fr/dataset/ontologies-descriptives-du-systeme-et-des-programmes-scolaires-francais</link>
@@ -357,12 +363,6 @@
   <item>
      <title>Reclassement dans le secteur privé 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/reclassement-dans-le-secteur-prive-2013</link>
-     <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf ]]></description>
-     <author>Ministère de la Défense (certifié)</author>
-  </item>
-  <item>
-     <title>Répartition des prestations par armée 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/repartition-des-prestations-par-armee-2013</link>
      <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf ]]></description>
      <author>Ministère de la Défense (certifié)</author>
   </item>
