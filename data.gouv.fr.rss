@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 03 Sep 2014 17:00:02 +0200</pubDate>
+  <pubDate>Thu, 04 Sep 2014 10:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Prénoms donnés aux enfants nés à Saint-Malo</title>
+     <link>https://www.data.gouv.fr/fr/dataset/prenoms-donnes-aux-enfants-nes-a-saint-malo</link>
+     <description><![CDATA[Liste exhaustive des prénoms donnés chaque année aux enfants nés à Saint-Malo ]]></description>
+     <author>Ville de Saint-Malo (certifié)</author>
+  </item>
   <item>
      <title>Nombre annuel de mariages à Saint-Malo</title>
      <link>https://www.data.gouv.fr/fr/dataset/nombre-annuel-de-mariages-a-saint-malo</link>
@@ -357,12 +363,6 @@
   <item>
      <title>Validation des acquis de l'expérience 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/validation-des-acquis-de-l-experience-2013</link>
-     <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf ]]></description>
-     <author>Ministère de la Défense (certifié)</author>
-  </item>
-  <item>
-     <title>Accompagnement des conjoints du personnel de la défense et de la gendarmerie 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/accompagnement-des-conjoints-du-personnel-de-la-defense-et-de-la-gendarmerie-2013</link>
      <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf ]]></description>
      <author>Ministère de la Défense (certifié)</author>
   </item>
