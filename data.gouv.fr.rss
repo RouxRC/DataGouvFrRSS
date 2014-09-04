@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 04 Sep 2014 10:00:02 +0200</pubDate>
+  <pubDate>Thu, 04 Sep 2014 10:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Grandes Marées à Saint-Malo</title>
+     <link>https://www.data.gouv.fr/fr/dataset/grandes-marees-a-saint-malo</link>
+     <description><![CDATA[Par convention, le coefficient 100 est attribué à la plus grande marée qui suit d’un jour et demi environ l’instant de la pleine ou de la nouvelle lune aux équinoxes (21 mars, 23 septembre). On désigne alors sous le terme de "grandes marées" tous les coefficients supérieurs à 100. ]]></description>
+     <author>Ville de Saint-Malo (certifié)</author>
+  </item>
   <item>
      <title>Prénoms donnés aux enfants nés à Saint-Malo</title>
      <link>https://www.data.gouv.fr/fr/dataset/prenoms-donnes-aux-enfants-nes-a-saint-malo</link>
@@ -358,12 +364,6 @@
      <title>Les entreprises et fédérations partenaires 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-entreprises-et-federations-partenaires-2013</link>
      <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf Des partenariats signés entre des grandes entreprises, des fédérations professionnelles, des associations et le ministère de la défense, ont pour objectif de faciliter...]]></description>
-     <author>Ministère de la Défense (certifié)</author>
-  </item>
-  <item>
-     <title>Validation des acquis de l'expérience 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/validation-des-acquis-de-l-experience-2013</link>
-     <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf ]]></description>
      <author>Ministère de la Défense (certifié)</author>
   </item>
  </channel>
