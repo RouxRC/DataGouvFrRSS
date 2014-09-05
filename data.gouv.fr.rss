@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 04 Sep 2014 18:30:02 +0200</pubDate>
+  <pubDate>Fri, 05 Sep 2014 10:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Fréquentation de l'Office du Tourisme</title>
+     <link>https://www.data.gouv.fr/fr/dataset/frequentation-de-l-office-du-tourisme</link>
+     <description><![CDATA[Données de fréquentation de l'Office du Tourisme de Saint-Malo, ERP communal ]]></description>
+     <author>Ville de Saint-Malo (certifié)</author>
+  </item>
   <item>
      <title>Grandes Marées à Saint-Malo</title>
      <link>https://www.data.gouv.fr/fr/dataset/grandes-marees-a-saint-malo</link>
@@ -358,12 +364,6 @@
      <title>Coût de la reconversion 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/cout-de-la-reconversion-2013</link>
      <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf ]]></description>
-     <author>Ministère de la Défense (certifié)</author>
-  </item>
-  <item>
-     <title>Les entreprises et fédérations partenaires 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-entreprises-et-federations-partenaires-2013</link>
-     <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf Des partenariats signés entre des grandes entreprises, des fédérations professionnelles, des associations et le ministère de la défense, ont pour objectif de faciliter...]]></description>
      <author>Ministère de la Défense (certifié)</author>
   </item>
  </channel>
