@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 05 Sep 2014 12:40:02 +0200</pubDate>
+  <pubDate>Fri, 05 Sep 2014 16:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Baromètre de l'offre légale de biens culturels dématérialisés - septembre 2013</title>
@@ -75,7 +75,7 @@
   <item>
      <title>Evolutions et perspectives des retraites en France</title>
      <link>https://www.data.gouv.fr/fr/dataset/evolutions-et-perspectives-des-retraites-en-fran-0</link>
-     <description><![CDATA[Ces données constituent la base du premier rapport annuel du Conseil d’orientation des retraites (COR) sur les évolutions et les perspectives des retraites en France, en application de la loi du 20 janvier 2014 qui confère au COR la nouvelle mission « de produire chaque année, au plus tard le 15 juin, un document annuel et public sur le système de retraite, fondé sur des indicateurs de suivi »....]]></description>
+     <description><![CDATA[Ces données constituent la base du premier rapport annuel du Conseil d’orientation des retraites (COR) sur les évolutions et les perspectives des retraites en France, en application de la loi du 20 janvier 2014 qui confère au COR la nouvelle mission « de produire chaque année, au plus tard le 15 juin, un document annuel et public sur le système de retraite, fondé sur des indicateurs de suivi ». ]]></description>
      <author>citoyen</author>
   </item>
   <item>
