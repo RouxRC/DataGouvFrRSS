@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 05 Sep 2014 10:10:02 +0200</pubDate>
+  <pubDate>Fri, 05 Sep 2014 10:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Indice IQA de la qualité de l'air</title>
+     <link>https://www.data.gouv.fr/fr/dataset/indice-iqa-de-la-qualite-de-l-air</link>
+     <description><![CDATA[L'indice IQA (Indice de Qualité de l'Air) est un indice ATMO simplifié, calculé pour les agglomérations de moins de 100 000 habitants. Situé sur une échelle de 1 à 10, il peut être calculé à partir d'un, deux, trois ou quatre sous-indices (SO2, NO2, O3, PM10). A Saint-Malo, l'indice IQA est basé sur les mesures de concentration en O3 (ozone) et NO2 (dioxyde d'azote). Les mesures sont...]]></description>
+     <author>Ville de Saint-Malo (certifié)</author>
+  </item>
   <item>
      <title>Fréquentation de l'Office du Tourisme</title>
      <link>https://www.data.gouv.fr/fr/dataset/frequentation-de-l-office-du-tourisme</link>
@@ -357,12 +363,6 @@
   <item>
      <title>Indemnisation chômage des militaires 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/indemnisation-chomage-des-militaires-2013</link>
-     <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf ]]></description>
-     <author>Ministère de la Défense (certifié)</author>
-  </item>
-  <item>
-     <title>Coût de la reconversion 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/cout-de-la-reconversion-2013</link>
      <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf ]]></description>
      <author>Ministère de la Défense (certifié)</author>
   </item>
