@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 05 Sep 2014 10:40:02 +0200</pubDate>
+  <pubDate>Fri, 05 Sep 2014 12:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Mesures de la qualité de l'air</title>
+     <link>https://www.data.gouv.fr/fr/dataset/mesures-de-la-qualite-de-l-air</link>
+     <description><![CDATA[Concentrations mesurées à la station de Courtoisville en ozone (O3) et dioxyde d'azote (NO2). Les mesures sont effectuées par l'organisme Air Breizh. Moyenne annuelle en µg/m3 Maximum horaire en µg/m3 Nombre de jours de dépassement du seuil d'information Date du maximum ]]></description>
+     <author>Ville de Saint-Malo (certifié)</author>
+  </item>
   <item>
      <title>Indice IQA de la qualité de l'air</title>
      <link>https://www.data.gouv.fr/fr/dataset/indice-iqa-de-la-qualite-de-l-air</link>
@@ -357,12 +363,6 @@
   <item>
      <title>Taux de reclassement 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/taux-de-reclassement-2013</link>
-     <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf ]]></description>
-     <author>Ministère de la Défense (certifié)</author>
-  </item>
-  <item>
-     <title>Indemnisation chômage des militaires 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/indemnisation-chomage-des-militaires-2013</link>
      <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf ]]></description>
      <author>Ministère de la Défense (certifié)</author>
   </item>
