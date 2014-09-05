@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 05 Sep 2014 12:20:02 +0200</pubDate>
+  <pubDate>Fri, 05 Sep 2014 12:30:03 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Baromètre usages biens culturels sur Internet - Mai 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/barometre-usages-biens-culturels-sur-internet-mai-2014</link>
+     <description><![CDATA[Chiffres issus d'une étude réalisée en ligne par l'IFOP pour le compte de l'Hadopi auprès d'un échantillon national représentatif (selon la méthode des quotas) de 1511 internautes français âgés de 15 ans et plus. ]]></description>
+     <author>Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (HADOPI) (certifié)</author>
+  </item>
   <item>
      <title>Mesures de la qualité de l'air</title>
      <link>https://www.data.gouv.fr/fr/dataset/mesures-de-la-qualite-de-l-air</link>
@@ -357,12 +363,6 @@
   <item>
      <title>Répartition géographique des reclassements 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/repartition-geographique-des-reclassements-2013</link>
-     <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf ]]></description>
-     <author>Ministère de la Défense (certifié)</author>
-  </item>
-  <item>
-     <title>Taux de reclassement 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/taux-de-reclassement-2013</link>
      <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf ]]></description>
      <author>Ministère de la Défense (certifié)</author>
   </item>
