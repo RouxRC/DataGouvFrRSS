@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Fri, 05 Sep 2014 17:10:02 +0200</pubDate>
+  <pubDate>Tue, 09 Sep 2014 01:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Baromètre de l'offre légale de biens culturels dématérialisés - mars 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/barometre-de-l-offre-legale-de-biens-culturels-dematerialises-mars-2014</link>
+     <description><![CDATA[Etude quantitative ad-hoc et en ligne menée par l’institut Harris Interactive pour le compte de l'Hadopi auprès d’un échantillon national représentatif de 2500 internautes âgés de 15 ans et plus. Son objectif est d’évaluer la perception qu’ont les internautes de l’offre légale sur des critères simples (prix, choix etc.), et d’aboutir, à partir de ces critères, à un indice d’attractivité de...]]></description>
+     <author>Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (HADOPI) (certifié)</author>
+  </item>
   <item>
      <title>Baromètre de l'offre légale de biens culturels dématérialisés - septembre 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/barometre-de-l-offre-legale-de-biens-culturels-dematerialises-septembre-2013</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/elections-presidentielles-2012-resultats-par-bureau-de-vote-sur-la-commune-de-nogent-sur-marne</link>
      <description><![CDATA[L'ACTION publie ici les résultats du 1er et du 2ème tour des élections présidentielles françaises de 2012 sur la commune de Nogent-sur-Marne par bureau de vote. ]]></description>
      <author>ACTION Nogent-sur-Marne</author>
-  </item>
-  <item>
-     <title>Répartition des reclassements par secteurs d'activité 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/repartition-des-reclassements-par-secteurs-d-activite-2013</link>
-     <description><![CDATA[Données issue du bilan reconversion 2013. Le bilan reconversion 2013 est accessible à l'adresse suivante : http://www.defense-mobilite.fr/var/defensemob/storage/fckeditor/File/bilans_rec/Bilan%20reconversion%202013.pdf ]]></description>
-     <author>Ministère de la Défense (certifié)</author>
   </item>
  </channel>
 </rss>
