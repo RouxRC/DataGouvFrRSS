@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 09 Sep 2014 15:50:03 +0200</pubDate>
+  <pubDate>Tue, 09 Sep 2014 16:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Zone de montagne (N_MONTAGNE_ZSUP_068)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/zone-de-montagne-n-montagne-zsup-068</link>
+     <description><![CDATA[Zone de montagne au titre de la loi du 9 janvier 1985 dite "loi montagne" modifiée relative au développement et à la protection de la montagne ]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>La répartition des agences immobilières en France</title>
      <link>https://www.data.gouv.fr/fr/dataset/la-repartition-des-agences-immobilieres-en-fran-4</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/telepac-les-beneficiaires-de-la-pac</link>
      <description><![CDATA[Tableau croisé des aides perçus par chaque bénéficiaire au titre de la PAC ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Les allocataires du minimum vieillesse : parcours et conditions de vie</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-allocataires-du-minimum-vieillesse-parcours-et-conditions-de-vie</link>
-     <description><![CDATA[Source : DREES, Études et résultats N° 863 Auteurs : Céline ARNOLD et Nadine BARTHÉLÉMY Interrogés en 2012, la plupart des allocataires du minimum vieillesse ont travaillé par le passé. Toutefois, l’inactivité et le chômage font partie de leur parcours professionnel et ils ont souvent été confrontés à des problèmes de santé, d’invalidité ou de handicap. ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
 </rss>
