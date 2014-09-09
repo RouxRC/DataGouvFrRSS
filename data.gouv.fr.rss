@@ -4,8 +4,50 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 09 Sep 2014 16:30:02 +0200</pubDate>
+  <pubDate>Tue, 09 Sep 2014 18:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Valeurs nationales de référence de risque ferroviaire établies par la Commission européenne</title>
+     <link>https://www.data.gouv.fr/fr/dataset/valeurs-nationales-de-reference-de-risque-ferroviaire-etablies-par-la-commission-europeenne-sncf</link>
+     <description><![CDATA[Valeurs nationales de référence de risque ferroviaire établies par la Commission européenne en fonction des performances de chaque État membre dans le secteur ferroviaire. Il existe six catégories de valeurs nationales de référence (VNR) des risques : VNR 1 : pour les passagers VNR 2 : pour le personnel VNR 3 : pour les utilisateurs des passages à niveau...]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Incidents sur les installations de signalisation depuis 2004</title>
+     <link>https://www.data.gouv.fr/fr/dataset/incidents-sur-les-installations-de-signalisation-depuis-2004-sncf</link>
+     <description><![CDATA[Incidents contraires à la sécurité sur les installations de signalisation depuis 2004. "Total/importance des installations" : indicateur utilisé pour représenter la consistance des installations, et donc son évolution dans le temps. Ces données sont issues du Rapport annuel Sécurité de l'exploitation sur le réseau ferré national français. Publié chaque année, ce...]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Nombre total d'agents SNCF</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nombre-total-d-agents-sncf-sncf</link>
+     <description><![CDATA[Nombre total d'agents SNCF figurant à l'effectif réel au 31 décembre depuis 2010. "Collège" : classification selon les collèges de représentation du personnel, à savoir “exécution”, “maîtrise” et “cadre”. “Agents au statut” : également désigné par “cadre permanent” à l’intérieur de SNCF, cette notion désigne une position statutaire, quelque soit le collège...]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Personnes heurtées par un train depuis 2003</title>
+     <link>https://www.data.gouv.fr/fr/dataset/personnes-heurtees-par-un-train-depuis-2003-sncf</link>
+     <description><![CDATA[Personnes heurtées par un train depuis 2003 ("accidents individuels de personnes par un train en mouvement" dans les rapports annuels de sécurité). Ce jeu de données ne comptabilise pas les heurts de personnes sur passage à niveau ou lors d'une agression. À partir de 2009, seuls les tentatives de suicides ayant entrainé la mort sont comptabilisés. Ces données sont issues du...]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Régularité mensuelle TGV</title>
+     <link>https://www.data.gouv.fr/fr/dataset/regularite-mensuelle-tgv-sncf</link>
+     <description><![CDATA[Régularité mensuelle TGV depuis septembre 2011. Sur TGV, la régularité est calculée lors de l’arrivée du train à la dernière gare de son parcours (terminus). Ce mode de calcul, qui n’intègre pas les gares intermédiaires, propose le retard cumulé sur l’ensemble d’un trajet. L’indicateur utilisé est celui de la « régularité composite » : un train est considéré en retard s’il arrive...]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Mouvement social de juin 2014 : reprises du travail</title>
+     <link>https://www.data.gouv.fr/fr/dataset/mouvement-social-de-juin-2014-reprises-du-travail-sncf</link>
+     <description><![CDATA[Mouvement social de juin 2014 : reprises du travail en temps réel. Vous avez des questions ou des remarques sur ces données ? Rendez-vous sur le forum de data.sncf.com. ]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Schéma de cohérence territoriale (N_SCOT_ZSUP_068)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/schema-de-coherence-territoriale-n-scot-zsup-068</link>
+     <description><![CDATA[Zonage composé de l'ensemble des périmètres de schéma de cohérence territoriale (SCOT). La loi sur la solidarité et le renouvellement urbain (loi SRU) du 13/12/2000 prévoit la mise en place, à partir du 1er janvier 2002 des schémas de cohérence territoriale, qui remplacent les schémas directeurs. Elaborés par les élus, à l'échelle du bassin de vie, d'habitat ou d'emploi, ils auront pour...]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Massif au titre de la &#34;loi montagne&#34;</title>
      <link>https://www.data.gouv.fr/fr/dataset/massif-au-titre-de-la-loi-montagne</link>
@@ -29,6 +71,12 @@
      <link>https://www.data.gouv.fr/fr/dataset/horaires-et-frequence-metro-lille-gtfs</link>
      <description><![CDATA[Données GTFS du métro de Lille. Données contenant les horaires de démarrage et de fin des services des deux lignes de métro ainsi que leur fréquence sur la journée. Variations pour le dimanche et les jours fériés sont prises en compte. ]]></description>
      <author>citoyen</author>
+  </item>
+  <item>
+     <title>Baromètre de l'offre légale de biens culturels dématérialisés - mars 2014</title>
+     <link>https://www.data.gouv.fr/fr/dataset/barometre-de-l-offre-legale-de-biens-culturels-dematerialises-mars-2014</link>
+     <description><![CDATA[Etude quantitative ad-hoc et en ligne menée par l’institut Harris Interactive pour le compte de l'Hadopi auprès d’un échantillon national représentatif de 2500 internautes âgés de 15 ans et plus. Son objectif est d’évaluer la perception qu’ont les internautes de l’offre légale sur des critères simples (prix, choix etc.), et d’aboutir, à partir de ces critères, à un indice d’attractivité de...]]></description>
+     <author>Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (HADOPI) (certifié)</author>
   </item>
   <item>
      <title>Baromètre de l'offre légale de biens culturels dématérialisés - mars 2014</title>
@@ -317,54 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/aides-percus-par-les-beneficiaires-au-titre-de-la-pac</link>
      <description><![CDATA[Historique sur trois ans (2010 à 2012) des aides perçus par chaque bénéficiaire au titre de la PAC ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>La prise en charge de la dépression dans les établissements de santé</title>
-     <link>https://www.data.gouv.fr/fr/dataset/la-prise-en-charge-de-la-depression-dans-les-etablissements-de-san-0</link>
-     <description><![CDATA[Source : DREES, Études et résultats N° 860 Auteurs :Magali COLDEFY et Clément NESTRIGUE (Irdes) Les pathologies psychiatriques et les psychotropes représentent 22,6 milliards de dépenses, soit 16 % des dépenses totales de santé en 2011 (Cnamts, 2013). La dépression est l’une des maladies psychiques les plus répandues en France, 3 millions de personnes en seraient affectées (Inpes, 2007). ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Les enfants en soins de suite et de réadaptation</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-enfants-en-soins-de-suite-et-de-readaptati-0</link>
-     <description><![CDATA[Source : DREES, Études et résultats N° 861 Auteurs : Fabienne COQUELET et Hélène VALDELIÈVRE (Drees) L’activité en soins de suite et de réadaptation (SSR) pour les enfants représente 5 % de l’activité globale de SSR. En 2010, 32 000 enfants de moins de 19 ans ont été pris en charge au cours de 73 000 séjours. Deux tiers de ces séjours sont effectués dans des établissements à but non lucratif. ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Urgences : la moitié des patients restent moins de deux heures, hormis ceux maintenus en observation</title>
-     <link>https://www.data.gouv.fr/fr/dataset/urgences-la-moitie-des-patients-restent-moins-de-deux-heures-hormis-ceux-maintenus-en-observation</link>
-     <description><![CDATA[Source : DREES, Études et résultats n° 889 Auteurs : Bénédicte Boisguérin et Hélène Valdelièvre Huit patients sur dix restent moins de quatre heures aux urgences, d’après l’enquête réalisée dans les services d’urgences le 11 juin 2013. Les nourrissons et les personnes âgées enregistrent les taux de recours les plus élevés. ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Réforme du financement des hôpitaux publics : quel impact sur leur niveau d’activité ?</title>
-     <link>https://www.data.gouv.fr/fr/dataset/reforme-du-financement-des-hopitaux-publics-quel-impact-sur-leur-niveau-d-activite</link>
-     <description><![CDATA[Source : DREES, Études et résultats N° 862 Auteurs : Philippe CHONÉ (Crest-Ensae), Franck EVAIN (Drees), Lionel WILNER (Insee) et Engin YILMAZ (Drees) L’adoption de la tarification à l’activité (T2A) a modifié le mode de financement du secteur hospitalier. L’objectif du législateur était d’accroître l’efficience et d’améliorer la qualité des soins. Dans les établissements publics ou privés à...]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Morpho-sédimentologie et courants de marée 3D de la zone éolien posé de Saint-Nazaire</title>
-     <link>https://www.data.gouv.fr/fr/dataset/morpho-sedimentologie-et-courants-de-maree-3d-de-la-zone-eolien-pose-de-saint-nazaire</link>
-     <description><![CDATA[Le SHOM, établissement public de référence en matière d'hydrographie et de sédiments marins, a été subventionné par l'Europe, la représentation de l'Etat en région Pays de la Loire (SGAR) et la région Pays de la Loire pour acquérir la connaissance initiale de l'environnement marin physique sur la zone éolien posé de Saint-Nazaire. Cette opération a permis : d’acquérir la connaissance...]]></description>
-     <author>SHOM (certifié)</author>
-  </item>
-  <item>
-     <title>Filaire de voirie de Montpellier - code rivoli harmonisé</title>
-     <link>https://www.data.gouv.fr/fr/dataset/filaire-de-voirie-de-montpellier-code-rivoli-harmonise</link>
-     <description><![CDATA[Remise en forme du jeu de données publié par la Ville de Montpellier en juillet 2014. Le code RIVOLI/FANTOIR de la DGFiP est harmonisé sur 4 caractères. Le reste des données est identique. Source originale: https://www.data.gouv.fr/fr/dataset/filaire-des-voies-mtn ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Pôles urbains</title>
-     <link>https://www.data.gouv.fr/fr/dataset/poles-urbains</link>
-     <description><![CDATA[Le pôle urbain est une unité urbaine offrant au moins 10 000 emplois et qui n'est pas située dans la couronne d'un autre pôle urbain. On distingue également des moyens pôles- unités urbaines de 5 000 à 10 000 emplois et les petits pôles - unités urbaines de 1 500 à moins de 5 000 emplois. ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
-  </item>
-  <item>
-     <title>AIRES URBAINES </title>
-     <link>https://www.data.gouv.fr/fr/dataset/aires-urbaines</link>
-     <description><![CDATA[Une aire urbaine ou « grande aire urbaine » est un ensemble de communes, d'un seul tenant et sans enclave, constitué par un pôle urbain (unité urbaine) de plus de 10 000 emplois, et par des communes rurales ou unités urbaines (couronne périurbaine) dont au moins 40 % de la population résidente ayant un emploi travaille dans le pôle ou dans des communes attirées par celui-ci. ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
   </item>
  </channel>
 </rss>
