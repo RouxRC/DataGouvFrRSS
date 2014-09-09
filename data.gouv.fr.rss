@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 09 Sep 2014 01:30:02 +0200</pubDate>
+  <pubDate>Tue, 09 Sep 2014 09:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Horaires et Fréquence Metro Lille - GTFS</title>
+     <link>https://www.data.gouv.fr/fr/dataset/horaires-et-frequence-metro-lille-gtfs</link>
+     <description><![CDATA[Données GTFS du métro de Lille. Données contenant les horaires de démarrage et de fin des services des deux lignes de métro ainsi que leur fréquence sur la journée. Variations pour le dimanche et les jours fériés sont prises en compte. ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Baromètre de l'offre légale de biens culturels dématérialisés - mars 2014</title>
      <link>https://www.data.gouv.fr/fr/dataset/barometre-de-l-offre-legale-de-biens-culturels-dematerialises-mars-2014</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/developpement-agricole-enquete-aupres-des-chefs-d-exploitation</link>
      <description><![CDATA[Étude réalisée en 2013 afin d'évaluer les pratiques, la satisfaction et les attentes des chefs d’exploitation en matière de conseil au développement agricole, ainsi que le positionnement des différents organismes dans le paysage du conseil au développement agricole. ]]></description>
      <author>Premier ministre (certifié)</author>
-  </item>
-  <item>
-     <title>Elections Présidentielles 2012 - Résultats par bureau de vote sur la commune de Nogent-sur-Marne</title>
-     <link>https://www.data.gouv.fr/fr/dataset/elections-presidentielles-2012-resultats-par-bureau-de-vote-sur-la-commune-de-nogent-sur-marne</link>
-     <description><![CDATA[L'ACTION publie ici les résultats du 1er et du 2ème tour des élections présidentielles françaises de 2012 sur la commune de Nogent-sur-Marne par bureau de vote. ]]></description>
-     <author>ACTION Nogent-sur-Marne</author>
   </item>
  </channel>
 </rss>
