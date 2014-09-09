@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 09 Sep 2014 12:30:02 +0200</pubDate>
+  <pubDate>Tue, 09 Sep 2014 15:50:03 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>La répartition des agences immobilières en France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/la-repartition-des-agences-immobilieres-en-fran-4</link>
+     <description><![CDATA[Vous trouverez ici une carte du territoire français montrant la répartition des agences immobilières exerçant à la date du 31 Mai 2014 et qui sont toujours en activité d'après le site immobilier http://www.consortium-immobilier.fr et Les Clés du Midi ! Ces informations permettent une vision d'ensemble de la situation géographique des professionnels de l'immobilier et permet de savoir dans...]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Horaires et Fréquence Metro Lille - GTFS</title>
      <link>https://www.data.gouv.fr/fr/dataset/horaires-et-frequence-metro-lille-gtfs</link>
@@ -358,12 +364,6 @@
      <title>Les allocataires du minimum vieillesse : parcours et conditions de vie</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-allocataires-du-minimum-vieillesse-parcours-et-conditions-de-vie</link>
      <description><![CDATA[Source : DREES, Études et résultats N° 863 Auteurs : Céline ARNOLD et Nadine BARTHÉLÉMY Interrogés en 2012, la plupart des allocataires du minimum vieillesse ont travaillé par le passé. Toutefois, l’inactivité et le chômage font partie de leur parcours professionnel et ils ont souvent été confrontés à des problèmes de santé, d’invalidité ou de handicap. ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Les allocataires du RSA</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-allocataires-du-rsa</link>
-     <description><![CDATA[Source : DREES, Études et résultats N° 864 Auteurs : Michèle Lelièvre (Drees), Vincent Reduron et Thierry Van Wassenhove (Cnaf) Le revenu de solidarité active (RSA) est entré en vigueur le 1er juin 2009 en France métropolitaine, se substituant au revenu minimum d’insertion (RMI), à l’allocation de parent isolé (API) et à leurs dispositifs d’intéressement. ]]></description>
      <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
   </item>
  </channel>
