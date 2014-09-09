@@ -4,8 +4,104 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 09 Sep 2014 18:00:02 +0200</pubDate>
+  <pubDate>Tue, 09 Sep 2014 18:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Nombre de journées d’absence des agents SNCF</title>
+     <link>https://www.data.gouv.fr/fr/dataset/nombre-de-journees-d-absence-des-agents-sncf-sncf</link>
+     <description><![CDATA[Nombre de journées d’absence des agents SNCF depuis 2010. Ces données intègrent toutes les absences de courte et longue durée, y compris celles ayant débuté au cours de l’exercice précédent pour la part se prolongeant sur l’exercice en cours. Ces données ne comptabilisent pas les congés annuels et congés de fin de carrière. "Collège" : classification selon les collèges de...]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Régularité mensuelle Intercités</title>
+     <link>https://www.data.gouv.fr/fr/dataset/regularite-mensuelle-intercites-sncf</link>
+     <description><![CDATA[Régularité mensuelle des trains Intercités de jour depuis janvier 2014. Sur Intercités, la régularité est calculée lors de l’arrivée du train à la dernière gare de son parcours (terminus). Ce mode de calcul, qui n’intègre pas les gares intermédiaires, propose le retard cumulé sur l’ensemble d’un trajet. L’indicateur utilisé est celui de la « régularité composite » : un train est...]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Agents SNCF en situation de handicap</title>
+     <link>https://www.data.gouv.fr/fr/dataset/agents-sncf-en-situation-de-handicap-sncf</link>
+     <description><![CDATA[Agents SNCF en situation de handicap et en service au 31 décembre depuis 2010. “Agents au statut” : également désigné par “cadre permanent” à l’intérieur de SNCF, cette notion désigne une position statutaire, quelque soit le collège de l’agent, conforme aux dispositions de la directive interne RH 001 (“Statut des relations collectives entre la SNCF et son...]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Description des accidents passagers en 2013</title>
+     <link>https://www.data.gouv.fr/fr/dataset/description-des-accidents-passagers-en-2013-sncf</link>
+     <description><![CDATA[Description des accidents ayant eu des conséquences corporelles sur les personnes se trouvant dans le train en 2013. Rappel des définitions : "Tué" : toute personne se trouvant dans le train, tuée sur le coup ou décédant dans les 30 jours. "Blessé grave" : toute personne se trouvant dans le train, qui a été hospitalisée pendant plus de 24 heures....]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Montant des rémunérations des agents SNCF</title>
+     <link>https://www.data.gouv.fr/fr/dataset/montant-des-remunerations-des-agents-sncf-sncf</link>
+     <description><![CDATA[Montant des rémunérations des agents SNCF depuis 2010. Rémunération mensuelle moyenne brute (en euros) des agents SNCF. La rémunération mensuelle moyenne est calculée à partir des rémunérations brutes imposables de chacun des mois (y compris prime de fin d’année). Elle est ramenée sur douze mois. Pour chaque mois, seule est prise en compte la rémunération des agents à temps complet...]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Agents de nationalité étrangère</title>
+     <link>https://www.data.gouv.fr/fr/dataset/agents-de-nationalite-etrangere-sncf</link>
+     <description><![CDATA[Agents de nationalité étrangère au 31 décembre depuis 2010. "Collège" : classification selon les collèges de représentation du personnel, à savoir “exécution”, “maîtrise” et “cadre”. “Agents au statut” : également désigné par “cadre permanent” à l’intérieur de SNCF, cette notion désigne une position statutaire, quelque soit le collège de l’agent, conforme aux...]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Consistance du réseau ferroviaire depuis 2003</title>
+     <link>https://www.data.gouv.fr/fr/dataset/consistance-du-reseau-ferroviaire-depuis-2003-sncf</link>
+     <description><![CDATA[Consistance du réseau ferroviaire depuis 2003. "Lignes équipées de la radio sol-train" : ce champ inclue également, depuis 2008, le GSM-R (Global System for Mobile communications – Railways), un standard de communication GSM adapté aux communications dans le secteur ferroviaire. "Lignes équipées de block automatique" : dispositif de signalisation...]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>​Répartition par genre de l’effectif</title>
+     <link>https://www.data.gouv.fr/fr/dataset/repartition-par-genre-de-l-effectif-sncf</link>
+     <description><![CDATA[Répartition par genre de l’effectif au 31 décembre depuis 2010. Précisions spécifiques sur les ressources humaines au sein de SNCF : "Agents au statut" : également désigné par "cadre permanent" à l’intérieur de SNCF, cette notion désigne une position statutaire, quelque soit le collège de l’agent, conforme aux dispositions de la directive interne RH 001 ("Statut des...]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Mouvements sociaux depuis 2002 : motif et participation</title>
+     <link>https://www.data.gouv.fr/fr/dataset/mouvements-sociaux-depuis-2002-motif-et-participation-sncf</link>
+     <description><![CDATA[Mouvements sociaux depuis 2002 : motif et participation. L'absence de date dans le champ "Date de fin du préavis" signifie que le mouvement social n'a duré qu'une journée. Vous avez des questions ou des remarques sur ces données ? Rendez-vous sur le forum de data.sncf.com. ]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Répartition par âge de l'effectif</title>
+     <link>https://www.data.gouv.fr/fr/dataset/repartition-par-age-de-l-effectif-sncf</link>
+     <description><![CDATA[Répartition par âge de l’effectif au 31 décembre depuis 2010. Pour les agents de conduite, l’utilisation de tranche d’âge différentes des autres collèges (de 45 à 49 ans et 50 ans et plus) a pour objectif d’intégrer les spécificités du régime spécial de retraite des cheminots "Agents au statut" : également désigné par "cadre permanent" à l’intérieur de SNCF, cette notion désigne...]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Événements critiques de sécurité sur le réseau ferroviaire depuis 1990</title>
+     <link>https://www.data.gouv.fr/fr/dataset/evenements-critiques-de-securite-sur-le-reseau-ferroviaire-depuis-1990-sncf</link>
+     <description><![CDATA[Événements critiques de sécurité sur le réseau ferroviaire depuis 1990. Un "événement critique" désigne un événement de sécurité qui met ou risque de mettre en danger la vie des personnes transportées, y compris le personnel, les salariés de prestataires et de sous-traitants. Depuis 2006, d'autres entreprises ferroviaires que SNCF opèrent sur le réseau ferré national. Ce jeu de...]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Mouvements sociaux depuis 1947</title>
+     <link>https://www.data.gouv.fr/fr/dataset/mouvements-sociaux-depuis-1947-sncf</link>
+     <description><![CDATA[Mouvements sociaux depuis 1947. Explications des champs : Effectif à disposition : effectif de l'entreprise en équivalent temps plein. Journée perdue par agent : résultat du rapport entre le nombre de jours de grève comptabilisé sur une période et l’effectif à disposition sur cette même période. Les données relatives aux conflits sociaux entre la création...]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Régularité mensuelle TER</title>
+     <link>https://www.data.gouv.fr/fr/dataset/regularite-mensuelle-ter-sncf</link>
+     <description><![CDATA[Régularité mensuelle TER depuis janvier 2013. Sur TER, la régularité est calculée lors de l’arrivée du train à la dernière gare de son parcours (terminus). Ce mode de calcul, qui n’intègre pas les gares intermédiaires, propose le retard cumulé sur l’ensemble d’un trajet. L’indicateur utilisé est celui de la « régularité à cinq minutes » : un train est considéré en retard s’il...]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Agents SNCF ayant leur repos le dimanche</title>
+     <link>https://www.data.gouv.fr/fr/dataset/agents-sncf-ayant-leur-repos-le-dimanche-sncf</link>
+     <description><![CDATA[Nombre d'agents SNCF ayant leur repos le dimanche. "Collège" : classification selon les collèges de représentation du personnel, à savoir "exécution", "maîtrise" et "cadre". "Alinéa A" : personnels de directions centrales et régionales, à l'exception des personnels affectés dans des entités opérationnelles (postes de commandement et surveillance générale par...]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Collisions sur les passages à niveau depuis 2004</title>
+     <link>https://www.data.gouv.fr/fr/dataset/collisions-sur-les-passages-a-niveau-depuis-2004-sncf</link>
+     <description><![CDATA[Collisions sur les passages à niveau publics pour véhicules depuis 2004, y compris avec des piétons. "Total des passages à niveau publics routiers" : hors passages à niveau privés et passages à niveau isolés ou piétons. Les chiffres indiqués prennent en compte les suppressions de passages à niveau ainsi que les déclassements et les éventuelles reprises de lignes....]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Accidents passagers depuis 2008</title>
+     <link>https://www.data.gouv.fr/fr/dataset/accidents-passagers-depuis-2008-sncf</link>
+     <description><![CDATA[Accidents avec conséquences corporelles sur les personnes se trouvant dans le train depuis 2008. Tué : toute personne se trouvant dans le train, tuée sur le coup ou décédant dans les 30 jours. Blessé grave : toute personne se trouvant dans le train, qui a été hospitalisée pendant plus de 24 heures. Blessé léger : toute personne se trouvant dans le...]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
   <item>
      <title>Valeurs nationales de référence de risque ferroviaire établies par la Commission européenne</title>
      <link>https://www.data.gouv.fr/fr/dataset/valeurs-nationales-de-reference-de-risque-ferroviaire-etablies-par-la-commission-europeenne-sncf</link>
@@ -71,12 +167,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/horaires-et-frequence-metro-lille-gtfs</link>
      <description><![CDATA[Données GTFS du métro de Lille. Données contenant les horaires de démarrage et de fin des services des deux lignes de métro ainsi que leur fréquence sur la journée. Variations pour le dimanche et les jours fériés sont prises en compte. ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Baromètre de l'offre légale de biens culturels dématérialisés - mars 2014</title>
-     <link>https://www.data.gouv.fr/fr/dataset/barometre-de-l-offre-legale-de-biens-culturels-dematerialises-mars-2014</link>
-     <description><![CDATA[Etude quantitative ad-hoc et en ligne menée par l’institut Harris Interactive pour le compte de l'Hadopi auprès d’un échantillon national représentatif de 2500 internautes âgés de 15 ans et plus. Son objectif est d’évaluer la perception qu’ont les internautes de l’offre légale sur des critères simples (prix, choix etc.), et d’aboutir, à partir de ces critères, à un indice d’attractivité de...]]></description>
-     <author>Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet (HADOPI) (certifié)</author>
   </item>
   <item>
      <title>Baromètre de l'offre légale de biens culturels dématérialisés - mars 2014</title>
@@ -275,96 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/deliberations-du-conseil-municipal-de-la-ville-de-nogent-sur-marne-2011</link>
      <description><![CDATA[L'ACTION publie ici un jeu de données reprenant la liste des délibérations discutées par le Conseil Municipal de la commune de Nogent-sur-Marne au cours de l'année 2011. Il contient la référence de chaque délibération, la date du conseil municipal au cours duquel chacune d'entre elle a été discutée, son domaine et son intitulé. Afin de consulter les délibérations à proprement parler, veuillez...]]></description>
      <author>ACTION Nogent-sur-Marne</author>
-  </item>
-  <item>
-     <title>Calendrier des jours de collecte des emballages ménagers recyclables et déchets ménagers sur la commune d’Ollioules</title>
-     <link>https://www.data.gouv.fr/fr/dataset/calendrier-des-jours-de-collecte-des-emballages-menagers-recyclables-et-dechets-menagers-sur-la-comm</link>
-     <description><![CDATA[Calendrier au format iCalendar des jours de collecte des emballages ménagers recyclabes et déchets ménagers sur la commune d’Ollioules ; généré manuellement depuis le PDF publié à http://www.ollioules.fr/images/stories/pdf/calendriertri2014.pdf ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Bassins de vie </title>
-     <link>https://www.data.gouv.fr/fr/dataset/bassins-de-vie</link>
-     <description><![CDATA[Le bassin de vie est le plus petit territoire sur lequel les habitants ont accès aux équipements et services les plus courants. Les services et équipements de la vie courante servant à définir les bassins de vie sont classés en 6 grands domaines: - services aux particuliers - commerce - enseignement - santé - sports, loisirs et culture - transports ]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
-  </item>
-  <item>
-     <title>Bassins d'emplois par commune</title>
-     <link>https://www.data.gouv.fr/fr/dataset/bassins-d-emplois-par-commune</link>
-     <description><![CDATA[Une zone d'emploi est un espace géographique à l'intérieur duquel la plupart des actifs résident et travaillent, et dans lequel les établissements peuvent trouver l'essentiel de la main d'œuvre nécessaire pour occuper les emplois offerts. Le découpage en zones d'emploi constitue une partition du territoire adaptée aux études locales sur le marché du travail. Le zonage définit aussi des...]]></description>
-     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
-  </item>
-  <item>
-     <title>Délibérations du Conseil Municipal de la ville de Nogent-sur-Marne (2012)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/deliberations-du-conseil-municipal-de-la-ville-de-nogent-sur-marne-2012</link>
-     <description><![CDATA[L'ACTION publie ici un jeu de données reprenant la liste des délibérations discutées par le Conseil Municipal de la commune de Nogent-sur-Marne au cours de l'année 2012. Il contient la référence de chaque délibération, la date du conseil municipal au cours duquel chacune d'entre elle a été discutée, son domaine et son intitulé. Afin de consulter les délibérations à proprement parler, veuillez...]]></description>
-     <author>ACTION Nogent-sur-Marne</author>
-  </item>
-  <item>
-     <title>Déclarations d'intérêts des parlementaires publiées par la Haute Autorité pour la Transparence</title>
-     <link>https://www.data.gouv.fr/fr/dataset/declarations-d-interets-des-parlementaires-publiees-par-la-haute-autorite-pour-la-transparence</link>
-     <description><![CDATA[Depuis la promulgation de la loi sur la transparence de la vie publique, les parlementaires doivent déclarer leurs intérêts à la Haute Autorité pour la Transparence de la Vie Publique en charge de les contrôler et de les rendre publics afin que chaque citoyen puisse évaluer les possibles risques de conflits d’intérêts de ses représentants. Activités annexes, rémunérations extérieures, autres...]]></description>
-     <author>NosDonnées.fr</author>
-  </item>
-  <item>
-     <title>Bureaux de vote de la ville de Nogent-sur-Marne</title>
-     <link>https://www.data.gouv.fr/fr/dataset/bureaux-de-vote-de-la-ville-de-nogent-sur-marne</link>
-     <description><![CDATA[L'ACTION publie ici la liste des bureaux de vote de la ville de Nogent-sur-Marne incluant leur adresse ainsi que leurs coordonnées géographiques tels que définis par la Préfecture du Val de Marne dans son arrêté N° 2013/2428 instituant les bureaux de vote dans la commune de Nogent-sur-Marne à compter du 1er mars 2014 (également fourni). ]]></description>
-     <author>ACTION Nogent-sur-Marne</author>
-  </item>
-  <item>
-     <title>Délibérations du Conseil Municipal de la ville de Nogent-sur-Marne (2014)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/deliberations-du-conseil-municipal-de-la-ville-de-nogent-sur-marne-2014</link>
-     <description><![CDATA[L'ACTION publie ici un jeu de données reprenant la liste des délibérations discutées par le Conseil Municipal de la commune de Nogent-sur-Marne au cours de l'année 2014. Il contient la référence de chaque délibération, la date du conseil municipal au cours duquel chacune d'entre elle a été discutée, son domaine et son intitulé. Afin de consulter les délibérations à proprement parler, veuillez...]]></description>
-     <author>ACTION Nogent-sur-Marne</author>
-  </item>
-  <item>
-     <title>Elections Législatives 2012 - Résultats par bureau de vote sur la commune de Nogent-sur-Marne</title>
-     <link>https://www.data.gouv.fr/fr/dataset/elections-legislatives-2012-resultats-par-bureau-de-vote-sur-la-commune-de-nogent-sur-marne</link>
-     <description><![CDATA[L'ACTION publie ici les résultats du 1er et du 2ème tour des élections législatives 2012 sur la commune de Nogent-sur-Marne par bureau de vote. ]]></description>
-     <author>ACTION Nogent-sur-Marne</author>
-  </item>
-  <item>
-     <title>Elections Municipales 2014 - Résultats sur la commune de Nogent-sur-Marne </title>
-     <link>https://www.data.gouv.fr/fr/dataset/elections-municipales-2014-resultats-sur-la-commune-de-nogent-sur-marne</link>
-     <description><![CDATA[L'ACTION publie ici les résultats du 1er et du 2ème tour des élections municipales de mars 2014 sur la commune de Nogent-sur-Marne par bureau de vote. ]]></description>
-     <author>ACTION Nogent-sur-Marne</author>
-  </item>
-  <item>
-     <title>Les bénéficiaires de l’aide sociale départementale</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-beneficiaires-de-l-aide-sociale-departementa-0</link>
-     <description><![CDATA[Source : DREES, Études et résultats N° 858 Auteurs : Françoise BORDERIES et Françoise TRESPEUX (Drees) Les départements ont versé, fin 2012, 3,6 millions de prestations d’aide sociale au titre de l’aide aux personnes âgées, aux personnes handicapées, à l’enfance, ou au titre de l’insertion. ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Taux de pénétration Wc japonais</title>
-     <link>https://www.data.gouv.fr/fr/dataset/taux-de-penetration-wc-japonais</link>
-     <description><![CDATA[Cleanstore a mené une étude afin de connaitre le taux de pénétration des Washlets / wc japonais en France en 2013. ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>La situation économique et financière des cliniques privées à but lucratif</title>
-     <link>https://www.data.gouv.fr/fr/dataset/la-situation-economique-et-financiere-des-cliniques-privees-a-but-lucrat-1</link>
-     <description><![CDATA[Source : DREES , Études et résultats N° 859 Auteurs : Éric THUAUD (Drees) En 2011, la rentabilité nette des cliniques privées à but lucratif est estimée à 2,6 % de leur chiffre d’affaires, soit une augmentation de 0,6 point par rapport à 2010 (2 %). ]]></description>
-     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title>Réserves officielles de 28 pays européens</title>
-     <link>https://www.data.gouv.fr/fr/dataset/reserves-officielles-de-28-pays-europeens</link>
-     <description><![CDATA[Ce recueil de données présente l'évolution trimestrielle des réserves officielles, réserves d'or et réserves de change de 28 pays européens depuis 2000. L'étude couvre les 28 pays suivants: Autriche, Belgique, Bulgarie, Croatie, Chypre, République Tchèque, Danemark, Estonie, Finlande, France, Allemagne, Grèce, Hongrie, Irlande, Italie, Lituanie, Lettonie, Luxembourg, Malte, Pays-Bas, Pologne,...]]></description>
-     <author>Goldbroker</author>
-  </item>
-  <item>
-     <title>Les emplois et les ressources de la protection sociale</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-emplois-et-les-ressources-de-la-protection-sociale</link>
-     <description><![CDATA[Dans le tableau Eco-Santé, dans "Régions &amp; Départements", sélectionner l'unité "France entière" Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données xxx xxxx ]]></description>
-     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
-  </item>
-  <item>
-     <title> Aides perçus par les bénéficiaires au titre de la PAC</title>
-     <link>https://www.data.gouv.fr/fr/dataset/aides-percus-par-les-beneficiaires-au-titre-de-la-pac</link>
-     <description><![CDATA[Historique sur trois ans (2010 à 2012) des aides perçus par chaque bénéficiaire au titre de la PAC ]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
