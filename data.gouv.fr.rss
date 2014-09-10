@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 10 Sep 2014 15:50:02 +0200</pubDate>
+  <pubDate>Wed, 10 Sep 2014 16:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Cigarette électronique, la situation pays par pays</title>
@@ -149,6 +149,12 @@
      <link>https://www.data.gouv.fr/fr/dataset/mouvement-social-de-juin-2014-reprises-du-travail-sncf</link>
      <description><![CDATA[Mouvement social de juin 2014 : reprises du travail en temps réel. Vous avez des questions ou des remarques sur ces données ? Rendez-vous sur le forum de data.sncf.com. ]]></description>
      <author>SNCF (certifié)</author>
+  </item>
+  <item>
+     <title>Plan de déplacement urbain (N_PDU_ZSUP_068)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/plan-de-deplacement-urbain-n-pdu-zsup-068</link>
+     <description><![CDATA[Zonage composé de l'ensemble des périmètres de plan de déplacement urbain en élaboration ou approuvé. Un PDU est un document de planification qui définit les principes généraux des transports de biens et de personnes, de la circulation (tous modes confondus) et du stationnement dans le périmètre de transports urbains (PTU). Il a pour objectif de réduire la circulation automobile en vue...]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
   </item>
   <item>
      <title>Schéma de cohérence territoriale (N_SCOT_ZSUP_068)</title>
@@ -358,12 +364,6 @@
      <title>Indemnités des élus municipaux de la ville de Nogent-sur-Marne (2014)</title>
      <link>https://www.data.gouv.fr/fr/dataset/indemnites-des-elus-municipaux-de-la-ville-de-nogent-sur-marne-2014</link>
      <description><![CDATA[L'ACTION publie ici le montant des indemnités brutes des représentants municipaux au titre de leur mandat au conseil municipal de la ville de Nogent-sur-Marne telles que votées avec la délibération 14/60 du conseil municipal du 17 avril 2014 complétée par la délibération 14/139 du 7 juillet 2014. ]]></description>
-     <author>ACTION Nogent-sur-Marne</author>
-  </item>
-  <item>
-     <title>Décisions prises par le maire de Nogent-sur-Marne (2014)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/decisions-prises-par-le-maire-de-nogent-sur-marne-2014</link>
-     <description><![CDATA[L'ACTION publie ici un jeu de données contenant les décisions prises par le Maire de Nogent-sur-Marne en 2014 en vertu de l'article L.2122-22 du Code Général des Collectivités Territoriales (CGCT). En effet, le Conseil Municipal de la commune a délégué pouvoir pour prendre ces décisions lors de sa séance du 12 mai 2014 en votant la délibération 14/99. Chaque décision comporte le numéro de...]]></description>
      <author>ACTION Nogent-sur-Marne</author>
   </item>
  </channel>
