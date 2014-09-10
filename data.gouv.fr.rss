@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 09 Sep 2014 18:20:02 +0200</pubDate>
+  <pubDate>Wed, 10 Sep 2014 14:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Émissions de CO2 sur les liaisons TGV</title>
+     <link>https://www.data.gouv.fr/fr/dataset/emissions-de-co2-sur-les-liaisons-tgv-sncf</link>
+     <description><![CDATA[Émissions de CO2 (kg CO2 / voy.km) sur les principales liaisons TGV. Estimation calculée de la manière suivante : distance du trajet x émission de CO2 par kilomètre d’un voyageur. La méthodologie utilisée par SNCF est conforme au guide méthodologique publié par l’État pour l’information CO2 des prestations de transport. Plus d'informations sur...]]></description>
+     <author>SNCF (certifié)</author>
+  </item>
   <item>
      <title>Nombre de journées d’absence des agents SNCF</title>
      <link>https://www.data.gouv.fr/fr/dataset/nombre-de-journees-d-absence-des-agents-sncf-sncf</link>
@@ -310,7 +316,7 @@
      <title>Prix des carburants en France</title>
      <link>https://www.data.gouv.fr/fr/dataset/prix-des-carburants-en-france</link>
      <description><![CDATA[Les données mises à disposition au téléchargement sont les informations extraites du système d’information « Prix Carburants ». Elles concernent les points de ventes ouverts référencés sur le site (Arrêté ministériel du 12 décembre 2006). Les données disponibles comprennent : Les informations générales sur le point de vente : adresse, coordonnées géographiques, horaires d’ouverture et...]]></description>
-     <author>Ministère de l'Economie, du Redressement productif et du Numérique (certifié)</author>
+     <author>Ministère de l'Economie, de l'Industrie et du Numérique (certifié)</author>
   </item>
   <item>
      <title>Liste des points d'accès à internet</title>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/tableau-des-molecules-onereuses-et-dispositifs-medicaux-implantables-de-la-liste-en-sus</link>
      <description><![CDATA[ L'objet est de présenter la répartition de 2011 à 2013: - pour chaque code UCD (molécules onéreuses: MO): le nombre administré ainsi que le prix d'achat pour le secteur Ex-DG et le montant facturé pour le secteur Ex-OQN (méthodologie). - pour chaque code LPP (dispositifs médicaux implantables: DMI): le nombre posé ainsi que le prix d'achat pour le secteur Ex-DG et le montant facturé pour...]]></description>
      <author>Agence Technique de l'information sur l'Hospitalisation (ATIH) (certifié)</author>
-  </item>
-  <item>
-     <title>Délibérations du Conseil Municipal de la ville de Nogent-sur-Marne (2011)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/deliberations-du-conseil-municipal-de-la-ville-de-nogent-sur-marne-2011</link>
-     <description><![CDATA[L'ACTION publie ici un jeu de données reprenant la liste des délibérations discutées par le Conseil Municipal de la commune de Nogent-sur-Marne au cours de l'année 2011. Il contient la référence de chaque délibération, la date du conseil municipal au cours duquel chacune d'entre elle a été discutée, son domaine et son intitulé. Afin de consulter les délibérations à proprement parler, veuillez...]]></description>
-     <author>ACTION Nogent-sur-Marne</author>
   </item>
  </channel>
 </rss>
