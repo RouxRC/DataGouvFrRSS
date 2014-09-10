@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 10 Sep 2014 14:20:02 +0200</pubDate>
+  <pubDate>Wed, 10 Sep 2014 15:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Cigarette électronique, la situation pays par pays</title>
+     <link>https://www.data.gouv.fr/fr/dataset/cigarette-electronique-la-situation-pays-par-pays</link>
+     <description><![CDATA[Actuellement, la réglementation de la cigarette électronique dans le monde est en perpétuelle évolution. Son utilisation dans les lieux publics et ses conditions de commercialisation sont les deux principaux sujets de discorde. Selon le pays, la situation est loin d’être identique. Voici l’état des situations actuelles à travers un tour du monde non exhaustif. ]]></description>
+     <author>Nouvelle Vape, le blog: actualité du secteur de la cigarette électronique et des e-liquides</author>
+  </item>
   <item>
      <title>Émissions de CO2 sur les liaisons TGV</title>
      <link>https://www.data.gouv.fr/fr/dataset/emissions-de-co2-sur-les-liaisons-tgv-sncf</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/decisions-prises-par-le-maire-de-nogent-sur-marne-2014</link>
      <description><![CDATA[L'ACTION publie ici un jeu de données contenant les décisions prises par le Maire de Nogent-sur-Marne en 2014 en vertu de l'article L.2122-22 du Code Général des Collectivités Territoriales (CGCT). En effet, le Conseil Municipal de la commune a délégué pouvoir pour prendre ces décisions lors de sa séance du 12 mai 2014 en votant la délibération 14/99. Chaque décision comporte le numéro de...]]></description>
      <author>ACTION Nogent-sur-Marne</author>
-  </item>
-  <item>
-     <title>Tableau des molécules onéreuses et dispositifs médicaux implantables de la liste en sus</title>
-     <link>https://www.data.gouv.fr/fr/dataset/tableau-des-molecules-onereuses-et-dispositifs-medicaux-implantables-de-la-liste-en-sus</link>
-     <description><![CDATA[ L'objet est de présenter la répartition de 2011 à 2013: - pour chaque code UCD (molécules onéreuses: MO): le nombre administré ainsi que le prix d'achat pour le secteur Ex-DG et le montant facturé pour le secteur Ex-OQN (méthodologie). - pour chaque code LPP (dispositifs médicaux implantables: DMI): le nombre posé ainsi que le prix d'achat pour le secteur Ex-DG et le montant facturé pour...]]></description>
-     <author>Agence Technique de l'information sur l'Hospitalisation (ATIH) (certifié)</author>
   </item>
  </channel>
 </rss>
