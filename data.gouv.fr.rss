@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Wed, 10 Sep 2014 16:00:02 +0200</pubDate>
+  <pubDate>Thu, 11 Sep 2014 16:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Jeu de données test</title>
+     <link>https://www.data.gouv.fr/fr/dataset/jeu-de-donnees-test</link>
+     <description><![CDATA[Ceci est un test ]]></description>
+     <author>citoyen</author>
+  </item>
   <item>
      <title>Cigarette électronique, la situation pays par pays</title>
      <link>https://www.data.gouv.fr/fr/dataset/cigarette-electronique-la-situation-pays-par-pays</link>
@@ -358,12 +364,6 @@
      <title>Indemnités des élus de la Communauté d'Agglomération de la Vallée de la Marne (CAVM) (2014)</title>
      <link>https://www.data.gouv.fr/fr/dataset/indemnites-des-elus-de-la-communaute-d-agglomeration-de-la-vallee-de-la-marne-cavm-2014</link>
      <description><![CDATA[L'ACTION publie ici le montant des indemnités brutes des élus communautaires au titre de leur mandat au conseil communautaire de la Communauté d'Agglomération de la Vallée de la Marne (CAVM) constituée des communes de Nogent-sur-Marne et du Perreux-sur-Marne telles que votées avec le point numéro 4 de l'ordre du jour du conseil communautaire du 9 avril 2014. ]]></description>
-     <author>ACTION Nogent-sur-Marne</author>
-  </item>
-  <item>
-     <title>Indemnités des élus municipaux de la ville de Nogent-sur-Marne (2014)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/indemnites-des-elus-municipaux-de-la-ville-de-nogent-sur-marne-2014</link>
-     <description><![CDATA[L'ACTION publie ici le montant des indemnités brutes des représentants municipaux au titre de leur mandat au conseil municipal de la ville de Nogent-sur-Marne telles que votées avec la délibération 14/60 du conseil municipal du 17 avril 2014 complétée par la délibération 14/139 du 7 juillet 2014. ]]></description>
      <author>ACTION Nogent-sur-Marne</author>
   </item>
  </channel>
