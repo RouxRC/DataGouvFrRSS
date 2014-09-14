@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Thu, 11 Sep 2014 16:30:02 +0200</pubDate>
+  <pubDate>Sun, 14 Sep 2014 14:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Périmètre de transports urbains (N_PTU_ZSUP_068)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/perimetre-de-transports-urbains-n-ptu-zsup-068</link>
+     <description><![CDATA[Zonage composé de l'ensemble des périmètres de transport urbain (PTU). Un périmètre de transports urbains concerne le territoire d'une commune ou le ressort territorial d'un établissement public ayant reçu mission d'organiser les transports publics de personnes. Sur demande du maire ou du président de l'établissement public, le représentant de l'État constate la création du périmètre, après...]]></description>
+     <author>Direction Départementale des Territoires du Haut-Rhin (68) (certifié)</author>
+  </item>
   <item>
      <title>Jeu de données test</title>
      <link>https://www.data.gouv.fr/fr/dataset/jeu-de-donnees-test</link>
@@ -358,12 +364,6 @@
      <title>Liste des Immeubles sur la commune de Nogent-sur-Marne protégés au titre des Monuments Historiques</title>
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-immeubles-sur-la-commune-de-nogent-sur-marne-proteges-au-titre-des-monuments-historiques</link>
      <description><![CDATA[ L'ACTION publie ici la liste des Immeubles sur la commune de Nogent-sur-Marne protégés au titre des Monuments Historiques. Libellés des champs : REF (référence de l'édifice dans la base Mérimée) : ETUD (type d'étude : recensement immeubles MH, avec éventuellement la mention label Xxe) ; LOCA OU REG + DEPT + COM (localisation de l'édifice) ; INSEE (code INSEE) ; TICO (appellation courante de...]]></description>
-     <author>ACTION Nogent-sur-Marne</author>
-  </item>
-  <item>
-     <title>Indemnités des élus de la Communauté d'Agglomération de la Vallée de la Marne (CAVM) (2014)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/indemnites-des-elus-de-la-communaute-d-agglomeration-de-la-vallee-de-la-marne-cavm-2014</link>
-     <description><![CDATA[L'ACTION publie ici le montant des indemnités brutes des élus communautaires au titre de leur mandat au conseil communautaire de la Communauté d'Agglomération de la Vallée de la Marne (CAVM) constituée des communes de Nogent-sur-Marne et du Perreux-sur-Marne telles que votées avec le point numéro 4 de l'ordre du jour du conseil communautaire du 9 avril 2014. ]]></description>
      <author>ACTION Nogent-sur-Marne</author>
   </item>
  </channel>
