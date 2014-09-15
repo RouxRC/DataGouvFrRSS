@@ -4,8 +4,26 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 15 Sep 2014 12:10:02 +0200</pubDate>
+  <pubDate>Mon, 15 Sep 2014 12:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Financement de la dépense de soins par les organismes complémentaires </title>
+     <link>https://www.data.gouv.fr/fr/dataset/financement-de-la-depense-de-soins-par-les-organismes-complementaires</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Comptes de la santé de la Drees ]]></description>
+     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+  </item>
+  <item>
+     <title>Urgences : la moitié des patients restent moins de deux heures, hormis ceux maintenus en observation</title>
+     <link>https://www.data.gouv.fr/fr/dataset/urgences-la-moitie-des-patients-restent-moins-de-deux-heures-hormis-ceux-maintenus-en-observati-0</link>
+     <description><![CDATA[Source : DREES, Études et résultats N° 889 Auteurs : Bénédicte Boisguérin et Hélène Valdelièvre La prise en charge aux urgences dure moins de deux heures pour la moitié des patients, hormis ceux ayant séjourné en unité d’hospitalisation de courte durée (UHCD) dont le passage est plus long. Ces résultats sont issus de l’enquête nationale menée auprès des 52 000 patients qui se sont présentés...]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
+  <item>
+     <title>Infrastructure de recharge pour véhicules électriques légers - Réseau Renault</title>
+     <link>https://www.data.gouv.fr/fr/dataset/infrastructure-de-recharge-pour-vehicules-electriques-legers-reseau-renault</link>
+     <description><![CDATA[Liste des coordonnées GPS des bornes de recharge pour véhicules électriques légers accessibles en extérieur des concessions. Attention, ces bornes ne sont en général accessibles qu'aux heures d'ouverture des concessions (information consultable sur www.renault.fr). Sur chaque site, entre 1 et 4 points de recharge accélérée disponible. ]]></description>
+     <author>Renault sas</author>
+  </item>
   <item>
      <title>Les comptes de la protection sociale en France et en Europe en 2012</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-comptes-de-la-protection-sociale-en-france-et-en-europe-en-2012</link>
@@ -347,24 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/etude-sur-l-evolution-du-prix-des-produits-d-automedication-non-remboursables-en-france</link>
      <description><![CDATA[Veuillez trouver les éléments relatifs à l’étude sur l’évolution du prix des produits d’automédication non remboursables en France entre 2009 et 2013. Elles sont publiées sous licence ODbL (Licence ODbL). ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Polices municipales et richesse des communes</title>
-     <link>https://www.data.gouv.fr/fr/dataset/polices-municipales-et-richesse-des-communes</link>
-     <description><![CDATA[Le fichier indique liste les communes équipées d'une police municipale et/ou de garde(s)-champêtre(s), son potentiel fiscal, et le ratio nombre d'habitants pour un policier et/ou un garde-champêtre. ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Prix des carburants en France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/prix-des-carburants-en-france</link>
-     <description><![CDATA[Les données mises à disposition au téléchargement sont les informations extraites du système d’information « Prix Carburants ». Elles concernent les points de ventes ouverts référencés sur le site (Arrêté ministériel du 12 décembre 2006). Les données disponibles comprennent : Les informations générales sur le point de vente : adresse, coordonnées géographiques, horaires d’ouverture et...]]></description>
-     <author>Ministère de l'Economie, de l'Industrie et du Numérique (certifié)</author>
-  </item>
-  <item>
-     <title>Liste des points d'accès à internet</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-points-d-acces-a-internet</link>
-     <description><![CDATA[Le fichier contient la liste des structures publiques où une connexion internet est accessible à Issy (ordinateur, borne ou wifi). ]]></description>
-     <author>Ville d'Issy-les-Moulineaux (certifié)</author>
   </item>
  </channel>
 </rss>
