@@ -4,8 +4,26 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 15 Sep 2014 09:10:02 +0200</pubDate>
+  <pubDate>Mon, 15 Sep 2014 12:00:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Les comptes de la protection sociale en France et en Europe en 2012</title>
+     <link>https://www.data.gouv.fr/fr/dataset/les-comptes-de-la-protection-sociale-en-france-et-en-europe-en-2012</link>
+     <description><![CDATA[Source : DREES, Études et résultats N° 888 Auteurs : Myriam Mikou et Timothée Barnouin En France, l’année 2013 constitue une deuxième année de croissance faible du PIB (+0,3 % en volume, soit la même croissance qu’en 2012), dans un contexte de ralentissement économique général en Europe. ]]></description>
+     <author>Ministère des Affaires sociales et de la Santé (certifié)</author>
+  </item>
+  <item>
+     <title>Financement de la dépense de soins par la Sécurité sociale </title>
+     <link>https://www.data.gouv.fr/fr/dataset/financement-de-la-depense-de-soins-par-la-securite-sociale</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Comptes de la santé de la Drees ]]></description>
+     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+  </item>
+  <item>
+     <title>Programme du maire de Nogent-sur-Marne (mandature 2014-2020)</title>
+     <link>https://www.data.gouv.fr/fr/dataset/programme-du-maire-de-nogent-sur-marne-mandature-2014-2020</link>
+     <description><![CDATA[Jacques Martin a été réélu maire de Nogent-sur-Marne au cours des élections municipales qui se sont tenues en mars 2014. L'ACTION publie ici l'ensemble des documents que le candidat a produit au cours de sa campagne : programme, pacte de mandature, etc. ]]></description>
+     <author>ACTION Nogent-sur-Marne</author>
+  </item>
   <item>
      <title>Périmètre de transports urbains (N_PTU_ZSUP_068)</title>
      <link>https://www.data.gouv.fr/fr/dataset/perimetre-de-transports-urbains-n-ptu-zsup-068</link>
@@ -347,24 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/liste-des-points-d-acces-a-internet</link>
      <description><![CDATA[Le fichier contient la liste des structures publiques où une connexion internet est accessible à Issy (ordinateur, borne ou wifi). ]]></description>
      <author>Ville d'Issy-les-Moulineaux (certifié)</author>
-  </item>
-  <item>
-     <title>Données comptables et fiscales - Nogent-sur-Marne (2000-2012)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/donnees-comptables-et-fiscales-nogent-sur-marne-2000-2012</link>
-     <description><![CDATA[L'ACTION publie ici l'extrait local pour la commune de Nogent-sur-Marne des données comptables détaillées et données de fiscalité directe locale sur http://www.collectivites-locales.gouv.fr extraites par l'association Regards Citoyens. À titre d'exemple une douzaine d'indicateurs tirés de ces données pour les 36000 communes sont cartographiés sur http://www.NosFinancesLocales.fr...]]></description>
-     <author>ACTION Nogent-sur-Marne</author>
-  </item>
-  <item>
-     <title>Délibérations du Conseil Municipal de la ville de Nogent-sur-Marne (2010)</title>
-     <link>https://www.data.gouv.fr/fr/dataset/deliberations-du-conseil-municipal-de-la-ville-de-nogent-sur-marne-2010</link>
-     <description><![CDATA[L'ACTION publie ici un jeu de données reprenant la liste des délibérations discutées par le Conseil Municipal de la commune de Nogent-sur-Marne au cours de l'année 2010. Il contient la référence de chaque délibération, la date du conseil municipal au cours duquel chacune d'entre elle a été discutée, son domaine et son intitulé. Afin de consulter les délibérations à proprement parler, veuillez...]]></description>
-     <author>ACTION Nogent-sur-Marne</author>
-  </item>
-  <item>
-     <title>Liste des Immeubles sur la commune de Nogent-sur-Marne protégés au titre des Monuments Historiques</title>
-     <link>https://www.data.gouv.fr/fr/dataset/liste-des-immeubles-sur-la-commune-de-nogent-sur-marne-proteges-au-titre-des-monuments-historiques</link>
-     <description><![CDATA[ L'ACTION publie ici la liste des Immeubles sur la commune de Nogent-sur-Marne protégés au titre des Monuments Historiques. Libellés des champs : REF (référence de l'édifice dans la base Mérimée) : ETUD (type d'étude : recensement immeubles MH, avec éventuellement la mention label Xxe) ; LOCA OU REG + DEPT + COM (localisation de l'édifice) ; INSEE (code INSEE) ; TICO (appellation courante de...]]></description>
-     <author>ACTION Nogent-sur-Marne</author>
   </item>
  </channel>
 </rss>
