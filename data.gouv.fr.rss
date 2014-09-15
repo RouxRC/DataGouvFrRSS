@@ -4,7 +4,7 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Mon, 15 Sep 2014 14:40:02 +0200</pubDate>
+  <pubDate>Mon, 15 Sep 2014 16:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
   <item>
      <title>Les Comptes nationaux de la santé en 2013</title>
@@ -355,15 +355,15 @@
      <author>citoyen</author>
   </item>
   <item>
-     <title>Carte logement d'ile de France d'où la société EGR Rénovations est intervenue</title>
-     <link>https://www.data.gouv.fr/fr/dataset/carte-logement-d-ile-de-france-d-ou-la-societe-egr-renovations-est-interven-0</link>
-     <description><![CDATA[Carte logement d'ile de France d'où la société EGR Rénovations est intervenue ]]></description>
-     <author>EGR Rénovation</author>
-  </item>
-  <item>
      <title>KML des communes, y compris DOM-TOM</title>
      <link>https://www.data.gouv.fr/fr/dataset/kml-des-communes-y-compris-dom-tom</link>
      <description><![CDATA[KML de la France métropole + DOM TOM sans la Polynésie, avec les villes à arrondissement concaténées, et tous les bouts de KML des communes dont le territoire est éclaté, et le code Insee. Source initiale IGN http://professionnels.ign.fr/geofla#tab-3 ]]></description>
+     <author>citoyen</author>
+  </item>
+  <item>
+     <title>Etude sur l’évolution du prix des produits d’automédication non remboursables en France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/etude-sur-l-evolution-du-prix-des-produits-d-automedication-non-remboursables-en-france</link>
+     <description><![CDATA[Veuillez trouver les éléments relatifs à l’étude sur l’évolution du prix des produits d’automédication non remboursables en France entre 2009 et 2013. Elles sont publiées sous licence ODbL (Licence ODbL). ]]></description>
      <author>citoyen</author>
   </item>
  </channel>
