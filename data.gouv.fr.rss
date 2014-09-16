@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 16 Sep 2014 16:00:03 +0200</pubDate>
+  <pubDate>Tue, 16 Sep 2014 16:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Recueil d'activités 2011 de recherche clinique à promotion industrielle au sein du Groupement inter-régional de recherche clinique (GIRCI) Grand Ouest</title>
+     <link>https://www.data.gouv.fr/fr/dataset/recueil-d-activites-2011-de-recherche-clinique-a-promotion-industrielle-au-sein-du-groupement-inter-</link>
+     <description><![CDATA[Le Recueil d’activités est réalisé tous les ans par le CeNGEPS. Il a pour objectif de faire un bilan d’activités de la recherche clinique à promotion industrielle à l’échelle de chaque inter-région de recherche clinique (GIRCI) ainsi qu’à l’échelle nationale. Les données présentées ici sont celles de l'Inter-région GRAND OUEST (http://www.girci-go.org/). Elles ont été récoltées via des fichiers...]]></description>
+     <author>CeNGEPS (Centre National de Gestion des Essais de Produits de Santé) (certifié)</author>
+  </item>
   <item>
      <title>Recueil d'activités 2010 de recherche clinique à promotion industrielle au sein du Groupement inter-régional de recherche clinique (GIRCI) Grand Ouest</title>
      <link>https://www.data.gouv.fr/fr/dataset/recueil-d-activites-2010-de-recherche-clinique-a-promotion-industrielle-au-sein-du-groupement-inter-</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/rapport-de-la-cours-des-comptes-sur-la-gestion-de-la-petite-enfance-a-nogent-sur-marne</link>
      <description><![CDATA[L'ACTION publie ici le rapport de la Cours des Comptes datant de juillet 2013 portant sur la gestion de la commune de Nogent-sur-Marne de l'accueil de la petite enfance. ]]></description>
      <author>ACTION Nogent-sur-Marne</author>
-  </item>
-  <item>
-     <title>Les types de marée dans le monde</title>
-     <link>https://www.data.gouv.fr/fr/dataset/les-types-de-maree-dans-le-monde</link>
-     <description><![CDATA[Ce produit présente la répartition mondiale des types de marée. Il existe quatre types de marée, classés selon le nombre et la hauteur des pleines et basses mers de chaque jour : la marée semi-diurne : on observe chaque jour deux pleines et deux basses mers ayant sensiblement la même hauteur. la marée semi-diurne à inégalités diurnes : on observe chaque jour deux pleines et deux...]]></description>
-     <author>SHOM (certifié)</author>
   </item>
  </channel>
 </rss>
