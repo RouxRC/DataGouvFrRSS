@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 16 Sep 2014 16:10:02 +0200</pubDate>
+  <pubDate>Tue, 16 Sep 2014 16:20:03 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Recueil d'activités 2012 de recherche clinique à promotion industrielle au sein du Groupement inter-régional de recherche clinique (GIRCI) Grand Ouest</title>
+     <link>https://www.data.gouv.fr/fr/dataset/recueil-d-activites-2012-de-recherche-clinique-a-promotion-industrielle-au-sein-du-groupement-inter-</link>
+     <description><![CDATA[Le Recueil d’activités est réalisé tous les ans par le CeNGEPS. Il a pour objectif de faire un bilan d’activités de la recherche clinique à promotion industrielle à l’échelle de chaque inter-région de recherche clinique (GIRCI) ainsi qu’à l’échelle nationale. Les données présentées ici sont celles de l'Inter-région GRAND OUEST (http://www.girci-go.org/). Elles ont été récoltées via des fichiers...]]></description>
+     <author>CeNGEPS (Centre National de Gestion des Essais de Produits de Santé) (certifié)</author>
+  </item>
   <item>
      <title>Recueil d'activités 2011 de recherche clinique à promotion industrielle au sein du Groupement inter-régional de recherche clinique (GIRCI) Grand Ouest</title>
      <link>https://www.data.gouv.fr/fr/dataset/recueil-d-activites-2011-de-recherche-clinique-a-promotion-industrielle-au-sein-du-groupement-inter-</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/publicite-les-tarifs-de-la-presse-entre-2010-et-2013</link>
      <description><![CDATA[Evolution entre 2010 et 2013 des tarifs de référence. Classement alphabétique des quotidiens et des magazines. Tarifs en Euros. Source : Les Tarifs de la Presse ]]></description>
      <author>citoyen</author>
-  </item>
-  <item>
-     <title>Rapport de la Cours des Comptes sur la gestion de la petite enfance à Nogent-sur-Marne</title>
-     <link>https://www.data.gouv.fr/fr/dataset/rapport-de-la-cours-des-comptes-sur-la-gestion-de-la-petite-enfance-a-nogent-sur-marne</link>
-     <description><![CDATA[L'ACTION publie ici le rapport de la Cours des Comptes datant de juillet 2013 portant sur la gestion de la commune de Nogent-sur-Marne de l'accueil de la petite enfance. ]]></description>
-     <author>ACTION Nogent-sur-Marne</author>
   </item>
  </channel>
 </rss>
