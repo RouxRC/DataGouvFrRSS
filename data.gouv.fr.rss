@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 16 Sep 2014 11:00:02 +0200</pubDate>
+  <pubDate>Tue, 16 Sep 2014 13:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Financement de la dépense de soins par les ménages</title>
+     <link>https://www.data.gouv.fr/fr/dataset/financement-de-la-depense-de-soins-par-les-menages</link>
+     <description><![CDATA[Export : CSV, HTML et XLS Source : www.ecosante.fr Irdes d'après données Comptes de la santé de la Drees ]]></description>
+     <author>IRDES &amp; ECOSANTE.FR : Institut de Recherche et Documentation en Economie de la Santé (certifié)</author>
+  </item>
   <item>
      <title>Les Comptes nationaux de la santé en 2013</title>
      <link>https://www.data.gouv.fr/fr/dataset/les-comptes-nationaux-de-la-sante-en-2013</link>
@@ -358,12 +364,6 @@
      <title>KML des communes, y compris DOM-TOM</title>
      <link>https://www.data.gouv.fr/fr/dataset/kml-des-communes-y-compris-dom-tom</link>
      <description><![CDATA[KML de la France métropole + DOM TOM sans la Polynésie, avec les villes à arrondissement concaténées, et tous les bouts de KML des communes dont le territoire est éclaté, et le code Insee. Source initiale IGN http://professionnels.ign.fr/geofla#tab-3 ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Etude sur l’évolution du prix des produits d’automédication non remboursables en France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/etude-sur-l-evolution-du-prix-des-produits-d-automedication-non-remboursables-en-france</link>
-     <description><![CDATA[Veuillez trouver les éléments relatifs à l’étude sur l’évolution du prix des produits d’automédication non remboursables en France entre 2009 et 2013. Elles sont publiées sous licence ODbL (Licence ODbL). ]]></description>
      <author>citoyen</author>
   </item>
  </channel>
