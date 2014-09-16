@@ -4,8 +4,14 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 16 Sep 2014 16:20:03 +0200</pubDate>
+  <pubDate>Tue, 16 Sep 2014 16:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Rapport d'activités du CeNGEPS 2012</title>
+     <link>https://www.data.gouv.fr/fr/dataset/rapport-d-activites-du-cengeps-2012</link>
+     <description><![CDATA[Le CeNGEPS a été officiellement créé par avis publié au Journal officiel du 28 mars 2007. La première réunion de son Assemblée générale, au cours de laquelle a été nommé son directeur, chargé du fonctionnement du groupement selon sa convention constitutive, s’est tenue le 26 avril 2007. Comme pour toute structure nouvelle, le processus d’engagement fut progressif : mise en place et définition...]]></description>
+     <author>CeNGEPS (Centre National de Gestion des Essais de Produits de Santé) (certifié)</author>
+  </item>
   <item>
      <title>Recueil d'activités 2012 de recherche clinique à promotion industrielle au sein du Groupement inter-régional de recherche clinique (GIRCI) Grand Ouest</title>
      <link>https://www.data.gouv.fr/fr/dataset/recueil-d-activites-2012-de-recherche-clinique-a-promotion-industrielle-au-sein-du-groupement-inter-</link>
@@ -359,12 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/evolutions-et-perspectives-des-retraites-en-fran-0</link>
      <description><![CDATA[Ces données constituent la base du premier rapport annuel du Conseil d’orientation des retraites (COR) sur les évolutions et les perspectives des retraites en France, en application de la loi du 20 janvier 2014 qui confère au COR la nouvelle mission « de produire chaque année, au plus tard le 15 juin, un document annuel et public sur le système de retraite, fondé sur des indicateurs de suivi ». ]]></description>
      <author>Premier ministre (certifié)</author>
-  </item>
-  <item>
-     <title>Publicité : les tarifs de la presse entre 2010 et 2013</title>
-     <link>https://www.data.gouv.fr/fr/dataset/publicite-les-tarifs-de-la-presse-entre-2010-et-2013</link>
-     <description><![CDATA[Evolution entre 2010 et 2013 des tarifs de référence. Classement alphabétique des quotidiens et des magazines. Tarifs en Euros. Source : Les Tarifs de la Presse ]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
