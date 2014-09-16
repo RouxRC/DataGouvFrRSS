@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 16 Sep 2014 15:50:02 +0200</pubDate>
+  <pubDate>Tue, 16 Sep 2014 16:00:03 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Recueil d'activités 2010 de recherche clinique à promotion industrielle au sein du Groupement inter-régional de recherche clinique (GIRCI) Grand Ouest</title>
+     <link>https://www.data.gouv.fr/fr/dataset/recueil-d-activites-2010-de-recherche-clinique-a-promotion-industrielle-au-sein-du-groupement-inter-</link>
+     <description><![CDATA[Le Recueil d’activités est réalisé tous les ans par le CeNGEPS. Il a pour objectif de faire un bilan d’activités de la recherche clinique à promotion industrielle à l’échelle de chaque inter-région de recherche clinique (GIRCI) ainsi qu’à l’échelle nationale. Les données présentées ici sont celles de l'Inter-région GRAND OUEST (http://www.girci-go.org/). Elles ont été récoltées via des fichiers...]]></description>
+     <author>CeNGEPS (Centre National de Gestion des Essais de Produits de Santé) (certifié)</author>
+  </item>
+  <item>
+     <title>Recueil d'activités 2010 de recherche clinique à promotion industrielle en France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/recueil-d-activites-2010-de-recherche-clinique-a-promotion-industrielle-en-france</link>
+     <description><![CDATA[Le Recueil d’activités est réalisé tous les ans par le CeNGEPS. Il a pour objectif de faire un bilan d’activités de la recherche clinique à promotion industrielle à l’échelle des inter-régions de recherche clinique (GIRCI) ainsi qu’à l’échelle nationale. Les données ont été récoltées via des fichiers Excel complétés par chaque DRCI et regroupées par les 7 inter-régions. Le recueil 2010...]]></description>
+     <author>CeNGEPS (Centre National de Gestion des Essais de Produits de Santé) (certifié)</author>
+  </item>
   <item>
      <title>Recueil d'activités 2011 de recherche clinique à promotion industrielle en France </title>
      <link>https://www.data.gouv.fr/fr/dataset/recueil-d-activites-2011-de-recherche-clinique-a-promotion-industrielle-en-france</link>
@@ -353,18 +365,6 @@
      <link>https://www.data.gouv.fr/fr/dataset/les-types-de-maree-dans-le-monde</link>
      <description><![CDATA[Ce produit présente la répartition mondiale des types de marée. Il existe quatre types de marée, classés selon le nombre et la hauteur des pleines et basses mers de chaque jour : la marée semi-diurne : on observe chaque jour deux pleines et deux basses mers ayant sensiblement la même hauteur. la marée semi-diurne à inégalités diurnes : on observe chaque jour deux pleines et deux...]]></description>
      <author>SHOM (certifié)</author>
-  </item>
-  <item>
-     <title> Statistiques des niveaux marins extrêmes des côtes de France - Edition 2012</title>
-     <link>https://www.data.gouv.fr/fr/dataset/statistiques-des-niveaux-marins-extremes-des-cotes-de-france-edition-2012</link>
-     <description><![CDATA[Cette étude s’inscrit dans le cadre d’un partenariat SHOM-CETMEF. Elle consiste à calculer des niveaux marins extrêmes à partir de l’ensemble des données marégraphiques disponibles au SHOM, jusqu’au 22/11/2009. La méthodologie est identique à celle décrite dans le cédérom commun SHOM-CETMEF des statistiques des niveaux extrêmes de l’année 2008 sur les niveaux extrêmes. L’objectif est, d’une...]]></description>
-     <author>SHOM (certifié)</author>
-  </item>
-  <item>
-     <title>test</title>
-     <link>https://www.data.gouv.fr/fr/dataset/te-0</link>
-     <description><![CDATA[test ]]></description>
-     <author>citoyen</author>
   </item>
  </channel>
 </rss>
