@@ -4,8 +4,20 @@
   <title>data.gouv.fr RSS</title>
   <link>https://www.data.gouv.fr/fr/datasets/recent</link>
   <description>Les derniers jeux de données publiés sur data.gouv.fr</description>
-  <pubDate>Tue, 16 Sep 2014 13:50:02 +0200</pubDate>
+  <pubDate>Tue, 16 Sep 2014 15:50:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RouxRC/DataGouvFrRSS</generator>
+  <item>
+     <title>Recueil d'activités 2011 de recherche clinique à promotion industrielle en France </title>
+     <link>https://www.data.gouv.fr/fr/dataset/recueil-d-activites-2011-de-recherche-clinique-a-promotion-industrielle-en-france</link>
+     <description><![CDATA[Le Recueil d’activités est réalisé tous les ans par le CeNGEPS. Il a pour objectif de faire un bilan d’activités de la recherche clinique à promotion industrielle à l’échelle des inter-régions de recherche clinique (GIRCI) ainsi qu’à l’échelle nationale. Les données ont été récoltées via des fichiers Excel complétés par chaque DRCI et regroupées par les 7 inter-régions. Le recueil 2011 tel...]]></description>
+     <author>CeNGEPS (Centre National de Gestion des Essais de Produits de Santé) (certifié)</author>
+  </item>
+  <item>
+     <title>Législatives 2012 - Dépenses des candidats</title>
+     <link>https://www.data.gouv.fr/fr/dataset/legislatives-2012-depenses-des-candidats</link>
+     <description><![CDATA[L'ACTION publie ici les dépenses des candidats aux élections législatives de juin 2012 dans la 5ème circonscription du Val-de-Marne qui a vu Gilles Carrez être réélu à l'issu du second tour. Ces données sont l'extrait local du jeu publié par la CNCCFP. ]]></description>
+     <author>ACTION Nogent-sur-Marne</author>
+  </item>
   <item>
      <title>Financement de la dépense de soins par les ménages</title>
      <link>https://www.data.gouv.fr/fr/dataset/financement-de-la-depense-de-soins-par-les-menages</link>
@@ -301,10 +313,10 @@
      <author>Ville de Saint-Malo (certifié)</author>
   </item>
   <item>
-     <title>Recueil d'activités de recherche clinique à promotion industrielle en France</title>
-     <link>https://www.data.gouv.fr/fr/dataset/recueil-d-activites-de-recherche-clinique-a-promotion-industrielle-en-france</link>
+     <title>Recueil d'activités 2012 de recherche clinique à promotion industrielle en France</title>
+     <link>https://www.data.gouv.fr/fr/dataset/recueil-d-activites-2012-de-recherche-clinique-a-promotion-industrielle-en-france</link>
      <description><![CDATA[Le Recueil d’activités est réalisé tous les ans par le CeNGEPS. Il a pour objectif de faire un bilan d’activités de la recherche clinique à promotion industrielle à l’échelle des inter-régions de recherche clinique (GIRCI) ainsi qu’à l’échelle nationale. Les données ont été récoltées via des fichiers Excel complétés par chaque DRCI et regroupées par les 7 inter-régions. Le recueil 2012...]]></description>
-     <author>citoyen</author>
+     <author>CeNGEPS (Centre National de Gestion des Essais de Produits de Santé) (certifié)</author>
   </item>
   <item>
      <title>Indemnités des membres du bureau du SIPPEREC (2014)</title>
@@ -352,18 +364,6 @@
      <title>test</title>
      <link>https://www.data.gouv.fr/fr/dataset/te-0</link>
      <description><![CDATA[test ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>Caractéristiques et localisation des stations de recharge Supercharger TESLA</title>
-     <link>https://www.data.gouv.fr/fr/dataset/caracteristiques-et-localisation-des-stations-de-recharge-supercharger-tesla</link>
-     <description><![CDATA[Description et localisation des Supercharger TESLA - Borne de recharge pour Véhicules Electriques ]]></description>
-     <author>citoyen</author>
-  </item>
-  <item>
-     <title>KML des communes, y compris DOM-TOM</title>
-     <link>https://www.data.gouv.fr/fr/dataset/kml-des-communes-y-compris-dom-tom</link>
-     <description><![CDATA[KML de la France métropole + DOM TOM sans la Polynésie, avec les villes à arrondissement concaténées, et tous les bouts de KML des communes dont le territoire est éclaté, et le code Insee. Source initiale IGN http://professionnels.ign.fr/geofla#tab-3 ]]></description>
      <author>citoyen</author>
   </item>
  </channel>
